@@ -198,7 +198,11 @@
 
     optionsContainer.innerHTML = "";
 
-    const optionsShuffled = shuffle(currentWord.options || []);
+    const optionsShuffled = shuffle(
+      currentWord.options && currentWord.options.length > 0
+        ? currentWord.options
+        : [currentWord.uk]
+    );
 
     optionsShuffled.forEach(optionText => {
       const btn = document.createElement("button");
