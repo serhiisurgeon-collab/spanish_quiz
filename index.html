@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+  <meta charset="UTF-8">
+  <title>Spanish Quiz by Serhii</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Telegram WebApp JS -->
+  <script src="https://telegram.org/js/telegram-web-app.js"></script>
+  
+<style> body {
+  background: linear-gradient(to right, #fa709a 0%, #fee140 100%);
+}
+</style>
+
+  <style>
+    body {
+      margin: 0;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      color: #e5e7eb;
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+      align-items: center;
+      justify-content: center;
+      padding: 16px;
+      text-align: center;
+    }
+
+    .card {
+      background: rgba(62, 58, 40, 0.897);
+      border-radius: 16px;
+      padding: 20px;
+      max-width: 400px;
+      width: 100%;
+      box-shadow: 0 20px 30px rgba(235, 213, 17, 0.663);
+    }
+
+    h1 {
+      font-size: 22px;
+      margin-bottom: 12px;
+    }
+
+    .word {
+      font-size: 26px;
+      margin: 12px 0 20px;
+      font-weight: 700;
+      color: #d5c68a;
+    }
+
+    .options {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      margin-bottom: 16px;
+    }
+
+    button.option {
+      padding: 10px 14px;
+      border-radius: 999px;
+      border: none;
+      font-size: 16px;
+      cursor: pointer;
+      background: #1e293b;
+      color: #e5e7eb;
+    }
+
+    button.option.correct {
+      background: #22c55e;
+      color: #022c22;
+    }
+
+    button.option.wrong {
+      background: #ef4444;
+      color: #450a0a;
+    }
+
+    .result {
+      min-height: 24px;
+      margin-bottom: 8px;
+      font-size: 15px;
+    }
+
+    .send-btn {
+      margin-top: 4px;
+      padding: 10px 14px;
+      border-radius: 999px;
+      border: none;
+      cursor: pointer;
+      background: #38bdf8;
+      color: #0f172a;
+      font-weight: 600;
+      font-size: 15px;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>Mini-quiz 🇪🇸</h1>
+    <div id="levelBadge" style="font-size: 14px; margin-bottom: 8px;">
+      Level A1
+    </div>
+    <div>Обери правильний переклад слова:</div>
+
+    <div class="word" id="wordText">...</div>
+
+    <div class="options" id="optionsContainer">
+      <!-- Кнопки варіантів JS намалює сам -->
+    </div>
+
+    <div class="result" id="result"></div>
+    <div id="hint" style="font-size: 13px; color: #cbd5f5; margin-bottom: 6px;">
+      Натисни варіант відповіді. Результат автоматично надійде боту.
+    </div>
+    <div id="error" style="font-size: 13px; color: #fecaca; min-height: 16px;"></div>
+
+    <button class="send-btn" id="nextBtn" style="margin-top: 8px; background: #22c55e; color: #022c22;">
+      Наступне слово 🔁
+    </button>
+
+    <button class="send-btn" id="finishBtn" style="margin-top: 8px; background: #62a6ee; color: #111521;">
+      Завершити тренування 🏆
+    </button>
+  </div>
+
+<script>
+  const tg = window.Telegram?.WebApp || {
+    expand: () => {},
+    sendData: () => {},
+    close: () => {}
+  };
+  tg.expand();
+
+  const params = new URLSearchParams(window.location.search);
+  let level = params.get("level") || "A1";
+
+  const allowedLevels = ["A1", "A2", "B1"];
+  if (!allowedLevels.includes(level)) {
+    level = "A1";
+  }
+
+  const levelBadge = document.getElementById("levelBadge");
+  const wordText = document.getElementById("wordText");
+  const optionsContainer = document.getElementById("optionsContainer");
+  const resultEl = document.getElementById("result");
+  const hintEl = document.getElementById("hint");
+  const errorEl = document.getElementById("error");
+  const nextBtn = document.getElementById("nextBtn");
+  const finishBtn = document.getElementById("finishBtn");
+
+  levelBadge.textContent = "Level " + level;
+
+  let words = [];
+  let currentWord = null;
+
+  async function loadWords() {
+    try {
+      const response = await fetch("data/" + level + ".json");
+      if (!response.ok) {
+        throw new Error("HTTP " + response.status);
+      }
+      words = await response.json();
+
+      if (!Array.isArray(words) || words.length === 0) {
+        throw new Error("Порожній або некоректний файл слів");
+      }
+
+      pickRandomWord();
+      renderQuestion();
+    } catch (err) {
+      console.error(err);
+      errorEl.textContent = "Не вдалося завантажити слова для рівня " + level + ". Спробуйте пізніше.";
+      wordText.textContent = "Помилка завантаження 😔";
+    }
+  }
+
+  function pickRandomWord() {
+    const index = Math.floor(Math.random() * words.length);
+    currentWord = words[index];
+  }
+
+  function shuffle(array) {
+    const arr = array.slice();
+    for (let i = arr.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [arr[i], arr[j]] = [arr[j], arr[i]];
+    }
+    return arr;
+  }
+
+  function renderQuestion() {
+    if (!currentWord) return;
+
+    wordText.textContent = currentWord.es;
+    resultEl.textContent = "";
+    errorEl.textContent = "";
+    hintEl.textContent = "Натисни варіант відповіді. Результат автоматично надійде боту.";
+
+    optionsContainer.innerHTML = "";
+
+    const optionsShuffled = shuffle(currentWord.options || []);
+
+    optionsShuffled.forEach(optionText => {
+      const btn = document.createElement("button");
+      btn.className = "option";
+      btn.textContent = optionText;
+
+      btn.addEventListener("click", () => {
+        const correctAnswer = currentWord.uk;
+        const allButtons = optionsContainer.querySelectorAll(".option");
+        allButtons.forEach(b => {
+          b.classList.remove("correct", "wrong");
+        });
+
+        const correct = optionText === correctAnswer;
+
+        if (correct) {
+          btn.classList.add("correct");
+          resultEl.textContent = "✅ Правильно! «" + currentWord.es + "» = «" + correctAnswer + "».";
+        } else {
+          btn.classList.add("wrong");
+          resultEl.textContent = "❌ Невірно. Правильна відповідь: «" + correctAnswer + "».";
+        }
+
+        // 🔥 Автоматично шлемо результат боту
+        const payload = {
+          word: currentWord.es,
+          translation: currentWord.uk,
+          level: level,
+          chosen: optionText,
+          correct: correct,
+          timestamp: Date.now()
+        };
+
+        try {
+          tg.sendData(JSON.stringify(payload));
+        } catch (e) {
+          console.error("Помилка надсилання даних в бота:", e);
+        }
+      });
+
+      optionsContainer.appendChild(btn);
+    });
+  }
+
+  nextBtn.addEventListener("click", () => {
+    pickRandomWord();
+    renderQuestion();
+  });
+
+  finishBtn.addEventListener("click", () => {
+    tg.close();
+  });
+
+  loadWords();
+</script>
+</body>
+</html>
