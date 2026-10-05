@@ -96,13 +96,15 @@
 </head>
 <body>
   <div class="card">
-    <h1>Mini-quiz 🇪🇸</h1>
+    <h1 id="quizTitle">Мініквіз 🇪🇸</h1>
     <div id="levelBadge" style="font-size: 14px; margin-bottom: 8px;">
       Level A1
     </div>
-    <div>Обери правильний переклад слова:</div>
+    <div id="questionPrompt">Обери правильний переклад слова:</div>
 
     <div class="word" id="wordText">...</div>
+
+    <div id="exampleText" style="font-size: 14px; margin-bottom: 16px;"></div>
 
     <div class="options" id="optionsContainer">
       <!-- Кнопки варіантів JS намалює сам -->
@@ -123,6 +125,7 @@
     </button>
   </div>
 
+<script src="locales.js"></script>
 <script>
   const tg = window.Telegram?.WebApp || {
     expand: () => {},
@@ -138,6 +141,17 @@
     level = "A1";
   }
 
+  const requestedLanguage = params.get("lang");
+  const lang = ["uk", "en"].includes(requestedLanguage) ? requestedLanguage : "uk";
+  const dictionary = window.QuizLocales[lang];
+  function t(key, values = {}) {
+    if (typeof dictionary[key] !== "string") throw new Error("Missing localization: " + key);
+    return dictionary[key].replace(/\{(\w+)\}/g, (_, name) => values[name]);
+  }
+  document.documentElement.lang = lang;
+  document.title = t("title");
+  document.getElementById("quizTitle").textContent = t("heading");
+  document.getElementById("questionPrompt").textContent = t("prompt");
   const levelBadge = document.getElementById("levelBadge");
   const wordText = document.getElementById("wordText");
   const optionsContainer = document.getElementById("optionsContainer");
@@ -147,7 +161,10 @@
   const nextBtn = document.getElementById("nextBtn");
   const finishBtn = document.getElementById("finishBtn");
 
-  levelBadge.textContent = "Level " + level;
+  levelBadge.textContent = t("level", {level});
+  nextBtn.textContent = t("next");
+  finishBtn.textContent = t("finish");
+  hintEl.textContent = t("hint");
 
   let words = [];
   let currentWord = null;
@@ -158,7 +175,7 @@
   nextBtn.disabled = true;
 
   function sessionPayload(items = answers) {
-    return JSON.stringify({level, answers: items});
+    return JSON.stringify({level, lang, answers: items});
   }
 
   async function loadWords() {
@@ -169,16 +186,27 @@
       }
       words = await response.json();
 
-      if (!Array.isArray(words) || words.length === 0) {
-        throw new Error("Порожній або некоректний файл слів");
+      if (!Array.isArray(words) || words.length === 0) throw new Error("Empty vocabulary");
+      for (const word of words) {
+        const options = word.options?.[lang];
+        const normalize = value => value.normalize("NFKC").trim().toLowerCase();
+        if (typeof word.id !== "string" || !word.id || typeof word.es !== "string" || !word.es.trim()
+            || typeof word[lang] !== "string" || !word[lang].trim()
+            || !Array.isArray(options) || options.length !== 4
+            || options.some(o => typeof o !== "string" || !o.trim())
+            || (word.example && ["es", "uk", "en"].some(k => typeof word.example[k] !== "string" || !word.example[k].trim()))
+            || new Set(options.map(normalize)).size !== options.length
+            || options.filter(o => normalize(o) === normalize(word[lang])).length !== 1) {
+          throw new Error("Invalid question options");
+        }
       }
 
       pickRandomWord();
       renderQuestion();
     } catch (err) {
       console.error(err);
-      errorEl.textContent = "Не вдалося завантажити слова для рівня " + level + ". Спробуйте пізніше.";
-      wordText.textContent = "Помилка завантаження 😔";
+      errorEl.textContent = t("loadError", {level});
+      wordText.textContent = t("loadWordError");
     }
   }
 
@@ -202,16 +230,18 @@
     nextBtn.disabled = true;
 
     wordText.textContent = currentWord.es;
+    const example = currentWord.example;
+    document.getElementById("exampleText").textContent = example
+      ? t("context", {example: example.es}) + (currentWord.region === "ES" ? " · " + t("region_ES") : "")
+      : "";
     resultEl.textContent = "";
     errorEl.textContent = "";
-    hintEl.textContent = "Обирай відповіді. Натисни «Завершити», щоб надіслати підсумок боту.";
+    hintEl.textContent = t("hint");
 
     optionsContainer.innerHTML = "";
 
     const optionsShuffled = shuffle(
-      currentWord.options && currentWord.options.length > 0
-        ? currentWord.options
-        : [currentWord.uk]
+      currentWord.options[lang]
     );
 
     optionsShuffled.forEach(optionText => {
@@ -221,11 +251,11 @@
 
       btn.addEventListener("click", () => {
         if (answered || submitting) return;
-        const answer = {word: currentWord.es, translation: currentWord.uk, chosen: optionText};
+        const answer = {id: currentWord.id, chosen: optionText};
         const candidate = [...answers, answer];
         // Telegram sendData permits at most 4096 bytes. Keep a safety margin.
         if (candidate.length > 20 || new TextEncoder().encode(sessionPayload(candidate)).length > 3500) {
-          errorEl.textContent = "Тренування заповнене. Натисни «Завершити», щоб надіслати підсумок.";
+          errorEl.textContent = t("full");
           nextBtn.disabled = true;
           return;
         }
@@ -233,8 +263,8 @@
         answers.push(answer);
         finishBtn.disabled = false;
         nextBtn.disabled = answers.length >= 20;
-        hintEl.textContent = "Відповідей: " + answers.length + ". Підсумок надійде боту після завершення.";
-        const correctAnswer = currentWord.uk;
+        hintEl.textContent = t("count", {count: answers.length});
+        const correctAnswer = currentWord[lang];
         const allButtons = optionsContainer.querySelectorAll(".option");
         allButtons.forEach(b => {
           b.classList.remove("correct", "wrong");
@@ -244,12 +274,15 @@
 
         if (correct) {
           btn.classList.add("correct");
-          resultEl.textContent = "✅ Правильно! «" + currentWord.es + "» = «" + correctAnswer + "».";
+          resultEl.textContent = t("correct", {word: currentWord.es, answer: correctAnswer});
         } else {
           btn.classList.add("wrong");
-          resultEl.textContent = "❌ Невірно. Правильна відповідь: «" + correctAnswer + "».";
+          resultEl.textContent = t("wrong", {answer: correctAnswer});
         }
 
+        if (currentWord.example) {
+          resultEl.textContent += " " + t("exampleTranslation", {example: currentWord.example[lang]});
+        }
         allButtons.forEach(b => { b.disabled = true; });
       });
 
@@ -266,7 +299,7 @@
   finishBtn.addEventListener("click", () => {
     if (answers.length === 0 || submitting) return;
     if (typeof tg.sendData !== "function" || tg.platform === "unknown") {
-      errorEl.textContent = "Щоб надіслати підсумок, відкрий квіз через кнопку в особистому чаті з ботом.";
+      errorEl.textContent = t("outside");
       return;
     }
     submitting = true;
@@ -277,7 +310,7 @@
     } catch (e) {
       submitting = false;
       finishBtn.disabled = false;
-      errorEl.textContent = "Не вдалося надіслати підсумок. Спробуй ще раз.";
+      errorEl.textContent = t("sendError");
     }
   });
 
