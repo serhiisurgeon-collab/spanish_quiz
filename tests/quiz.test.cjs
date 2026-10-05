@@ -222,3 +222,61 @@ test('incomplete example translations cannot be loaded',async()=>{
   assert.match(q.elements.error.textContent,/Could not load/);
   assert.equal(q.elements.finishBtn.disabled,true);
 });
+
+for (const lang of ['uk','en']) {
+  test('expanded A2 '+lang+': senses show Spanish context, hide its translation until answer, and submit stable ID', async()=>{
+    const data=JSON.parse(fs.readFileSync(path.join(root,'data/A2.json'),'utf8'));
+    const rows=data.filter(r=>['restaurant_bill','bank_account','medical_prescription','cooking_recipe','snack','chop_food','about_topic','postal_envelope'].includes(r.sense));
+    assert.equal(rows.length,8);
+    for(const row of rows) {
+      const q=await setup('A2',{lang,wordsOverride:[row]});
+      assert.equal(q.elements.error.textContent,'');
+      assert.ok(q.elements.exampleText.textContent.includes(row.example.es));
+      assert.ok(!q.elements.exampleText.textContent.includes(row.example[lang]));
+      assert.equal(q.elements.optionsContainer.children.length,4);
+      q.answer(true);
+      assert.ok(q.elements.result.textContent.includes(row.example[lang]));
+      q.elements.finishBtn.click();
+      assert.equal(q.sent[0].level,'A2');assert.equal(q.sent[0].lang,lang);
+      assert.equal(q.sent[0].answers[0].id,row.id);
+      assert.equal(q.sent[0].answers[0].chosen,row[lang]);
+    }
+  });
+}
+
+test('A2 regional note is rendered in the selected interface language',async()=>{
+  const row=JSON.parse(fs.readFileSync(path.join(root,'data/A2.json'),'utf8')).find(r=>r.regional_note);
+  assert.ok(row);
+  for(const lang of ['uk','en']) {
+    const q=await setup('A2',{lang,wordsOverride:[row]});
+    assert.ok(q.elements.exampleText.textContent.includes(row.regional_note[lang]));
+  }
+});
+
+for (const lang of ['uk','en']) {
+  test('expanded B1 '+lang+': meanings, discourse, context and stable result IDs',async()=>{
+    const data=JSON.parse(fs.readFileSync(path.join(root,'data/B1.json'),'utf8'));
+    const rows=data.filter(r=>['seguro','la guía','el papel','la copa','A mi modo de ver','No es para tanto.'].includes(r.es));
+    assert.equal(rows.length,6);
+    for(const row of rows) {
+      const q=await setup('B1',{lang,wordsOverride:[row]});
+      assert.equal(q.elements.error.textContent,'');
+      assert.ok(q.elements.exampleText.textContent.includes(row.example.es));
+      assert.ok(!q.elements.exampleText.textContent.includes(row.example[lang]));
+      assert.equal(q.elements.optionsContainer.children.length,4);
+      q.answer(true);assert.ok(q.elements.result.textContent.includes(row.example[lang]));
+      q.elements.finishBtn.click();assert.equal(q.sent[0].level,'B1');assert.equal(q.sent[0].lang,lang);
+      assert.equal(q.sent[0].answers[0].id,row.id);assert.equal(q.sent[0].answers[0].chosen,row[lang]);
+    }
+  });
+}
+
+test('B1 formal, colloquial and regional usage notes are localised',async()=>{
+  const data=JSON.parse(fs.readFileSync(path.join(root,'data/B1.json'),'utf8'));
+  const rows=['levantar acta','No es para tanto.','el día feriado'].map(es=>data.find(r=>r.es===es));
+  assert.ok(rows.every(Boolean));
+  for(const row of rows) for(const lang of ['uk','en']) {
+    const q=await setup('B1',{lang,wordsOverride:[row]});
+    assert.ok(q.elements.exampleText.textContent.includes((row.usage_note||row.regional_note)[lang]));
+  }
+});

@@ -233,6 +233,8 @@
     const example = currentWord.example;
     document.getElementById("exampleText").textContent = example
       ? t("context", {example: example.es}) + (currentWord.region === "ES" ? " · " + t("region_ES") : "")
+        + (currentWord.regional_note?.[lang] ? " · " + currentWord.regional_note[lang] : "")
+        + (currentWord.usage_note?.[lang] ? " · " + currentWord.usage_note[lang] : "")
       : "";
     resultEl.textContent = "";
     errorEl.textContent = "";
