@@ -110,7 +110,7 @@
 
     <div class="result" id="result"></div>
     <div id="hint" style="font-size: 13px; color: #cbd5f5; margin-bottom: 6px;">
-      Натисни варіант відповіді. Результат автоматично надійде боту.
+      Обирай відповіді. Натисни «Завершити», щоб надіслати підсумок боту.
     </div>
     <div id="error" style="font-size: 13px; color: #fecaca; min-height: 16px;"></div>
 
@@ -119,14 +119,13 @@
     </button>
 
     <button class="send-btn" id="finishBtn" style="margin-top: 8px; background: #62a6ee; color: #111521;">
-      Завершити тренування 🏆
+      Завершити й надіслати підсумок 🏆
     </button>
   </div>
 
 <script>
   const tg = window.Telegram?.WebApp || {
     expand: () => {},
-    sendData: () => {},
     close: () => {}
   };
   tg.expand();
@@ -152,6 +151,15 @@
 
   let words = [];
   let currentWord = null;
+  let answered = false;
+  let submitting = false;
+  const answers = [];
+  finishBtn.disabled = true;
+  nextBtn.disabled = true;
+
+  function sessionPayload(items = answers) {
+    return JSON.stringify({level, answers: items});
+  }
 
   async function loadWords() {
     try {
@@ -190,11 +198,13 @@
 
   function renderQuestion() {
     if (!currentWord) return;
+    answered = false;
+    nextBtn.disabled = true;
 
     wordText.textContent = currentWord.es;
     resultEl.textContent = "";
     errorEl.textContent = "";
-    hintEl.textContent = "Натисни варіант відповіді. Результат автоматично надійде боту.";
+    hintEl.textContent = "Обирай відповіді. Натисни «Завершити», щоб надіслати підсумок боту.";
 
     optionsContainer.innerHTML = "";
 
@@ -210,6 +220,20 @@
       btn.textContent = optionText;
 
       btn.addEventListener("click", () => {
+        if (answered || submitting) return;
+        const answer = {word: currentWord.es, translation: currentWord.uk, chosen: optionText};
+        const candidate = [...answers, answer];
+        // Telegram sendData permits at most 4096 bytes. Keep a safety margin.
+        if (candidate.length > 20 || new TextEncoder().encode(sessionPayload(candidate)).length > 3500) {
+          errorEl.textContent = "Тренування заповнене. Натисни «Завершити», щоб надіслати підсумок.";
+          nextBtn.disabled = true;
+          return;
+        }
+        answered = true;
+        answers.push(answer);
+        finishBtn.disabled = false;
+        nextBtn.disabled = answers.length >= 20;
+        hintEl.textContent = "Відповідей: " + answers.length + ". Підсумок надійде боту після завершення.";
         const correctAnswer = currentWord.uk;
         const allButtons = optionsContainer.querySelectorAll(".option");
         allButtons.forEach(b => {
@@ -226,21 +250,7 @@
           resultEl.textContent = "❌ Невірно. Правильна відповідь: «" + correctAnswer + "».";
         }
 
-        // 🔥 Автоматично шлемо результат боту
-        const payload = {
-          word: currentWord.es,
-          translation: currentWord.uk,
-          level: level,
-          chosen: optionText,
-          correct: correct,
-          timestamp: Date.now()
-        };
-
-        try {
-          tg.sendData(JSON.stringify(payload));
-        } catch (e) {
-          console.error("Помилка надсилання даних в бота:", e);
-        }
+        allButtons.forEach(b => { b.disabled = true; });
       });
 
       optionsContainer.appendChild(btn);
@@ -248,12 +258,27 @@
   }
 
   nextBtn.addEventListener("click", () => {
+    if (!answered || nextBtn.disabled || submitting) return;
     pickRandomWord();
     renderQuestion();
   });
 
   finishBtn.addEventListener("click", () => {
-    tg.close();
+    if (answers.length === 0 || submitting) return;
+    if (typeof tg.sendData !== "function" || tg.platform === "unknown") {
+      errorEl.textContent = "Щоб надіслати підсумок, відкрий квіз через кнопку в особистому чаті з ботом.";
+      return;
+    }
+    submitting = true;
+    finishBtn.disabled = true;
+    try {
+      // Keyboard WebApp sendData delivers the payload and closes the app.
+      tg.sendData(sessionPayload());
+    } catch (e) {
+      submitting = false;
+      finishBtn.disabled = false;
+      errorEl.textContent = "Не вдалося надіслати підсумок. Спробуй ще раз.";
+    }
   });
 
   loadWords();
