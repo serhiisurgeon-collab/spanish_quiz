@@ -1,6 +1,7 @@
 // Shared keys for all WebApp interface text. Spanish remains the study language.
 window.QuizLocales = {
   uk: {
+    allAnswered: "Ви відповіли на всі питання. Перегляньте свій результат.", summaryTitle: "Квіз завершено!", accuracy: "Точність", noAnswers: "Немає відповідей", summaryCorrect: "✅ Правильних відповідей: {count}", summaryIncorrect: "❌ Неправильних відповідей: {count}", summaryAnswered: "Відповіли на {count} із {total} питань", summarySaved: "Результати збережено. Тижневий підсумок доступний за командою /myweek у боті.", returnBot: "Повернутися до бота", returnOutside: "Поверніться до чату з ботом у Telegram. Закриття Mini App тут недоступне.", savingResult: "Зберігаємо результат…", summaryRingLabel: "Точність: {accuracy}. Відповіли на {count} із {total} питань.",
     progressDescription: 'Пройдено {count} із {total} питань',
     secureHint: 'Відповіді зберігаються після перевірки. Натисни «Завершити квіз», коли закінчиш.',
     secureFinish: "Завершити квіз", retry: "Спробувати ще раз", authExpired: "Авторизація застаріла. Закрий квіз і відкрий його заново через бота.", accessDenied: "Немає доступу до квізу або цієї сесії. Відкрий квіз через бота й перевір Premium.", serverError: "Сервер тимчасово недоступний. Спробуй ще раз.", requestError: "Не вдалося узгодити прогрес. Спробуй ще раз або відкрий квіз заново.", timeoutError: "Час очікування вичерпано. Відповідь могла зберегтися; перевіримо її при повторі.", networkError: "Немає зв’язку із сервером. Спробуй ще раз — прогрес перевіримо без повторного обліку.",
@@ -20,6 +21,7 @@ window.QuizLocales = {
     sendError: 'Не вдалося надіслати підсумок. Спробуй ще раз.'
   },
   en: {
+    allAnswered: "You have answered all questions. View your result.", summaryTitle: "Quiz completed!", accuracy: "Accuracy", noAnswers: "No answers", summaryCorrect: "✅ Correct answers: {count}", summaryIncorrect: "❌ Incorrect answers: {count}", summaryAnswered: "{count} of {total} questions answered", summarySaved: "Your results are saved. Your weekly summary is available with /myweek in the bot.", returnBot: "Return to the bot", returnOutside: "Return to your bot chat in Telegram. Closing the Mini App is not available here.", savingResult: "Saving your result…", summaryRingLabel: "Accuracy: {accuracy}. {count} of {total} questions answered.",
     progressDescription: '{count} of {total} questions answered',
     secureHint: 'Answers are saved after grading. Tap “Finish quiz” when you are done.',
     secureFinish: "Finish quiz", retry: "Try again", authExpired: "Authorization expired. Close the quiz and reopen it through the bot.", accessDenied: "You do not have access to this quiz or session. Open it through the bot and check Premium.", serverError: "The server is temporarily unavailable. Please try again.", requestError: "Progress could not be reconciled. Try again or reopen the quiz.", timeoutError: "The request timed out. Your answer may be saved; we will check it when you retry.", networkError: "Could not connect to the server. Try again — progress will be checked without duplicate counting.",

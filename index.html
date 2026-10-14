@@ -20,6 +20,17 @@
     .progress-track { width: 100%; height: 8px; border-radius: 999px; background: #e5e7eb; overflow: hidden; }
     .progress-fill { height: 100%; width: 0%; border-radius: inherit; background: #22c55e; transition: width 250ms ease; }
     @media (prefers-reduced-motion: reduce) { .progress-fill { transition: none; } }
+    [hidden] { display: none !important; }
+    .summary-ring { position: relative; width: 160px; height: 160px; margin: 18px auto; }
+    .summary-ring svg { width: 100%; height: 100%; transform: rotate(-90deg); }
+    .ring-base { fill: none; stroke: #ffffff30; stroke-width: 12; }
+    .ring-score { fill: none; stroke-width: 12; stroke-linecap: round; transition: stroke-dashoffset 350ms ease; }
+    .ring-label { position: absolute; inset: 0; display: flex; flex-direction: column; justify-content: center; }
+    .ring-number { font-size: 38px; font-weight: 700; }
+    .ring-caption { font-size: 14px; margin-top: 3px; }
+    .summary-counts { margin: 16px 0; line-height: 1.7; }
+    .summary-message { line-height: 1.5; }
+    @media (prefers-reduced-motion: reduce) { .ring-score { transition: none; } }
     body {
       margin: 0;
       font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
@@ -133,6 +144,18 @@
     <button class="send-btn" id="finishBtn" style="margin-top: 8px; background: #62a6ee; color: #111521;">
       Завершити й надіслати підсумок 🏆
     </button>
+    <section id="quizSummary" hidden aria-live="polite">
+      <h1 id="summaryTitle"></h1>
+      <div id="summaryLevel"></div>
+      <div class="summary-ring" id="summaryRing" role="img">
+        <svg viewBox="0 0 168 168" aria-hidden="true"><circle class="ring-base" cx="84" cy="84" r="74"/><circle class="ring-score" id="summaryArc" cx="84" cy="84" r="74"/></svg>
+        <div class="ring-label"><span class="ring-number" id="summaryPercent"></span><span class="ring-caption" id="summaryAccuracy"></span></div>
+      </div>
+      <div class="summary-counts"><div id="summaryCorrect"></div><div id="summaryIncorrect"></div><div id="summaryAnswered"></div></div>
+      <p class="summary-message" id="summarySaved"></p>
+      <button class="send-btn" id="returnToBot" type="button"></button>
+      <p id="returnHint" hidden></p>
+    </section>
   </div>
 
 <script src="locales.js"></script>

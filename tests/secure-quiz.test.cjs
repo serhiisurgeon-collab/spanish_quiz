@@ -3,7 +3,7 @@ const root=path.resolve(__dirname,'..');
 async function setup(lang='uk',config={}){
  const elements={},calls=[],storage=config.storage||new Map(),accepted=config.accepted||new Map();let completed=false;
  function element(){return {textContent:'',children:[],disabled:false,hidden:false,style:{},attributes:{},setAttribute(k,v){this.attributes[k]=v},parentNode:{appendChild(x){elements.retry=x}},classList:{values:[],add(v){this.values.push(v)}},appendChild(x){this.children.push(x)},querySelectorAll(){return this.children},set innerHTML(x){this.children=[]}};}
- const context={URLSearchParams,AbortController,setTimeout:config.setTimeout||setTimeout,clearTimeout,crypto:{randomUUID:()=> 'request1234567890'},sessionStorage:{getItem:k=>storage.get(k),setItem:(k,v)=>storage.set(k,v),removeItem:k=>storage.delete(k)},window:{QuizConfig:{apiBase:'https://api.example'}},document:{documentElement:{},getElementById:id=>elements[id]??=element(),createElement:element}};
+ const context={URLSearchParams,AbortController,setTimeout:config.setTimeout||setTimeout,clearTimeout,crypto:{randomUUID:()=> 'request1234567890'},sessionStorage:{getItem:k=>storage.get(k),setItem:(k,v)=>storage.set(k,v),removeItem:k=>storage.delete(k)},window:{QuizConfig:{apiBase:'https://api.example'},...(config.tg?{Telegram:{WebApp:config.tg}}:{})},document:{documentElement:{},getElementById:id=>elements[id]??=element(),createElement:element}};
  let hook=config.hook;
  const normal=async(url,options)=>{
   const body=JSON.parse(options.body);calls.push({url,body});
@@ -23,7 +23,7 @@ async function setup(lang='uk',config={}){
   return {ok:true,status:200,json:async()=>result};
  };
  context.fetch=normal;vm.createContext(context);vm.runInContext(fs.readFileSync(path.join(root,'locales.js'),'utf8'),context);vm.runInContext(fs.readFileSync(path.join(root,'secure-quiz.js'),'utf8'),context);
- const open=()=>context.window.startSecureQuiz({initData:'signed-telegram-data'},new URLSearchParams({api:config.bad?'https://evil.example':'https://api.example',lang,level:'A1'}));
+ const open=()=>context.window.startSecureQuiz(config.tg||{initData:'signed-telegram-data'},new URLSearchParams({api:config.bad?'https://evil.example':'https://api.example',lang,level:'A1'}));
  await open();return {elements,calls,storage,accepted,context,open,setHook:h=>hook=h};
 }
 for(const lang of ['uk','en'])test(lang+' server grading, double-click prevention and completion',async()=>{
@@ -31,7 +31,7 @@ for(const lang of ['uk','en'])test(lang+' server grading, double-click preventio
  assert.equal(e.exampleText.textContent.includes('Translated example'),false);
  await e.optionsContainer.children[0].onclick();await e.optionsContainer.children[0].onclick();
  const answers=q.calls.filter(c=>c.url.endsWith('/answer'));assert.equal(answers.length,1);assert.equal('correct' in answers[0].body,false);assert.equal('telegram_id' in answers[0].body,false);
- assert.ok(e.exampleText.textContent.includes('Translated example'));await e.finishBtn.onclick();await e.finishBtn.onclick();assert.equal(q.calls.filter(c=>c.url.endsWith('/complete')).length,1);assert.equal(q.storage.size,0);
+ assert.ok(e.exampleText.textContent.includes('Translated example'));await e.finishBtn.onclick();await e.finishBtn.onclick();assert.equal(q.calls.filter(c=>c.url.endsWith('/complete')).length,1);assert.equal(JSON.parse([...q.storage.values()][0]).completed,true);
 });
 test('untrusted API receives no initData',async()=>{const q=await setup('en',{bad:true});assert.equal(q.calls.length,0)});
 test('next-question failure keeps position and retry advances only after success',async()=>{
@@ -70,7 +70,7 @@ test('lost completion reply can be retried without changing session results',asy
  const q=await setup('en');await q.elements.optionsContainer.children[0].onclick();let completedCalls=0;
  q.setHook(url=>{if(url.endsWith('/complete')&&++completedCalls===1)throw Error('completion reply lost')});
  await q.elements.finishBtn.onclick();assert.equal(q.elements.retry.hidden,false);assert.equal(q.storage.size,1);
- await q.elements.retry.onclick();assert.equal(q.storage.size,0);assert.equal(q.accepted.size,1);assert.equal(completedCalls,2);
+ await q.elements.retry.onclick();assert.equal(JSON.parse([...q.storage.values()][0]).completed,true);assert.equal(q.accepted.size,1);assert.equal(completedCalls,2);
 });
 test('old browser session is migrated only after server confirms owner',async()=>{
  const storage=new Map([['verifiedQuiz:A1:en',JSON.stringify({sid:'server-session',request_id:'oldrequest1234567890',position:19})]]);
@@ -93,4 +93,35 @@ test('progress remains last confirmed during a network error and reconciles once
  await q.elements.optionsContainer.children[0].onclick();assert.equal(q.elements.progressAccepted.textContent,'1');
  q.setHook(null);await q.elements.retry.onclick();assert.equal(q.elements.progressAccepted.textContent,'2');
  await q.elements.optionsContainer.children[0].onclick();assert.equal(q.elements.progressAccepted.textContent,'2');
+});
+for(const choice of ['correct','wrong'])test('last '+choice+' answer hides Next, retains feedback and full progress',async()=>{
+ const accepted=new Map(Array.from({length:19},(_,i)=>[i,'correct']));const q=await setup('en',{accepted});
+ await q.elements.nextBtn.onclick();await q.elements.optionsContainer.children[choice==='correct'?0:1].onclick();
+ assert.equal(q.elements.nextBtn.hidden,true);assert.equal(q.elements.finishBtn.hidden,false);assert.equal(q.elements.finishBtn.disabled,false);
+ assert.equal(q.elements.progressAccepted.textContent,'20');assert.equal(q.elements.hint.textContent,'You have answered all questions. View your result.');assert.ok(q.elements.result.textContent);
+});
+for(const [correct,incorrect,percent] of [[0,20,'0%'],[10,10,'50%'],[18,2,'90%'],[20,0,'100%'],[0,0,'—'],[2,1,'67%']])test('confirmed summary ring '+percent,async()=>{
+ const q=await setup('en',{hook:(url)=>url.endsWith('/question')?{ok:true,status:200,json:async()=>({status:'completed',question:{position:0,es:'old',options:[],context:'',total:20,accepted_total:correct+incorrect,summary:{correct,incorrect}}})}:null});
+ assert.equal(q.elements.summaryPercent.textContent,percent);assert.equal(q.elements.quizSummary.hidden,false);
+ for(const id of ['questionPrompt','wordText','exampleText','optionsContainer','nextBtn','finishBtn'])assert.equal(q.elements[id].hidden,true);
+ assert.equal(q.elements.summaryArc.attributes.visibility,correct===0?'hidden':'visible');
+ const fraction=(correct+incorrect)?correct/(correct+incorrect):0;
+ assert.ok(Math.abs(Number(q.elements.summaryArc.style.strokeDashoffset)-2*Math.PI*74*(1-fraction))<1e-8);
+ assert.ok(q.elements.summaryAnswered.textContent.includes(String(correct+incorrect)));
+});
+test('saving label and failed completion never show a successful summary',async()=>{
+ const q=await setup('uk');await q.elements.optionsContainer.children[0].onclick();let resolve;
+ q.setHook(url=>url.endsWith('/complete')?new Promise(r=>resolve=r):null);
+ const pending=q.elements.finishBtn.onclick();await Promise.resolve();assert.equal(q.elements.finishBtn.disabled,true);assert.equal(q.elements.finishBtn.textContent,'Зберігаємо результат…');
+ resolve({ok:false,status:503,json:async()=>({error:'unavailable'})});await pending;
+ assert.notEqual(q.elements.quizSummary?.hidden,false);assert.equal(q.elements.retry.hidden,false);
+ q.setHook(null);await q.elements.retry.onclick();assert.equal(q.elements.quizSummary.hidden,false);
+});
+test('reload completed session restores summary; Return closes only Telegram app',async()=>{
+ let closes=0;const tg={initData:'signed-telegram-data',platform:'ios',close(){closes++}};
+ const q=await setup('en',{tg});await q.elements.optionsContainer.children[0].onclick();await q.elements.finishBtn.onclick();
+ await q.open();assert.equal(q.elements.quizSummary.hidden,false);assert.equal(q.elements.returnToBot.hidden,false);
+ q.elements.returnToBot.onclick();assert.equal(closes,1);assert.equal(q.storage.size,0);
+ const outside=await setup('en');await outside.elements.optionsContainer.children[0].onclick();await outside.elements.finishBtn.onclick();
+ assert.equal(outside.elements.returnToBot.hidden,true);assert.equal(outside.elements.returnHint.hidden,false);
 });

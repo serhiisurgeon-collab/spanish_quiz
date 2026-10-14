@@ -45,11 +45,38 @@ window.startSecureQuiz = async function(tg, params) {
     const bar=el('progressBar');bar.setAttribute('aria-valuemax',String(total));bar.setAttribute('aria-valuenow',String(count));
     const label=t('progressDescription',{count,total});bar.setAttribute('aria-valuetext',label);bar.setAttribute('aria-label',label);
   }
+  function summary(result,sessionLevel=level){
+    const correct=Number(result.correct),incorrect=Number(result.incorrect),count=correct+incorrect;
+    if(!Number.isInteger(correct)||!Number.isInteger(incorrect)||correct<0||incorrect<0)throw Object.assign(new Error('Invalid summary'),{code:'server'});
+    const total=Number(result.total??current?.total);
+    const percent=count?correct/count*100:null;
+    const color=percent===null?'#cbd5e1':(()=>{
+      const a=percent<=50?[239,68,68]:[234,179,8],b=percent<=50?[234,179,8]:[34,197,94];
+      const ratio=percent<=50?percent/50:(percent-50)/50;
+      return 'rgb('+a.map((v,i)=>Math.round(v+(b[i]-v)*ratio)).join(', ')+')';
+    })();
+    terminal=true;state.pending=null;state.completed=true;save();retry.hidden=true;error.textContent='';
+    for(const id of ['quizTitle','levelBadge','quizProgress','questionPrompt','wordText','exampleText','optionsContainer','result','hint','error','nextBtn','finishBtn'])el(id).hidden=true;
+    el('quizSummary').hidden=false;el('summaryTitle').textContent=t('summaryTitle');el('summaryLevel').textContent=t('level',{level:sessionLevel});
+    el('summaryPercent').textContent=percent===null?'—':Math.round(percent)+'%';el('summaryPercent').style.color=color;
+    el('summaryAccuracy').textContent=t(percent===null?'noAnswers':'accuracy');
+    el('summaryCorrect').textContent=t('summaryCorrect',{count:correct});el('summaryIncorrect').textContent=t('summaryIncorrect',{count:incorrect});
+    el('summaryAnswered').textContent=t('summaryAnswered',{count,total});el('summarySaved').textContent=t('summarySaved');
+    el('summaryRing').setAttribute('aria-label',t('summaryRingLabel',{accuracy:percent===null?'—':Math.round(percent)+'%',count,total}));
+    const arc=el('summaryArc'),circumference=2*Math.PI*74;
+    arc.setAttribute('visibility',percent===null||percent===0?'hidden':'visible');arc.style.stroke=color;arc.style.strokeDasharray=String(circumference);arc.style.strokeDashoffset=String(circumference);
+    const animate=()=>{arc.style.strokeDashoffset=String(circumference*(1-(percent||0)/100));};
+    if(typeof requestAnimationFrame==='function')requestAnimationFrame(()=>requestAnimationFrame(animate));else animate();
+    const canClose=typeof tg.close==='function'&&tg.platform!=='unknown'&&Boolean(window.Telegram?.WebApp);
+    const back=el('returnToBot');back.hidden=!canClose;back.disabled=false;back.textContent=t('returnBot');
+    el('returnHint').hidden=canClose;el('returnHint').textContent=t('returnOutside');
+    back.onclick=()=>{if(canClose){clear();tg.close();}};
+  }
   function render(q,status){
     progress(q);
     current=q;position=q.position;state.position=position;answered=false;el('wordText').textContent=q.es;el('exampleText').textContent=q.context?t('context',{example:q.context}):'';el('result').textContent='';el('optionsContainer').innerHTML='';
     if(status==='completed'){
-      clear();terminal=true;el('result').textContent=t('secureSummary',q.summary);el('hint').textContent=t('secureFinished');lock();return;
+      summary({...q.summary,total:q.total},q.level||level);return;
     }
     for(const option of q.options){
       const button=document.createElement('button');button.className='option';button.textContent=option;
@@ -61,8 +88,8 @@ window.startSecureQuiz = async function(tg, params) {
       el('optionsContainer').appendChild(button);
     }
     if(q.accepted){state.pending=null;feedback(q);}
-    next.disabled=!answered||position>=q.total-1;finish.disabled=q.accepted_total===0;
-    el('hint').textContent=t('secureCount',{count:q.accepted_total});save();
+    next.hidden=q.accepted&&q.accepted_total===q.total;next.disabled=!answered||position>=q.total-1;finish.disabled=q.accepted_total===0;
+    el('hint').textContent=next.hidden?t('allAnswered'):t('secureCount',{count:q.accepted_total});save();
   }
   async function load(target){
     const result=await call('/quiz/question',{session_id:sid,...(target===undefined?{}:{position:target})});
@@ -86,8 +113,8 @@ window.startSecureQuiz = async function(tg, params) {
   finish.onclick=()=>{
     if(busy||terminal||state.pending||!current||current.accepted_total===0)return;
     return perform(async()=>{
-      const result=await call('/quiz/complete',{session_id:sid});progress(result);clear();terminal=true;
-      el('result').textContent=t('secureSummary',result);el('optionsContainer').innerHTML='';el('hint').textContent=t('secureFinished');lock();
+      finish.textContent=t('savingResult');
+      try{const result=await call('/quiz/complete',{session_id:sid});summary(result);}finally{finish.textContent=t('secureFinish');}
     });
   };
   async function boot(){
@@ -108,6 +135,7 @@ window.startSecureQuiz = async function(tg, params) {
       }
     }
     if(!state||typeof state.request_id!=='string')state={request_id:crypto.randomUUID()};
+    if(state.completed&&state.sid){sid=state.sid;return load();}
     save();const result=await call('/quiz/session',{level,lang,request_id:state.request_id});sid=result.session_id;state.sid=sid;save();
     if(state.pending&&state.pending.session_id===sid)return resolvePending();
     await load();
