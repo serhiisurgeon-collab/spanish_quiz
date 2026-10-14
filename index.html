@@ -14,6 +14,12 @@
 </style>
 
   <style>
+    *, *::before, *::after { box-sizing: border-box; }
+    .quiz-progress { width: 100%; margin-bottom: 16px; }
+    .progress-counts { display: flex; justify-content: space-between; margin-bottom: 6px; }
+    .progress-track { width: 100%; height: 8px; border-radius: 999px; background: #e5e7eb; overflow: hidden; }
+    .progress-fill { height: 100%; width: 0%; border-radius: inherit; background: #22c55e; transition: width 250ms ease; }
+    @media (prefers-reduced-motion: reduce) { .progress-fill { transition: none; } }
     body {
       margin: 0;
       font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
@@ -99,6 +105,10 @@
     <h1 id="quizTitle">Мініквіз 🇪🇸</h1>
     <div id="levelBadge" style="font-size: 14px; margin-bottom: 8px;">
       Level A1
+    </div>
+    <div class="quiz-progress" id="quizProgress" hidden>
+      <div class="progress-counts" aria-hidden="true"><span id="progressAccepted">0</span><span id="progressTotal"></span></div>
+      <div class="progress-track" id="progressBar" role="progressbar" aria-valuemin="0"><div class="progress-fill" id="progressFill"></div></div>
     </div>
     <div id="questionPrompt">Обери правильний переклад слова:</div>
 
