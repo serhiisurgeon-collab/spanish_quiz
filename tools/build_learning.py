@@ -27,6 +27,7 @@ def artifacts(source, bot_root):
         assert all(isinstance(r.get(k), str) and r[k].strip() for k in ('id', 'es', 'uk', 'en'))
     assert set(source['groups']) == {'base', 'A1', 'A2', 'B1'}
     outcomes = {bot_root / 'data' / 'learning.json': source}
+    server_questions = {}
     # A conservative bank of distinct meanings avoids synonymous distractors.
     # All items already exist in the learning database; no vocabulary is added.
     bank_es = ['agua', 'pan', 'ventana', 'dinero', 'lunes', 'escuela', 'avión',
@@ -87,6 +88,8 @@ def artifacts(source, bot_root):
             output['options'] = options
             questions.append(output)
         outcomes[ROOT / 'data' / (level + '.json')] = questions
+        server_questions[level] = questions
+    outcomes[bot_root / 'data' / 'quiz_questions.json'] = server_questions
     return outcomes
 
 

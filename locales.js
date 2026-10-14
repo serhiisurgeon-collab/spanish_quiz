@@ -1,6 +1,7 @@
 // Shared keys for all WebApp interface text. Spanish remains the study language.
 window.QuizLocales = {
   uk: {
+    secureCount: 'Прийнято відповідей: {count}. Вони вже збережені у вашому тижневому звіті.', secureResume: 'Попередню відповідь уже збережено. Повторіть той самий вибір або завершіть квіз.', secureSummary: '✅ {correct} · ❌ {incorrect}', secureFinished: 'Квіз завершено. Результати доступні через /myweek у боті.',
     exampleTranslation: 'Переклад прикладу: {example}', context: 'Контекст: {example}', region_ES: 'Вживання: Іспанія',
     title: 'Spanish Quiz by Serhii', heading: 'Мініквіз 🇪🇸', level: 'Рівень {level}',
     prompt: 'Обери правильний переклад слова:',
@@ -16,6 +17,7 @@ window.QuizLocales = {
     sendError: 'Не вдалося надіслати підсумок. Спробуй ще раз.'
   },
   en: {
+    secureCount: 'Answers accepted: {count}. They are already saved in your weekly report.', secureResume: 'Your previous answer is saved. Repeat the same choice or finish the quiz.', secureSummary: '✅ {correct} · ❌ {incorrect}', secureFinished: 'Quiz completed. Your results are available through /myweek in the bot.',
     exampleTranslation: 'Example translation: {example}', context: 'Context: {example}', region_ES: 'Usage: Spain',
     title: 'Spanish Quiz by Serhii', heading: 'Mini-quiz 🇪🇸', level: 'Level {level}',
     prompt: 'Choose the correct translation:',

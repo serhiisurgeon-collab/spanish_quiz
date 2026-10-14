@@ -126,6 +126,8 @@
   </div>
 
 <script src="locales.js"></script>
+<script src="quiz-config.js"></script>
+<script src="secure-quiz.js"></script>
 <script>
   const tg = window.Telegram?.WebApp || {
     expand: () => {},
@@ -316,7 +318,8 @@
     }
   });
 
-  loadWords();
+  if (params.has("api")) window.startSecureQuiz(tg, params);
+  else loadWords();
 </script>
 </body>
 </html>
