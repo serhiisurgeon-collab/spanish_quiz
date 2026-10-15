@@ -23,7 +23,7 @@ async function setup(lang='uk',config={}){
   return {ok:true,status:200,json:async()=>result};
  };
  context.fetch=normal;vm.createContext(context);vm.runInContext(fs.readFileSync(path.join(root,'locales.js'),'utf8'),context);vm.runInContext(fs.readFileSync(path.join(root,'secure-quiz.js'),'utf8'),context);
- const open=()=>context.window.startSecureQuiz(config.tg||{initData:'signed-telegram-data'},new URLSearchParams({api:config.bad?'https://evil.example':'https://api.example',lang,level:'A1'}));
+ const open=()=>context.window.startSecureQuiz(config.tg||{initData:'signed-telegram-data'},new URLSearchParams({api:config.bad?'https://evil.example':'https://api.example',lang,learning_language:'es',translation_language:config.translation||lang,level:'A1'}));
  await open();return {elements,calls,storage,accepted,context,open,setHook:h=>hook=h};
 }
 for(const lang of ['uk','en'])test(lang+' server grading, double-click prevention and completion',async()=>{
@@ -124,4 +124,19 @@ test('reload completed session restores summary; Return closes only Telegram app
  q.elements.returnToBot.onclick();assert.equal(closes,1);assert.equal(q.storage.size,0);
  const outside=await setup('en');await outside.elements.optionsContainer.children[0].onclick();await outside.elements.finishBtn.onclick();
  assert.equal(outside.elements.returnToBot.hidden,true);assert.equal(outside.elements.returnHint.hidden,false);
+});
+for(const lang of ['uk','en','es','de'])test(lang+' full secure UI independent from English answers',async()=>{
+ const q=await setup(lang,{translation:'en'});const dictionary=q.context.window.QuizLocales[lang];
+ assert.equal(q.elements.finishBtn.textContent,dictionary.secureFinish);assert.equal(q.elements.quizTitle.textContent,dictionary.heading);
+ await q.elements.optionsContainer.children[0].onclick();await q.elements.finishBtn.onclick();
+ assert.equal(q.elements.summaryTitle.textContent,dictionary.summaryTitle);assert.equal(q.elements.summaryAccuracy.textContent,dictionary.accuracy);
+ const create=q.calls.find(c=>c.url.endsWith('/session')).body;assert.equal(create.interface_language,lang);assert.equal(create.translation_language,'en');assert.equal(create.learning_language,'es');
+});
+test('all four WebApp catalogs have equal keys and placeholder contracts',async()=>{
+ const q=await setup('en'),catalogs=q.context.window.QuizLocales;
+ const keys=Object.keys(catalogs.uk).sort();
+ for(const lang of ['uk','en','es','de']){
+  assert.deepEqual(Object.keys(catalogs[lang]).sort(),keys);
+  for(const key of keys){assert.ok(catalogs[lang][key].trim());assert.deepEqual([...catalogs[lang][key].matchAll(/\{(\w+)\}/g)].map(x=>x[1]).sort(),[...catalogs.uk[key].matchAll(/\{(\w+)\}/g)].map(x=>x[1]).sort());}
+ }
 });

@@ -177,7 +177,7 @@
   }
 
   const requestedLanguage = params.get("lang");
-  const lang = ["uk", "en"].includes(requestedLanguage) ? requestedLanguage : "uk";
+  const lang = ["uk", "en", "es", "de"].includes(requestedLanguage) ? requestedLanguage : "uk";
   const dictionary = window.QuizLocales[lang];
   function t(key, values = {}) {
     if (typeof dictionary[key] !== "string") throw new Error("Missing localization: " + key);
@@ -352,7 +352,8 @@
   });
 
   if (params.has("api")) window.startSecureQuiz(tg, params);
-  else loadWords();
+  else if (["uk", "en"].includes(lang)) loadWords();
+  else errorEl.textContent = t("directionPending");
 </script>
 </body>
 </html>

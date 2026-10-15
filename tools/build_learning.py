@@ -90,6 +90,11 @@ def artifacts(source, bot_root):
         outcomes[ROOT / 'data' / (level + '.json')] = questions
         server_questions[level] = questions
     outcomes[bot_root / 'data' / 'quiz_questions.json'] = server_questions
+    from migrate_content import migrate
+    migrated,audit=migrate(source,json.loads((bot_root/'locales/content.json').read_text()),json.loads((ROOT/'data/german_gloss_drafts.json').read_text()),json.loads((ROOT/'data/content_review_overrides.json').read_text()),json.loads((ROOT/'data/content_rights.json').read_text()))
+    outcomes[ROOT/'data/materials_v2.json']=migrated
+    outcomes[bot_root/'data/materials_v2.json']=migrated
+    outcomes[ROOT/'data/content_migration_audit.json']=audit
     return outcomes
 
 

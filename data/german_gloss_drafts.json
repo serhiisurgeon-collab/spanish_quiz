@@ -1,0 +1,1338 @@
+{
+  "w_124663dff07e": {
+    "de": "hallo",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_0da8932f35dd": {
+    "de": "tschüss",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_cf3ae9f87356": {
+    "de": "ja",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_5a045c6130f1": {
+    "de": "nein",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_02845c93ca93": {
+    "de": "bitte",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_1598f1a00fbb": {
+    "de": "danke",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_f44246db928e": {
+    "de": "es tut mir leid",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_73a3b126aef7": {
+    "de": "gut",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_99ae23855263": {
+    "de": "schlecht",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_aa382e690dc8": {
+    "de": "hier",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_8c5e794daa6e": {
+    "de": "dort",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_e26b745bfa60": {
+    "de": "jetzt",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_227211786ff9": {
+    "de": "gestern",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_b8e8afdbfc20": {
+    "de": "heute",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_6fb6c6b4e039": {
+    "de": "morgen",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_01755ea12680": {
+    "de": "ich",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_5150d3a8ac46": {
+    "de": "du",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_df107892a0cc": {
+    "de": "er",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_3043e3951a8d": {
+    "de": "sie",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_963034973526": {
+    "de": "wir",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_940f3f636fdc": {
+    "de": "ihr",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_9a7b82a6aef6": {
+    "de": "sie",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_d9ad6d122b11": {
+    "de": "sein",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_a2e26d2952ba": {
+    "de": "sich befinden",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_b5c18cbe1267": {
+    "de": "haben",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_82d0986676aa": {
+    "de": "machen",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_c1b9d7ce1a42": {
+    "de": "gehen",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_048b82d6ec1d": {
+    "de": "kommen",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_c675c0ccf442": {
+    "de": "können",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_6a8cb1df10a0": {
+    "de": "wollen",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_e0af5e9847c1": {
+    "de": "wissen",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_83c2ec6c4571": {
+    "de": "sehen",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_270fa8ee9707": {
+    "de": "essen",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_bca70208e116": {
+    "de": "trinken",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_eba1527b6159": {
+    "de": "leben",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_5dfa56a4894c": {
+    "de": "arbeiten",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_470c24845167": {
+    "de": "sprechen",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_98636a5ee4ea": {
+    "de": "lesen",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_76ee664f44ee": {
+    "de": "schreiben",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_72d6ad4e9bf0": {
+    "de": "kaufen",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_270f31add02e": {
+    "de": "verkaufen",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_3ebd248764a7": {
+    "de": "nehmen / trinken",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_c8d99e8f153f": {
+    "de": "zu Fuß gehen",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_43fe768ad75f": {
+    "de": "zurückkommen",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_5134cccfa6f9": {
+    "de": "öffnen",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_989e61f8cf44": {
+    "de": "schließen",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_94dda20b1876": {
+    "de": "Zeit verbringen / vorbeigehen",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_caab667a6b37": {
+    "de": "anrufen",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_6e9a3bc54dae": {
+    "de": "helfen",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_f173af5f5589": {
+    "de": "suchen",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_25e62ce9afbc": {
+    "de": "finden",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_56d65f24557b": {
+    "de": "denken",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_7a30d345f9c2": {
+    "de": "fühlen",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_94bfdc2dd76d": {
+    "de": "gefallen",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_24a4f3dbe606": {
+    "de": "brauchen",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_3f353360db93": {
+    "de": "das Haus",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "das",
+      "plural": "die Häuser"
+    },
+    "review_status": "needs_review"
+  },
+  "w_931fc0d84757": {
+    "de": "das Zuhause",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "das",
+      "plural": "die Zuhause"
+    },
+    "review_status": "needs_review"
+  },
+  "w_fe33855cb914": {
+    "de": "das Zimmer",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "das",
+      "plural": "die Zimmer"
+    },
+    "review_status": "needs_review"
+  },
+  "w_2dfcaa2a3625": {
+    "de": "die Küche",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "die",
+      "plural": "die Küchen"
+    },
+    "review_status": "needs_review"
+  },
+  "w_247c3ed9d023": {
+    "de": "das Badezimmer",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "das",
+      "plural": "die Badezimmer"
+    },
+    "review_status": "needs_review"
+  },
+  "w_711d7d77e609": {
+    "de": "die Tür",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "die",
+      "plural": "die Türen"
+    },
+    "review_status": "needs_review"
+  },
+  "w_5643bf8519f8": {
+    "de": "das Fenster",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "das",
+      "plural": "die Fenster"
+    },
+    "review_status": "needs_review"
+  },
+  "w_7dd029e82574": {
+    "de": "die Straße",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "die",
+      "plural": "die Straßen"
+    },
+    "review_status": "needs_review"
+  },
+  "w_9b7651845ccc": {
+    "de": "die Stadt",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "die",
+      "plural": "die Städte"
+    },
+    "review_status": "needs_review"
+  },
+  "w_c1cb7a2e3c27": {
+    "de": "die Kleinstadt",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "die",
+      "plural": "die Kleinstädte"
+    },
+    "review_status": "needs_review"
+  },
+  "w_2d915aced6d9": {
+    "de": "das Land",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "das",
+      "plural": "die Länder"
+    },
+    "review_status": "needs_review"
+  },
+  "w_dd06d209a970": {
+    "de": "die Welt",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "die",
+      "plural": "die Welten"
+    },
+    "review_status": "needs_review"
+  },
+  "w_68b4d5e7bda0": {
+    "de": "die Familie",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "die",
+      "plural": "die Familien"
+    },
+    "review_status": "needs_review"
+  },
+  "w_305d8ee126ba": {
+    "de": "der Vater",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "der",
+      "plural": "die Väter"
+    },
+    "review_status": "needs_review"
+  },
+  "w_65e00a0671d2": {
+    "de": "die Mutter",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "die",
+      "plural": "die Mütter"
+    },
+    "review_status": "needs_review"
+  },
+  "w_dc738d0e4ff5": {
+    "de": "der Bruder",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "der",
+      "plural": "die Brüder"
+    },
+    "review_status": "needs_review"
+  },
+  "w_3646acaff036": {
+    "de": "die Schwester",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "die",
+      "plural": "die Schwestern"
+    },
+    "review_status": "needs_review"
+  },
+  "w_9e77f7ded26c": {
+    "de": "der Freund",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "der",
+      "plural": "die Freunde"
+    },
+    "review_status": "needs_review"
+  },
+  "w_847cfbc253db": {
+    "de": "die Person",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "die",
+      "plural": "die Personen"
+    },
+    "review_status": "needs_review"
+  },
+  "w_a8e5f831f9d0": {
+    "de": "der Mann",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "der",
+      "plural": "die Männer"
+    },
+    "review_status": "needs_review"
+  },
+  "w_b842641edf0b": {
+    "de": "die Frau",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "die",
+      "plural": "die Frauen"
+    },
+    "review_status": "needs_review"
+  },
+  "w_d28feecebd0c": {
+    "de": "das Kind",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "das",
+      "plural": "die Kinder"
+    },
+    "review_status": "needs_review"
+  },
+  "w_e38e2fcf227c": {
+    "de": "die Arbeit",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "die",
+      "plural": "die Arbeiten"
+    },
+    "review_status": "needs_review"
+  },
+  "w_9009a7e818a5": {
+    "de": "die Schule",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "die",
+      "plural": "die Schulen"
+    },
+    "review_status": "needs_review"
+  },
+  "w_de01c9f86aa8": {
+    "de": "das Büro",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "das",
+      "plural": "die Büros"
+    },
+    "review_status": "needs_review"
+  },
+  "w_f6d61e5089c0": {
+    "de": "das Geschäft",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "das",
+      "plural": "die Geschäfte"
+    },
+    "review_status": "needs_review"
+  },
+  "w_acffef60471f": {
+    "de": "das Krankenhaus",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "das",
+      "plural": "die Krankenhäuser"
+    },
+    "review_status": "needs_review"
+  },
+  "w_9ba2ac3f9daa": {
+    "de": "das Wasser",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "das",
+      "uncountable": true
+    },
+    "review_status": "needs_review"
+  },
+  "w_d1ab401123ee": {
+    "de": "das Brot",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "das",
+      "plural": "die Brote"
+    },
+    "review_status": "needs_review"
+  },
+  "w_b16e81552cdb": {
+    "de": "die Milch",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "die",
+      "uncountable": true
+    },
+    "review_status": "needs_review"
+  },
+  "w_8e770f3f581e": {
+    "de": "der Kaffee",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "der",
+      "uncountable": true
+    },
+    "review_status": "needs_review"
+  },
+  "w_edcb4ebbe409": {
+    "de": "der Tee",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "der",
+      "plural": "die Tees"
+    },
+    "review_status": "needs_review"
+  },
+  "w_7b467dd3e972": {
+    "de": "das Fleisch",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "das",
+      "uncountable": true
+    },
+    "review_status": "needs_review"
+  },
+  "w_a0953d8dad52": {
+    "de": "der Fisch",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "der",
+      "plural": "die Fische"
+    },
+    "review_status": "needs_review"
+  },
+  "w_308916a36df6": {
+    "de": "das Gemüse",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "das",
+      "uncountable": true
+    },
+    "review_status": "needs_review"
+  },
+  "w_36d613304490": {
+    "de": "das Obst",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "das",
+      "uncountable": true
+    },
+    "review_status": "needs_review"
+  },
+  "w_8ebda336e89c": {
+    "de": "der Apfel",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "der",
+      "plural": "die Äpfel"
+    },
+    "review_status": "needs_review"
+  },
+  "w_0ad73e3e63ea": {
+    "de": "die Banane",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "die",
+      "plural": "die Bananen"
+    },
+    "review_status": "needs_review"
+  },
+  "w_ca4586229588": {
+    "de": "die Orange",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "die",
+      "plural": "die Orangen"
+    },
+    "review_status": "needs_review"
+  },
+  "w_c93eeebf3ae4": {
+    "de": "das Salz",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "das",
+      "uncountable": true
+    },
+    "review_status": "needs_review"
+  },
+  "w_8711c139433e": {
+    "de": "der Zucker",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "der",
+      "uncountable": true
+    },
+    "review_status": "needs_review"
+  },
+  "w_6e52746bd1df": {
+    "de": "das Geld",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "das",
+      "uncountable": true
+    },
+    "review_status": "needs_review"
+  },
+  "w_0d0d8508c5f9": {
+    "de": "der Preis",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "der",
+      "plural": "die Preise"
+    },
+    "review_status": "needs_review"
+  },
+  "w_b897bd8bf113": {
+    "de": "das Auto",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "das",
+      "plural": "die Autos"
+    },
+    "review_status": "needs_review"
+  },
+  "w_869b4d823bb4": {
+    "de": "der Bus",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "der",
+      "plural": "die Busse"
+    },
+    "review_status": "needs_review"
+  },
+  "w_4a8bc8df3cbc": {
+    "de": "der Zug",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "der",
+      "plural": "die Züge"
+    },
+    "review_status": "needs_review"
+  },
+  "w_91e36c2b68fb": {
+    "de": "die U-Bahn",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "die",
+      "plural": "die U-Bahnen"
+    },
+    "review_status": "needs_review"
+  },
+  "w_8fb87429d263": {
+    "de": "das Flugzeug",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "das",
+      "plural": "die Flugzeuge"
+    },
+    "review_status": "needs_review"
+  },
+  "w_f017faa3dfe9": {
+    "de": "die Stunde",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "die",
+      "plural": "die Stunden"
+    },
+    "review_status": "needs_review"
+  },
+  "w_12102b146bc9": {
+    "de": "der Tag",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "der",
+      "plural": "die Tage"
+    },
+    "review_status": "needs_review"
+  },
+  "w_6324b1230f81": {
+    "de": "die Woche",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "die",
+      "plural": "die Wochen"
+    },
+    "review_status": "needs_review"
+  },
+  "w_da529f4b7489": {
+    "de": "der Monat",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "der",
+      "plural": "die Monate"
+    },
+    "review_status": "needs_review"
+  },
+  "w_be9e5c4ec57a": {
+    "de": "das Jahr",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "das",
+      "plural": "die Jahre"
+    },
+    "review_status": "needs_review"
+  },
+  "w_d6b66483fed8": {
+    "de": "der Morgen",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "der",
+      "plural": "die Morgen"
+    },
+    "review_status": "needs_review"
+  },
+  "w_2ac146fa7f39": {
+    "de": "der Nachmittag",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "der",
+      "plural": "die Nachmittage"
+    },
+    "review_status": "needs_review"
+  },
+  "w_4fde2afd7a48": {
+    "de": "die Nacht",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "die",
+      "plural": "die Nächte"
+    },
+    "review_status": "needs_review"
+  },
+  "w_49673412551a": {
+    "de": "die Hitze",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "die",
+      "uncountable": true
+    },
+    "review_status": "needs_review"
+  },
+  "w_4b16fb43db68": {
+    "de": "die Kälte",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "die",
+      "uncountable": true
+    },
+    "review_status": "needs_review"
+  },
+  "w_14182a3465ad": {
+    "de": "die Sonne",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "die",
+      "plural": "die Sonnen"
+    },
+    "review_status": "needs_review"
+  },
+  "w_01dfda757c4c": {
+    "de": "der Regen",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "der",
+      "uncountable": true
+    },
+    "review_status": "needs_review"
+  },
+  "w_b4912c134033": {
+    "de": "der Schnee",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "der",
+      "uncountable": true
+    },
+    "review_status": "needs_review"
+  },
+  "w_a4dc4174d0de": {
+    "de": "lieben",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_9d24e27ea83d": {
+    "de": "verstehen",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_cd353bc74e87": {
+    "de": "fragen",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_26d961df13a2": {
+    "de": "antworten",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_82449412cc3c": {
+    "de": "warten",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_8548a9b56cbb": {
+    "de": "spielen",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_d660f9b6beeb": {
+    "de": "bezahlen",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_d73a0598288c": {
+    "de": "reisen",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_11d00e86b537": {
+    "de": "ankommen",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_188c597ed270": {
+    "de": "hinausgehen",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_47f3843fccb3": {
+    "de": "beginnen",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_3997c61f73b7": {
+    "de": "beenden",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_2b49098f2bae": {
+    "de": "sich hinsetzen",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_b278a7aae8f1": {
+    "de": "aufstehen",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_cc586b06b14c": {
+    "de": "schlafen",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_14733520b6f5": {
+    "de": "träumen",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_236d5e4cec74": {
+    "de": "das Hemd",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "das",
+      "plural": "die Hemden"
+    },
+    "review_status": "needs_review"
+  },
+  "w_500301c0c2da": {
+    "de": "die Hose",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "die",
+      "plural": "die Hosen"
+    },
+    "review_status": "needs_review"
+  },
+  "w_49bf733b79e0": {
+    "de": "der Schuh",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "der",
+      "plural": "die Schuhe"
+    },
+    "review_status": "needs_review"
+  },
+  "w_236c275b8cdf": {
+    "de": "der Hut",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "der",
+      "plural": "die Hüte"
+    },
+    "review_status": "needs_review"
+  },
+  "w_885ac3bca4fc": {
+    "de": "das T-Shirt",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "das",
+      "plural": "die T-Shirts"
+    },
+    "review_status": "needs_review"
+  },
+  "w_f40188086aa6": {
+    "de": "der Mantel",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "der",
+      "plural": "die Mäntel"
+    },
+    "review_status": "needs_review"
+  },
+  "w_8536ceea54e8": {
+    "de": "groß",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_78557b2a26bc": {
+    "de": "klein",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_38775ae0fd85": {
+    "de": "neu",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_f0a0eb4891ea": {
+    "de": "alt",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_e20f510b81b4": {
+    "de": "schön",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_97e16b828552": {
+    "de": "hässlich",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_01f2a0ac35b3": {
+    "de": "groß gewachsen",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_d7ad6e478035": {
+    "de": "niedrig / klein gewachsen",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_a716d33d7898": {
+    "de": "leicht",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_69d8ff18cf57": {
+    "de": "schwierig",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_90f24833ea14": {
+    "de": "schnell",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_e880fe05e573": {
+    "de": "langsam",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_bf427a46590f": {
+    "de": "sicher",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_04a796489f83": {
+    "de": "gefährlich",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_dcf3a9b0f2da": {
+    "de": "wichtig",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_2f81ccb1ed48": {
+    "de": "möglich",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_31ae869e1073": {
+    "de": "vorne",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_2920d59d144e": {
+    "de": "drinnen",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_00512da92537": {
+    "de": "draußen",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_59af1039119f": {
+    "de": "links",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_49639b43bc2f": {
+    "de": "rechts",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_e5ac70e9231b": {
+    "de": "oben",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_6028f3e1b8be": {
+    "de": "unten",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_2aebc0d87c87": {
+    "de": "sehr",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_e04c6b8d19a4": {
+    "de": "ziemlich / genug",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_22c5099c16cb": {
+    "de": "wenig",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_226167ced6a6": {
+    "de": "nichts",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_fd108417f695": {
+    "de": "etwas",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_853be80fe580": {
+    "de": "immer",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_b850ca0f4233": {
+    "de": "nie",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_74e54e2f6bb6": {
+    "de": "manchmal",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_08cffa093466": {
+    "de": "alles",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_c4245f7c20bd": {
+    "de": "zusammen",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_b85d84f89575": {
+    "de": "allein",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_95dd25fc2381": {
+    "de": "der Park",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "der",
+      "plural": "die Parks"
+    },
+    "review_status": "needs_review"
+  },
+  "w_29945ab6e799": {
+    "de": "der Platz",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "der",
+      "plural": "die Plätze"
+    },
+    "review_status": "needs_review"
+  },
+  "w_755ad0bb813a": {
+    "de": "das Restaurant",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "das",
+      "plural": "die Restaurants"
+    },
+    "review_status": "needs_review"
+  },
+  "w_93afb0340017": {
+    "de": "das Hotel",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "das",
+      "plural": "die Hotels"
+    },
+    "review_status": "needs_review"
+  },
+  "w_d1ee5efe940a": {
+    "de": "die Apotheke",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "die",
+      "plural": "die Apotheken"
+    },
+    "review_status": "needs_review"
+  },
+  "w_f3333ce7274d": {
+    "de": "teuer",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_5ffc94315683": {
+    "de": "günstig",
+    "grammar": {},
+    "review_status": "needs_review"
+  },
+  "w_faf24e2dd267": {
+    "de": "die Sekunde",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "die",
+      "plural": "die Sekunden"
+    },
+    "review_status": "needs_review"
+  },
+  "w_a87a6a227669": {
+    "de": "die Minute",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "die",
+      "plural": "die Minuten"
+    },
+    "review_status": "needs_review"
+  },
+  "w_314a39549204": {
+    "de": "das Lernen",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "das",
+      "uncountable": true
+    },
+    "review_status": "needs_review"
+  },
+  "w_7738193195ba": {
+    "de": "das Telefon",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "das",
+      "plural": "die Telefone"
+    },
+    "review_status": "needs_review"
+  },
+  "w_761a1dc40b96": {
+    "de": "das Internet",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "das",
+      "uncountable": true
+    },
+    "review_status": "needs_review"
+  },
+  "w_bc750fbb07ec": {
+    "de": "der Computer",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "der",
+      "plural": "die Computer"
+    },
+    "review_status": "needs_review"
+  },
+  "w_c8517329b9cd": {
+    "de": "das Foto",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "das",
+      "plural": "die Fotos"
+    },
+    "review_status": "needs_review"
+  },
+  "w_530ca9b1e606": {
+    "de": "das Video",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "das",
+      "plural": "die Videos"
+    },
+    "review_status": "needs_review"
+  },
+  "w_c7c17a1b900e": {
+    "de": "die Nachricht",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "die",
+      "plural": "die Nachrichten"
+    },
+    "review_status": "needs_review"
+  },
+  "w_f0e813699db0": {
+    "de": "der Text",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "der",
+      "plural": "die Texte"
+    },
+    "review_status": "needs_review"
+  },
+  "w_6d0cc86e82c6": {
+    "de": "die Musik",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "die",
+      "uncountable": true
+    },
+    "review_status": "needs_review"
+  },
+  "w_c8d939b2d788": {
+    "de": "der Film",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "der",
+      "plural": "die Filme"
+    },
+    "review_status": "needs_review"
+  },
+  "w_ad7d6fe53b5b": {
+    "de": "das Buch",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "das",
+      "plural": "die Bücher"
+    },
+    "review_status": "needs_review"
+  },
+  "w_8bbee329b9e7": {
+    "de": "die Geschichte",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "die",
+      "plural": "die Geschichten"
+    },
+    "review_status": "needs_review"
+  },
+  "w_236bde656a1d": {
+    "de": "die Idee",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "die",
+      "plural": "die Ideen"
+    },
+    "review_status": "needs_review"
+  },
+  "w_1afa4d7474c6": {
+    "de": "das Problem",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "das",
+      "plural": "die Probleme"
+    },
+    "review_status": "needs_review"
+  },
+  "w_4f86d11fba3b": {
+    "de": "die Lösung",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "die",
+      "plural": "die Lösungen"
+    },
+    "review_status": "needs_review"
+  }
+}

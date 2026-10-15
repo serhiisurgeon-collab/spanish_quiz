@@ -1,6 +1,8 @@
 /* The server owns progress; browser state is only a durable retry request. */
 window.startSecureQuiz = async function(tg, params) {
-  const lang=['uk','en'].includes(params.get('lang'))?params.get('lang'):'uk';
+  const lang=['uk','en','es','de'].includes(params.get('interface_language')||params.get('lang'))?(params.get('interface_language')||params.get('lang')):'uk';
+  const translation=['uk','en','es','de'].includes(params.get('translation_language'))?params.get('translation_language'):lang;
+  const learning=['uk','en','es','de'].includes(params.get('learning_language'))?params.get('learning_language'):'es';
   const level=['A1','A2','B1'].includes(params.get('level'))?params.get('level'):'A1';
   const d=window.QuizLocales[lang], t=(key,values={})=>d[key].replace(/\{(\w+)\}/g,(_,k)=>values[k]);
   const el=id=>document.getElementById(id),next=el('nextBtn'),finish=el('finishBtn'),error=el('error');
@@ -14,7 +16,7 @@ window.startSecureQuiz = async function(tg, params) {
   const clear=()=>{try{sessionStorage.removeItem(key);}catch(_){}};
   function lock(){next.disabled=true;finish.disabled=true;for(const b of el('optionsContainer').querySelectorAll('button'))b.disabled=true;}
   function failure(e,action){
-    terminal=['auth_expired','access_denied'].includes(e.code);error.textContent=t(e.code==='auth_expired'?'authExpired':e.code==='access_denied'?'accessDenied':e.code==='server'?'serverError':e.code==='invalid'?'requestError':e.code==='timeout'?'timeoutError':'networkError');
+    terminal=['auth_expired','access_denied','direction_pending'].includes(e.code);error.textContent=t(e.code==='direction_pending'?'directionPending':e.code==='auth_expired'?'authExpired':e.code==='access_denied'?'accessDenied':e.code==='server'?'serverError':e.code==='invalid'?'requestError':e.code==='timeout'?'timeoutError':'networkError');
     retryAction=action;retry.hidden=terminal;lock();
   }
   async function call(path,body){
@@ -22,7 +24,7 @@ window.startSecureQuiz = async function(tg, params) {
     try{
       const response=await fetch(base+path,{method:'POST',signal:controller.signal,headers:{'Content-Type':'application/json'},body:JSON.stringify({...body,initData:tg.initData})});
       const data=await response.json();
-      if(!response.ok){const e=new Error('API');e.code=data.error==='auth_expired'?'auth_expired':response.status===401||response.status===403?'access_denied':response.status>=500?'server':'invalid';throw e;}
+      if(!response.ok){const e=new Error('API');e.code=data.error==='direction_not_ready'?'direction_pending':data.error==='auth_expired'?'auth_expired':response.status===401||response.status===403?'access_denied':response.status>=500?'server':'invalid';throw e;}
       return data;
     }catch(e){if(!e.code)e.code=e.name==='AbortError'?'timeout':'network';throw e;}finally{clearTimeout(timer);}
   }
@@ -119,7 +121,7 @@ window.startSecureQuiz = async function(tg, params) {
   };
   async function boot(){
     const identity=await call('/quiz/identity',{});
-    key='verifiedQuiz:'+identity.user_id+':'+level+':'+lang;
+    key='verifiedQuiz:'+identity.user_id+':'+level+':'+lang+(learning==='es'&&translation===lang?'':':'+learning+':'+translation);
     if(!state){try{state=JSON.parse(sessionStorage.getItem(key)||'null');}catch(_){state=null;}}
     if(!state){
       // Migrate an old unbound browser record only after server ownership verification.
@@ -128,7 +130,7 @@ window.startSecureQuiz = async function(tg, params) {
       if(legacy?.sid&&typeof legacy.request_id==='string'){
         try{
           const verified=await call('/quiz/question',{session_id:legacy.sid});
-          if(verified.question.user_id===identity.user_id&&verified.question.level===level&&verified.question.language===lang){
+          if(verified.question.user_id===identity.user_id&&verified.question.level===level&&(verified.question.interface_language||verified.question.language)===lang&&(verified.question.translation_language||verified.question.language)===translation){
             state={request_id:legacy.request_id,sid:legacy.sid};try{sessionStorage.removeItem(legacyKey);}catch(_){}
           }
         }catch(e){if(e.code!=='access_denied'&&e.code!=='invalid')throw e;}
@@ -136,7 +138,7 @@ window.startSecureQuiz = async function(tg, params) {
     }
     if(!state||typeof state.request_id!=='string')state={request_id:crypto.randomUUID()};
     if(state.completed&&state.sid){sid=state.sid;return load();}
-    save();const result=await call('/quiz/session',{level,lang,request_id:state.request_id});sid=result.session_id;state.sid=sid;save();
+    save();const result=await call('/quiz/session',{level,lang,interface_language:lang,learning_language:learning,translation_language:translation,request_id:state.request_id});sid=result.session_id;state.sid=sid;save();
     if(state.pending&&state.pending.session_id===sid)return resolvePending();
     await load();
   }
