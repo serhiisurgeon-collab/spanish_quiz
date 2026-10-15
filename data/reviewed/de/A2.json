@@ -1,0 +1,867 @@
+[
+  {
+    "id": "de-a2-foundation-001",
+    "canonical_id": "de-a2-foundation-001",
+    "source_language": "de",
+    "text": "die Versicherung",
+    "de": "die Versicherung",
+    "uk": "страхування",
+    "en": "insurance",
+    "es": "el seguro",
+    "example": {
+      "de": "Für die Reise brauche ich eine Versicherung.",
+      "uk": "Для поїздки мені потрібне страхування.",
+      "en": "I need insurance for the trip.",
+      "es": "Necesito un seguro para el viaje."
+    },
+    "level": "A2",
+    "sense": "insurance",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "die",
+      "plural": "die Versicherungen"
+    },
+    "topic": "travel",
+    "options": {
+      "uk": [
+        "страхування",
+        "заява на роботу",
+        "переїзд до іншого житла",
+        "запізнення"
+      ],
+      "en": [
+        "a delay",
+        "insurance",
+        "a house move",
+        "a job application"
+      ],
+      "es": [
+        "el retraso",
+        "el seguro",
+        "la solicitud de empleo",
+        "la mudanza"
+      ]
+    }
+  },
+  {
+    "id": "de-a2-foundation-002",
+    "canonical_id": "de-a2-foundation-002",
+    "source_language": "de",
+    "text": "die Bewerbung",
+    "de": "die Bewerbung",
+    "uk": "заява на роботу",
+    "en": "a job application",
+    "es": "la solicitud de empleo",
+    "example": {
+      "de": "Ich habe meine Bewerbung gestern abgeschickt.",
+      "uk": "Я вчора надіслав заяву на роботу.",
+      "en": "I sent my job application yesterday.",
+      "es": "Ayer envié mi solicitud de empleo."
+    },
+    "level": "A2",
+    "sense": "a job application",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "die",
+      "plural": "die Bewerbungen"
+    },
+    "topic": "work",
+    "options": {
+      "uk": [
+        "запізнення",
+        "заява на роботу",
+        "переїзд до іншого житла",
+        "страхування"
+      ],
+      "en": [
+        "insurance",
+        "a house move",
+        "a delay",
+        "a job application"
+      ],
+      "es": [
+        "la mudanza",
+        "el retraso",
+        "el seguro",
+        "la solicitud de empleo"
+      ]
+    }
+  },
+  {
+    "id": "de-a2-foundation-003",
+    "canonical_id": "de-a2-foundation-003",
+    "source_language": "de",
+    "text": "der Umzug",
+    "de": "der Umzug",
+    "uk": "переїзд до іншого житла",
+    "en": "a house move",
+    "es": "la mudanza",
+    "example": {
+      "de": "Unser Umzug ist für nächsten Monat geplant.",
+      "uk": "Наш переїзд заплановано на наступний місяць.",
+      "en": "Our house move is planned for next month.",
+      "es": "Nuestra mudanza está prevista para el mes que viene."
+    },
+    "level": "A2",
+    "sense": "a house move",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "der",
+      "plural": "die Umzüge"
+    },
+    "topic": "housing",
+    "options": {
+      "uk": [
+        "заява на роботу",
+        "страхування",
+        "переїзд до іншого житла",
+        "запізнення"
+      ],
+      "en": [
+        "a job application",
+        "a house move",
+        "a delay",
+        "insurance"
+      ],
+      "es": [
+        "el seguro",
+        "la solicitud de empleo",
+        "la mudanza",
+        "el retraso"
+      ]
+    }
+  },
+  {
+    "id": "de-a2-foundation-004",
+    "canonical_id": "de-a2-foundation-004",
+    "source_language": "de",
+    "text": "die Verspätung",
+    "de": "die Verspätung",
+    "uk": "запізнення",
+    "en": "a delay",
+    "es": "el retraso",
+    "example": {
+      "de": "Der Zug hat zehn Minuten Verspätung.",
+      "uk": "Потяг запізнюється на десять хвилин.",
+      "en": "The train is ten minutes late.",
+      "es": "El tren lleva diez minutos de retraso."
+    },
+    "level": "A2",
+    "sense": "a delay",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "die",
+      "plural": "die Verspätungen"
+    },
+    "topic": "travel",
+    "options": {
+      "uk": [
+        "страхування",
+        "переїзд до іншого житла",
+        "запізнення",
+        "заява на роботу"
+      ],
+      "en": [
+        "a delay",
+        "insurance",
+        "a house move",
+        "a job application"
+      ],
+      "es": [
+        "el seguro",
+        "la solicitud de empleo",
+        "el retraso",
+        "la mudanza"
+      ]
+    }
+  },
+  {
+    "id": "de-a2-foundation-005",
+    "canonical_id": "de-a2-foundation-005",
+    "source_language": "de",
+    "text": "die Nebenkosten",
+    "de": "die Nebenkosten",
+    "uk": "додаткові витрати на житло",
+    "en": "additional housing costs",
+    "es": "los gastos adicionales de la vivienda",
+    "example": {
+      "de": "Wie hoch sind die Nebenkosten pro Monat?",
+      "uk": "Які додаткові витрати на житло за місяць?",
+      "en": "How much are the additional housing costs per month?",
+      "es": "¿Cuánto son los gastos adicionales de la vivienda al mes?"
+    },
+    "level": "A2",
+    "sense": "additional housing costs",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "die",
+      "plural": "die Nebenkosten",
+      "plural_only": true
+    },
+    "topic": "housing",
+    "options": {
+      "uk": [
+        "служба підтримки клієнтів",
+        "запрошення",
+        "додаткові витрати на житло",
+        "рецепт лікаря"
+      ],
+      "en": [
+        "an invitation",
+        "customer service",
+        "a doctor's prescription",
+        "additional housing costs"
+      ],
+      "es": [
+        "la receta médica",
+        "la invitación",
+        "los gastos adicionales de la vivienda",
+        "el servicio de atención al cliente"
+      ]
+    }
+  },
+  {
+    "id": "de-a2-foundation-006",
+    "canonical_id": "de-a2-foundation-006",
+    "source_language": "de",
+    "text": "das Rezept",
+    "de": "das Rezept",
+    "uk": "рецепт лікаря",
+    "en": "a doctor's prescription",
+    "es": "la receta médica",
+    "example": {
+      "de": "Der Arzt hat mir ein Rezept gegeben.",
+      "uk": "Лікар дав мені рецепт.",
+      "en": "The doctor gave me a prescription.",
+      "es": "El médico me ha dado una receta."
+    },
+    "level": "A2",
+    "sense": "a doctor's prescription",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "das",
+      "plural": "die Rezepte"
+    },
+    "topic": "health",
+    "options": {
+      "uk": [
+        "додаткові витрати на житло",
+        "рецепт лікаря",
+        "служба підтримки клієнтів",
+        "запрошення"
+      ],
+      "en": [
+        "an invitation",
+        "a doctor's prescription",
+        "additional housing costs",
+        "customer service"
+      ],
+      "es": [
+        "la receta médica",
+        "los gastos adicionales de la vivienda",
+        "el servicio de atención al cliente",
+        "la invitación"
+      ]
+    }
+  },
+  {
+    "id": "de-a2-foundation-007",
+    "canonical_id": "de-a2-foundation-007",
+    "source_language": "de",
+    "text": "der Kundendienst",
+    "de": "der Kundendienst",
+    "uk": "служба підтримки клієнтів",
+    "en": "customer service",
+    "es": "el servicio de atención al cliente",
+    "example": {
+      "de": "Ich rufe den Kundendienst an, weil die Waschmaschine nicht funktioniert.",
+      "uk": "Я телефоную до служби підтримки клієнтів, бо пральна машина не працює.",
+      "en": "I am calling customer service because the washing machine is not working.",
+      "es": "Llamo al servicio de atención al cliente porque la lavadora no funciona."
+    },
+    "level": "A2",
+    "sense": "customer service",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "der",
+      "uncountable": true
+    },
+    "topic": "services",
+    "options": {
+      "uk": [
+        "додаткові витрати на житло",
+        "рецепт лікаря",
+        "запрошення",
+        "служба підтримки клієнтів"
+      ],
+      "en": [
+        "an invitation",
+        "additional housing costs",
+        "a doctor's prescription",
+        "customer service"
+      ],
+      "es": [
+        "los gastos adicionales de la vivienda",
+        "la invitación",
+        "la receta médica",
+        "el servicio de atención al cliente"
+      ]
+    }
+  },
+  {
+    "id": "de-a2-foundation-008",
+    "canonical_id": "de-a2-foundation-008",
+    "source_language": "de",
+    "text": "die Einladung",
+    "de": "die Einladung",
+    "uk": "запрошення",
+    "en": "an invitation",
+    "es": "la invitación",
+    "example": {
+      "de": "Danke für die Einladung zu deinem Geburtstag.",
+      "uk": "Дякую за запрошення на твій день народження.",
+      "en": "Thank you for the invitation to your birthday party.",
+      "es": "Gracias por la invitación a tu cumpleaños."
+    },
+    "level": "A2",
+    "sense": "an invitation",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "die",
+      "plural": "die Einladungen"
+    },
+    "topic": "relationships",
+    "options": {
+      "uk": [
+        "рецепт лікаря",
+        "служба підтримки клієнтів",
+        "запрошення",
+        "додаткові витрати на житло"
+      ],
+      "en": [
+        "an invitation",
+        "additional housing costs",
+        "customer service",
+        "a doctor's prescription"
+      ],
+      "es": [
+        "el servicio de atención al cliente",
+        "la invitación",
+        "la receta médica",
+        "los gastos adicionales de la vivienda"
+      ]
+    }
+  },
+  {
+    "id": "de-a2-foundation-009",
+    "canonical_id": "de-a2-foundation-009",
+    "source_language": "de",
+    "text": "vereinbaren",
+    "de": "vereinbaren",
+    "uk": "узгоджувати",
+    "en": "to arrange by agreement",
+    "es": "concertar",
+    "example": {
+      "de": "Wir möchten einen Termin für nächste Woche vereinbaren.",
+      "uk": "Ми хочемо узгодити зустріч на наступний тиждень.",
+      "en": "We would like to arrange an appointment for next week.",
+      "es": "Queremos concertar una cita para la semana que viene."
+    },
+    "level": "A2",
+    "sense": "to arrange by agreement",
+    "grammar": {
+      "part_of_speech": "verb",
+      "usage": "einen Termin vereinbaren"
+    },
+    "topic": "services",
+    "options": {
+      "uk": [
+        "повертати річ",
+        "робити пересадку",
+        "узгоджувати",
+        "переносити на інший час"
+      ],
+      "en": [
+        "to arrange by agreement",
+        "to reschedule",
+        "to give back",
+        "to change trains or buses"
+      ],
+      "es": [
+        "hacer transbordo",
+        "devolver",
+        "concertar",
+        "cambiar de fecha"
+      ]
+    }
+  },
+  {
+    "id": "de-a2-foundation-010",
+    "canonical_id": "de-a2-foundation-010",
+    "source_language": "de",
+    "text": "verschieben",
+    "de": "verschieben",
+    "uk": "переносити на інший час",
+    "en": "to reschedule",
+    "es": "cambiar de fecha",
+    "example": {
+      "de": "Können wir den Termin auf Freitag verschieben?",
+      "uk": "Можна перенести зустріч на п’ятницю?",
+      "en": "Can we reschedule the appointment for Friday?",
+      "es": "¿Podemos cambiar la cita al viernes?"
+    },
+    "level": "A2",
+    "sense": "to reschedule",
+    "grammar": {
+      "part_of_speech": "verb",
+      "usage": "etwas auf + Akkusativ verschieben"
+    },
+    "topic": "plans",
+    "options": {
+      "uk": [
+        "повертати річ",
+        "узгоджувати",
+        "робити пересадку",
+        "переносити на інший час"
+      ],
+      "en": [
+        "to give back",
+        "to arrange by agreement",
+        "to change trains or buses",
+        "to reschedule"
+      ],
+      "es": [
+        "hacer transbordo",
+        "concertar",
+        "cambiar de fecha",
+        "devolver"
+      ]
+    }
+  },
+  {
+    "id": "de-a2-foundation-011",
+    "canonical_id": "de-a2-foundation-011",
+    "source_language": "de",
+    "text": "umsteigen",
+    "de": "umsteigen",
+    "uk": "робити пересадку",
+    "en": "to change trains or buses",
+    "es": "hacer transbordo",
+    "example": {
+      "de": "In Berlin müssen wir umsteigen.",
+      "uk": "У Берліні нам потрібно зробити пересадку.",
+      "en": "We have to change trains in Berlin.",
+      "es": "Tenemos que hacer transbordo en Berlín."
+    },
+    "level": "A2",
+    "sense": "to change trains or buses",
+    "grammar": {
+      "part_of_speech": "verb",
+      "usage": "in + Dativ umsteigen"
+    },
+    "topic": "travel",
+    "options": {
+      "uk": [
+        "повертати річ",
+        "узгоджувати",
+        "переносити на інший час",
+        "робити пересадку"
+      ],
+      "en": [
+        "to arrange by agreement",
+        "to change trains or buses",
+        "to give back",
+        "to reschedule"
+      ],
+      "es": [
+        "concertar",
+        "cambiar de fecha",
+        "devolver",
+        "hacer transbordo"
+      ]
+    }
+  },
+  {
+    "id": "de-a2-foundation-012",
+    "canonical_id": "de-a2-foundation-012",
+    "source_language": "de",
+    "text": "zurückgeben",
+    "de": "zurückgeben",
+    "uk": "повертати річ",
+    "en": "to give back",
+    "es": "devolver",
+    "example": {
+      "de": "Ich möchte diese Jacke zurückgeben.",
+      "uk": "Я хочу повернути цю куртку.",
+      "en": "I would like to return this jacket.",
+      "es": "Quiero devolver esta chaqueta."
+    },
+    "level": "A2",
+    "sense": "to give back",
+    "grammar": {
+      "part_of_speech": "verb",
+      "usage": "jemandem etwas zurückgeben"
+    },
+    "topic": "shopping",
+    "options": {
+      "uk": [
+        "переносити на інший час",
+        "робити пересадку",
+        "повертати річ",
+        "узгоджувати"
+      ],
+      "en": [
+        "to arrange by agreement",
+        "to change trains or buses",
+        "to reschedule",
+        "to give back"
+      ],
+      "es": [
+        "hacer transbordo",
+        "devolver",
+        "concertar",
+        "cambiar de fecha"
+      ]
+    }
+  },
+  {
+    "id": "de-a2-foundation-013",
+    "canonical_id": "de-a2-foundation-013",
+    "source_language": "de",
+    "text": "sich beschweren",
+    "de": "sich beschweren",
+    "uk": "скаржитися",
+    "en": "to complain",
+    "es": "quejarse",
+    "example": {
+      "de": "Der Gast beschwert sich über den Lärm.",
+      "uk": "Гість скаржиться на шум.",
+      "en": "The guest is complaining about the noise.",
+      "es": "El huésped se queja del ruido."
+    },
+    "level": "A2",
+    "sense": "to complain",
+    "grammar": {
+      "part_of_speech": "verb",
+      "usage": "sich bei + Dativ über + Akkusativ beschweren"
+    },
+    "topic": "services",
+    "options": {
+      "uk": [
+        "перепрошувати",
+        "порівнювати",
+        "скаржитися",
+        "мати намір"
+      ],
+      "en": [
+        "to compare",
+        "to apologise",
+        "to intend",
+        "to complain"
+      ],
+      "es": [
+        "quejarse",
+        "comparar",
+        "disculparse",
+        "tener intención de"
+      ]
+    }
+  },
+  {
+    "id": "de-a2-foundation-014",
+    "canonical_id": "de-a2-foundation-014",
+    "source_language": "de",
+    "text": "vergleichen",
+    "de": "vergleichen",
+    "uk": "порівнювати",
+    "en": "to compare",
+    "es": "comparar",
+    "example": {
+      "de": "Ich vergleiche die Preise von zwei Wohnungen.",
+      "uk": "Я порівнюю ціни двох квартир.",
+      "en": "I am comparing the prices of two flats.",
+      "es": "Comparo los precios de dos pisos."
+    },
+    "level": "A2",
+    "sense": "to compare",
+    "grammar": {
+      "part_of_speech": "verb",
+      "usage": "etwas mit + Dativ vergleichen"
+    },
+    "topic": "housing",
+    "options": {
+      "uk": [
+        "порівнювати",
+        "скаржитися",
+        "перепрошувати",
+        "мати намір"
+      ],
+      "en": [
+        "to complain",
+        "to intend",
+        "to apologise",
+        "to compare"
+      ],
+      "es": [
+        "tener intención de",
+        "quejarse",
+        "disculparse",
+        "comparar"
+      ]
+    }
+  },
+  {
+    "id": "de-a2-foundation-015",
+    "canonical_id": "de-a2-foundation-015",
+    "source_language": "de",
+    "text": "sich entschuldigen",
+    "de": "sich entschuldigen",
+    "uk": "перепрошувати",
+    "en": "to apologise",
+    "es": "disculparse",
+    "example": {
+      "de": "Ich möchte mich für meine Verspätung entschuldigen.",
+      "uk": "Я хочу перепросити за запізнення.",
+      "en": "I would like to apologise for being late.",
+      "es": "Quiero disculparme por llegar tarde."
+    },
+    "level": "A2",
+    "sense": "to apologise",
+    "grammar": {
+      "part_of_speech": "verb",
+      "usage": "sich bei + Dativ für + Akkusativ entschuldigen"
+    },
+    "topic": "relationships",
+    "options": {
+      "uk": [
+        "порівнювати",
+        "перепрошувати",
+        "скаржитися",
+        "мати намір"
+      ],
+      "en": [
+        "to compare",
+        "to complain",
+        "to apologise",
+        "to intend"
+      ],
+      "es": [
+        "comparar",
+        "disculparse",
+        "quejarse",
+        "tener intención de"
+      ]
+    }
+  },
+  {
+    "id": "de-a2-foundation-016",
+    "canonical_id": "de-a2-foundation-016",
+    "source_language": "de",
+    "text": "vorhaben",
+    "de": "vorhaben",
+    "uk": "мати намір",
+    "en": "to intend",
+    "es": "tener intención de",
+    "example": {
+      "de": "Was hast du am Wochenende vor?",
+      "uk": "Що ти плануєш на вихідні?",
+      "en": "What are you planning to do at the weekend?",
+      "es": "¿Qué tienes pensado hacer el fin de semana?"
+    },
+    "level": "A2",
+    "sense": "to intend",
+    "grammar": {
+      "part_of_speech": "verb",
+      "usage": "vorhaben + zu-Infinitiv"
+    },
+    "topic": "plans",
+    "options": {
+      "uk": [
+        "порівнювати",
+        "скаржитися",
+        "мати намір",
+        "перепрошувати"
+      ],
+      "en": [
+        "to complain",
+        "to compare",
+        "to apologise",
+        "to intend"
+      ],
+      "es": [
+        "tener intención de",
+        "quejarse",
+        "disculparse",
+        "comparar"
+      ]
+    }
+  },
+  {
+    "id": "de-a2-foundation-017",
+    "canonical_id": "de-a2-foundation-017",
+    "source_language": "de",
+    "text": "Könnten Sie mir den Weg zeigen?",
+    "de": "Könnten Sie mir den Weg zeigen?",
+    "uk": "Могли б ви показати мені дорогу?",
+    "en": "Could you show me the way?",
+    "es": "¿Podría indicarme el camino?",
+    "example": {
+      "de": "Könnten Sie mir bitte den Weg zum Rathaus zeigen?",
+      "uk": "Могли б ви показати мені дорогу до ратуші?",
+      "en": "Could you please show me the way to the town hall?",
+      "es": "¿Podría indicarme el camino al ayuntamiento, por favor?"
+    },
+    "level": "A2",
+    "sense": "Could you show me the way?",
+    "grammar": {
+      "part_of_speech": "phrase"
+    },
+    "topic": "travel",
+    "options": {
+      "uk": [
+        "Я з нетерпінням чекаю вихідних.",
+        "Я хочу забронювати столик на двох.",
+        "Могли б ви показати мені дорогу?",
+        "На жаль, мені це не підходить."
+      ],
+      "en": [
+        "Could you show me the way?",
+        "Unfortunately, that does not suit me.",
+        "I am looking forward to the weekend.",
+        "I would like to book a table for two."
+      ],
+      "es": [
+        "Quisiera reservar una mesa para dos.",
+        "Por desgracia, no me viene bien.",
+        "Tengo ganas de que llegue el fin de semana.",
+        "¿Podría indicarme el camino?"
+      ]
+    }
+  },
+  {
+    "id": "de-a2-foundation-018",
+    "canonical_id": "de-a2-foundation-018",
+    "source_language": "de",
+    "text": "Ich möchte einen Tisch für zwei Personen reservieren.",
+    "de": "Ich möchte einen Tisch für zwei Personen reservieren.",
+    "uk": "Я хочу забронювати столик на двох.",
+    "en": "I would like to book a table for two.",
+    "es": "Quisiera reservar una mesa para dos.",
+    "example": {
+      "de": "Ich möchte einen Tisch für zwei Personen für heute Abend reservieren.",
+      "uk": "Я хочу забронювати столик на двох на сьогоднішній вечір.",
+      "en": "I would like to book a table for two for this evening.",
+      "es": "Quisiera reservar una mesa para dos para esta noche."
+    },
+    "level": "A2",
+    "sense": "I would like to book a table for two.",
+    "grammar": {
+      "part_of_speech": "phrase"
+    },
+    "topic": "food",
+    "options": {
+      "uk": [
+        "Я хочу забронювати столик на двох.",
+        "Могли б ви показати мені дорогу?",
+        "Я з нетерпінням чекаю вихідних.",
+        "На жаль, мені це не підходить."
+      ],
+      "en": [
+        "Unfortunately, that does not suit me.",
+        "I am looking forward to the weekend.",
+        "Could you show me the way?",
+        "I would like to book a table for two."
+      ],
+      "es": [
+        "¿Podría indicarme el camino?",
+        "Tengo ganas de que llegue el fin de semana.",
+        "Quisiera reservar una mesa para dos.",
+        "Por desgracia, no me viene bien."
+      ]
+    }
+  },
+  {
+    "id": "de-a2-foundation-019",
+    "canonical_id": "de-a2-foundation-019",
+    "source_language": "de",
+    "text": "Das passt mir leider nicht.",
+    "de": "Das passt mir leider nicht.",
+    "uk": "На жаль, мені це не підходить.",
+    "en": "Unfortunately, that does not suit me.",
+    "es": "Por desgracia, no me viene bien.",
+    "example": {
+      "de": "Am Montag? Das passt mir leider nicht.",
+      "uk": "У понеділок? На жаль, мені це не підходить.",
+      "en": "On Monday? Unfortunately, that does not suit me.",
+      "es": "¿El lunes? Por desgracia, no me viene bien."
+    },
+    "level": "A2",
+    "sense": "Unfortunately, that does not suit me.",
+    "grammar": {
+      "part_of_speech": "phrase"
+    },
+    "topic": "plans",
+    "options": {
+      "uk": [
+        "Я з нетерпінням чекаю вихідних.",
+        "Могли б ви показати мені дорогу?",
+        "Я хочу забронювати столик на двох.",
+        "На жаль, мені це не підходить."
+      ],
+      "en": [
+        "Unfortunately, that does not suit me.",
+        "I would like to book a table for two.",
+        "I am looking forward to the weekend.",
+        "Could you show me the way?"
+      ],
+      "es": [
+        "Tengo ganas de que llegue el fin de semana.",
+        "Por desgracia, no me viene bien.",
+        "¿Podría indicarme el camino?",
+        "Quisiera reservar una mesa para dos."
+      ]
+    }
+  },
+  {
+    "id": "de-a2-foundation-020",
+    "canonical_id": "de-a2-foundation-020",
+    "source_language": "de",
+    "text": "Ich freue mich auf das Wochenende.",
+    "de": "Ich freue mich auf das Wochenende.",
+    "uk": "Я з нетерпінням чекаю вихідних.",
+    "en": "I am looking forward to the weekend.",
+    "es": "Tengo ganas de que llegue el fin de semana.",
+    "example": {
+      "de": "Nach dieser langen Woche freue ich mich auf das Wochenende.",
+      "uk": "Після цього довгого тижня я з нетерпінням чекаю вихідних.",
+      "en": "After this long week, I am looking forward to the weekend.",
+      "es": "Después de esta semana tan larga, tengo ganas de que llegue el fin de semana."
+    },
+    "level": "A2",
+    "sense": "I am looking forward to the weekend.",
+    "grammar": {
+      "part_of_speech": "phrase"
+    },
+    "topic": "leisure",
+    "options": {
+      "uk": [
+        "Могли б ви показати мені дорогу?",
+        "Я хочу забронювати столик на двох.",
+        "Я з нетерпінням чекаю вихідних.",
+        "На жаль, мені це не підходить."
+      ],
+      "en": [
+        "Could you show me the way?",
+        "I am looking forward to the weekend.",
+        "I would like to book a table for two.",
+        "Unfortunately, that does not suit me."
+      ],
+      "es": [
+        "Tengo ganas de que llegue el fin de semana.",
+        "¿Podría indicarme el camino?",
+        "Quisiera reservar una mesa para dos.",
+        "Por desgracia, no me viene bien."
+      ]
+    }
+  }
+]

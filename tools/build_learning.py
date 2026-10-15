@@ -91,10 +91,32 @@ def artifacts(source, bot_root):
         server_questions[level] = questions
     outcomes[bot_root / 'data' / 'quiz_questions.json'] = server_questions
     from migrate_content import migrate
-    migrated,audit=migrate(source,json.loads((bot_root/'locales/content.json').read_text()),json.loads((ROOT/'data/german_gloss_drafts.json').read_text()),json.loads((ROOT/'data/content_review_overrides.json').read_text()),json.loads((ROOT/'data/content_rights.json').read_text()))
+    migrated,audit=migrate(source,json.loads((bot_root/'locales/content.json').read_text()),json.loads((ROOT/'data/german_gloss_drafts.json').read_text()),json.loads((ROOT/'data/content_review_overrides.json').read_text()),json.loads((ROOT/'data/content_rights.json').read_text()),json.loads((ROOT/'data/content_text_reviews.json').read_text()),json.loads((ROOT/'data/material_identity_review.json').read_text()))
     outcomes[ROOT/'data/materials_v2.json']=migrated
     outcomes[bot_root/'data/materials_v2.json']=migrated
     outcomes[ROOT/'data/content_migration_audit.json']=audit
+    from reviewed_runtime import compile_runtime
+    runtime,question_audit=compile_runtime(migrated)
+    outcomes[bot_root/'data/runtime_catalog.json']=runtime
+    outcomes[bot_root/'data/material_aliases.json']=runtime['aliases']
+    for level,questions in runtime['questions'].items():outcomes[ROOT/'data/reviewed'/ (level+'.json')]=questions
+    outcomes[ROOT/'data/quiz_review_audit.json']=question_audit
+    from original_courses import compile_courses
+    originals=json.loads((ROOT/'data/original_courses.json').read_text())
+    from materials_catalog import Catalog
+    vocabulary_catalog=Catalog(migrated,originals)  # Global identity collision check.
+    courses,original_audit=compile_courses(originals)
+    from original_literature import compile_literature
+    literature=json.loads((ROOT/'data/original_literature.json').read_text())
+    Catalog({'records':list(vocabulary_catalog.records.values())},literature)
+    runtime['content_lookup'].update(compile_literature(literature,courses))
+    outcomes[bot_root/'data/original_literature.json']=literature
+    runtime['courses']=courses
+    outcomes[bot_root/'data/original_courses.json']=originals
+    outcomes[ROOT/'data/original_course_audit.json']=original_audit
+    for language,course in courses.items():
+        for level,questions in course['questions'].items():
+            outcomes[ROOT/'data/reviewed'/language/(level+'.json')]=questions
     return outcomes
 
 

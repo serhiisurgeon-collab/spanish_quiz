@@ -1,0 +1,866 @@
+[
+  {
+    "id": "de-b1-foundation-001",
+    "canonical_id": "de-b1-foundation-001",
+    "source_language": "de",
+    "text": "die Voraussetzung",
+    "de": "die Voraussetzung",
+    "uk": "передумова",
+    "en": "a prerequisite",
+    "es": "el requisito previo",
+    "example": {
+      "de": "Gute Sprachkenntnisse sind eine Voraussetzung für diese Stelle.",
+      "uk": "Добре знання мови — передумова для цієї посади.",
+      "en": "Good language skills are a prerequisite for this position.",
+      "es": "Un buen conocimiento del idioma es un requisito previo para este puesto."
+    },
+    "level": "B1",
+    "sense": "a prerequisite",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "die",
+      "plural": "die Voraussetzungen"
+    },
+    "topic": "work",
+    "options": {
+      "uk": [
+        "відповідальність",
+        "зв’язок між явищами",
+        "вплив, наслідок",
+        "передумова"
+      ],
+      "en": [
+        "responsibility",
+        "a connection between things",
+        "an effect",
+        "a prerequisite"
+      ],
+      "es": [
+        "el efecto",
+        "el requisito previo",
+        "la responsabilidad",
+        "la relación entre fenómenos"
+      ]
+    }
+  },
+  {
+    "id": "de-b1-foundation-002",
+    "canonical_id": "de-b1-foundation-002",
+    "source_language": "de",
+    "text": "die Verantwortung",
+    "de": "die Verantwortung",
+    "uk": "відповідальність",
+    "en": "responsibility",
+    "es": "la responsabilidad",
+    "example": {
+      "de": "Mit der neuen Aufgabe habe ich mehr Verantwortung übernommen.",
+      "uk": "Із новим завданням я взяв на себе більше відповідальності.",
+      "en": "I took on more responsibility with the new task.",
+      "es": "Con la nueva tarea asumí más responsabilidad."
+    },
+    "level": "B1",
+    "sense": "responsibility",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "die",
+      "uncountable": true
+    },
+    "topic": "work",
+    "options": {
+      "uk": [
+        "зв’язок між явищами",
+        "передумова",
+        "відповідальність",
+        "вплив, наслідок"
+      ],
+      "en": [
+        "a prerequisite",
+        "a connection between things",
+        "responsibility",
+        "an effect"
+      ],
+      "es": [
+        "el efecto",
+        "la relación entre fenómenos",
+        "el requisito previo",
+        "la responsabilidad"
+      ]
+    }
+  },
+  {
+    "id": "de-b1-foundation-003",
+    "canonical_id": "de-b1-foundation-003",
+    "source_language": "de",
+    "text": "die Auswirkung",
+    "de": "die Auswirkung",
+    "uk": "вплив, наслідок",
+    "en": "an effect",
+    "es": "el efecto",
+    "example": {
+      "de": "Wir haben über die Auswirkungen des Verkehrs auf die Umwelt gesprochen.",
+      "uk": "Ми говорили про вплив транспорту на довкілля.",
+      "en": "We talked about the effects of traffic on the environment.",
+      "es": "Hablamos de los efectos del tráfico en el medio ambiente."
+    },
+    "level": "B1",
+    "sense": "an effect",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "die",
+      "plural": "die Auswirkungen"
+    },
+    "topic": "environment",
+    "options": {
+      "uk": [
+        "передумова",
+        "зв’язок між явищами",
+        "вплив, наслідок",
+        "відповідальність"
+      ],
+      "en": [
+        "a prerequisite",
+        "a connection between things",
+        "responsibility",
+        "an effect"
+      ],
+      "es": [
+        "el requisito previo",
+        "la relación entre fenómenos",
+        "la responsabilidad",
+        "el efecto"
+      ]
+    }
+  },
+  {
+    "id": "de-b1-foundation-004",
+    "canonical_id": "de-b1-foundation-004",
+    "source_language": "de",
+    "text": "der Zusammenhang",
+    "de": "der Zusammenhang",
+    "uk": "зв’язок між явищами",
+    "en": "a connection between things",
+    "es": "la relación entre fenómenos",
+    "example": {
+      "de": "Ich sehe einen Zusammenhang zwischen Schlaf und Konzentration.",
+      "uk": "Я бачу зв’язок між сном і зосередженістю.",
+      "en": "I can see a connection between sleep and concentration.",
+      "es": "Veo una relación entre el sueño y la concentración."
+    },
+    "level": "B1",
+    "sense": "a connection between things",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "der",
+      "plural": "die Zusammenhänge"
+    },
+    "topic": "health",
+    "options": {
+      "uk": [
+        "зв’язок між явищами",
+        "передумова",
+        "відповідальність",
+        "вплив, наслідок"
+      ],
+      "en": [
+        "responsibility",
+        "an effect",
+        "a connection between things",
+        "a prerequisite"
+      ],
+      "es": [
+        "el requisito previo",
+        "el efecto",
+        "la relación entre fenómenos",
+        "la responsabilidad"
+      ]
+    }
+  },
+  {
+    "id": "de-b1-foundation-005",
+    "canonical_id": "de-b1-foundation-005",
+    "source_language": "de",
+    "text": "die Berufserfahrung",
+    "de": "die Berufserfahrung",
+    "uk": "досвід роботи",
+    "en": "work experience",
+    "es": "la experiencia laboral",
+    "example": {
+      "de": "Durch das Praktikum konnte ich Berufserfahrung sammeln.",
+      "uk": "Завдяки стажуванню я зміг здобути досвід роботи.",
+      "en": "The placement enabled me to gain work experience.",
+      "es": "Gracias a las prácticas pude adquirir experiencia laboral."
+    },
+    "level": "B1",
+    "sense": "work experience",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "die",
+      "uncountable": true
+    },
+    "topic": "work",
+    "options": {
+      "uk": [
+        "пропозиція щодо покращення",
+        "досвід роботи",
+        "домовленість",
+        "складне завдання, виклик"
+      ],
+      "en": [
+        "an agreement",
+        "a suggestion for improvement",
+        "a challenge",
+        "work experience"
+      ],
+      "es": [
+        "la propuesta de mejora",
+        "la experiencia laboral",
+        "el reto",
+        "el acuerdo"
+      ]
+    }
+  },
+  {
+    "id": "de-b1-foundation-006",
+    "canonical_id": "de-b1-foundation-006",
+    "source_language": "de",
+    "text": "die Vereinbarung",
+    "de": "die Vereinbarung",
+    "uk": "домовленість",
+    "en": "an agreement",
+    "es": "el acuerdo",
+    "example": {
+      "de": "Wir haben unsere Vereinbarung schriftlich festgehalten.",
+      "uk": "Ми письмово зафіксували нашу домовленість.",
+      "en": "We put our agreement in writing.",
+      "es": "Dejamos nuestro acuerdo por escrito."
+    },
+    "level": "B1",
+    "sense": "an agreement",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "die",
+      "plural": "die Vereinbarungen"
+    },
+    "topic": "relationships",
+    "options": {
+      "uk": [
+        "домовленість",
+        "складне завдання, виклик",
+        "досвід роботи",
+        "пропозиція щодо покращення"
+      ],
+      "en": [
+        "a suggestion for improvement",
+        "work experience",
+        "an agreement",
+        "a challenge"
+      ],
+      "es": [
+        "la propuesta de mejora",
+        "el reto",
+        "el acuerdo",
+        "la experiencia laboral"
+      ]
+    }
+  },
+  {
+    "id": "de-b1-foundation-007",
+    "canonical_id": "de-b1-foundation-007",
+    "source_language": "de",
+    "text": "der Verbesserungsvorschlag",
+    "de": "der Verbesserungsvorschlag",
+    "uk": "пропозиція щодо покращення",
+    "en": "a suggestion for improvement",
+    "es": "la propuesta de mejora",
+    "example": {
+      "de": "Mein Verbesserungsvorschlag wurde im Team besprochen.",
+      "uk": "Мою пропозицію щодо покращення обговорили в команді.",
+      "en": "My suggestion for improvement was discussed by the team.",
+      "es": "Mi propuesta de mejora se comentó en el equipo."
+    },
+    "level": "B1",
+    "sense": "a suggestion for improvement",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "der",
+      "plural": "die Verbesserungsvorschläge"
+    },
+    "topic": "work",
+    "options": {
+      "uk": [
+        "домовленість",
+        "пропозиція щодо покращення",
+        "досвід роботи",
+        "складне завдання, виклик"
+      ],
+      "en": [
+        "an agreement",
+        "a suggestion for improvement",
+        "work experience",
+        "a challenge"
+      ],
+      "es": [
+        "la propuesta de mejora",
+        "la experiencia laboral",
+        "el reto",
+        "el acuerdo"
+      ]
+    }
+  },
+  {
+    "id": "de-b1-foundation-008",
+    "canonical_id": "de-b1-foundation-008",
+    "source_language": "de",
+    "text": "die Herausforderung",
+    "de": "die Herausforderung",
+    "uk": "складне завдання, виклик",
+    "en": "a challenge",
+    "es": "el reto",
+    "example": {
+      "de": "Die Arbeit in einer neuen Sprache war für mich eine Herausforderung.",
+      "uk": "Робота новою для мене мовою була складним завданням.",
+      "en": "Working in a new language was a challenge for me.",
+      "es": "Trabajar en un idioma nuevo fue un reto para mí."
+    },
+    "level": "B1",
+    "sense": "a challenge",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "die",
+      "plural": "die Herausforderungen"
+    },
+    "topic": "development",
+    "options": {
+      "uk": [
+        "складне завдання, виклик",
+        "домовленість",
+        "пропозиція щодо покращення",
+        "досвід роботи"
+      ],
+      "en": [
+        "a suggestion for improvement",
+        "work experience",
+        "a challenge",
+        "an agreement"
+      ],
+      "es": [
+        "el acuerdo",
+        "el reto",
+        "la propuesta de mejora",
+        "la experiencia laboral"
+      ]
+    }
+  },
+  {
+    "id": "de-b1-foundation-009",
+    "canonical_id": "de-b1-foundation-009",
+    "source_language": "de",
+    "text": "sich entscheiden für",
+    "de": "sich entscheiden für",
+    "uk": "обирати, вирішувати на користь",
+    "en": "to decide on",
+    "es": "decidirse por",
+    "example": {
+      "de": "Nach langem Überlegen habe ich mich für den Kurs entschieden.",
+      "uk": "Після тривалих роздумів я обрав цей курс.",
+      "en": "After thinking it over for a long time, I decided on the course.",
+      "es": "Después de pensarlo mucho me decidí por el curso."
+    },
+    "level": "B1",
+    "sense": "to decide on",
+    "grammar": {
+      "part_of_speech": "verb_phrase",
+      "usage": "sich für + Akkusativ entscheiden"
+    },
+    "topic": "decisions",
+    "options": {
+      "uk": [
+        "бути в розпорядженні",
+        "покладатися на",
+        "обирати, вирішувати на користь",
+        "дотримуватися встановленого терміну"
+      ],
+      "en": [
+        "to be available for use",
+        "to rely on",
+        "to meet a deadline",
+        "to decide on"
+      ],
+      "es": [
+        "cumplir un plazo",
+        "decidirse por",
+        "confiar en",
+        "estar a disposición"
+      ]
+    }
+  },
+  {
+    "id": "de-b1-foundation-010",
+    "canonical_id": "de-b1-foundation-010",
+    "source_language": "de",
+    "text": "sich verlassen auf",
+    "de": "sich verlassen auf",
+    "uk": "покладатися на",
+    "en": "to rely on",
+    "es": "confiar en",
+    "example": {
+      "de": "Bei schwierigen Aufgaben kann ich mich auf mein Team verlassen.",
+      "uk": "У складних завданнях я можу покластися на свою команду.",
+      "en": "I can rely on my team when dealing with difficult tasks.",
+      "es": "Puedo confiar en mi equipo cuando tengo tareas difíciles."
+    },
+    "level": "B1",
+    "sense": "to rely on",
+    "grammar": {
+      "part_of_speech": "verb_phrase",
+      "usage": "sich auf + Akkusativ verlassen"
+    },
+    "topic": "relationships",
+    "options": {
+      "uk": [
+        "обирати, вирішувати на користь",
+        "покладатися на",
+        "дотримуватися встановленого терміну",
+        "бути в розпорядженні"
+      ],
+      "en": [
+        "to rely on",
+        "to be available for use",
+        "to meet a deadline",
+        "to decide on"
+      ],
+      "es": [
+        "confiar en",
+        "estar a disposición",
+        "decidirse por",
+        "cumplir un plazo"
+      ]
+    }
+  },
+  {
+    "id": "de-b1-foundation-011",
+    "canonical_id": "de-b1-foundation-011",
+    "source_language": "de",
+    "text": "eine Frist einhalten",
+    "de": "eine Frist einhalten",
+    "uk": "дотримуватися встановленого терміну",
+    "en": "to meet a deadline",
+    "es": "cumplir un plazo",
+    "example": {
+      "de": "Wir müssen die Frist für die Anmeldung einhalten.",
+      "uk": "Ми маємо дотриматися встановленого терміну реєстрації.",
+      "en": "We must meet the registration deadline.",
+      "es": "Tenemos que cumplir el plazo de inscripción."
+    },
+    "level": "B1",
+    "sense": "to meet a deadline",
+    "grammar": {
+      "part_of_speech": "verb_phrase",
+      "usage": "eine Frist (Akkusativ) einhalten; hält ein, hat eingehalten"
+    },
+    "topic": "work",
+    "options": {
+      "uk": [
+        "дотримуватися встановленого терміну",
+        "покладатися на",
+        "бути в розпорядженні",
+        "обирати, вирішувати на користь"
+      ],
+      "en": [
+        "to meet a deadline",
+        "to be available for use",
+        "to rely on",
+        "to decide on"
+      ],
+      "es": [
+        "estar a disposición",
+        "confiar en",
+        "cumplir un plazo",
+        "decidirse por"
+      ]
+    }
+  },
+  {
+    "id": "de-b1-foundation-012",
+    "canonical_id": "de-b1-foundation-012",
+    "source_language": "de",
+    "text": "zur Verfügung stehen",
+    "de": "zur Verfügung stehen",
+    "uk": "бути в розпорядженні",
+    "en": "to be available for use",
+    "es": "estar a disposición",
+    "example": {
+      "de": "Für das Projekt stehen uns zwei Räume zur Verfügung.",
+      "uk": "Для проєкту в нашому розпорядженні є дві кімнати.",
+      "en": "Two rooms are available for us to use for the project.",
+      "es": "Tenemos dos salas a nuestra disposición para el proyecto."
+    },
+    "level": "B1",
+    "sense": "to be available for use",
+    "grammar": {
+      "part_of_speech": "verb_phrase",
+      "usage": "jemandem (Dativ) zur Verfügung stehen"
+    },
+    "topic": "services",
+    "options": {
+      "uk": [
+        "дотримуватися встановленого терміну",
+        "бути в розпорядженні",
+        "покладатися на",
+        "обирати, вирішувати на користь"
+      ],
+      "en": [
+        "to rely on",
+        "to decide on",
+        "to be available for use",
+        "to meet a deadline"
+      ],
+      "es": [
+        "estar a disposición",
+        "decidirse por",
+        "cumplir un plazo",
+        "confiar en"
+      ]
+    }
+  },
+  {
+    "id": "de-b1-foundation-013",
+    "canonical_id": "de-b1-foundation-013",
+    "source_language": "de",
+    "text": "einen Beitrag leisten",
+    "de": "einen Beitrag leisten",
+    "uk": "робити внесок",
+    "en": "to make a contribution",
+    "es": "hacer una aportación",
+    "example": {
+      "de": "Jeder kann einen Beitrag zum Umweltschutz leisten.",
+      "uk": "Кожен може зробити внесок у захист довкілля.",
+      "en": "Everyone can make a contribution to protecting the environment.",
+      "es": "Todo el mundo puede hacer una aportación a la protección del medio ambiente."
+    },
+    "level": "B1",
+    "sense": "to make a contribution",
+    "grammar": {
+      "part_of_speech": "verb_phrase",
+      "usage": "einen Beitrag zu + Dativ leisten"
+    },
+    "topic": "environment",
+    "options": {
+      "uk": [
+        "зважати на потреби інших",
+        "брати участь у",
+        "робити внесок",
+        "знаходити розв’язання"
+      ],
+      "en": [
+        "to make a contribution",
+        "to show consideration for",
+        "to find a solution",
+        "to participate in"
+      ],
+      "es": [
+        "encontrar una solución",
+        "participar en",
+        "tener consideración con",
+        "hacer una aportación"
+      ]
+    }
+  },
+  {
+    "id": "de-b1-foundation-014",
+    "canonical_id": "de-b1-foundation-014",
+    "source_language": "de",
+    "text": "eine Lösung finden",
+    "de": "eine Lösung finden",
+    "uk": "знаходити розв’язання",
+    "en": "to find a solution",
+    "es": "encontrar una solución",
+    "example": {
+      "de": "Gemeinsam haben wir eine Lösung für das Problem gefunden.",
+      "uk": "Разом ми знайшли розв’язання проблеми.",
+      "en": "Together we found a solution to the problem.",
+      "es": "Juntos encontramos una solución al problema."
+    },
+    "level": "B1",
+    "sense": "to find a solution",
+    "grammar": {
+      "part_of_speech": "verb_phrase",
+      "usage": "eine Lösung für + Akkusativ finden"
+    },
+    "topic": "decisions",
+    "options": {
+      "uk": [
+        "знаходити розв’язання",
+        "брати участь у",
+        "робити внесок",
+        "зважати на потреби інших"
+      ],
+      "en": [
+        "to make a contribution",
+        "to participate in",
+        "to show consideration for",
+        "to find a solution"
+      ],
+      "es": [
+        "encontrar una solución",
+        "participar en",
+        "hacer una aportación",
+        "tener consideración con"
+      ]
+    }
+  },
+  {
+    "id": "de-b1-foundation-015",
+    "canonical_id": "de-b1-foundation-015",
+    "source_language": "de",
+    "text": "Rücksicht nehmen auf",
+    "de": "Rücksicht nehmen auf",
+    "uk": "зважати на потреби інших",
+    "en": "to show consideration for",
+    "es": "tener consideración con",
+    "example": {
+      "de": "Wir sollten mehr Rücksicht auf unsere Nachbarn nehmen.",
+      "uk": "Нам варто більше зважати на потреби наших сусідів.",
+      "en": "We should show more consideration for our neighbours.",
+      "es": "Deberíamos tener más consideración con nuestros vecinos."
+    },
+    "level": "B1",
+    "sense": "to show consideration for",
+    "grammar": {
+      "part_of_speech": "verb_phrase",
+      "usage": "auf + Akkusativ Rücksicht nehmen"
+    },
+    "topic": "relationships",
+    "options": {
+      "uk": [
+        "робити внесок",
+        "знаходити розв’язання",
+        "зважати на потреби інших",
+        "брати участь у"
+      ],
+      "en": [
+        "to show consideration for",
+        "to make a contribution",
+        "to participate in",
+        "to find a solution"
+      ],
+      "es": [
+        "hacer una aportación",
+        "encontrar una solución",
+        "tener consideración con",
+        "participar en"
+      ]
+    }
+  },
+  {
+    "id": "de-b1-foundation-016",
+    "canonical_id": "de-b1-foundation-016",
+    "source_language": "de",
+    "text": "teilnehmen an",
+    "de": "teilnehmen an",
+    "uk": "брати участь у",
+    "en": "to participate in",
+    "es": "participar en",
+    "example": {
+      "de": "Ich habe an einer Schulung über Sicherheit teilgenommen.",
+      "uk": "Я взяв участь у навчанні з безпеки.",
+      "en": "I took part in a training session on safety.",
+      "es": "Participé en una formación sobre seguridad."
+    },
+    "level": "B1",
+    "sense": "to participate in",
+    "grammar": {
+      "part_of_speech": "verb_phrase",
+      "usage": "an + Dativ teilnehmen"
+    },
+    "topic": "education",
+    "options": {
+      "uk": [
+        "робити внесок",
+        "зважати на потреби інших",
+        "брати участь у",
+        "знаходити розв’язання"
+      ],
+      "en": [
+        "to participate in",
+        "to find a solution",
+        "to make a contribution",
+        "to show consideration for"
+      ],
+      "es": [
+        "tener consideración con",
+        "hacer una aportación",
+        "encontrar una solución",
+        "participar en"
+      ]
+    }
+  },
+  {
+    "id": "de-b1-foundation-017",
+    "canonical_id": "de-b1-foundation-017",
+    "source_language": "de",
+    "text": "Ich bin der Meinung, dass …",
+    "de": "Ich bin der Meinung, dass …",
+    "uk": "Я вважаю, що …",
+    "en": "I am of the opinion that …",
+    "es": "Soy de la opinión de que …",
+    "example": {
+      "de": "Ich bin der Meinung, dass wir mehr Zeit brauchen.",
+      "uk": "Я вважаю, що нам потрібно більше часу.",
+      "en": "I am of the opinion that we need more time.",
+      "es": "Soy de la opinión de que necesitamos más tiempo."
+    },
+    "level": "B1",
+    "sense": "I am of the opinion that …",
+    "grammar": {
+      "part_of_speech": "discourse_expression"
+    },
+    "topic": "opinion",
+    "options": {
+      "uk": [
+        "Якби я був на твоєму місці, я б …",
+        "Це залежить від того, чи …",
+        "Я вважаю, що …",
+        "Порівняно з минулим …"
+      ],
+      "en": [
+        "That depends on whether …",
+        "If I were you, I would …",
+        "Compared with before, …",
+        "I am of the opinion that …"
+      ],
+      "es": [
+        "Eso depende de si …",
+        "Si estuviera en tu lugar, …",
+        "Soy de la opinión de que …",
+        "En comparación con antes, …"
+      ]
+    }
+  },
+  {
+    "id": "de-b1-foundation-018",
+    "canonical_id": "de-b1-foundation-018",
+    "source_language": "de",
+    "text": "Das hängt davon ab, ob …",
+    "de": "Das hängt davon ab, ob …",
+    "uk": "Це залежить від того, чи …",
+    "en": "That depends on whether …",
+    "es": "Eso depende de si …",
+    "example": {
+      "de": "Das hängt davon ab, ob morgen noch Plätze frei sind.",
+      "uk": "Це залежить від того, чи будуть завтра ще вільні місця.",
+      "en": "That depends on whether there are still places available tomorrow.",
+      "es": "Eso depende de si mañana quedan plazas libres."
+    },
+    "level": "B1",
+    "sense": "That depends on whether …",
+    "grammar": {
+      "part_of_speech": "discourse_expression"
+    },
+    "topic": "decisions",
+    "options": {
+      "uk": [
+        "Якби я був на твоєму місці, я б …",
+        "Я вважаю, що …",
+        "Це залежить від того, чи …",
+        "Порівняно з минулим …"
+      ],
+      "en": [
+        "Compared with before, …",
+        "I am of the opinion that …",
+        "If I were you, I would …",
+        "That depends on whether …"
+      ],
+      "es": [
+        "Eso depende de si …",
+        "Si estuviera en tu lugar, …",
+        "Soy de la opinión de que …",
+        "En comparación con antes, …"
+      ]
+    }
+  },
+  {
+    "id": "de-b1-foundation-019",
+    "canonical_id": "de-b1-foundation-019",
+    "source_language": "de",
+    "text": "Wenn ich an deiner Stelle wäre, würde ich …",
+    "de": "Wenn ich an deiner Stelle wäre, würde ich …",
+    "uk": "Якби я був на твоєму місці, я б …",
+    "en": "If I were you, I would …",
+    "es": "Si estuviera en tu lugar, …",
+    "example": {
+      "de": "Wenn ich an deiner Stelle wäre, würde ich zuerst nachfragen.",
+      "uk": "Якби я був на твоєму місці, я б спочатку уточнив.",
+      "en": "If I were you, I would ask for clarification first.",
+      "es": "Si estuviera en tu lugar, pediría una aclaración primero."
+    },
+    "level": "B1",
+    "sense": "If I were you, I would …",
+    "grammar": {
+      "part_of_speech": "discourse_expression"
+    },
+    "topic": "advice",
+    "options": {
+      "uk": [
+        "Я вважаю, що …",
+        "Якби я був на твоєму місці, я б …",
+        "Порівняно з минулим …",
+        "Це залежить від того, чи …"
+      ],
+      "en": [
+        "Compared with before, …",
+        "I am of the opinion that …",
+        "That depends on whether …",
+        "If I were you, I would …"
+      ],
+      "es": [
+        "Soy de la opinión de que …",
+        "Eso depende de si …",
+        "En comparación con antes, …",
+        "Si estuviera en tu lugar, …"
+      ]
+    }
+  },
+  {
+    "id": "de-b1-foundation-020",
+    "canonical_id": "de-b1-foundation-020",
+    "source_language": "de",
+    "text": "Im Vergleich zu früher …",
+    "de": "Im Vergleich zu früher …",
+    "uk": "Порівняно з минулим …",
+    "en": "Compared with before, …",
+    "es": "En comparación con antes, …",
+    "example": {
+      "de": "Im Vergleich zu früher habe ich heute mehr Freizeit.",
+      "uk": "Порівняно з минулим зараз у мене більше вільного часу.",
+      "en": "Compared with before, I have more free time now.",
+      "es": "En comparación con antes, ahora tengo más tiempo libre."
+    },
+    "level": "B1",
+    "sense": "Compared with before, …",
+    "grammar": {
+      "part_of_speech": "discourse_expression"
+    },
+    "topic": "comparison",
+    "options": {
+      "uk": [
+        "Я вважаю, що …",
+        "Це залежить від того, чи …",
+        "Якби я був на твоєму місці, я б …",
+        "Порівняно з минулим …"
+      ],
+      "en": [
+        "I am of the opinion that …",
+        "Compared with before, …",
+        "That depends on whether …",
+        "If I were you, I would …"
+      ],
+      "es": [
+        "Si estuviera en tu lugar, …",
+        "En comparación con antes, …",
+        "Eso depende de si …",
+        "Soy de la opinión de que …"
+      ]
+    }
+  }
+]

@@ -1,0 +1,1982 @@
+[
+  {
+    "id": "uk-a1-foundation-001",
+    "source_language": "uk",
+    "level": "A1",
+    "distractor_ids": [
+      "uk-a1-foundation-002",
+      "uk-a1-foundation-003",
+      "uk-a1-foundation-004"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "uk-a1-foundation-002",
+    "source_language": "uk",
+    "level": "A1",
+    "distractor_ids": [
+      "uk-a1-foundation-001",
+      "uk-a1-foundation-003",
+      "uk-a1-foundation-004"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "uk-a1-foundation-003",
+    "source_language": "uk",
+    "level": "A1",
+    "distractor_ids": [
+      "uk-a1-foundation-001",
+      "uk-a1-foundation-002",
+      "uk-a1-foundation-004"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "uk-a1-foundation-004",
+    "source_language": "uk",
+    "level": "A1",
+    "distractor_ids": [
+      "uk-a1-foundation-001",
+      "uk-a1-foundation-002",
+      "uk-a1-foundation-003"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "uk-a1-foundation-005",
+    "source_language": "uk",
+    "level": "A1",
+    "distractor_ids": [
+      "uk-a1-foundation-006",
+      "uk-a1-foundation-007",
+      "uk-a1-foundation-008"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "uk-a1-foundation-006",
+    "source_language": "uk",
+    "level": "A1",
+    "distractor_ids": [
+      "uk-a1-foundation-005",
+      "uk-a1-foundation-007",
+      "uk-a1-foundation-008"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "uk-a1-foundation-007",
+    "source_language": "uk",
+    "level": "A1",
+    "distractor_ids": [
+      "uk-a1-foundation-005",
+      "uk-a1-foundation-006",
+      "uk-a1-foundation-008"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "uk-a1-foundation-008",
+    "source_language": "uk",
+    "level": "A1",
+    "distractor_ids": [
+      "uk-a1-foundation-005",
+      "uk-a1-foundation-006",
+      "uk-a1-foundation-007"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "uk-a1-foundation-009",
+    "source_language": "uk",
+    "level": "A1",
+    "distractor_ids": [
+      "uk-a1-foundation-010",
+      "uk-a1-foundation-011",
+      "uk-a1-foundation-012"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "uk-a1-foundation-010",
+    "source_language": "uk",
+    "level": "A1",
+    "distractor_ids": [
+      "uk-a1-foundation-009",
+      "uk-a1-foundation-011",
+      "uk-a1-foundation-012"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "uk-a1-foundation-011",
+    "source_language": "uk",
+    "level": "A1",
+    "distractor_ids": [
+      "uk-a1-foundation-009",
+      "uk-a1-foundation-010",
+      "uk-a1-foundation-012"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "uk-a1-foundation-012",
+    "source_language": "uk",
+    "level": "A1",
+    "distractor_ids": [
+      "uk-a1-foundation-009",
+      "uk-a1-foundation-010",
+      "uk-a1-foundation-011"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "uk-a1-foundation-013",
+    "source_language": "uk",
+    "level": "A1",
+    "distractor_ids": [
+      "uk-a1-foundation-014",
+      "uk-a1-foundation-015",
+      "uk-a1-foundation-016"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "uk-a1-foundation-014",
+    "source_language": "uk",
+    "level": "A1",
+    "distractor_ids": [
+      "uk-a1-foundation-013",
+      "uk-a1-foundation-015",
+      "uk-a1-foundation-016"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "uk-a1-foundation-015",
+    "source_language": "uk",
+    "level": "A1",
+    "distractor_ids": [
+      "uk-a1-foundation-013",
+      "uk-a1-foundation-014",
+      "uk-a1-foundation-016"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "uk-a1-foundation-016",
+    "source_language": "uk",
+    "level": "A1",
+    "distractor_ids": [
+      "uk-a1-foundation-013",
+      "uk-a1-foundation-014",
+      "uk-a1-foundation-015"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "uk-a1-foundation-017",
+    "source_language": "uk",
+    "level": "A1",
+    "distractor_ids": [
+      "uk-a1-foundation-018",
+      "uk-a1-foundation-019",
+      "uk-a1-foundation-020"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "uk-a1-foundation-018",
+    "source_language": "uk",
+    "level": "A1",
+    "distractor_ids": [
+      "uk-a1-foundation-017",
+      "uk-a1-foundation-019",
+      "uk-a1-foundation-020"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "uk-a1-foundation-019",
+    "source_language": "uk",
+    "level": "A1",
+    "distractor_ids": [
+      "uk-a1-foundation-017",
+      "uk-a1-foundation-018",
+      "uk-a1-foundation-020"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "uk-a1-foundation-020",
+    "source_language": "uk",
+    "level": "A1",
+    "distractor_ids": [
+      "uk-a1-foundation-017",
+      "uk-a1-foundation-018",
+      "uk-a1-foundation-019"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "en-a1-foundation-001",
+    "source_language": "en",
+    "level": "A1",
+    "distractor_ids": [
+      "en-a1-foundation-002",
+      "en-a1-foundation-003",
+      "en-a1-foundation-004"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "en-a1-foundation-002",
+    "source_language": "en",
+    "level": "A1",
+    "distractor_ids": [
+      "en-a1-foundation-001",
+      "en-a1-foundation-003",
+      "en-a1-foundation-004"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "en-a1-foundation-003",
+    "source_language": "en",
+    "level": "A1",
+    "distractor_ids": [
+      "en-a1-foundation-001",
+      "en-a1-foundation-002",
+      "en-a1-foundation-004"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "en-a1-foundation-004",
+    "source_language": "en",
+    "level": "A1",
+    "distractor_ids": [
+      "en-a1-foundation-001",
+      "en-a1-foundation-002",
+      "en-a1-foundation-003"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "en-a1-foundation-005",
+    "source_language": "en",
+    "level": "A1",
+    "distractor_ids": [
+      "en-a1-foundation-006",
+      "en-a1-foundation-007",
+      "en-a1-foundation-008"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "en-a1-foundation-006",
+    "source_language": "en",
+    "level": "A1",
+    "distractor_ids": [
+      "en-a1-foundation-005",
+      "en-a1-foundation-007",
+      "en-a1-foundation-008"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "en-a1-foundation-007",
+    "source_language": "en",
+    "level": "A1",
+    "distractor_ids": [
+      "en-a1-foundation-005",
+      "en-a1-foundation-006",
+      "en-a1-foundation-008"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "en-a1-foundation-008",
+    "source_language": "en",
+    "level": "A1",
+    "distractor_ids": [
+      "en-a1-foundation-005",
+      "en-a1-foundation-006",
+      "en-a1-foundation-007"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "en-a1-foundation-009",
+    "source_language": "en",
+    "level": "A1",
+    "distractor_ids": [
+      "en-a1-foundation-010",
+      "en-a1-foundation-011",
+      "en-a1-foundation-012"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "en-a1-foundation-010",
+    "source_language": "en",
+    "level": "A1",
+    "distractor_ids": [
+      "en-a1-foundation-009",
+      "en-a1-foundation-011",
+      "en-a1-foundation-012"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "en-a1-foundation-011",
+    "source_language": "en",
+    "level": "A1",
+    "distractor_ids": [
+      "en-a1-foundation-009",
+      "en-a1-foundation-010",
+      "en-a1-foundation-012"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "en-a1-foundation-012",
+    "source_language": "en",
+    "level": "A1",
+    "distractor_ids": [
+      "en-a1-foundation-009",
+      "en-a1-foundation-010",
+      "en-a1-foundation-011"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "en-a1-foundation-013",
+    "source_language": "en",
+    "level": "A1",
+    "distractor_ids": [
+      "en-a1-foundation-014",
+      "en-a1-foundation-015",
+      "en-a1-foundation-016"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "en-a1-foundation-014",
+    "source_language": "en",
+    "level": "A1",
+    "distractor_ids": [
+      "en-a1-foundation-013",
+      "en-a1-foundation-015",
+      "en-a1-foundation-016"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "en-a1-foundation-015",
+    "source_language": "en",
+    "level": "A1",
+    "distractor_ids": [
+      "en-a1-foundation-013",
+      "en-a1-foundation-014",
+      "en-a1-foundation-016"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "en-a1-foundation-016",
+    "source_language": "en",
+    "level": "A1",
+    "distractor_ids": [
+      "en-a1-foundation-013",
+      "en-a1-foundation-014",
+      "en-a1-foundation-015"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "en-a1-foundation-017",
+    "source_language": "en",
+    "level": "A1",
+    "distractor_ids": [
+      "en-a1-foundation-018",
+      "en-a1-foundation-019",
+      "en-a1-foundation-020"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "en-a1-foundation-018",
+    "source_language": "en",
+    "level": "A1",
+    "distractor_ids": [
+      "en-a1-foundation-017",
+      "en-a1-foundation-019",
+      "en-a1-foundation-020"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "en-a1-foundation-019",
+    "source_language": "en",
+    "level": "A1",
+    "distractor_ids": [
+      "en-a1-foundation-017",
+      "en-a1-foundation-018",
+      "en-a1-foundation-020"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "en-a1-foundation-020",
+    "source_language": "en",
+    "level": "A1",
+    "distractor_ids": [
+      "en-a1-foundation-017",
+      "en-a1-foundation-018",
+      "en-a1-foundation-019"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "de-a1-foundation-001",
+    "source_language": "de",
+    "level": "A1",
+    "distractor_ids": [
+      "de-a1-foundation-002",
+      "de-a1-foundation-003",
+      "de-a1-foundation-004"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "de-a1-foundation-002",
+    "source_language": "de",
+    "level": "A1",
+    "distractor_ids": [
+      "de-a1-foundation-001",
+      "de-a1-foundation-003",
+      "de-a1-foundation-004"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "de-a1-foundation-003",
+    "source_language": "de",
+    "level": "A1",
+    "distractor_ids": [
+      "de-a1-foundation-001",
+      "de-a1-foundation-002",
+      "de-a1-foundation-004"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "de-a1-foundation-004",
+    "source_language": "de",
+    "level": "A1",
+    "distractor_ids": [
+      "de-a1-foundation-001",
+      "de-a1-foundation-002",
+      "de-a1-foundation-003"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "de-a1-foundation-005",
+    "source_language": "de",
+    "level": "A1",
+    "distractor_ids": [
+      "de-a1-foundation-006",
+      "de-a1-foundation-007",
+      "de-a1-foundation-008"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "de-a1-foundation-006",
+    "source_language": "de",
+    "level": "A1",
+    "distractor_ids": [
+      "de-a1-foundation-005",
+      "de-a1-foundation-007",
+      "de-a1-foundation-008"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "de-a1-foundation-007",
+    "source_language": "de",
+    "level": "A1",
+    "distractor_ids": [
+      "de-a1-foundation-005",
+      "de-a1-foundation-006",
+      "de-a1-foundation-008"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "de-a1-foundation-008",
+    "source_language": "de",
+    "level": "A1",
+    "distractor_ids": [
+      "de-a1-foundation-005",
+      "de-a1-foundation-006",
+      "de-a1-foundation-007"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "de-a1-foundation-009",
+    "source_language": "de",
+    "level": "A1",
+    "distractor_ids": [
+      "de-a1-foundation-010",
+      "de-a1-foundation-011",
+      "de-a1-foundation-012"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "de-a1-foundation-010",
+    "source_language": "de",
+    "level": "A1",
+    "distractor_ids": [
+      "de-a1-foundation-009",
+      "de-a1-foundation-011",
+      "de-a1-foundation-012"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "de-a1-foundation-011",
+    "source_language": "de",
+    "level": "A1",
+    "distractor_ids": [
+      "de-a1-foundation-009",
+      "de-a1-foundation-010",
+      "de-a1-foundation-012"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "de-a1-foundation-012",
+    "source_language": "de",
+    "level": "A1",
+    "distractor_ids": [
+      "de-a1-foundation-009",
+      "de-a1-foundation-010",
+      "de-a1-foundation-011"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "de-a1-foundation-013",
+    "source_language": "de",
+    "level": "A1",
+    "distractor_ids": [
+      "de-a1-foundation-014",
+      "de-a1-foundation-015",
+      "de-a1-foundation-016"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "de-a1-foundation-014",
+    "source_language": "de",
+    "level": "A1",
+    "distractor_ids": [
+      "de-a1-foundation-013",
+      "de-a1-foundation-015",
+      "de-a1-foundation-016"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "de-a1-foundation-015",
+    "source_language": "de",
+    "level": "A1",
+    "distractor_ids": [
+      "de-a1-foundation-013",
+      "de-a1-foundation-014",
+      "de-a1-foundation-016"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "de-a1-foundation-016",
+    "source_language": "de",
+    "level": "A1",
+    "distractor_ids": [
+      "de-a1-foundation-013",
+      "de-a1-foundation-014",
+      "de-a1-foundation-015"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "de-a1-foundation-017",
+    "source_language": "de",
+    "level": "A1",
+    "distractor_ids": [
+      "de-a1-foundation-018",
+      "de-a1-foundation-019",
+      "de-a1-foundation-020"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "de-a1-foundation-018",
+    "source_language": "de",
+    "level": "A1",
+    "distractor_ids": [
+      "de-a1-foundation-017",
+      "de-a1-foundation-019",
+      "de-a1-foundation-020"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "de-a1-foundation-019",
+    "source_language": "de",
+    "level": "A1",
+    "distractor_ids": [
+      "de-a1-foundation-017",
+      "de-a1-foundation-018",
+      "de-a1-foundation-020"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "de-a1-foundation-020",
+    "source_language": "de",
+    "level": "A1",
+    "distractor_ids": [
+      "de-a1-foundation-017",
+      "de-a1-foundation-018",
+      "de-a1-foundation-019"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "uk-a2-foundation-001",
+    "source_language": "uk",
+    "level": "A2",
+    "distractor_ids": [
+      "uk-a2-foundation-002",
+      "uk-a2-foundation-003",
+      "uk-a2-foundation-004"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "uk-a2-foundation-002",
+    "source_language": "uk",
+    "level": "A2",
+    "distractor_ids": [
+      "uk-a2-foundation-001",
+      "uk-a2-foundation-003",
+      "uk-a2-foundation-004"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "uk-a2-foundation-003",
+    "source_language": "uk",
+    "level": "A2",
+    "distractor_ids": [
+      "uk-a2-foundation-001",
+      "uk-a2-foundation-002",
+      "uk-a2-foundation-004"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "uk-a2-foundation-004",
+    "source_language": "uk",
+    "level": "A2",
+    "distractor_ids": [
+      "uk-a2-foundation-001",
+      "uk-a2-foundation-002",
+      "uk-a2-foundation-003"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "uk-a2-foundation-005",
+    "source_language": "uk",
+    "level": "A2",
+    "distractor_ids": [
+      "uk-a2-foundation-006",
+      "uk-a2-foundation-007",
+      "uk-a2-foundation-008"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "uk-a2-foundation-006",
+    "source_language": "uk",
+    "level": "A2",
+    "distractor_ids": [
+      "uk-a2-foundation-005",
+      "uk-a2-foundation-007",
+      "uk-a2-foundation-008"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "uk-a2-foundation-007",
+    "source_language": "uk",
+    "level": "A2",
+    "distractor_ids": [
+      "uk-a2-foundation-005",
+      "uk-a2-foundation-006",
+      "uk-a2-foundation-008"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "uk-a2-foundation-008",
+    "source_language": "uk",
+    "level": "A2",
+    "distractor_ids": [
+      "uk-a2-foundation-005",
+      "uk-a2-foundation-006",
+      "uk-a2-foundation-007"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "uk-a2-foundation-009",
+    "source_language": "uk",
+    "level": "A2",
+    "distractor_ids": [
+      "uk-a2-foundation-010",
+      "uk-a2-foundation-011",
+      "uk-a2-foundation-012"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "uk-a2-foundation-010",
+    "source_language": "uk",
+    "level": "A2",
+    "distractor_ids": [
+      "uk-a2-foundation-009",
+      "uk-a2-foundation-011",
+      "uk-a2-foundation-012"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "uk-a2-foundation-011",
+    "source_language": "uk",
+    "level": "A2",
+    "distractor_ids": [
+      "uk-a2-foundation-009",
+      "uk-a2-foundation-010",
+      "uk-a2-foundation-012"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "uk-a2-foundation-012",
+    "source_language": "uk",
+    "level": "A2",
+    "distractor_ids": [
+      "uk-a2-foundation-009",
+      "uk-a2-foundation-010",
+      "uk-a2-foundation-011"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "uk-a2-foundation-013",
+    "source_language": "uk",
+    "level": "A2",
+    "distractor_ids": [
+      "uk-a2-foundation-014",
+      "uk-a2-foundation-015",
+      "uk-a2-foundation-016"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "uk-a2-foundation-014",
+    "source_language": "uk",
+    "level": "A2",
+    "distractor_ids": [
+      "uk-a2-foundation-013",
+      "uk-a2-foundation-015",
+      "uk-a2-foundation-016"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "uk-a2-foundation-015",
+    "source_language": "uk",
+    "level": "A2",
+    "distractor_ids": [
+      "uk-a2-foundation-013",
+      "uk-a2-foundation-014",
+      "uk-a2-foundation-016"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "uk-a2-foundation-016",
+    "source_language": "uk",
+    "level": "A2",
+    "distractor_ids": [
+      "uk-a2-foundation-013",
+      "uk-a2-foundation-014",
+      "uk-a2-foundation-015"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "uk-a2-foundation-017",
+    "source_language": "uk",
+    "level": "A2",
+    "distractor_ids": [
+      "uk-a2-foundation-018",
+      "uk-a2-foundation-019",
+      "uk-a2-foundation-020"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "uk-a2-foundation-018",
+    "source_language": "uk",
+    "level": "A2",
+    "distractor_ids": [
+      "uk-a2-foundation-017",
+      "uk-a2-foundation-019",
+      "uk-a2-foundation-020"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "uk-a2-foundation-019",
+    "source_language": "uk",
+    "level": "A2",
+    "distractor_ids": [
+      "uk-a2-foundation-017",
+      "uk-a2-foundation-018",
+      "uk-a2-foundation-020"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "uk-a2-foundation-020",
+    "source_language": "uk",
+    "level": "A2",
+    "distractor_ids": [
+      "uk-a2-foundation-017",
+      "uk-a2-foundation-018",
+      "uk-a2-foundation-019"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "en-a2-foundation-001",
+    "source_language": "en",
+    "level": "A2",
+    "distractor_ids": [
+      "en-a2-foundation-002",
+      "en-a2-foundation-003",
+      "en-a2-foundation-004"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "en-a2-foundation-002",
+    "source_language": "en",
+    "level": "A2",
+    "distractor_ids": [
+      "en-a2-foundation-001",
+      "en-a2-foundation-003",
+      "en-a2-foundation-004"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "en-a2-foundation-003",
+    "source_language": "en",
+    "level": "A2",
+    "distractor_ids": [
+      "en-a2-foundation-001",
+      "en-a2-foundation-002",
+      "en-a2-foundation-004"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "en-a2-foundation-004",
+    "source_language": "en",
+    "level": "A2",
+    "distractor_ids": [
+      "en-a2-foundation-001",
+      "en-a2-foundation-002",
+      "en-a2-foundation-003"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "en-a2-foundation-005",
+    "source_language": "en",
+    "level": "A2",
+    "distractor_ids": [
+      "en-a2-foundation-006",
+      "en-a2-foundation-007",
+      "en-a2-foundation-008"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "en-a2-foundation-006",
+    "source_language": "en",
+    "level": "A2",
+    "distractor_ids": [
+      "en-a2-foundation-005",
+      "en-a2-foundation-007",
+      "en-a2-foundation-008"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "en-a2-foundation-007",
+    "source_language": "en",
+    "level": "A2",
+    "distractor_ids": [
+      "en-a2-foundation-005",
+      "en-a2-foundation-006",
+      "en-a2-foundation-008"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "en-a2-foundation-008",
+    "source_language": "en",
+    "level": "A2",
+    "distractor_ids": [
+      "en-a2-foundation-005",
+      "en-a2-foundation-006",
+      "en-a2-foundation-007"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "en-a2-foundation-009",
+    "source_language": "en",
+    "level": "A2",
+    "distractor_ids": [
+      "en-a2-foundation-010",
+      "en-a2-foundation-011",
+      "en-a2-foundation-012"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "en-a2-foundation-010",
+    "source_language": "en",
+    "level": "A2",
+    "distractor_ids": [
+      "en-a2-foundation-009",
+      "en-a2-foundation-011",
+      "en-a2-foundation-012"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "en-a2-foundation-011",
+    "source_language": "en",
+    "level": "A2",
+    "distractor_ids": [
+      "en-a2-foundation-009",
+      "en-a2-foundation-010",
+      "en-a2-foundation-012"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "en-a2-foundation-012",
+    "source_language": "en",
+    "level": "A2",
+    "distractor_ids": [
+      "en-a2-foundation-009",
+      "en-a2-foundation-010",
+      "en-a2-foundation-011"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "en-a2-foundation-013",
+    "source_language": "en",
+    "level": "A2",
+    "distractor_ids": [
+      "en-a2-foundation-014",
+      "en-a2-foundation-015",
+      "en-a2-foundation-016"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "en-a2-foundation-014",
+    "source_language": "en",
+    "level": "A2",
+    "distractor_ids": [
+      "en-a2-foundation-013",
+      "en-a2-foundation-015",
+      "en-a2-foundation-016"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "en-a2-foundation-015",
+    "source_language": "en",
+    "level": "A2",
+    "distractor_ids": [
+      "en-a2-foundation-013",
+      "en-a2-foundation-014",
+      "en-a2-foundation-016"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "en-a2-foundation-016",
+    "source_language": "en",
+    "level": "A2",
+    "distractor_ids": [
+      "en-a2-foundation-013",
+      "en-a2-foundation-014",
+      "en-a2-foundation-015"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "en-a2-foundation-017",
+    "source_language": "en",
+    "level": "A2",
+    "distractor_ids": [
+      "en-a2-foundation-018",
+      "en-a2-foundation-019",
+      "en-a2-foundation-020"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "en-a2-foundation-018",
+    "source_language": "en",
+    "level": "A2",
+    "distractor_ids": [
+      "en-a2-foundation-017",
+      "en-a2-foundation-019",
+      "en-a2-foundation-020"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "en-a2-foundation-019",
+    "source_language": "en",
+    "level": "A2",
+    "distractor_ids": [
+      "en-a2-foundation-017",
+      "en-a2-foundation-018",
+      "en-a2-foundation-020"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "en-a2-foundation-020",
+    "source_language": "en",
+    "level": "A2",
+    "distractor_ids": [
+      "en-a2-foundation-017",
+      "en-a2-foundation-018",
+      "en-a2-foundation-019"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "de-a2-foundation-001",
+    "source_language": "de",
+    "level": "A2",
+    "distractor_ids": [
+      "de-a2-foundation-002",
+      "de-a2-foundation-003",
+      "de-a2-foundation-004"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "de-a2-foundation-002",
+    "source_language": "de",
+    "level": "A2",
+    "distractor_ids": [
+      "de-a2-foundation-001",
+      "de-a2-foundation-003",
+      "de-a2-foundation-004"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "de-a2-foundation-003",
+    "source_language": "de",
+    "level": "A2",
+    "distractor_ids": [
+      "de-a2-foundation-001",
+      "de-a2-foundation-002",
+      "de-a2-foundation-004"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "de-a2-foundation-004",
+    "source_language": "de",
+    "level": "A2",
+    "distractor_ids": [
+      "de-a2-foundation-001",
+      "de-a2-foundation-002",
+      "de-a2-foundation-003"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "de-a2-foundation-005",
+    "source_language": "de",
+    "level": "A2",
+    "distractor_ids": [
+      "de-a2-foundation-006",
+      "de-a2-foundation-007",
+      "de-a2-foundation-008"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "de-a2-foundation-006",
+    "source_language": "de",
+    "level": "A2",
+    "distractor_ids": [
+      "de-a2-foundation-005",
+      "de-a2-foundation-007",
+      "de-a2-foundation-008"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "de-a2-foundation-007",
+    "source_language": "de",
+    "level": "A2",
+    "distractor_ids": [
+      "de-a2-foundation-005",
+      "de-a2-foundation-006",
+      "de-a2-foundation-008"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "de-a2-foundation-008",
+    "source_language": "de",
+    "level": "A2",
+    "distractor_ids": [
+      "de-a2-foundation-005",
+      "de-a2-foundation-006",
+      "de-a2-foundation-007"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "de-a2-foundation-009",
+    "source_language": "de",
+    "level": "A2",
+    "distractor_ids": [
+      "de-a2-foundation-010",
+      "de-a2-foundation-011",
+      "de-a2-foundation-012"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "de-a2-foundation-010",
+    "source_language": "de",
+    "level": "A2",
+    "distractor_ids": [
+      "de-a2-foundation-009",
+      "de-a2-foundation-011",
+      "de-a2-foundation-012"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "de-a2-foundation-011",
+    "source_language": "de",
+    "level": "A2",
+    "distractor_ids": [
+      "de-a2-foundation-009",
+      "de-a2-foundation-010",
+      "de-a2-foundation-012"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "de-a2-foundation-012",
+    "source_language": "de",
+    "level": "A2",
+    "distractor_ids": [
+      "de-a2-foundation-009",
+      "de-a2-foundation-010",
+      "de-a2-foundation-011"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "de-a2-foundation-013",
+    "source_language": "de",
+    "level": "A2",
+    "distractor_ids": [
+      "de-a2-foundation-014",
+      "de-a2-foundation-015",
+      "de-a2-foundation-016"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "de-a2-foundation-014",
+    "source_language": "de",
+    "level": "A2",
+    "distractor_ids": [
+      "de-a2-foundation-013",
+      "de-a2-foundation-015",
+      "de-a2-foundation-016"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "de-a2-foundation-015",
+    "source_language": "de",
+    "level": "A2",
+    "distractor_ids": [
+      "de-a2-foundation-013",
+      "de-a2-foundation-014",
+      "de-a2-foundation-016"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "de-a2-foundation-016",
+    "source_language": "de",
+    "level": "A2",
+    "distractor_ids": [
+      "de-a2-foundation-013",
+      "de-a2-foundation-014",
+      "de-a2-foundation-015"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "de-a2-foundation-017",
+    "source_language": "de",
+    "level": "A2",
+    "distractor_ids": [
+      "de-a2-foundation-018",
+      "de-a2-foundation-019",
+      "de-a2-foundation-020"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "de-a2-foundation-018",
+    "source_language": "de",
+    "level": "A2",
+    "distractor_ids": [
+      "de-a2-foundation-017",
+      "de-a2-foundation-019",
+      "de-a2-foundation-020"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "de-a2-foundation-019",
+    "source_language": "de",
+    "level": "A2",
+    "distractor_ids": [
+      "de-a2-foundation-017",
+      "de-a2-foundation-018",
+      "de-a2-foundation-020"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "de-a2-foundation-020",
+    "source_language": "de",
+    "level": "A2",
+    "distractor_ids": [
+      "de-a2-foundation-017",
+      "de-a2-foundation-018",
+      "de-a2-foundation-019"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "uk-b1-foundation-001",
+    "source_language": "uk",
+    "level": "B1",
+    "distractor_ids": [
+      "uk-b1-foundation-002",
+      "uk-b1-foundation-003",
+      "uk-b1-foundation-004"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "uk-b1-foundation-002",
+    "source_language": "uk",
+    "level": "B1",
+    "distractor_ids": [
+      "uk-b1-foundation-001",
+      "uk-b1-foundation-003",
+      "uk-b1-foundation-004"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "uk-b1-foundation-003",
+    "source_language": "uk",
+    "level": "B1",
+    "distractor_ids": [
+      "uk-b1-foundation-001",
+      "uk-b1-foundation-002",
+      "uk-b1-foundation-004"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "uk-b1-foundation-004",
+    "source_language": "uk",
+    "level": "B1",
+    "distractor_ids": [
+      "uk-b1-foundation-001",
+      "uk-b1-foundation-002",
+      "uk-b1-foundation-003"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "uk-b1-foundation-005",
+    "source_language": "uk",
+    "level": "B1",
+    "distractor_ids": [
+      "uk-b1-foundation-006",
+      "uk-b1-foundation-007",
+      "uk-b1-foundation-008"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "uk-b1-foundation-006",
+    "source_language": "uk",
+    "level": "B1",
+    "distractor_ids": [
+      "uk-b1-foundation-005",
+      "uk-b1-foundation-007",
+      "uk-b1-foundation-008"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "uk-b1-foundation-007",
+    "source_language": "uk",
+    "level": "B1",
+    "distractor_ids": [
+      "uk-b1-foundation-005",
+      "uk-b1-foundation-006",
+      "uk-b1-foundation-008"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "uk-b1-foundation-008",
+    "source_language": "uk",
+    "level": "B1",
+    "distractor_ids": [
+      "uk-b1-foundation-005",
+      "uk-b1-foundation-006",
+      "uk-b1-foundation-007"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "uk-b1-foundation-009",
+    "source_language": "uk",
+    "level": "B1",
+    "distractor_ids": [
+      "uk-b1-foundation-010",
+      "uk-b1-foundation-011",
+      "uk-b1-foundation-012"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "uk-b1-foundation-010",
+    "source_language": "uk",
+    "level": "B1",
+    "distractor_ids": [
+      "uk-b1-foundation-009",
+      "uk-b1-foundation-011",
+      "uk-b1-foundation-012"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "uk-b1-foundation-011",
+    "source_language": "uk",
+    "level": "B1",
+    "distractor_ids": [
+      "uk-b1-foundation-009",
+      "uk-b1-foundation-010",
+      "uk-b1-foundation-012"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "uk-b1-foundation-012",
+    "source_language": "uk",
+    "level": "B1",
+    "distractor_ids": [
+      "uk-b1-foundation-009",
+      "uk-b1-foundation-010",
+      "uk-b1-foundation-011"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "uk-b1-foundation-013",
+    "source_language": "uk",
+    "level": "B1",
+    "distractor_ids": [
+      "uk-b1-foundation-014",
+      "uk-b1-foundation-015",
+      "uk-b1-foundation-016"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "uk-b1-foundation-014",
+    "source_language": "uk",
+    "level": "B1",
+    "distractor_ids": [
+      "uk-b1-foundation-013",
+      "uk-b1-foundation-015",
+      "uk-b1-foundation-016"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "uk-b1-foundation-015",
+    "source_language": "uk",
+    "level": "B1",
+    "distractor_ids": [
+      "uk-b1-foundation-013",
+      "uk-b1-foundation-014",
+      "uk-b1-foundation-016"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "uk-b1-foundation-016",
+    "source_language": "uk",
+    "level": "B1",
+    "distractor_ids": [
+      "uk-b1-foundation-013",
+      "uk-b1-foundation-014",
+      "uk-b1-foundation-015"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "uk-b1-foundation-017",
+    "source_language": "uk",
+    "level": "B1",
+    "distractor_ids": [
+      "uk-b1-foundation-018",
+      "uk-b1-foundation-019",
+      "uk-b1-foundation-020"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "uk-b1-foundation-018",
+    "source_language": "uk",
+    "level": "B1",
+    "distractor_ids": [
+      "uk-b1-foundation-017",
+      "uk-b1-foundation-019",
+      "uk-b1-foundation-020"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "uk-b1-foundation-019",
+    "source_language": "uk",
+    "level": "B1",
+    "distractor_ids": [
+      "uk-b1-foundation-017",
+      "uk-b1-foundation-018",
+      "uk-b1-foundation-020"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "uk-b1-foundation-020",
+    "source_language": "uk",
+    "level": "B1",
+    "distractor_ids": [
+      "uk-b1-foundation-017",
+      "uk-b1-foundation-018",
+      "uk-b1-foundation-019"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "en-b1-foundation-001",
+    "source_language": "en",
+    "level": "B1",
+    "distractor_ids": [
+      "en-b1-foundation-002",
+      "en-b1-foundation-003",
+      "en-b1-foundation-004"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "en-b1-foundation-002",
+    "source_language": "en",
+    "level": "B1",
+    "distractor_ids": [
+      "en-b1-foundation-001",
+      "en-b1-foundation-003",
+      "en-b1-foundation-004"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "en-b1-foundation-003",
+    "source_language": "en",
+    "level": "B1",
+    "distractor_ids": [
+      "en-b1-foundation-001",
+      "en-b1-foundation-002",
+      "en-b1-foundation-004"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "en-b1-foundation-004",
+    "source_language": "en",
+    "level": "B1",
+    "distractor_ids": [
+      "en-b1-foundation-001",
+      "en-b1-foundation-002",
+      "en-b1-foundation-003"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "en-b1-foundation-005",
+    "source_language": "en",
+    "level": "B1",
+    "distractor_ids": [
+      "en-b1-foundation-006",
+      "en-b1-foundation-007",
+      "en-b1-foundation-008"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "en-b1-foundation-006",
+    "source_language": "en",
+    "level": "B1",
+    "distractor_ids": [
+      "en-b1-foundation-005",
+      "en-b1-foundation-007",
+      "en-b1-foundation-008"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "en-b1-foundation-007",
+    "source_language": "en",
+    "level": "B1",
+    "distractor_ids": [
+      "en-b1-foundation-005",
+      "en-b1-foundation-006",
+      "en-b1-foundation-008"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "en-b1-foundation-008",
+    "source_language": "en",
+    "level": "B1",
+    "distractor_ids": [
+      "en-b1-foundation-005",
+      "en-b1-foundation-006",
+      "en-b1-foundation-007"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "en-b1-foundation-009",
+    "source_language": "en",
+    "level": "B1",
+    "distractor_ids": [
+      "en-b1-foundation-010",
+      "en-b1-foundation-011",
+      "en-b1-foundation-012"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "en-b1-foundation-010",
+    "source_language": "en",
+    "level": "B1",
+    "distractor_ids": [
+      "en-b1-foundation-009",
+      "en-b1-foundation-011",
+      "en-b1-foundation-012"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "en-b1-foundation-011",
+    "source_language": "en",
+    "level": "B1",
+    "distractor_ids": [
+      "en-b1-foundation-009",
+      "en-b1-foundation-010",
+      "en-b1-foundation-012"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "en-b1-foundation-012",
+    "source_language": "en",
+    "level": "B1",
+    "distractor_ids": [
+      "en-b1-foundation-009",
+      "en-b1-foundation-010",
+      "en-b1-foundation-011"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "en-b1-foundation-013",
+    "source_language": "en",
+    "level": "B1",
+    "distractor_ids": [
+      "en-b1-foundation-014",
+      "en-b1-foundation-015",
+      "en-b1-foundation-016"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "en-b1-foundation-014",
+    "source_language": "en",
+    "level": "B1",
+    "distractor_ids": [
+      "en-b1-foundation-013",
+      "en-b1-foundation-015",
+      "en-b1-foundation-016"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "en-b1-foundation-015",
+    "source_language": "en",
+    "level": "B1",
+    "distractor_ids": [
+      "en-b1-foundation-013",
+      "en-b1-foundation-014",
+      "en-b1-foundation-016"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "en-b1-foundation-016",
+    "source_language": "en",
+    "level": "B1",
+    "distractor_ids": [
+      "en-b1-foundation-013",
+      "en-b1-foundation-014",
+      "en-b1-foundation-015"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "en-b1-foundation-017",
+    "source_language": "en",
+    "level": "B1",
+    "distractor_ids": [
+      "en-b1-foundation-018",
+      "en-b1-foundation-019",
+      "en-b1-foundation-020"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "en-b1-foundation-018",
+    "source_language": "en",
+    "level": "B1",
+    "distractor_ids": [
+      "en-b1-foundation-017",
+      "en-b1-foundation-019",
+      "en-b1-foundation-020"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "en-b1-foundation-019",
+    "source_language": "en",
+    "level": "B1",
+    "distractor_ids": [
+      "en-b1-foundation-017",
+      "en-b1-foundation-018",
+      "en-b1-foundation-020"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "en-b1-foundation-020",
+    "source_language": "en",
+    "level": "B1",
+    "distractor_ids": [
+      "en-b1-foundation-017",
+      "en-b1-foundation-018",
+      "en-b1-foundation-019"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "de-b1-foundation-001",
+    "source_language": "de",
+    "level": "B1",
+    "distractor_ids": [
+      "de-b1-foundation-002",
+      "de-b1-foundation-003",
+      "de-b1-foundation-004"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "de-b1-foundation-002",
+    "source_language": "de",
+    "level": "B1",
+    "distractor_ids": [
+      "de-b1-foundation-001",
+      "de-b1-foundation-003",
+      "de-b1-foundation-004"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "de-b1-foundation-003",
+    "source_language": "de",
+    "level": "B1",
+    "distractor_ids": [
+      "de-b1-foundation-001",
+      "de-b1-foundation-002",
+      "de-b1-foundation-004"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "de-b1-foundation-004",
+    "source_language": "de",
+    "level": "B1",
+    "distractor_ids": [
+      "de-b1-foundation-001",
+      "de-b1-foundation-002",
+      "de-b1-foundation-003"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "de-b1-foundation-005",
+    "source_language": "de",
+    "level": "B1",
+    "distractor_ids": [
+      "de-b1-foundation-006",
+      "de-b1-foundation-007",
+      "de-b1-foundation-008"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "de-b1-foundation-006",
+    "source_language": "de",
+    "level": "B1",
+    "distractor_ids": [
+      "de-b1-foundation-005",
+      "de-b1-foundation-007",
+      "de-b1-foundation-008"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "de-b1-foundation-007",
+    "source_language": "de",
+    "level": "B1",
+    "distractor_ids": [
+      "de-b1-foundation-005",
+      "de-b1-foundation-006",
+      "de-b1-foundation-008"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "de-b1-foundation-008",
+    "source_language": "de",
+    "level": "B1",
+    "distractor_ids": [
+      "de-b1-foundation-005",
+      "de-b1-foundation-006",
+      "de-b1-foundation-007"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "de-b1-foundation-009",
+    "source_language": "de",
+    "level": "B1",
+    "distractor_ids": [
+      "de-b1-foundation-010",
+      "de-b1-foundation-011",
+      "de-b1-foundation-012"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "de-b1-foundation-010",
+    "source_language": "de",
+    "level": "B1",
+    "distractor_ids": [
+      "de-b1-foundation-009",
+      "de-b1-foundation-011",
+      "de-b1-foundation-012"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "de-b1-foundation-011",
+    "source_language": "de",
+    "level": "B1",
+    "distractor_ids": [
+      "de-b1-foundation-009",
+      "de-b1-foundation-010",
+      "de-b1-foundation-012"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "de-b1-foundation-012",
+    "source_language": "de",
+    "level": "B1",
+    "distractor_ids": [
+      "de-b1-foundation-009",
+      "de-b1-foundation-010",
+      "de-b1-foundation-011"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "de-b1-foundation-013",
+    "source_language": "de",
+    "level": "B1",
+    "distractor_ids": [
+      "de-b1-foundation-014",
+      "de-b1-foundation-015",
+      "de-b1-foundation-016"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "de-b1-foundation-014",
+    "source_language": "de",
+    "level": "B1",
+    "distractor_ids": [
+      "de-b1-foundation-013",
+      "de-b1-foundation-015",
+      "de-b1-foundation-016"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "de-b1-foundation-015",
+    "source_language": "de",
+    "level": "B1",
+    "distractor_ids": [
+      "de-b1-foundation-013",
+      "de-b1-foundation-014",
+      "de-b1-foundation-016"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "de-b1-foundation-016",
+    "source_language": "de",
+    "level": "B1",
+    "distractor_ids": [
+      "de-b1-foundation-013",
+      "de-b1-foundation-014",
+      "de-b1-foundation-015"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "de-b1-foundation-017",
+    "source_language": "de",
+    "level": "B1",
+    "distractor_ids": [
+      "de-b1-foundation-018",
+      "de-b1-foundation-019",
+      "de-b1-foundation-020"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "de-b1-foundation-018",
+    "source_language": "de",
+    "level": "B1",
+    "distractor_ids": [
+      "de-b1-foundation-017",
+      "de-b1-foundation-019",
+      "de-b1-foundation-020"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "de-b1-foundation-019",
+    "source_language": "de",
+    "level": "B1",
+    "distractor_ids": [
+      "de-b1-foundation-017",
+      "de-b1-foundation-018",
+      "de-b1-foundation-020"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  },
+  {
+    "id": "de-b1-foundation-020",
+    "source_language": "de",
+    "level": "B1",
+    "distractor_ids": [
+      "de-b1-foundation-017",
+      "de-b1-foundation-018",
+      "de-b1-foundation-019"
+    ],
+    "policy": "Individually reviewed, semantically distinct quartets of the same grammatical class; no client grading"
+  }
+]

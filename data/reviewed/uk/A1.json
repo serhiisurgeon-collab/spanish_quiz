@@ -1,0 +1,842 @@
+[
+  {
+    "id": "uk-a1-foundation-001",
+    "canonical_id": "uk-a1-foundation-001",
+    "source_language": "uk",
+    "text": "квиток",
+    "uk": "квиток",
+    "en": "a ticket",
+    "es": "un billete",
+    "de": "die Fahrkarte",
+    "example": {
+      "uk": "У мене є квиток до Львова.",
+      "en": "I have a ticket to Lviv.",
+      "es": "Tengo un billete a Leópolis.",
+      "de": "Ich habe eine Fahrkarte nach Lwiw."
+    },
+    "level": "A1",
+    "sense": "a ticket",
+    "grammar": {
+      "part_of_speech": "noun"
+    },
+    "topic": "daily_objects",
+    "options": {
+      "en": [
+        "breakfast",
+        "a ticket",
+        "an umbrella",
+        "a towel"
+      ],
+      "es": [
+        "un paraguas",
+        "una toalla",
+        "un billete",
+        "el desayuno"
+      ],
+      "de": [
+        "die Fahrkarte",
+        "das Handtuch",
+        "das Frühstück",
+        "der Regenschirm"
+      ]
+    }
+  },
+  {
+    "id": "uk-a1-foundation-002",
+    "canonical_id": "uk-a1-foundation-002",
+    "source_language": "uk",
+    "text": "рушник",
+    "uk": "рушник",
+    "en": "a towel",
+    "es": "una toalla",
+    "de": "das Handtuch",
+    "example": {
+      "uk": "Чистий рушник лежить на ліжку.",
+      "en": "A clean towel is on the bed.",
+      "es": "Hay una toalla limpia en la cama.",
+      "de": "Ein sauberes Handtuch liegt auf dem Bett."
+    },
+    "level": "A1",
+    "sense": "a towel",
+    "grammar": {
+      "part_of_speech": "noun"
+    },
+    "topic": "daily_objects",
+    "options": {
+      "en": [
+        "an umbrella",
+        "breakfast",
+        "a towel",
+        "a ticket"
+      ],
+      "es": [
+        "un paraguas",
+        "una toalla",
+        "el desayuno",
+        "un billete"
+      ],
+      "de": [
+        "die Fahrkarte",
+        "das Handtuch",
+        "der Regenschirm",
+        "das Frühstück"
+      ]
+    }
+  },
+  {
+    "id": "uk-a1-foundation-003",
+    "canonical_id": "uk-a1-foundation-003",
+    "source_language": "uk",
+    "text": "парасоля",
+    "uk": "парасоля",
+    "en": "an umbrella",
+    "es": "un paraguas",
+    "de": "der Regenschirm",
+    "example": {
+      "uk": "Візьми парасолю: іде дощ.",
+      "en": "Take an umbrella: it is raining.",
+      "es": "Lleva un paraguas: está lloviendo.",
+      "de": "Nimm einen Regenschirm mit: Es regnet."
+    },
+    "level": "A1",
+    "sense": "an umbrella",
+    "grammar": {
+      "part_of_speech": "noun"
+    },
+    "topic": "daily_objects",
+    "options": {
+      "en": [
+        "breakfast",
+        "a ticket",
+        "a towel",
+        "an umbrella"
+      ],
+      "es": [
+        "el desayuno",
+        "un billete",
+        "un paraguas",
+        "una toalla"
+      ],
+      "de": [
+        "das Frühstück",
+        "der Regenschirm",
+        "das Handtuch",
+        "die Fahrkarte"
+      ]
+    }
+  },
+  {
+    "id": "uk-a1-foundation-004",
+    "canonical_id": "uk-a1-foundation-004",
+    "source_language": "uk",
+    "text": "сніданок",
+    "uk": "сніданок",
+    "en": "breakfast",
+    "es": "el desayuno",
+    "de": "das Frühstück",
+    "example": {
+      "uk": "Сніданок о восьмій.",
+      "en": "Breakfast is at eight.",
+      "es": "El desayuno es a las ocho.",
+      "de": "Das Frühstück ist um acht."
+    },
+    "level": "A1",
+    "sense": "breakfast",
+    "grammar": {
+      "part_of_speech": "noun"
+    },
+    "topic": "daily_objects",
+    "options": {
+      "en": [
+        "a towel",
+        "a ticket",
+        "breakfast",
+        "an umbrella"
+      ],
+      "es": [
+        "un paraguas",
+        "una toalla",
+        "un billete",
+        "el desayuno"
+      ],
+      "de": [
+        "der Regenschirm",
+        "das Handtuch",
+        "das Frühstück",
+        "die Fahrkarte"
+      ]
+    }
+  },
+  {
+    "id": "uk-a1-foundation-005",
+    "canonical_id": "uk-a1-foundation-005",
+    "source_language": "uk",
+    "text": "сусід",
+    "uk": "сусід",
+    "en": "a male neighbour",
+    "es": "un vecino",
+    "de": "der Nachbar",
+    "example": {
+      "uk": "Мій сусід живе поруч.",
+      "en": "My male neighbour lives next door.",
+      "es": "Mi vecino vive al lado.",
+      "de": "Mein Nachbar wohnt nebenan."
+    },
+    "level": "A1",
+    "sense": "a male neighbour",
+    "grammar": {
+      "part_of_speech": "noun"
+    },
+    "topic": "daily_objects",
+    "options": {
+      "en": [
+        "a male neighbour",
+        "a kitchen",
+        "a lake",
+        "an exercise book"
+      ],
+      "es": [
+        "un vecino",
+        "una cocina",
+        "un lago",
+        "un cuaderno"
+      ],
+      "de": [
+        "die Küche",
+        "das Heft",
+        "der See",
+        "der Nachbar"
+      ]
+    }
+  },
+  {
+    "id": "uk-a1-foundation-006",
+    "canonical_id": "uk-a1-foundation-006",
+    "source_language": "uk",
+    "text": "озеро",
+    "uk": "озеро",
+    "en": "a lake",
+    "es": "un lago",
+    "de": "der See",
+    "example": {
+      "uk": "Біля села є озеро.",
+      "en": "There is a lake near the village.",
+      "es": "Hay un lago cerca del pueblo.",
+      "de": "In der Nähe des Dorfes gibt es einen See."
+    },
+    "level": "A1",
+    "sense": "a lake",
+    "grammar": {
+      "part_of_speech": "noun"
+    },
+    "topic": "daily_objects",
+    "options": {
+      "en": [
+        "an exercise book",
+        "a lake",
+        "a male neighbour",
+        "a kitchen"
+      ],
+      "es": [
+        "un lago",
+        "un cuaderno",
+        "una cocina",
+        "un vecino"
+      ],
+      "de": [
+        "der Nachbar",
+        "das Heft",
+        "der See",
+        "die Küche"
+      ]
+    }
+  },
+  {
+    "id": "uk-a1-foundation-007",
+    "canonical_id": "uk-a1-foundation-007",
+    "source_language": "uk",
+    "text": "зошит",
+    "uk": "зошит",
+    "en": "an exercise book",
+    "es": "un cuaderno",
+    "de": "das Heft",
+    "example": {
+      "uk": "Це мій зошит для уроків.",
+      "en": "This is my exercise book for lessons.",
+      "es": "Este es mi cuaderno para las clases.",
+      "de": "Das ist mein Heft für den Unterricht."
+    },
+    "level": "A1",
+    "sense": "an exercise book",
+    "grammar": {
+      "part_of_speech": "noun"
+    },
+    "topic": "daily_objects",
+    "options": {
+      "en": [
+        "a male neighbour",
+        "a lake",
+        "an exercise book",
+        "a kitchen"
+      ],
+      "es": [
+        "un lago",
+        "una cocina",
+        "un vecino",
+        "un cuaderno"
+      ],
+      "de": [
+        "der See",
+        "das Heft",
+        "die Küche",
+        "der Nachbar"
+      ]
+    }
+  },
+  {
+    "id": "uk-a1-foundation-008",
+    "canonical_id": "uk-a1-foundation-008",
+    "source_language": "uk",
+    "text": "кухня",
+    "uk": "кухня",
+    "en": "a kitchen",
+    "es": "una cocina",
+    "de": "die Küche",
+    "example": {
+      "uk": "Наша кухня маленька.",
+      "en": "Our kitchen is small.",
+      "es": "Nuestra cocina es pequeña.",
+      "de": "Unsere Küche ist klein."
+    },
+    "level": "A1",
+    "sense": "a kitchen",
+    "grammar": {
+      "part_of_speech": "noun"
+    },
+    "topic": "daily_objects",
+    "options": {
+      "en": [
+        "a lake",
+        "a kitchen",
+        "a male neighbour",
+        "an exercise book"
+      ],
+      "es": [
+        "una cocina",
+        "un lago",
+        "un vecino",
+        "un cuaderno"
+      ],
+      "de": [
+        "die Küche",
+        "der Nachbar",
+        "das Heft",
+        "der See"
+      ]
+    }
+  },
+  {
+    "id": "uk-a1-foundation-009",
+    "canonical_id": "uk-a1-foundation-009",
+    "source_language": "uk",
+    "text": "чекати",
+    "uk": "чекати",
+    "en": "to wait",
+    "es": "esperar",
+    "de": "warten",
+    "example": {
+      "uk": "Я чекаю на автобус.",
+      "en": "I am waiting for the bus.",
+      "es": "Espero el autobús.",
+      "de": "Ich warte auf den Bus."
+    },
+    "level": "A1",
+    "sense": "to wait",
+    "grammar": {
+      "part_of_speech": "verb"
+    },
+    "topic": "daily_actions",
+    "options": {
+      "en": [
+        "to cook",
+        "to wait",
+        "to ask",
+        "to open"
+      ],
+      "es": [
+        "cocinar",
+        "esperar",
+        "preguntar",
+        "abrir"
+      ],
+      "de": [
+        "warten",
+        "öffnen",
+        "kochen",
+        "fragen"
+      ]
+    }
+  },
+  {
+    "id": "uk-a1-foundation-010",
+    "canonical_id": "uk-a1-foundation-010",
+    "source_language": "uk",
+    "text": "готувати їжу",
+    "uk": "готувати їжу",
+    "en": "to cook",
+    "es": "cocinar",
+    "de": "kochen",
+    "example": {
+      "uk": "Увечері я готую їжу.",
+      "en": "I cook in the evening.",
+      "es": "Por la tarde cocino.",
+      "de": "Am Abend koche ich."
+    },
+    "level": "A1",
+    "sense": "to cook",
+    "grammar": {
+      "part_of_speech": "verb"
+    },
+    "topic": "daily_actions",
+    "options": {
+      "en": [
+        "to wait",
+        "to open",
+        "to ask",
+        "to cook"
+      ],
+      "es": [
+        "preguntar",
+        "cocinar",
+        "esperar",
+        "abrir"
+      ],
+      "de": [
+        "warten",
+        "kochen",
+        "fragen",
+        "öffnen"
+      ]
+    }
+  },
+  {
+    "id": "uk-a1-foundation-011",
+    "canonical_id": "uk-a1-foundation-011",
+    "source_language": "uk",
+    "text": "запитувати",
+    "uk": "запитувати",
+    "en": "to ask",
+    "es": "preguntar",
+    "de": "fragen",
+    "example": {
+      "uk": "Я запитую вчителя про урок.",
+      "en": "I ask the teacher about the lesson.",
+      "es": "Pregunto al profesor por la clase.",
+      "de": "Ich frage den Lehrer nach dem Unterricht."
+    },
+    "level": "A1",
+    "sense": "to ask",
+    "grammar": {
+      "part_of_speech": "verb"
+    },
+    "topic": "daily_actions",
+    "options": {
+      "en": [
+        "to wait",
+        "to ask",
+        "to open",
+        "to cook"
+      ],
+      "es": [
+        "cocinar",
+        "esperar",
+        "preguntar",
+        "abrir"
+      ],
+      "de": [
+        "warten",
+        "öffnen",
+        "kochen",
+        "fragen"
+      ]
+    }
+  },
+  {
+    "id": "uk-a1-foundation-012",
+    "canonical_id": "uk-a1-foundation-012",
+    "source_language": "uk",
+    "text": "відчиняти",
+    "uk": "відчиняти",
+    "en": "to open",
+    "es": "abrir",
+    "de": "öffnen",
+    "example": {
+      "uk": "Будь ласка, відчини вікно.",
+      "en": "Please open the window.",
+      "es": "Abre la ventana, por favor.",
+      "de": "Öffne bitte das Fenster."
+    },
+    "level": "A1",
+    "sense": "to open",
+    "grammar": {
+      "part_of_speech": "verb"
+    },
+    "topic": "daily_actions",
+    "options": {
+      "en": [
+        "to ask",
+        "to open",
+        "to cook",
+        "to wait"
+      ],
+      "es": [
+        "cocinar",
+        "esperar",
+        "abrir",
+        "preguntar"
+      ],
+      "de": [
+        "fragen",
+        "kochen",
+        "warten",
+        "öffnen"
+      ]
+    }
+  },
+  {
+    "id": "uk-a1-foundation-013",
+    "canonical_id": "uk-a1-foundation-013",
+    "source_language": "uk",
+    "text": "відпочивати",
+    "uk": "відпочивати",
+    "en": "to rest",
+    "es": "descansar",
+    "de": "sich ausruhen",
+    "example": {
+      "uk": "У неділю ми відпочиваємо.",
+      "en": "We rest on Sundays.",
+      "es": "Los domingos descansamos.",
+      "de": "Sonntags ruhen wir uns aus."
+    },
+    "level": "A1",
+    "sense": "to rest",
+    "grammar": {
+      "part_of_speech": "verb"
+    },
+    "topic": "daily_actions",
+    "options": {
+      "en": [
+        "to make a phone call",
+        "to swim",
+        "to tidy up",
+        "to rest"
+      ],
+      "es": [
+        "descansar",
+        "ordenar",
+        "llamar por teléfono",
+        "nadar"
+      ],
+      "de": [
+        "sich ausruhen",
+        "schwimmen",
+        "telefonieren",
+        "aufräumen"
+      ]
+    }
+  },
+  {
+    "id": "uk-a1-foundation-014",
+    "canonical_id": "uk-a1-foundation-014",
+    "source_language": "uk",
+    "text": "прибирати",
+    "uk": "прибирати",
+    "en": "to tidy up",
+    "es": "ordenar",
+    "de": "aufräumen",
+    "example": {
+      "uk": "Я прибираю свою кімнату.",
+      "en": "I tidy up my room.",
+      "es": "Ordeno mi habitación.",
+      "de": "Ich räume mein Zimmer auf."
+    },
+    "level": "A1",
+    "sense": "to tidy up",
+    "grammar": {
+      "part_of_speech": "verb"
+    },
+    "topic": "daily_actions",
+    "options": {
+      "en": [
+        "to tidy up",
+        "to make a phone call",
+        "to rest",
+        "to swim"
+      ],
+      "es": [
+        "llamar por teléfono",
+        "nadar",
+        "descansar",
+        "ordenar"
+      ],
+      "de": [
+        "sich ausruhen",
+        "telefonieren",
+        "aufräumen",
+        "schwimmen"
+      ]
+    }
+  },
+  {
+    "id": "uk-a1-foundation-015",
+    "canonical_id": "uk-a1-foundation-015",
+    "source_language": "uk",
+    "text": "плавати",
+    "uk": "плавати",
+    "en": "to swim",
+    "es": "nadar",
+    "de": "schwimmen",
+    "example": {
+      "uk": "Я люблю плавати влітку.",
+      "en": "I like swimming in summer.",
+      "es": "Me gusta nadar en verano.",
+      "de": "Ich schwimme im Sommer gern."
+    },
+    "level": "A1",
+    "sense": "to swim",
+    "grammar": {
+      "part_of_speech": "verb"
+    },
+    "topic": "daily_actions",
+    "options": {
+      "en": [
+        "to rest",
+        "to make a phone call",
+        "to tidy up",
+        "to swim"
+      ],
+      "es": [
+        "nadar",
+        "llamar por teléfono",
+        "ordenar",
+        "descansar"
+      ],
+      "de": [
+        "aufräumen",
+        "sich ausruhen",
+        "schwimmen",
+        "telefonieren"
+      ]
+    }
+  },
+  {
+    "id": "uk-a1-foundation-016",
+    "canonical_id": "uk-a1-foundation-016",
+    "source_language": "uk",
+    "text": "телефонувати",
+    "uk": "телефонувати",
+    "en": "to make a phone call",
+    "es": "llamar por teléfono",
+    "de": "telefonieren",
+    "example": {
+      "uk": "Я телефоную мамі щовечора.",
+      "en": "I phone my mother every evening.",
+      "es": "Llamo a mi madre todas las tardes.",
+      "de": "Ich telefoniere jeden Abend mit meiner Mutter."
+    },
+    "level": "A1",
+    "sense": "to make a phone call",
+    "grammar": {
+      "part_of_speech": "verb"
+    },
+    "topic": "daily_actions",
+    "options": {
+      "en": [
+        "to tidy up",
+        "to make a phone call",
+        "to rest",
+        "to swim"
+      ],
+      "es": [
+        "nadar",
+        "descansar",
+        "llamar por teléfono",
+        "ordenar"
+      ],
+      "de": [
+        "sich ausruhen",
+        "schwimmen",
+        "telefonieren",
+        "aufräumen"
+      ]
+    }
+  },
+  {
+    "id": "uk-a1-foundation-017",
+    "canonical_id": "uk-a1-foundation-017",
+    "source_language": "uk",
+    "text": "Скільки це коштує?",
+    "uk": "Скільки це коштує?",
+    "en": "How much does this cost?",
+    "es": "¿Cuánto cuesta esto?",
+    "de": "Wie viel kostet das?",
+    "example": {
+      "uk": "У магазині я питаю: «Скільки це коштує?»",
+      "en": "In the shop I ask, “How much does this cost?”",
+      "es": "En la tienda pregunto: «¿Cuánto cuesta esto?»",
+      "de": "Im Geschäft frage ich: „Wie viel kostet das?“"
+    },
+    "level": "A1",
+    "sense": "How much does this cost?",
+    "grammar": {
+      "part_of_speech": "phrase"
+    },
+    "topic": "communication",
+    "options": {
+      "en": [
+        "I do not understand.",
+        "How much does this cost?",
+        "I need help.",
+        "See you!"
+      ],
+      "es": [
+        "Necesito ayuda.",
+        "No entiendo.",
+        "¿Cuánto cuesta esto?",
+        "¡Hasta luego!"
+      ],
+      "de": [
+        "Wie viel kostet das?",
+        "Bis bald!",
+        "Ich verstehe nicht.",
+        "Ich brauche Hilfe."
+      ]
+    }
+  },
+  {
+    "id": "uk-a1-foundation-018",
+    "canonical_id": "uk-a1-foundation-018",
+    "source_language": "uk",
+    "text": "Мені потрібна допомога.",
+    "uk": "Мені потрібна допомога.",
+    "en": "I need help.",
+    "es": "Necesito ayuda.",
+    "de": "Ich brauche Hilfe.",
+    "example": {
+      "uk": "Вибачте, мені потрібна допомога.",
+      "en": "Excuse me, I need help.",
+      "es": "Perdone, necesito ayuda.",
+      "de": "Entschuldigung, ich brauche Hilfe."
+    },
+    "level": "A1",
+    "sense": "I need help.",
+    "grammar": {
+      "part_of_speech": "phrase"
+    },
+    "topic": "communication",
+    "options": {
+      "en": [
+        "How much does this cost?",
+        "I do not understand.",
+        "See you!",
+        "I need help."
+      ],
+      "es": [
+        "No entiendo.",
+        "¡Hasta luego!",
+        "Necesito ayuda.",
+        "¿Cuánto cuesta esto?"
+      ],
+      "de": [
+        "Bis bald!",
+        "Ich verstehe nicht.",
+        "Ich brauche Hilfe.",
+        "Wie viel kostet das?"
+      ]
+    }
+  },
+  {
+    "id": "uk-a1-foundation-019",
+    "canonical_id": "uk-a1-foundation-019",
+    "source_language": "uk",
+    "text": "До зустрічі!",
+    "uk": "До зустрічі!",
+    "en": "See you!",
+    "es": "¡Hasta luego!",
+    "de": "Bis bald!",
+    "example": {
+      "uk": "До зустрічі, побачимося завтра!",
+      "en": "See you! We will meet tomorrow.",
+      "es": "¡Hasta luego, nos vemos mañana!",
+      "de": "Bis bald, wir sehen uns morgen!"
+    },
+    "level": "A1",
+    "sense": "See you!",
+    "grammar": {
+      "part_of_speech": "phrase"
+    },
+    "topic": "communication",
+    "options": {
+      "en": [
+        "I do not understand.",
+        "See you!",
+        "How much does this cost?",
+        "I need help."
+      ],
+      "es": [
+        "¿Cuánto cuesta esto?",
+        "No entiendo.",
+        "¡Hasta luego!",
+        "Necesito ayuda."
+      ],
+      "de": [
+        "Wie viel kostet das?",
+        "Ich verstehe nicht.",
+        "Ich brauche Hilfe.",
+        "Bis bald!"
+      ]
+    }
+  },
+  {
+    "id": "uk-a1-foundation-020",
+    "canonical_id": "uk-a1-foundation-020",
+    "source_language": "uk",
+    "text": "Я не розумію.",
+    "uk": "Я не розумію.",
+    "en": "I do not understand.",
+    "es": "No entiendo.",
+    "de": "Ich verstehe nicht.",
+    "example": {
+      "uk": "Я не розумію. Повторіть, будь ласка.",
+      "en": "I do not understand. Please repeat that.",
+      "es": "No entiendo. Repita, por favor.",
+      "de": "Ich verstehe nicht. Wiederholen Sie das bitte."
+    },
+    "level": "A1",
+    "sense": "I do not understand.",
+    "grammar": {
+      "part_of_speech": "phrase"
+    },
+    "topic": "communication",
+    "options": {
+      "en": [
+        "See you!",
+        "I do not understand.",
+        "I need help.",
+        "How much does this cost?"
+      ],
+      "es": [
+        "¡Hasta luego!",
+        "¿Cuánto cuesta esto?",
+        "Necesito ayuda.",
+        "No entiendo."
+      ],
+      "de": [
+        "Bis bald!",
+        "Ich brauche Hilfe.",
+        "Wie viel kostet das?",
+        "Ich verstehe nicht."
+      ]
+    }
+  }
+]

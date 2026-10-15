@@ -13,17 +13,17 @@ async function setup(lang='uk',config={}){
   else if(url.endsWith('/session'))result={session_id:'server-session'};
   else if(url.endsWith('/question')){
    const position=body.position??Math.max(0,...accepted.keys());const chosen=accepted.get(position);
-   const question={position,id:'stable-'+position,es:'el agua',context:'Bebo agua.',options:['correct','wrong','other','fourth'],total:20,accepted:chosen!==undefined,accepted_total:accepted.size,summary:{correct:1,incorrect:0}};
-   if(chosen!==undefined)Object.assign(question,{chosen,correct:chosen==='correct',answer:'correct',example:'Translated example'});
+   const question={position,id:'stable-'+position,es:config.word?.text||config.word?.es||'el agua',context:config.word?.example?.[config.learning]||'Bebo agua.',options:config.word?.options?.[config.translation]||['correct','wrong','other','fourth'],total:20,accepted:chosen!==undefined,accepted_total:accepted.size,summary:{correct:1,incorrect:0}};
+   if(chosen!==undefined)Object.assign(question,{chosen,correct:chosen===(config.word?.[config.translation]||'correct'),answer:config.word?.[config.translation]||'correct',example:'Translated example'});
    result={status:completed?'completed':'active',question};
   }else if(url.endsWith('/answer')){
    if(accepted.has(body.position)&&accepted.get(body.position)!==body.chosen)return {ok:false,status:400,json:async()=>({error:'invalid_request'})};
-   accepted.set(body.position,body.chosen);result={correct:body.chosen==='correct',answer:'correct',example:'Translated example'};
+   accepted.set(body.position,body.chosen);result={correct:body.chosen===(config.word?.[config.translation]||'correct'),answer:config.word?.[config.translation]||'correct',example:'Translated example'};
   }else {completed=true;result={correct:1,incorrect:0};}
   return {ok:true,status:200,json:async()=>result};
  };
  context.fetch=normal;vm.createContext(context);vm.runInContext(fs.readFileSync(path.join(root,'locales.js'),'utf8'),context);vm.runInContext(fs.readFileSync(path.join(root,'secure-quiz.js'),'utf8'),context);
- const open=()=>context.window.startSecureQuiz(config.tg||{initData:'signed-telegram-data'},new URLSearchParams({api:config.bad?'https://evil.example':'https://api.example',lang,learning_language:'es',translation_language:config.translation||lang,level:'A1'}));
+ const open=()=>context.window.startSecureQuiz(config.tg||{initData:'signed-telegram-data'},new URLSearchParams({api:config.bad?'https://evil.example':'https://api.example',lang,learning_language:config.learning||'es',translation_language:config.translation||lang,level:config.level||'A1'}));
  await open();return {elements,calls,storage,accepted,context,open,setHook:h=>hook=h};
 }
 for(const lang of ['uk','en'])test(lang+' server grading, double-click prevention and completion',async()=>{
@@ -140,3 +140,34 @@ test('all four WebApp catalogs have equal keys and placeholder contracts',async(
   for(const key of keys){assert.ok(catalogs[lang][key].trim());assert.deepEqual([...catalogs[lang][key].matchAll(/\{(\w+)\}/g)].map(x=>x[1]).sort(),[...catalogs.uk[key].matchAll(/\{(\w+)\}/g)].map(x=>x[1]).sort());}
  }
 });
+
+for(const lang of ['uk','en','es','de'])test(lang+' secure German target, retry and restoration',async()=>{
+ const q=await setup(lang,{translation:'de'});
+ const create=q.calls.find(c=>c.url.endsWith('/session')).body;
+ assert.equal(create.interface_language,lang);assert.equal(create.translation_language,'de');assert.equal(create.learning_language,'es');
+ await q.elements.optionsContainer.children[0].onclick();
+ await q.open();assert.equal(q.elements.nextBtn.disabled,false);
+ assert.equal(q.accepted.size,1);
+ await q.elements.finishBtn.onclick();assert.equal(q.elements.quizSummary.hidden,false);
+});
+
+// New original curricula exercise the authenticated recovery flow with actual generated questions.
+for(const level of ['A1','A2','B1'])for(const ui of ['uk','en','es','de'])for(const learning of ['uk','en','es','de'])for(const translation of ['uk','en','es','de']){
+ if(learning===translation)continue;
+ test(`stage4 ${level} ${ui} UI / ${learning} → ${translation}: original context, request, accepted answer and reload`,async()=>{
+  const file=path.join(root,'data/reviewed',...(learning==='es'?[]:[learning]),level+'.json');
+  const word=JSON.parse(fs.readFileSync(file,'utf8'))[0];
+  const q=await setup(ui,{learning,translation,word,level});
+  const request=q.calls.find(c=>c.url.endsWith('/session')).body;
+  assert.equal(request.level,level);assert.equal(request.learning_language,learning);assert.equal(request.translation_language,translation);assert.equal(request.interface_language,ui);
+  assert.equal(q.elements.wordText.textContent,word.text||word.es);
+  if(learning!=='es')assert.equal(q.elements.quizTitle.textContent.includes('🇪🇸'),false);
+  assert.ok(q.elements.exampleText.textContent.includes(word.example[learning]));
+  const index=word.options[translation].indexOf(word[translation]);
+  await q.elements.optionsContainer.children[index].onclick();
+  assert.equal(q.accepted.size,1);assert.ok(q.elements.optionsContainer.children[index].classList.values.includes('correct'));
+  await q.open();assert.equal(q.accepted.size,1);assert.equal(q.elements.nextBtn.disabled,false);
+  const key=[...q.storage.keys()][0];assert.ok(key.includes('42:'+level+':'+ui));
+  if(learning!=='es')assert.ok(key.endsWith(':'+learning+':'+translation));
+ });
+}

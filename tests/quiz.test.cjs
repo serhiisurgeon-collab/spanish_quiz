@@ -8,7 +8,7 @@ const root = path.resolve(__dirname, '..');
 const html = fs.readFileSync(path.join(root, 'index.html'), 'utf8');
 const script = [...html.matchAll(/<script>([\s\S]*?)<\/script>/g)][0][1];
 
-async function setup(level='A1', {telegram=true, error=false, sendError=false, wordsOverride, lang='uk'}={}) {
+async function setup(level='A1', {telegram=true, error=false, sendError=false, wordsOverride, lang='uk',translation}={}) {
   const elements = {}, sent = [];
   function element() {
     return {textContent:'', children:[], events:{}, disabled:false,
@@ -23,7 +23,7 @@ async function setup(level='A1', {telegram=true, error=false, sendError=false, w
   const bridge = {expand(){}, close(){throw Error('sendData should close app')},
     sendData(data){if(sendError) throw Error('simulated bridge failure');sent.push(JSON.parse(data))}};
   const context = {URLSearchParams, TextEncoder, console:{error(){}},
-    window:{location:{search:'?level='+level+'&lang='+encodeURIComponent(lang)}, ...(telegram?{Telegram:{WebApp:bridge}}:{})},
+    window:{location:{search:'?level='+level+'&lang='+encodeURIComponent(lang)+(translation?'&translation_language='+translation:'')}, ...(telegram?{Telegram:{WebApp:bridge}}:{})},
     document:{documentElement:{},getElementById(id){return elements[id]??=element()},createElement:element},
     fetch:async resource=>{
       if(error) return {ok:false,status:503};
@@ -37,7 +37,7 @@ async function setup(level='A1', {telegram=true, error=false, sendError=false, w
   await new Promise(setImmediate);
   function answer(correct=true) {
     const current = vm.runInContext('currentWord',context);
-    const button = elements.optionsContainer.children.find(b => (b.textContent===current[vm.runInContext('lang',context)])===correct);
+    const button = elements.optionsContainer.children.find(b => (b.textContent===current[vm.runInContext('target',context)])===correct);
     assert.ok(button);
     button.click();
   }
@@ -64,7 +64,7 @@ for(const lang of ['uk','en']) for(const level of ['A1','A2','B1','invalid']) {
     assert.equal(q.sent.length,1);
     const payload=q.sent[0];
     assert.equal(payload.answers.length,2);
-    const records=JSON.parse(fs.readFileSync(path.join(root,'data',payload.level+'.json'),'utf8'));
+    const records=JSON.parse(fs.readFileSync(path.join(root,'data','reviewed',payload.level+'.json'),'utf8'));
     const target=a=>records.find(r=>r.id===a.id)[lang];
     assert.equal(payload.lang,lang);
     assert.equal(payload.answers[0].chosen,target(payload.answers[0]));
@@ -90,8 +90,8 @@ test('session stays within Telegram byte and answer limits',async()=>{
 });
 
 test('long Unicode answers cannot overflow payload; previous answers remain sendable',async()=>{
-  const q=await setup('A1',{wordsOverride:[{id:'long',es:'palabra',uk:'я'.repeat(300),en:'word',
-    options:{uk:['я'.repeat(300),'wrong','other','third'],en:['word','wrong','other','third']}}]});
+  const q=await setup('A1',{wordsOverride:Array.from({length:20},(_,i)=>({id:'long'+i,es:'palabra'+i,uk:'я'.repeat(300),en:'word',
+    options:{uk:['я'.repeat(300),'wrong','other','third'],en:['word','wrong','other','third']}}))});
   for(let i=0;i<20;i++) {
     q.answer(true);
     if(q.elements.error.textContent) break;
@@ -244,12 +244,13 @@ for (const lang of ['uk','en']) {
   });
 }
 
-test('A2 regional note is rendered in the selected interface language',async()=>{
+test('A2 regional note is rendered after answering in the target language',async()=>{
   const row=JSON.parse(fs.readFileSync(path.join(root,'data/A2.json'),'utf8')).find(r=>r.regional_note);
   assert.ok(row);
   for(const lang of ['uk','en']) {
     const q=await setup('A2',{lang,wordsOverride:[row]});
-    assert.ok(q.elements.exampleText.textContent.includes(row.regional_note[lang]));
+    assert.ok(!q.elements.exampleText.textContent.includes(row.regional_note[lang]));
+    q.answer();assert.ok(q.elements.result.textContent.includes(row.regional_note[lang]));
   }
 });
 
@@ -277,6 +278,36 @@ test('B1 formal, colloquial and regional usage notes are localised',async()=>{
   assert.ok(rows.every(Boolean));
   for(const row of rows) for(const lang of ['uk','en']) {
     const q=await setup('B1',{lang,wordsOverride:[row]});
-    assert.ok(q.elements.exampleText.textContent.includes((row.usage_note||row.regional_note)[lang]));
+    assert.ok(!q.elements.exampleText.textContent.includes((row.usage_note||row.regional_note)[lang]));
+    q.answer();assert.ok(q.elements.result.textContent.includes((row.usage_note||row.regional_note)[lang]));
   }
+});
+
+for(const lang of ['uk','en','es','de']) for(const translation of ['uk','en','de']) test(lang+' legacy display with '+translation+' reviewed answers',async()=>{
+ const q=await setup('B1',{lang,translation});
+ assert.equal(q.elements.error.textContent,'');
+ q.answer(true);q.elements.finishBtn.click();
+ assert.equal(q.sent.length,1);assert.equal(q.sent[0].lang,translation);
+ const rows=JSON.parse(fs.readFileSync(path.join(root,'data/reviewed/B1.json'),'utf8'));
+ const a=q.sent[0].answers[0];assert.equal(a.chosen,rows.find(r=>r.id===a.id)[translation]);
+});
+
+test('legacy session never repeats a canonical material',async()=>{
+ const q=await setup('A1');vm.runInContext('Math.random=()=>0',q.context);
+ for(let i=0;i<20;i++){q.answer();if(i<19)q.elements.nextBtn.click();}
+ assert.equal(vm.runInContext('answers.length',q.context),20);
+ assert.equal(vm.runInContext('new Set(answers.map(a=>a.id)).size',q.context),20);
+ assert.equal(q.elements.nextBtn.disabled,true);
+});
+test('legacy canonical aliases cannot occupy two questions',async()=>{
+ const word=(id,canonical_id)=>({id,canonical_id,es:'palabra',uk:'слово',en:'word',options:{uk:['слово','а','б','в'],en:['word','a','b','c']}});
+ const q=await setup('A1',{wordsOverride:[word('one','same'),word('alias','same'),word('two','other')]});
+ q.answer();q.elements.nextBtn.click();q.answer();
+ assert.equal(vm.runInContext('answers.length',q.context),2);assert.equal(q.elements.nextBtn.disabled,true);
+});
+
+test('target-language explanatory notes are hidden until an answer',async()=>{
+ const q=await setup('A1',{lang:'en',wordsOverride:[{id:'note',es:'palabra',uk:'слово',en:'word',example:{es:'Una palabra.',uk:'Слово.',en:'A word.'},usage_note:{en:'REVEALS THE MEANING'},regional_note:{en:'REGIONAL EXPLANATION'},options:{en:['word','wrong','other','fourth'],uk:['слово','ні','так','інше']}}]});
+ assert.ok(!q.elements.exampleText.textContent.includes('REVEALS'));assert.ok(!q.elements.exampleText.textContent.includes('REGIONAL'));
+ q.answer();assert.ok(q.elements.result.textContent.includes('REVEALS'));assert.ok(q.elements.result.textContent.includes('REGIONAL'));
 });

@@ -1,0 +1,842 @@
+[
+  {
+    "id": "en-a1-foundation-001",
+    "canonical_id": "en-a1-foundation-001",
+    "source_language": "en",
+    "text": "a suitcase",
+    "en": "a suitcase",
+    "uk": "валіза",
+    "es": "una maleta",
+    "de": "der Koffer",
+    "example": {
+      "en": "My suitcase is under the bed.",
+      "uk": "Моя валіза під ліжком.",
+      "es": "Mi maleta está debajo de la cama.",
+      "de": "Mein Koffer liegt unter dem Bett."
+    },
+    "level": "A1",
+    "sense": "a suitcase",
+    "grammar": {
+      "part_of_speech": "noun"
+    },
+    "topic": "daily_objects",
+    "options": {
+      "uk": [
+        "чек про покупку",
+        "дитячий майданчик",
+        "чайник для кип’ятіння води",
+        "валіза"
+      ],
+      "es": [
+        "una maleta",
+        "un hervidor de agua",
+        "un tique de compra",
+        "un parque infantil"
+      ],
+      "de": [
+        "der Kassenbon",
+        "der Spielplatz",
+        "der Koffer",
+        "der Wasserkocher"
+      ]
+    }
+  },
+  {
+    "id": "en-a1-foundation-002",
+    "canonical_id": "en-a1-foundation-002",
+    "source_language": "en",
+    "text": "a receipt",
+    "en": "a receipt",
+    "uk": "чек про покупку",
+    "es": "un tique de compra",
+    "de": "der Kassenbon",
+    "example": {
+      "en": "Please keep your receipt.",
+      "uk": "Будь ласка, збережіть чек про покупку.",
+      "es": "Guarde el tique de compra, por favor.",
+      "de": "Bewahren Sie bitte Ihren Kassenbon auf."
+    },
+    "level": "A1",
+    "sense": "a receipt",
+    "grammar": {
+      "part_of_speech": "noun"
+    },
+    "topic": "daily_objects",
+    "options": {
+      "uk": [
+        "дитячий майданчик",
+        "чек про покупку",
+        "валіза",
+        "чайник для кип’ятіння води"
+      ],
+      "es": [
+        "un tique de compra",
+        "una maleta",
+        "un parque infantil",
+        "un hervidor de agua"
+      ],
+      "de": [
+        "der Spielplatz",
+        "der Kassenbon",
+        "der Koffer",
+        "der Wasserkocher"
+      ]
+    }
+  },
+  {
+    "id": "en-a1-foundation-003",
+    "canonical_id": "en-a1-foundation-003",
+    "source_language": "en",
+    "text": "a kettle",
+    "en": "a kettle",
+    "uk": "чайник для кип’ятіння води",
+    "es": "un hervidor de agua",
+    "de": "der Wasserkocher",
+    "example": {
+      "en": "The kettle is in the kitchen.",
+      "uk": "Чайник для кип’ятіння води на кухні.",
+      "es": "El hervidor de agua está en la cocina.",
+      "de": "Der Wasserkocher steht in der Küche."
+    },
+    "level": "A1",
+    "sense": "a kettle",
+    "grammar": {
+      "part_of_speech": "noun"
+    },
+    "topic": "daily_objects",
+    "options": {
+      "uk": [
+        "чайник для кип’ятіння води",
+        "дитячий майданчик",
+        "валіза",
+        "чек про покупку"
+      ],
+      "es": [
+        "un tique de compra",
+        "un parque infantil",
+        "una maleta",
+        "un hervidor de agua"
+      ],
+      "de": [
+        "der Wasserkocher",
+        "der Kassenbon",
+        "der Spielplatz",
+        "der Koffer"
+      ]
+    }
+  },
+  {
+    "id": "en-a1-foundation-004",
+    "canonical_id": "en-a1-foundation-004",
+    "source_language": "en",
+    "text": "a playground",
+    "en": "a playground",
+    "uk": "дитячий майданчик",
+    "es": "un parque infantil",
+    "de": "der Spielplatz",
+    "example": {
+      "en": "The children are at the playground.",
+      "uk": "Діти на дитячому майданчику.",
+      "es": "Los niños están en el parque infantil.",
+      "de": "Die Kinder sind auf dem Spielplatz."
+    },
+    "level": "A1",
+    "sense": "a playground",
+    "grammar": {
+      "part_of_speech": "noun"
+    },
+    "topic": "daily_objects",
+    "options": {
+      "uk": [
+        "чайник для кип’ятіння води",
+        "дитячий майданчик",
+        "чек про покупку",
+        "валіза"
+      ],
+      "es": [
+        "un tique de compra",
+        "un parque infantil",
+        "un hervidor de agua",
+        "una maleta"
+      ],
+      "de": [
+        "der Kassenbon",
+        "der Wasserkocher",
+        "der Spielplatz",
+        "der Koffer"
+      ]
+    }
+  },
+  {
+    "id": "en-a1-foundation-005",
+    "canonical_id": "en-a1-foundation-005",
+    "source_language": "en",
+    "text": "a nurse",
+    "en": "a nurse",
+    "uk": "медсестра або медбрат",
+    "es": "un profesional de enfermería",
+    "de": "eine Pflegekraft",
+    "example": {
+      "en": "A nurse works at this hospital.",
+      "uk": "У цій лікарні працює медсестра або медбрат.",
+      "es": "Un profesional de enfermería trabaja en este hospital.",
+      "de": "In diesem Krankenhaus arbeitet eine Pflegekraft."
+    },
+    "level": "A1",
+    "sense": "a nurse",
+    "grammar": {
+      "part_of_speech": "noun"
+    },
+    "topic": "daily_objects",
+    "options": {
+      "uk": [
+        "шарф",
+        "велосипед",
+        "медсестра або медбрат",
+        "полиця"
+      ],
+      "es": [
+        "una bicicleta",
+        "una balda",
+        "una bufanda",
+        "un profesional de enfermería"
+      ],
+      "de": [
+        "das Fahrrad",
+        "der Schal",
+        "das Regalbrett",
+        "eine Pflegekraft"
+      ]
+    }
+  },
+  {
+    "id": "en-a1-foundation-006",
+    "canonical_id": "en-a1-foundation-006",
+    "source_language": "en",
+    "text": "a shelf",
+    "en": "a shelf",
+    "uk": "полиця",
+    "es": "una balda",
+    "de": "das Regalbrett",
+    "example": {
+      "en": "Put the cup on the shelf.",
+      "uk": "Постав чашку на полицю.",
+      "es": "Pon la taza en la balda.",
+      "de": "Stell die Tasse auf das Regalbrett."
+    },
+    "level": "A1",
+    "sense": "a shelf",
+    "grammar": {
+      "part_of_speech": "noun"
+    },
+    "topic": "daily_objects",
+    "options": {
+      "uk": [
+        "медсестра або медбрат",
+        "шарф",
+        "полиця",
+        "велосипед"
+      ],
+      "es": [
+        "una balda",
+        "un profesional de enfermería",
+        "una bicicleta",
+        "una bufanda"
+      ],
+      "de": [
+        "der Schal",
+        "das Regalbrett",
+        "das Fahrrad",
+        "eine Pflegekraft"
+      ]
+    }
+  },
+  {
+    "id": "en-a1-foundation-007",
+    "canonical_id": "en-a1-foundation-007",
+    "source_language": "en",
+    "text": "a bicycle",
+    "en": "a bicycle",
+    "uk": "велосипед",
+    "es": "una bicicleta",
+    "de": "das Fahrrad",
+    "example": {
+      "en": "I go to school by bicycle.",
+      "uk": "Я їжджу до школи велосипедом.",
+      "es": "Voy al colegio en bicicleta.",
+      "de": "Ich fahre mit dem Fahrrad zur Schule."
+    },
+    "level": "A1",
+    "sense": "a bicycle",
+    "grammar": {
+      "part_of_speech": "noun"
+    },
+    "topic": "daily_objects",
+    "options": {
+      "uk": [
+        "велосипед",
+        "медсестра або медбрат",
+        "шарф",
+        "полиця"
+      ],
+      "es": [
+        "una bufanda",
+        "una balda",
+        "una bicicleta",
+        "un profesional de enfermería"
+      ],
+      "de": [
+        "eine Pflegekraft",
+        "der Schal",
+        "das Fahrrad",
+        "das Regalbrett"
+      ]
+    }
+  },
+  {
+    "id": "en-a1-foundation-008",
+    "canonical_id": "en-a1-foundation-008",
+    "source_language": "en",
+    "text": "a scarf",
+    "en": "a scarf",
+    "uk": "шарф",
+    "es": "una bufanda",
+    "de": "der Schal",
+    "example": {
+      "en": "Wear a scarf today.",
+      "uk": "Сьогодні одягни шарф.",
+      "es": "Ponte una bufanda hoy.",
+      "de": "Trag heute einen Schal."
+    },
+    "level": "A1",
+    "sense": "a scarf",
+    "grammar": {
+      "part_of_speech": "noun"
+    },
+    "topic": "daily_objects",
+    "options": {
+      "uk": [
+        "полиця",
+        "шарф",
+        "медсестра або медбрат",
+        "велосипед"
+      ],
+      "es": [
+        "una bufanda",
+        "una balda",
+        "un profesional de enfermería",
+        "una bicicleta"
+      ],
+      "de": [
+        "das Fahrrad",
+        "der Schal",
+        "eine Pflegekraft",
+        "das Regalbrett"
+      ]
+    }
+  },
+  {
+    "id": "en-a1-foundation-009",
+    "canonical_id": "en-a1-foundation-009",
+    "source_language": "en",
+    "text": "to borrow",
+    "en": "to borrow",
+    "uk": "позичати в когось",
+    "es": "pedir prestado",
+    "de": "ausleihen (von jemandem)",
+    "example": {
+      "en": "Can I borrow your pen?",
+      "uk": "Можна позичити в тебе ручку?",
+      "es": "¿Puedo pedirte prestado el bolígrafo?",
+      "de": "Kann ich mir deinen Stift ausleihen?"
+    },
+    "level": "A1",
+    "sense": "to borrow",
+    "grammar": {
+      "part_of_speech": "verb"
+    },
+    "topic": "daily_actions",
+    "options": {
+      "uk": [
+        "мити",
+        "подорожувати",
+        "слухати",
+        "позичати в когось"
+      ],
+      "es": [
+        "lavar",
+        "pedir prestado",
+        "viajar",
+        "escuchar"
+      ],
+      "de": [
+        "reisen",
+        "waschen",
+        "ausleihen (von jemandem)",
+        "zuhören"
+      ]
+    }
+  },
+  {
+    "id": "en-a1-foundation-010",
+    "canonical_id": "en-a1-foundation-010",
+    "source_language": "en",
+    "text": "to wash",
+    "en": "to wash",
+    "uk": "мити",
+    "es": "lavar",
+    "de": "waschen",
+    "example": {
+      "en": "Wash your hands before lunch.",
+      "uk": "Помий руки перед обідом.",
+      "es": "Lávate las manos antes de comer.",
+      "de": "Wasch dir vor dem Mittagessen die Hände."
+    },
+    "level": "A1",
+    "sense": "to wash",
+    "grammar": {
+      "part_of_speech": "verb"
+    },
+    "topic": "daily_actions",
+    "options": {
+      "uk": [
+        "позичати в когось",
+        "мити",
+        "подорожувати",
+        "слухати"
+      ],
+      "es": [
+        "viajar",
+        "escuchar",
+        "lavar",
+        "pedir prestado"
+      ],
+      "de": [
+        "ausleihen (von jemandem)",
+        "waschen",
+        "zuhören",
+        "reisen"
+      ]
+    }
+  },
+  {
+    "id": "en-a1-foundation-011",
+    "canonical_id": "en-a1-foundation-011",
+    "source_language": "en",
+    "text": "to listen",
+    "en": "to listen",
+    "uk": "слухати",
+    "es": "escuchar",
+    "de": "zuhören",
+    "example": {
+      "en": "Please listen to the teacher.",
+      "uk": "Будь ласка, слухайте вчителя.",
+      "es": "Escuchad al profesor, por favor.",
+      "de": "Hört bitte dem Lehrer zu."
+    },
+    "level": "A1",
+    "sense": "to listen",
+    "grammar": {
+      "part_of_speech": "verb"
+    },
+    "topic": "daily_actions",
+    "options": {
+      "uk": [
+        "позичати в когось",
+        "подорожувати",
+        "мити",
+        "слухати"
+      ],
+      "es": [
+        "escuchar",
+        "lavar",
+        "pedir prestado",
+        "viajar"
+      ],
+      "de": [
+        "waschen",
+        "ausleihen (von jemandem)",
+        "reisen",
+        "zuhören"
+      ]
+    }
+  },
+  {
+    "id": "en-a1-foundation-012",
+    "canonical_id": "en-a1-foundation-012",
+    "source_language": "en",
+    "text": "to travel",
+    "en": "to travel",
+    "uk": "подорожувати",
+    "es": "viajar",
+    "de": "reisen",
+    "example": {
+      "en": "We travel by train.",
+      "uk": "Ми подорожуємо потягом.",
+      "es": "Viajamos en tren.",
+      "de": "Wir reisen mit dem Zug."
+    },
+    "level": "A1",
+    "sense": "to travel",
+    "grammar": {
+      "part_of_speech": "verb"
+    },
+    "topic": "daily_actions",
+    "options": {
+      "uk": [
+        "подорожувати",
+        "слухати",
+        "позичати в когось",
+        "мити"
+      ],
+      "es": [
+        "escuchar",
+        "viajar",
+        "lavar",
+        "pedir prestado"
+      ],
+      "de": [
+        "zuhören",
+        "reisen",
+        "ausleihen (von jemandem)",
+        "waschen"
+      ]
+    }
+  },
+  {
+    "id": "en-a1-foundation-013",
+    "canonical_id": "en-a1-foundation-013",
+    "source_language": "en",
+    "text": "to carry",
+    "en": "to carry",
+    "uk": "нести",
+    "es": "llevar (en las manos)",
+    "de": "tragen",
+    "example": {
+      "en": "I carry the bags home.",
+      "uk": "Я несу сумки додому.",
+      "es": "Llevo las bolsas a casa.",
+      "de": "Ich trage die Taschen nach Hause."
+    },
+    "level": "A1",
+    "sense": "to carry",
+    "grammar": {
+      "part_of_speech": "verb"
+    },
+    "topic": "daily_actions",
+    "options": {
+      "uk": [
+        "прокидатися",
+        "малювати",
+        "платити",
+        "нести"
+      ],
+      "es": [
+        "dibujar",
+        "despertarse",
+        "llevar (en las manos)",
+        "pagar"
+      ],
+      "de": [
+        "bezahlen",
+        "aufwachen",
+        "zeichnen",
+        "tragen"
+      ]
+    }
+  },
+  {
+    "id": "en-a1-foundation-014",
+    "canonical_id": "en-a1-foundation-014",
+    "source_language": "en",
+    "text": "to draw",
+    "en": "to draw",
+    "uk": "малювати",
+    "es": "dibujar",
+    "de": "zeichnen",
+    "example": {
+      "en": "She draws a house.",
+      "uk": "Вона малює будинок.",
+      "es": "Ella dibuja una casa.",
+      "de": "Sie zeichnet ein Haus."
+    },
+    "level": "A1",
+    "sense": "to draw",
+    "grammar": {
+      "part_of_speech": "verb"
+    },
+    "topic": "daily_actions",
+    "options": {
+      "uk": [
+        "платити",
+        "нести",
+        "прокидатися",
+        "малювати"
+      ],
+      "es": [
+        "despertarse",
+        "llevar (en las manos)",
+        "pagar",
+        "dibujar"
+      ],
+      "de": [
+        "aufwachen",
+        "tragen",
+        "bezahlen",
+        "zeichnen"
+      ]
+    }
+  },
+  {
+    "id": "en-a1-foundation-015",
+    "canonical_id": "en-a1-foundation-015",
+    "source_language": "en",
+    "text": "to pay",
+    "en": "to pay",
+    "uk": "платити",
+    "es": "pagar",
+    "de": "bezahlen",
+    "example": {
+      "en": "Can I pay by card?",
+      "uk": "Можна заплатити карткою?",
+      "es": "¿Puedo pagar con tarjeta?",
+      "de": "Kann ich mit Karte bezahlen?"
+    },
+    "level": "A1",
+    "sense": "to pay",
+    "grammar": {
+      "part_of_speech": "verb"
+    },
+    "topic": "daily_actions",
+    "options": {
+      "uk": [
+        "нести",
+        "платити",
+        "малювати",
+        "прокидатися"
+      ],
+      "es": [
+        "llevar (en las manos)",
+        "pagar",
+        "dibujar",
+        "despertarse"
+      ],
+      "de": [
+        "zeichnen",
+        "bezahlen",
+        "aufwachen",
+        "tragen"
+      ]
+    }
+  },
+  {
+    "id": "en-a1-foundation-016",
+    "canonical_id": "en-a1-foundation-016",
+    "source_language": "en",
+    "text": "to wake up",
+    "en": "to wake up",
+    "uk": "прокидатися",
+    "es": "despertarse",
+    "de": "aufwachen",
+    "example": {
+      "en": "I wake up at seven.",
+      "uk": "Я прокидаюся о сьомій.",
+      "es": "Me despierto a las siete.",
+      "de": "Ich wache um sieben auf."
+    },
+    "level": "A1",
+    "sense": "to wake up",
+    "grammar": {
+      "part_of_speech": "verb"
+    },
+    "topic": "daily_actions",
+    "options": {
+      "uk": [
+        "платити",
+        "нести",
+        "малювати",
+        "прокидатися"
+      ],
+      "es": [
+        "pagar",
+        "dibujar",
+        "llevar (en las manos)",
+        "despertarse"
+      ],
+      "de": [
+        "tragen",
+        "zeichnen",
+        "bezahlen",
+        "aufwachen"
+      ]
+    }
+  },
+  {
+    "id": "en-a1-foundation-017",
+    "canonical_id": "en-a1-foundation-017",
+    "source_language": "en",
+    "text": "Could you repeat that, please?",
+    "en": "Could you repeat that, please?",
+    "uk": "Повторіть, будь ласка.",
+    "es": "¿Puede repetirlo, por favor?",
+    "de": "Können Sie das bitte wiederholen?",
+    "example": {
+      "en": "I did not hear you. Could you repeat that, please?",
+      "uk": "Я вас не почув. Повторіть, будь ласка.",
+      "es": "No le he oído. ¿Puede repetirlo, por favor?",
+      "de": "Ich habe Sie nicht gehört. Können Sie das bitte wiederholen?"
+    },
+    "level": "A1",
+    "sense": "Could you repeat that, please?",
+    "grammar": {
+      "part_of_speech": "phrase"
+    },
+    "topic": "communication",
+    "options": {
+      "uk": [
+        "Де найближча автобусна зупинка?",
+        "Гарного дня!",
+        "Повторіть, будь ласка.",
+        "Я хочу чашку чаю."
+      ],
+      "es": [
+        "¿Dónde está la parada de autobús más cercana?",
+        "¡Que tenga un buen día!",
+        "¿Puede repetirlo, por favor?",
+        "Quisiera una taza de té."
+      ],
+      "de": [
+        "Können Sie das bitte wiederholen?",
+        "Einen schönen Tag noch!",
+        "Wo ist die nächste Bushaltestelle?",
+        "Ich hätte gern eine Tasse Tee."
+      ]
+    }
+  },
+  {
+    "id": "en-a1-foundation-018",
+    "canonical_id": "en-a1-foundation-018",
+    "source_language": "en",
+    "text": "I would like a cup of tea.",
+    "en": "I would like a cup of tea.",
+    "uk": "Я хочу чашку чаю.",
+    "es": "Quisiera una taza de té.",
+    "de": "Ich hätte gern eine Tasse Tee.",
+    "example": {
+      "en": "I would like a cup of tea, please.",
+      "uk": "Я хочу чашку чаю, будь ласка.",
+      "es": "Quisiera una taza de té, por favor.",
+      "de": "Ich hätte bitte gern eine Tasse Tee."
+    },
+    "level": "A1",
+    "sense": "I would like a cup of tea.",
+    "grammar": {
+      "part_of_speech": "phrase"
+    },
+    "topic": "communication",
+    "options": {
+      "uk": [
+        "Повторіть, будь ласка.",
+        "Гарного дня!",
+        "Я хочу чашку чаю.",
+        "Де найближча автобусна зупинка?"
+      ],
+      "es": [
+        "¿Puede repetirlo, por favor?",
+        "Quisiera una taza de té.",
+        "¡Que tenga un buen día!",
+        "¿Dónde está la parada de autobús más cercana?"
+      ],
+      "de": [
+        "Wo ist die nächste Bushaltestelle?",
+        "Einen schönen Tag noch!",
+        "Ich hätte gern eine Tasse Tee.",
+        "Können Sie das bitte wiederholen?"
+      ]
+    }
+  },
+  {
+    "id": "en-a1-foundation-019",
+    "canonical_id": "en-a1-foundation-019",
+    "source_language": "en",
+    "text": "Where is the nearest bus stop?",
+    "en": "Where is the nearest bus stop?",
+    "uk": "Де найближча автобусна зупинка?",
+    "es": "¿Dónde está la parada de autobús más cercana?",
+    "de": "Wo ist die nächste Bushaltestelle?",
+    "example": {
+      "en": "Excuse me, where is the nearest bus stop?",
+      "uk": "Вибачте, де найближча автобусна зупинка?",
+      "es": "Perdone, ¿dónde está la parada de autobús más cercana?",
+      "de": "Entschuldigung, wo ist die nächste Bushaltestelle?"
+    },
+    "level": "A1",
+    "sense": "Where is the nearest bus stop?",
+    "grammar": {
+      "part_of_speech": "phrase"
+    },
+    "topic": "communication",
+    "options": {
+      "uk": [
+        "Де найближча автобусна зупинка?",
+        "Гарного дня!",
+        "Повторіть, будь ласка.",
+        "Я хочу чашку чаю."
+      ],
+      "es": [
+        "¡Que tenga un buen día!",
+        "¿Puede repetirlo, por favor?",
+        "Quisiera una taza de té.",
+        "¿Dónde está la parada de autobús más cercana?"
+      ],
+      "de": [
+        "Ich hätte gern eine Tasse Tee.",
+        "Können Sie das bitte wiederholen?",
+        "Wo ist die nächste Bushaltestelle?",
+        "Einen schönen Tag noch!"
+      ]
+    }
+  },
+  {
+    "id": "en-a1-foundation-020",
+    "canonical_id": "en-a1-foundation-020",
+    "source_language": "en",
+    "text": "Have a nice day!",
+    "en": "Have a nice day!",
+    "uk": "Гарного дня!",
+    "es": "¡Que tenga un buen día!",
+    "de": "Einen schönen Tag noch!",
+    "example": {
+      "en": "Thank you for your help. Have a nice day!",
+      "uk": "Дякую за допомогу. Гарного дня!",
+      "es": "Gracias por su ayuda. ¡Que tenga un buen día!",
+      "de": "Danke für Ihre Hilfe. Einen schönen Tag noch!"
+    },
+    "level": "A1",
+    "sense": "Have a nice day!",
+    "grammar": {
+      "part_of_speech": "phrase"
+    },
+    "topic": "communication",
+    "options": {
+      "uk": [
+        "Повторіть, будь ласка.",
+        "Гарного дня!",
+        "Я хочу чашку чаю.",
+        "Де найближча автобусна зупинка?"
+      ],
+      "es": [
+        "¿Dónde está la parada de autobús más cercana?",
+        "¿Puede repetirlo, por favor?",
+        "¡Que tenga un buen día!",
+        "Quisiera una taza de té."
+      ],
+      "de": [
+        "Einen schönen Tag noch!",
+        "Können Sie das bitte wiederholen?",
+        "Wo ist die nächste Bushaltestelle?",
+        "Ich hätte gern eine Tasse Tee."
+      ]
+    }
+  }
+]

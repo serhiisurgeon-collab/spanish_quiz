@@ -1,0 +1,5260 @@
+{
+  "poem_f384b744f00da3af471b52ed7ac9ff7d799eb4ba1ff6f1eb8ee39bf23488b93a": {
+    "text": "En la noche silenciosa, los pensamientos caen como estrellas.",
+    "translations": {
+      "uk": {
+        "text": "У мовчазній ночі думки падають, мов зорі.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "In the silent night, thoughts fall like stars.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "In der stillen Nacht fallen Gedanken wie Sterne.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_e694fb192b27da8342d55d3c9b20c80757dfefe27cb9c9e590738a5dba5a1fab": {
+    "text": "La esperanza despierta cuando la duda duerme.",
+    "translations": {
+      "uk": {
+        "text": "Надія прокидається, коли сумнів засинає.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Hope awakens when doubt sleeps.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Die Hoffnung erwacht, wenn der Zweifel schläft.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_d79621fa0bf08305e4b2b35defd1f954b78604663e388106a5847818089f9b9f": {
+    "text": "Cada amanecer trae una nueva oportunidad.",
+    "translations": {
+      "uk": {
+        "text": "Кожен світанок приносить нову можливість.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Every dawn brings a new opportunity.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Jede Morgendämmerung bringt eine neue Gelegenheit.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_370bf759109c24b891a8cfbd0513239b8a9a954f989e1210f5f58b7504ab82ce": {
+    "text": "El alma fuerte brilla incluso entre sombras.",
+    "translations": {
+      "uk": {
+        "text": "Сильна душа світиться навіть у тіні.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "A strong soul shines even among shadows.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Eine starke Seele leuchtet selbst zwischen Schatten.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_d4c9e40bfc2b55f080b5676a9f98e31c04ac164ee3d8d9c03fed4b7627748cc3": {
+    "text": "Un paso pequeño puede cambiar el destino.",
+    "translations": {
+      "uk": {
+        "text": "Один маленький крок може змінити долю.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "One small step can change your destiny.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Ein kleiner Schritt kann das Schicksal verändern.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_7f263ed3015b37cb32d303018a61b82db864dcf8c07dff0aea35caedad8c4698": {
+    "text": "El silencio también habla cuando escuchas.",
+    "translations": {
+      "uk": {
+        "text": "Тиша теж говорить, якщо слухати.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Silence speaks too, when you listen.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Auch die Stille spricht, wenn du zuhörst.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_109cb6912a2553e95433d4b5996f42adb88c852deb34f405353f2432651e5d25": {
+    "text": "La paciencia construye lo que el miedo destruye.",
+    "translations": {
+      "uk": {
+        "text": "Терпіння будує те, що страх руйнує.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Patience builds what fear destroys.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Geduld baut auf, was Angst zerstört.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_45fc85392106722407bef4891cdd0b602cb4ab8a3355c985a407592ebfceb2dd": {
+    "text": "Las palabras suaves curan heridas profundas.",
+    "translations": {
+      "uk": {
+        "text": "Ніжні слова лікують глибокі рани.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Gentle words heal deep wounds.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Sanfte Worte heilen tiefe Wunden.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_3d13074f4d29caf1c6478dbcdfe850f47fbd8738b3bc6fe622b86d7056775890": {
+    "text": "El valor crece donde el miedo retrocede.",
+    "translations": {
+      "uk": {
+        "text": "Сміливість росте там, де страх відступає.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Courage grows where fear retreats.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Mut wächst dort, wo die Angst zurückweicht.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_018838168e37cc6b6ab1ab4ec51065c8b328e79adc9c51ee5dffaec203a52514": {
+    "text": "La noche prepara el camino para la luz.",
+    "translations": {
+      "uk": {
+        "text": "Ніч готує шлях для світла.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "The night prepares the way for light.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Die Nacht bereitet dem Licht den Weg.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_4efdd947fac23d87511ce13ccfe571827c0ae1f21ce9fa93c997239d1e10a977": {
+    "text": "Los sueños comienzan con pequeños intentos.",
+    "translations": {
+      "uk": {
+        "text": "Мрії починаються з маленьких спроб.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Dreams begin with small attempts.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Träume beginnen mit kleinen Versuchen.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_ae939a252d60cd218939636f2cbaedc458c69218880eddff3952ca99761ce18c": {
+    "text": "El tiempo abraza todo lo que parece imposible.",
+    "translations": {
+      "uk": {
+        "text": "Час обіймає все, що здається неможливим.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Time embraces everything that seems impossible.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Die Zeit umarmt alles, was unmöglich erscheint.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_a562c23650480aaac37ca04afa46bffcd24a12f358bb7ef7460bf4ec1961647b": {
+    "text": "Una sonrisa puede salvar un día entero.",
+    "translations": {
+      "uk": {
+        "text": "Одна усмішка може врятувати цілий день.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "One smile can save an entire day.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Ein Lächeln kann einen ganzen Tag retten.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_5cdd89fe4fe7010c2f864d63197452c8ac3f41499c0982c9e87c1d98e0125ddf": {
+    "text": "La calma llega después de aceptar el caos.",
+    "translations": {
+      "uk": {
+        "text": "Спокій приходить після прийняття хаосу.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Calm comes after accepting chaos.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Ruhe kommt, wenn man das Chaos annimmt.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_da09c5abff518ec29b1ff7caca0a61940ee9adf3251d9d9392b7a95a52d1d2b3": {
+    "text": "Cada alma tiene un cielo donde descansar.",
+    "translations": {
+      "uk": {
+        "text": "Кожна душа має своє небо для спокою.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Every soul has a sky where it can rest.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Jede Seele hat einen Himmel, in dem sie ruhen kann.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_4dbfd03ea06eddff2c0eca9ec6cf8d655c56169631a31bcabb35c770a036385c": {
+    "text": "Las montañas nacen de antiguas heridas.",
+    "translations": {
+      "uk": {
+        "text": "Гори народжуються зі старих ран.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Mountains are born of ancient wounds.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Berge entstehen aus alten Wunden.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_8dfee18e9dfaeefe04c877827a1c902bf9af0800669af5423683d3173be681e6": {
+    "text": "El amor despierta incluso piedras dormidas.",
+    "translations": {
+      "uk": {
+        "text": "Любов здатна розбудити навіть каміння.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Love awakens even sleeping stones.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Liebe weckt selbst schlafende Steine.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_b1323595d1505b07451fe88d4344e5c461f5a784b2b80d65774a9536a1e31673": {
+    "text": "Lo que siembras hoy, florecerá mañana.",
+    "translations": {
+      "uk": {
+        "text": "Що сієш сьогодні, зацвіте завтра.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "What you sow today will bloom tomorrow.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Was du heute säst, wird morgen blühen.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_619e3c0966105775b4e98c7f5b2ac194e7ea320ac79d396fa0aa21557110b96f": {
+    "text": "El viento lleva lejos todo lo innecesario.",
+    "translations": {
+      "uk": {
+        "text": "Вітер забирає все зайве.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "The wind carries away everything unnecessary.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Der Wind trägt alles Unnötige weit fort.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_59e3455f7ff29fe12d854b622124cadf787b660d4b44cbd8ae38bd7b5f4a8956": {
+    "text": "El sol no falla, tarda pero vuelve.",
+    "translations": {
+      "uk": {
+        "text": "Сонце не підводить: затримується, але повертається.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "The sun never fails; it may be late, but it returns.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Die Sonne lässt dich nicht im Stich; sie braucht Zeit, doch sie kehrt zurück.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_c24772a40af1313cd801865b94b1fd48a824e099a0bd6bef025a49f8e2d51185": {
+    "text": "Tu voz interna conoce el camino.",
+    "translations": {
+      "uk": {
+        "text": "Твій внутрішній голос знає шлях.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Your inner voice knows the way.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Deine innere Stimme kennt den Weg.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_0f7a60aa86d455eac4116f6368b3b1ccd3f878df9caf6f6a7f5496eceadd45c8": {
+    "text": "Lo difícil te enseña a ser fuerte.",
+    "translations": {
+      "uk": {
+        "text": "Складне вчить бути сильним.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Hardship teaches you to be strong.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Das Schwierige lehrt dich, stark zu sein.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_06cd0892c2f19b2c643c258a9f5d043ada671e821a0973841b7c9661bcfb68e3": {
+    "text": "Nadie pierde si aprende.",
+    "translations": {
+      "uk": {
+        "text": "Ніхто не програє, якщо навчається.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "No one loses if they learn.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Niemand verliert, wenn er lernt.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_088658295bc841298258f10caf2a6d08a5a4dccadd4503b0cfeb77a06f858bf7": {
+    "text": "Cada noche guarda una pequeña esperanza.",
+    "translations": {
+      "uk": {
+        "text": "Кожна ніч зберігає краплину надії.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Every night holds a little hope.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Jede Nacht birgt ein wenig Hoffnung.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_f4bf3858386c580315d56e3cabc11ff5340695aa9af63c519501b2156d78793d": {
+    "text": "La lluvia limpia lo que el tiempo calla.",
+    "translations": {
+      "uk": {
+        "text": "Дощ очищає те, що час замовчує.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Rain washes away what time leaves unspoken.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Der Regen reinigt, was die Zeit verschweigt.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_f8a2e89c01633d59000745d6be207970f5fe3a2a0958f38e0d7e86d7682635e4": {
+    "text": "Un alma tranquila ve lejos.",
+    "translations": {
+      "uk": {
+        "text": "Спокійна душа бачить далеко.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "A peaceful soul sees far.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Eine ruhige Seele sieht weit.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_bf2dbd9f805dd40352d251413b0106b4afe2b4e148eac545e17ab019c616ed04": {
+    "text": "Cada lágrima riega un futuro distinto.",
+    "translations": {
+      "uk": {
+        "text": "Кожна сльоза поливає інше майбутнє.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Every tear waters a different future.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Jede Träne bewässert eine andere Zukunft.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_237a7af2ef978709cd73618f624644ec6f571c400f39f8f20cc9a4fe7c17ef5f": {
+    "text": "La fuerza nace cuando ya no queda miedo.",
+    "translations": {
+      "uk": {
+        "text": "Сила народжується, коли страх зникає.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Strength is born when fear is gone.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Stärke entsteht, wenn keine Angst mehr bleibt.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_88e0884d0bc77f314bbbdee8aa053372164bf879c178832d54b6d388124edce0": {
+    "text": "Hay luz incluso en lo que no entendemos.",
+    "translations": {
+      "uk": {
+        "text": "Є світло навіть у тому, що ми не розуміємо.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "There is light even in what we do not understand.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Selbst in dem, was wir nicht verstehen, liegt Licht.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_c9d337a6381d679669ed247be590637b8d6209dafe90df599f18b1cfccf3383d": {
+    "text": "El camino correcto nunca grita.",
+    "translations": {
+      "uk": {
+        "text": "Правильний шлях ніколи не кричить.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "The right path never shouts.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Der richtige Weg schreit nie.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_4095cca8c69cb8ed387e8be13be6f6d00e9302944b6b4805a4c740222ec70793": {
+    "text": "La fe sostiene cuando las manos caen.",
+    "translations": {
+      "uk": {
+        "text": "Віра тримає, коли руки опускаються.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Faith sustains you when your hands sink.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Der Glaube trägt dich, wenn deine Hände sinken.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_93a42792b47e4dadd099680419a044644cdbab1d2295b250d7293bced577fa8f": {
+    "text": "Tu respiración también es una victoria.",
+    "translations": {
+      "uk": {
+        "text": "Твій подих — теж перемога.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Your breathing is a victory too.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Auch dein Atem ist ein Sieg.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_e5c3b38ebe2430854e797d2502be9398b1cd1496ff167c30846753d95ecf931e": {
+    "text": "El alma que sueña nunca envejece.",
+    "translations": {
+      "uk": {
+        "text": "Душа, що мріє, ніколи не старіє.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "A soul that dreams never grows old.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Eine träumende Seele wird niemals alt.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_e4542c814ae5ff8383c8ef3db5fdcaec14d548437bc694a4368e9dab7bd9b5c3": {
+    "text": "Quien espera sin rendirse, ya avanza.",
+    "translations": {
+      "uk": {
+        "text": "Хто чекає, не здаючись, уже рухається вперед.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Those who wait without giving up are already moving forward.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Wer wartet, ohne aufzugeben, kommt bereits voran.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_42176c9479df74ab4cb26cd0bf314e9b4c230f6d50adcb5b28a3760288fc53dc": {
+    "text": "El dolor enseña lo que la paz olvida.",
+    "translations": {
+      "uk": {
+        "text": "Біль навчає тому, що мир забуває.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Pain teaches what peace forgets.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Der Schmerz lehrt, was der Frieden vergisst.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_63f85eea560f935960d8907637118e732fe631e8fb4eb64cdf20fc413d82aef5": {
+    "text": "Las heridas antiguas también florecen.",
+    "translations": {
+      "uk": {
+        "text": "Старі рани теж можуть цвісти.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Old wounds can bloom too.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Auch alte Wunden können blühen.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_cbf49be47cd625e25fd9a1eccb7470a053373e27b27737d182e4674d45ff94e8": {
+    "text": "Todo llega cuando dejas de correr.",
+    "translations": {
+      "uk": {
+        "text": "Усе приходить, коли перестаєш бігти.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Everything comes when you stop running.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Alles kommt, wenn du aufhörst zu rennen.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_a804b5cf120144700cf343583d726e868dc292238b1f127f5be59af258012307": {
+    "text": "Los días grises protegen la semilla.",
+    "translations": {
+      "uk": {
+        "text": "Сірі дні оберігають зерно.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Grey days protect the seed.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Graue Tage schützen den Samen.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_283512ebce17613b70b053c5a91aefc6f7255916204c2be2f44c75bacef7ebac": {
+    "text": "El corazón roto sigue latiendo fuerte.",
+    "translations": {
+      "uk": {
+        "text": "Розбите серце все ще б’ється сильно.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "A broken heart still beats strongly.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Ein gebrochenes Herz schlägt noch immer kräftig.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_0b8b4db6f077fceb7f4d7860b018f8f6168e0c15e6e8192b12297b556b1c4fbd": {
+    "text": "Cada noche trae un pensamiento nuevo.",
+    "translations": {
+      "uk": {
+        "text": "Кожна ніч приносить нову думку.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Every night brings a new thought.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Jede Nacht bringt einen neuen Gedanken.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_3996c9c721eaf8497a4b585e32110ffa0400cdf2654eb14fcf7be60cf49e126e": {
+    "text": "No estás solo en lo que sientes.",
+    "translations": {
+      "uk": {
+        "text": "Ти не один у тому, що відчуваєш.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "You are not alone in what you feel.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Du bist mit deinen Gefühlen nicht allein.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_d1d12d6d3aaa3790a098f0a35ed5ed7091dbd61b29acc9e27fc92fffd934eaf6": {
+    "text": "El amor propio también sana.",
+    "translations": {
+      "uk": {
+        "text": "Любов до себе теж лікує.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Self-love heals too.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Auch Selbstliebe heilt.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_0f211206f7c1c32ee0ab84fdc56a0a6e236e4daf311013870fe3eaff2eaca910": {
+    "text": "Todo lo perdido abre otro camino.",
+    "translations": {
+      "uk": {
+        "text": "Все втрачене відкриває інший шлях.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Everything lost opens another path.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Alles Verlorene eröffnet einen anderen Weg.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_59294a7d58cd321de237116b640c98554c4ade430322eeed8a38772bd8e68c3e": {
+    "text": "El alma libre vive más ligero.",
+    "translations": {
+      "uk": {
+        "text": "Вільна душа живе легше.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "A free soul lives more lightly.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Eine freie Seele lebt leichter.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_6958d93b0d3ff29ab3336f0b4872a746dfddb6dfafdf88af3ff95ca019e961f7": {
+    "text": "Mirar al cielo siempre calma.",
+    "translations": {
+      "uk": {
+        "text": "Погляд у небо завжди заспокоює.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Looking at the sky always brings calm.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Der Blick zum Himmel beruhigt immer.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_b79ab0b0499b83d90f32f27aa1cbf113595729cf5919ba3ad6d0660943269dbe": {
+    "text": "La noche guarda secretos de luz.",
+    "translations": {
+      "uk": {
+        "text": "Ніч зберігає таємниці світла.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "The night holds secrets of light.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Die Nacht birgt Geheimnisse des Lichts.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_69385b2cfbb27b741392acf586f5f6a72cd6b1b72c28baa6125cfeb663a9a9e6": {
+    "text": "Un día a la vez es suficiente.",
+    "translations": {
+      "uk": {
+        "text": "Один день за раз — достатньо.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "One day at a time is enough.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Ein Tag nach dem anderen genügt.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_b36ea9cb5cc9a8c8c695f3e0c3b05a919418ac1b44584088f2aaebd52303a95f": {
+    "text": "La fuerza crece en silencio.",
+    "translations": {
+      "uk": {
+        "text": "Сила росте в тиші.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Strength grows in silence.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Stärke wächst in der Stille.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_040bb7028a6956da271e3a2058b5ad7e11f1cea6603a66cf6b1693f2915ce80b": {
+    "text": "Cada amanecer merece gratitud.",
+    "translations": {
+      "uk": {
+        "text": "Кожен світанок заслуговує подяки.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Every dawn deserves gratitude.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Jede Morgendämmerung verdient Dankbarkeit.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_5d03c0354d94d2d65a6edbc9a89846b7ec04f4e5a9527a0f65834767a2a3cfcd": {
+    "text": "Todo empieza en el corazón.",
+    "translations": {
+      "uk": {
+        "text": "Все починається в серці.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Everything begins in the heart.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Alles beginnt im Herzen.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_06da62d904ba678d8b7e392e133a3ba3a2a2fcfc17b8debcd302e686de8bdb60": {
+    "text": "Es un amanecer, lleno de calma.",
+    "translations": {
+      "uk": {
+        "text": "Це світанок, повний тиші.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "It is a dawn full of calm.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Es ist eine Morgendämmerung voller Ruhe.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_c0a65ae745e25369d4b73cec28485d1c2ab0838659c7867b28b160a12ae4ec8d": {
+    "text": "Es la luna, que mira en silencio.",
+    "translations": {
+      "uk": {
+        "text": "Це місяць, що мовчки спостерігає.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "It is the moon, watching in silence.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Es ist der Mond, der schweigend zusieht.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_137a5bd26cb15dfe93b8e17c33d8305c00b0d85ac257589f6a70d93d35abac5b": {
+    "text": "En esta noche, mi alma descansa.",
+    "translations": {
+      "uk": {
+        "text": "У цю ніч моя душа відпочиває.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Tonight, my soul rests.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "In dieser Nacht ruht meine Seele.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_e1cc84217699d7a34275488989cb69ed33d22c0deb9db811f00c63f1108138df": {
+    "text": "Es la lluvia, suave como sueño.",
+    "translations": {
+      "uk": {
+        "text": "Це дощ, м’який як сон.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "It is the rain, soft as a dream.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Es ist der Regen, sanft wie ein Traum.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_7362498387da8ffe78fef1cc28fbbf7b3782008176a4a29e472a4d45c283b80b": {
+    "text": "Siento el viento, que canta conmigo.",
+    "translations": {
+      "uk": {
+        "text": "Я відчуваю вітер, що співає зі мною.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "I feel the wind singing with me.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Ich spüre den Wind, der mit mir singt.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_9baeac5d1d54cbc8e77b4d9f0d891b5e3f0afbe54e62ee00f80adb05a5714683": {
+    "text": "El cielo brilla, como tus ojos.",
+    "translations": {
+      "uk": {
+        "text": "Небо світиться, як твої очі.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "The sky shines like your eyes.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Der Himmel leuchtet wie deine Augen.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_d9d47e730b5c8f0e7e96550e7c39d9bd77ff7b2ed4b09ad7599e1a0998c87fa5": {
+    "text": "Mi corazón, pequeño pero fuerte.",
+    "translations": {
+      "uk": {
+        "text": "Моє серце маленьке, але сильне.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "My heart is small but strong.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Mein Herz, klein und doch stark.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_983df78839743070f5e548835b68363165fff334410960083b6c68b7c77e2685": {
+    "text": "Hoy es un día lleno de luz.",
+    "translations": {
+      "uk": {
+        "text": "Сьогодні день повний світла.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Today is a day full of light.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Heute ist ein Tag voller Licht.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_4e530ce45729f62d28fe34d75eecf4b66e477921191158ec40538bdeed165876": {
+    "text": "El mar respira, lento y tranquilo.",
+    "translations": {
+      "uk": {
+        "text": "Море дихає повільно й спокійно.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "The sea breathes slowly and peacefully.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Das Meer atmet langsam und ruhig.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_b6356baecce85479aec8c0ab512321e21d8b608a92b1246a0e3e261d38189faa": {
+    "text": "Las estrellas pintan la noche.",
+    "translations": {
+      "uk": {
+        "text": "Зірки малюють ніч.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "The stars paint the night.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Die Sterne malen die Nacht.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_c25dc52bda7f3bfdb39a28bb3cbdac7c2eda6e3b745b65dbe4e9d704a8eccdfe": {
+    "text": "Mis pasos buscan tu sombra.",
+    "translations": {
+      "uk": {
+        "text": "Мої кроки шукають твою тінь.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "My footsteps seek your shadow.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Meine Schritte suchen deinen Schatten.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_de402aae5aa6639728772eee99e01f568486035a68957d85c4cb35cba1ccbb70": {
+    "text": "El sol abraza mis manos.",
+    "translations": {
+      "uk": {
+        "text": "Сонце обіймає мої руки.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "The sun embraces my hands.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Die Sonne umarmt meine Hände.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_c6ef6f8681384ada9e280500de2202e934a56507ade197b74c379f1a545de3c7": {
+    "text": "Mis sueños vuelan muy lejos.",
+    "translations": {
+      "uk": {
+        "text": "Мої сни летять дуже далеко.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "My dreams fly far away.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Meine Träume fliegen sehr weit.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_320057792209c22709248c992ea5857fbb0d0427d8e4abe0ef307823faa8ccb1": {
+    "text": "Mi voz cae como lluvia.",
+    "translations": {
+      "uk": {
+        "text": "Мій голос падає як дощ.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "My voice falls like rain.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Meine Stimme fällt wie Regen.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_3e198ee85f02bbee4a77865762fa950115553b8c240cd79cbb0394bf4fd94fb9": {
+    "text": "El día duerme en tu mirada.",
+    "translations": {
+      "uk": {
+        "text": "День спить у твоєму погляді.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "The day sleeps in your gaze.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Der Tag schläft in deinem Blick.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_afcbe89c64827261b7ae08d2198911c10360d99d35245e9d036212cbc110a5b7": {
+    "text": "En tu sonrisa vive la paz.",
+    "translations": {
+      "uk": {
+        "text": "У твоїй усмішці живе мир.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Peace lives in your smile.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "In deinem Lächeln wohnt Frieden.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_1bfc732eda82deccc0eef881b5dccf4e00964952d16d9f5126efe32a23c46c66": {
+    "text": "Mis ojos buscan la calma.",
+    "translations": {
+      "uk": {
+        "text": "Мої очі шукають спокій.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "My eyes seek calm.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Meine Augen suchen Ruhe.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_ea14aa14dfb2c6eac60bd1ccdc87dbc4e96c9aab60454c5955091de55d8dff38": {
+    "text": "Sueño con un cielo azul.",
+    "translations": {
+      "uk": {
+        "text": "Мрію про синє небо.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "I dream of a blue sky.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Ich träume von einem blauen Himmel.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_e9839b166008d5525a66c82db70565baab1e81ef150762a90ccd12f79e7f6091": {
+    "text": "El aire trae esperanza.",
+    "translations": {
+      "uk": {
+        "text": "Повітря приносить надію.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "The air brings hope.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Die Luft bringt Hoffnung.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_ec416e114bc6a31b4b2054853279c2e235f88f17f237c7eb8d298af5fdf80868": {
+    "text": "La luna toca mi ventana.",
+    "translations": {
+      "uk": {
+        "text": "Місяць торкається мого вікна.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "The moon touches my window.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Der Mond berührt mein Fenster.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_452b1536c370889b2effc9ee6f08b6bba7ff91e773c2a05319cf721b08d17f96": {
+    "text": "La flor abre su corazón.",
+    "translations": {
+      "uk": {
+        "text": "Квітка відкриває своє серце.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "The flower opens its heart.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Die Blume öffnet ihr Herz.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_f29033f190fabad96b4fc0431c42067cc4021fa7c73a5a6fbdd14ffb3ec11056": {
+    "text": "El campo canta despacio.",
+    "translations": {
+      "uk": {
+        "text": "Поле співає повільно.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "The field sings slowly.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Das Feld singt langsam.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_6e324692b65ad354e49ff28f842b11e9bb8a5ecfb85c08a8c1b736c4ca034942": {
+    "text": "El tiempo pasa muy lento.",
+    "translations": {
+      "uk": {
+        "text": "Час минає дуже повільно.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Time passes very slowly.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Die Zeit vergeht sehr langsam.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_573fd2a3ad5778f2af1edc2d88435523ba9a446dd3e552ddca285fed60d71303": {
+    "text": "Mis manos guardan silencio.",
+    "translations": {
+      "uk": {
+        "text": "Мої руки зберігають тишу.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "My hands keep their silence.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Meine Hände bewahren die Stille.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_9e56d11647c7d100b8bf3982e4fe12286c806ded659ffe078084e6da6e41dcf1": {
+    "text": "Cada noche nace un sueño.",
+    "translations": {
+      "uk": {
+        "text": "Щоночі народжується сон.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Every night a dream is born.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Jede Nacht wird ein Traum geboren.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_0d33c4b55e24a45bed322bc133561c9a6d4bf3af832568591cb90954c48eaa82": {
+    "text": "Cada paso es un recuerdo.",
+    "translations": {
+      "uk": {
+        "text": "Кожен крок — це спогад.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Every step is a memory.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Jeder Schritt ist eine Erinnerung.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_515bfdc1d2899c4cf2c3c8dd9ae4ede1ce632f1a914e9c020162c7d78f5b4306": {
+    "text": "Mi alma busca la luz.",
+    "translations": {
+      "uk": {
+        "text": "Моя душа шукає світло.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "My soul seeks the light.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Meine Seele sucht das Licht.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_8e71f878f61ebdca4303e767ba3fd89ecb1bc07f82138f3c63c62d0bf851725a": {
+    "text": "El viento mueve mis dudas.",
+    "translations": {
+      "uk": {
+        "text": "Вітер рухає мої сумніви.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "The wind stirs my doubts.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Der Wind bewegt meine Zweifel.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_ae01bd70468cef29f51284062611b9ba99516dde0ca0d9335333a82cd918b9b5": {
+    "text": "En tu voz vive el cielo.",
+    "translations": {
+      "uk": {
+        "text": "У твоєму голосі живе небо.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "The sky lives in your voice.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "In deiner Stimme wohnt der Himmel.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_f817a70da64b2864e06c555b47c8c36baf94be59ec40f3160d57ba45fafb194b": {
+    "text": "La noche cubre mi alma.",
+    "translations": {
+      "uk": {
+        "text": "Ніч покриває мою душу.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "The night covers my soul.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Die Nacht bedeckt meine Seele.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_074e0f8d9aac9a48e3ccc63acdd8f2670f6335b84042d28e73cf8a1e241f9f39": {
+    "text": "Mi corazón respira lento.",
+    "translations": {
+      "uk": {
+        "text": "Моє серце дихає повільно.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "My heart breathes slowly.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Mein Herz atmet langsam.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_5142bead20e9fe432228ccb7f70ec02fcbc8bf7d3e93cb10f7700535e90aacb5": {
+    "text": "En el mar vivo un momento.",
+    "translations": {
+      "uk": {
+        "text": "У морі я живу мить.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "In the sea, I live for a moment.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Im Meer lebe ich einen Augenblick.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_6e40b1ec48007377a06eadf7f66a98a3b997763332f40c328e5d251a41a8c4d7": {
+    "text": "Silencio que cura el alma.",
+    "translations": {
+      "uk": {
+        "text": "Тиша, що лікує душу.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Silence that heals the soul.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Stille, die die Seele heilt.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_2f5c1dd6bc553d6d87251689b64f5f39e839fc17cab855c2bd56ede9a8546ae2": {
+    "text": "El sol lleva mi tristeza.",
+    "translations": {
+      "uk": {
+        "text": "Сонце забирає мій смуток.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "The sun carries away my sadness.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Die Sonne trägt meine Traurigkeit fort.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_71980f81b36a2ec106c88f76debfae08cd9e2885af66b5040340d4e54a962abf": {
+    "text": "El río canta en secreto.",
+    "translations": {
+      "uk": {
+        "text": "Річка співає таємно.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "The river sings in secret.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Der Fluss singt im Verborgenen.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_87d164240cd6620bc3a2717628222661c84e4abce9553dd8e7e19d8981eddf13": {
+    "text": "Una estrella toca mi piel.",
+    "translations": {
+      "uk": {
+        "text": "Зірка торкається моєї шкіри.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "A star touches my skin.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Ein Stern berührt meine Haut.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_d1d88226eb7296f9a77e67ed7347b9c3312665711c87449872432286a97d6255": {
+    "text": "El cielo guarda mis sueños.",
+    "translations": {
+      "uk": {
+        "text": "Небо зберігає мої мрії.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "The sky keeps my dreams.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Der Himmel bewahrt meine Träume.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_951701ba79004c8743989018b45cb1d8a5213f860242bb8231cdca7f431a31d1": {
+    "text": "En la sombra nace la luz.",
+    "translations": {
+      "uk": {
+        "text": "У тіні народжується світло.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Light is born in the shadows.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Im Schatten wird das Licht geboren.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_9ae2cecfa51b6cd137c9fce1a359504efd3babc50dd3ee3e1c3cbb16cad36354": {
+    "text": "Es un beso del viento.",
+    "translations": {
+      "uk": {
+        "text": "Це поцілунок вітру.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "It is a kiss from the wind.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Es ist ein Kuss des Windes.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_7757c5f279397e14e5027daf3544790bfa499ad9ec5e71c0f21f4371511f1252": {
+    "text": "Mi voz duerme en la noche.",
+    "translations": {
+      "uk": {
+        "text": "Мій голос спить уночі.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "My voice sleeps in the night.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Meine Stimme schläft in der Nacht.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_4925d04f48f11e9bccfaf0619e15b3ae9eae46d07a8dc46fd8e3f23f6b835da1": {
+    "text": "El día abre sus ojos.",
+    "translations": {
+      "uk": {
+        "text": "День відкриває свої очі.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "The day opens its eyes.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Der Tag öffnet seine Augen.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_b64be043d7a82fb8a9df788a84af1058bfa6fdc7a405f5ecf70548767f99e9e5": {
+    "text": "En tu abrazo vive el calor.",
+    "translations": {
+      "uk": {
+        "text": "У твоїх обіймах живе тепло.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Warmth lives in your embrace.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "In deiner Umarmung wohnt Wärme.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_7f5cca4123aa1a1f38e878d9adc339255958d70cb472967b75c92bf0199f977b": {
+    "text": "El alma vuela sin miedo.",
+    "translations": {
+      "uk": {
+        "text": "Душа летить без страху.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "The soul flies without fear.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Die Seele fliegt ohne Angst.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_6163d3c8bffb28ca55ef321764449fa73d365b4e13ed1ed716e3af5cd450ed41": {
+    "text": "Mis pasos siguen la luna.",
+    "translations": {
+      "uk": {
+        "text": "Мої кроки йдуть за місяцем.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "My footsteps follow the moon.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Meine Schritte folgen dem Mond.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_b93376259a9f322648dc74a773bcf435a6fde781d6e7836e2ae6c6e6892371c6": {
+    "text": "Mis ojos buscan tu luz.",
+    "translations": {
+      "uk": {
+        "text": "Мої очі шукають твоє світло.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "My eyes seek your light.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Meine Augen suchen dein Licht.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_0aa9fddef24170edcb57ad27ffc14ade57d79baa526329ba66f5e69a772f0cb2": {
+    "text": "Cada noche trae un sueño.",
+    "translations": {
+      "uk": {
+        "text": "Кожна ніч приносить сон.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Every night brings a dream.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Jede Nacht bringt einen Traum.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_33e9237469e53db00f311b33cc345b08a5e28d1f147c96d05bfca573dd472e33": {
+    "text": "El viento habla conmigo.",
+    "translations": {
+      "uk": {
+        "text": "Вітер говорить зі мною.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "The wind speaks to me.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Der Wind spricht mit mir.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_a9cd0c082eda60e088de3cdeec121ade5750586dbd09782ea0b880c5893d51e0": {
+    "text": "Tu voz abraza mi alma.",
+    "translations": {
+      "uk": {
+        "text": "Твій голос обіймає мою душу.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Your voice embraces my soul.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Deine Stimme umarmt meine Seele.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_f120615d31387400fd45b7e294b67b1980e39ad2c6711ef66d29b34cb57cb138": {
+    "text": "El cielo toca mi vida.",
+    "translations": {
+      "uk": {
+        "text": "Небо торкається мого життя.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "The sky touches my life.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Der Himmel berührt mein Leben.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_a5e04d6ba0117be1d171257e70e8b0144b494572d7ad070930076100c6693625": {
+    "text": "Hoy nace un nuevo día.",
+    "translations": {
+      "uk": {
+        "text": "Сьогодні народжується новий день.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Today a new day is born.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Heute wird ein neuer Tag geboren.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_eeb1f595824298b371e7d4e6471f2f6744ac3f1405dd56e95293e23b65154906": {
+    "text": "En la noche silenciosa, los pensamientos caen como estrellas.",
+    "translations": {
+      "uk": {
+        "text": "У мовчазній ночі думки падають, мов зорі.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "In the silent night, thoughts fall like stars.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "In der stillen Nacht fallen Gedanken wie Sterne.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_4b456878f24713f3390ec47342a1f4ba36f4c87a4b83c70e0201ec2b9284ad09": {
+    "text": "El viento trae secretos que sólo el alma entiende.",
+    "translations": {
+      "uk": {
+        "text": "Вітер приносить таємниці, що тільки душа розуміє.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "The wind brings secrets that only the soul understands.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Der Wind bringt Geheimnisse, die nur die Seele versteht.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_67e321e3239cf4cb305596c7ebf27ad7804800891a3595d8a355391bf8a68e85": {
+    "text": "Cuando callas, escucho todo lo que sientes.",
+    "translations": {
+      "uk": {
+        "text": "Коли ти мовчиш, я чую все, що ти відчуваєш.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "When you are silent, I hear everything you feel.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Wenn du schweigst, höre ich alles, was du fühlst.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_40d930c9662366e7d381ddf1512238f79900538df9369dc23ff783fc392bf998": {
+    "text": "Cada amanecer guarda un nuevo milagro.",
+    "translations": {
+      "uk": {
+        "text": "Кожен світанок приховує нове диво.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Every dawn holds a new miracle.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Jede Morgendämmerung birgt ein neues Wunder.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_194dc03b256483340da2655c775eb1389f1bf3bf5c9344cb4cad54d3082c1d33": {
+    "text": "En tus ojos navega la luna de mi noche.",
+    "translations": {
+      "uk": {
+        "text": "У твоїх очах пливе місяць моєї ночі.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "In your eyes sails the moon of my night.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "In deinen Augen segelt der Mond meiner Nacht.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_f97649ac2b3dd8a71fd9c537b6b19c0812409cfe404755683282ba5669583c36": {
+    "text": "A veces, un silencio pesa más que mil palabras.",
+    "translations": {
+      "uk": {
+        "text": "Інколи мовчання важче за тисячу слів.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Sometimes silence weighs more than a thousand words.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Manchmal wiegt Schweigen mehr als tausend Worte.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_1297fbc98dffea7e42e129eff3bde2a3fcc1f9d1f799a67109d2f7eb030f3359": {
+    "text": "El mar canta sueños que nunca se olvidan.",
+    "translations": {
+      "uk": {
+        "text": "Море співає сни, що ніколи не забуваються.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "The sea sings dreams that are never forgotten.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Das Meer singt Träume, die niemals vergessen werden.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_0a1633c50fe2defb410b3ec4c9eaa9af9817f48907422dcd211ac5ae2717a1f9": {
+    "text": "Cuando miro el cielo, recuerdo que también soy infinito.",
+    "translations": {
+      "uk": {
+        "text": "Коли дивлюся в небо, згадую що я теж нескінченний.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "When I look at the sky, I remember that I too am infinite.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Wenn ich zum Himmel blicke, erinnere ich mich, dass auch ich unendlich bin.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_aece6bf8a5d427836b64a261dc079a2c3531e358c3cb073e39130f456a4560f2": {
+    "text": "Las sombras sólo existen donde hubo luz.",
+    "translations": {
+      "uk": {
+        "text": "Тіні існують лише там, де було світло.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Shadows exist only where there was light.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Schatten gibt es nur dort, wo Licht war.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_58258004e3a20c60a737df10005abb871e0db946e0dacb67d359cb92755d1df6": {
+    "text": "Donde termina el miedo, comienza la libertad.",
+    "translations": {
+      "uk": {
+        "text": "Де закінчується страх, починається свобода.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Where fear ends, freedom begins.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Wo die Angst endet, beginnt die Freiheit.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_641fc2886aefd79678768fc1ce2fd50d6d5036125af3be25b18c9f9aa1a2f757": {
+    "text": "Las palabras vuelan, pero los gestos se quedan.",
+    "translations": {
+      "uk": {
+        "text": "Слова летять, а жести залишаються.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Words fly, but gestures remain.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Worte fliegen, doch Gesten bleiben.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_11c6170b6bc19dbad9f401e50ed3b79ed56270b6624e9c1619aa0b067da9cc9b": {
+    "text": "El tiempo cura historias que el corazón no olvida.",
+    "translations": {
+      "uk": {
+        "text": "Час лікує історії, які серце не забуває.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Time heals stories that the heart does not forget.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Die Zeit heilt Geschichten, die das Herz nicht vergisst.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_3acbb88e0025a63b9d4fbfd52fb589cf3c53bbe11a6eb31b6a91ad06537aa20a": {
+    "text": "A veces el alma necesita perderse para encontrarse.",
+    "translations": {
+      "uk": {
+        "text": "Іноді душі треба загубитися, щоб знайтись.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Sometimes the soul must lose itself to find itself.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Manchmal muss sich die Seele verlieren, um sich zu finden.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_93a77977a3e1e230db952c4f52b60207fee8a353b6f6523c0277794ca3b5a756": {
+    "text": "Cada herida guarda un trocito de verdad.",
+    "translations": {
+      "uk": {
+        "text": "Кожна рана зберігає часточку правди.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Every wound holds a little piece of truth.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Jede Wunde birgt ein kleines Stück Wahrheit.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_6d08cd46d211b523010b893babc32e6d6c2e2b1458b941561fc5b03be9ede9d3": {
+    "text": "La luna observa en silencio nuestros secretos.",
+    "translations": {
+      "uk": {
+        "text": "Місяць мовчки спостерігає наші таємниці.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "The moon silently watches our secrets.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Der Mond betrachtet schweigend unsere Geheimnisse.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_33a15456bc2623473601ddb882a2ba1f9cd3600f74e4eb538a5bd3b9eda43fb9": {
+    "text": "El amor no pide permiso, simplemente ocurre.",
+    "translations": {
+      "uk": {
+        "text": "Кохання не питає дозволу, просто трапляється.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Love does not ask permission; it simply happens.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Liebe fragt nicht um Erlaubnis; sie geschieht einfach.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_f3274ac02e4d653775b9217185fc35646bc6abdfdb61568a9f6fa3b2af9fcac4": {
+    "text": "Las lágrimas limpian caminos invisibles.",
+    "translations": {
+      "uk": {
+        "text": "Сльози очищають невидимі стежки.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Tears wash invisible paths clean.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Tränen reinigen unsichtbare Wege.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_898ccc6382bab6f0afb9656b1a8190d45e515e0b428a86236f078d3da38e06f9": {
+    "text": "Hoy el sol salió para recordarte que estás vivo.",
+    "translations": {
+      "uk": {
+        "text": "Сьогодні сонце зійшло, щоб нагадати: ти живий.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Today the sun rose to remind you that you are alive.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Heute ging die Sonne auf, um dich daran zu erinnern, dass du lebst.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_2d43dd8e0261c23ee8c51e39939011539b26d48ece560bcb6f60160013508174": {
+    "text": "Las estrellas guardan nombres que olvidamos pronunciar.",
+    "translations": {
+      "uk": {
+        "text": "Зорі зберігають імена, які ми забули вимовляти.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "The stars keep names we have forgotten to say.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Die Sterne bewahren Namen, die wir vergessen haben auszusprechen.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_ecc08687c1f4c7c247e7f722b31903b341a5f24286d0e03485d5a6f53cf2e04c": {
+    "text": "La memoria es un faro encendido en mitad de la tormenta.",
+    "translations": {
+      "uk": {
+        "text": "Памʼять — це маяк посеред бурі.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Memory is a beacon burning in the midst of a storm.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Die Erinnerung ist ein leuchtender Leuchtturm mitten im Sturm.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_62b0aaf67d4092b56167c28d8e5e19f46d2d4ce6752459f07aa23f83fcae8bbb": {
+    "text": "El silencio es un refugio para el cansado.",
+    "translations": {
+      "uk": {
+        "text": "Тиша — прихисток для втомленого.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Silence is a refuge for the weary.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Die Stille ist ein Zufluchtsort für die Müden.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_2b6b4ba6ac3c5ffb2f9918b2aa17619dfb0a02597a9abc0882d325453ad22fae": {
+    "text": "Lo imposible sólo espera ser intentado.",
+    "translations": {
+      "uk": {
+        "text": "Неможливе просто чекає, щоб його спробували.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "The impossible is only waiting to be attempted.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Das Unmögliche wartet nur darauf, versucht zu werden.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_5d5d34c0081904e68006d15da7d54638546d00a2a66e6b85f625c1b5cd5d161a": {
+    "text": "Cada noche es semilla de un nuevo día.",
+    "translations": {
+      "uk": {
+        "text": "Кожна ніч — насіння нового дня.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Every night is the seed of a new day.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Jede Nacht ist der Samen eines neuen Tages.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_ddc2df40edfc769fc7a546941ba8f11d16757e64ed9bdf47715ab36855375e4e": {
+    "text": "Los sueños inspiran mundos que aún no existen.",
+    "translations": {
+      "uk": {
+        "text": "Мрії надихають світи, які ще не існують.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Dreams inspire worlds that do not yet exist.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Träume inspirieren Welten, die noch nicht existieren.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_78c2e5d94c8502858ee2b906949198cc5e35bf2c297c0f2ed80649844b56a1ed": {
+    "text": "A veces lloramos por lo que todavía amamos.",
+    "translations": {
+      "uk": {
+        "text": "Іноді плачемо через те, що ще любимо.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Sometimes we cry for what we still love.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Manchmal weinen wir um das, was wir noch lieben.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_daea2178d2b0b8b9c2d5bb323c2ea1ff419167da5417a21c193155e992ad6d17": {
+    "text": "El cielo abraza a quienes miran hacia arriba.",
+    "translations": {
+      "uk": {
+        "text": "Небо обіймає тих, хто дивиться вгору.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "The sky embraces those who look up.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Der Himmel umarmt jene, die nach oben schauen.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_58446b2e6219d52ebf2b2e3abbdfd8cbb610e4a4e3dd3d52c87606a5e434b24e": {
+    "text": "El alma sabe regresar a casa sin mapas.",
+    "translations": {
+      "uk": {
+        "text": "Душа вміє повертатися додому без мап.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "The soul knows how to return home without maps.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Die Seele findet auch ohne Karten nach Hause.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_39dabd98d5bb6aef95f0dfb186d49046bfd80f75bb70c4aa8c88d1f48e3b6442": {
+    "text": "La vida es un suspiro que pide ser vivido.",
+    "translations": {
+      "uk": {
+        "text": "Життя — це подих, що просить бути прожитим.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Life is a breath asking to be lived.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Das Leben ist ein Atemzug, der gelebt werden will.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_9d5e2a1479255c2f9ac84a185f57baa1c3949f749dc5289f57d343228df88c07": {
+    "text": "Tus manos guardan calor incluso después del adiós.",
+    "translations": {
+      "uk": {
+        "text": "Твої руки зберігають тепло навіть після прощання.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Your hands keep their warmth even after goodbye.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Deine Hände bewahren Wärme, selbst nach dem Abschied.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_f604347b3599eab1222f38c1926881bc14b826659fd9c49308558fc69874167f": {
+    "text": "El invierno enseña que también el frío tiene belleza.",
+    "translations": {
+      "uk": {
+        "text": "Зима вчить, що і холод має свою красу.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Winter teaches that cold has its own beauty too.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Der Winter lehrt, dass auch Kälte ihre Schönheit hat.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_32186aa0d7c3a2fa3dc60c33c43fdd315fb13529c04d1665796023a1a7f6cdc4": {
+    "text": "Una palabra suave basta para sanar la noche.",
+    "translations": {
+      "uk": {
+        "text": "Ніжного слова досить, щоб вилікувати ніч.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "One gentle word is enough to heal the night.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Ein sanftes Wort genügt, um die Nacht zu heilen.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_dd5b00f1316d5c3d3272b4b97a8d62c9029cbae4f6bf6eb07e4066ebe5fc9dea": {
+    "text": "Cuando calla el mundo, habla el corazón.",
+    "translations": {
+      "uk": {
+        "text": "Коли мовчить світ, говорить серце.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "When the world falls silent, the heart speaks.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Wenn die Welt verstummt, spricht das Herz.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_efee098ae13ae9dacf6677e050d2c3051043f1262f3d0d8cf2a53415c953cb4c": {
+    "text": "En cada herida crece un nuevo horizonte.",
+    "translations": {
+      "uk": {
+        "text": "У кожній рані виростає новий обрій.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "A new horizon grows in every wound.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "In jeder Wunde wächst ein neuer Horizont.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_2ca0425778724489803607bbc6aa15475618212bd0a5d58078430b031b0410c6": {
+    "text": "Donde hubo dolor, un día habrá fuerza.",
+    "translations": {
+      "uk": {
+        "text": "Там, де був біль, одного дня буде сила.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Where there was pain, one day there will be strength.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Wo Schmerz war, wird eines Tages Stärke sein.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_2625b28d26dd5d5ead66bec99e804dbc723e27e1fed216cffe4feec9231565b1": {
+    "text": "A veces perder también es avanzar.",
+    "translations": {
+      "uk": {
+        "text": "Іноді втратити — це теж крок уперед.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Sometimes losing is also moving forward.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Manchmal bedeutet auch Verlieren, voranzukommen.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_f2c7dc64d94b4da4b941aca408ba550c7758e19beb4b6e4f401c2e78aa6b7452": {
+    "text": "La brisa recuerda nombres olvidados.",
+    "translations": {
+      "uk": {
+        "text": "Бриз згадує забуті імена.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "The breeze remembers forgotten names.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Die Brise erinnert sich an vergessene Namen.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_8076c29b273b3e18d2a0c6a0fb4c40ed4499c69a89567c3c7d865df724e3e75f": {
+    "text": "Nunca se apaga la luz que nació del alma.",
+    "translations": {
+      "uk": {
+        "text": "Ніколи не гасне світло, яке народилося з душі.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Light born of the soul never goes out.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Das Licht, das aus der Seele geboren wurde, erlischt nie.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_44b2e5e7a643757f19adab743265068749b77c560a971cb71df46965bb5f6de5": {
+    "text": "Cada latido es un milagro que continúa.",
+    "translations": {
+      "uk": {
+        "text": "Кожен удар серця — диво, що триває.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Every heartbeat is a miracle that continues.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Jeder Herzschlag ist ein Wunder, das weitergeht.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_01dc7b6caa91786b0f116999bda1da50e450e46ed445aa85b851737161619f93": {
+    "text": "El miedo desaparece cuando miras la verdad.",
+    "translations": {
+      "uk": {
+        "text": "Страх зникає, коли дивишся на правду.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Fear disappears when you face the truth.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Die Angst verschwindet, wenn du der Wahrheit ins Auge siehst.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_a0e47667eb0bd0651eaaf3ca59f5be15931ecf870968d37dabbb5ca2f3e7a415": {
+    "text": "La noche cubre sueños como un manto suave.",
+    "translations": {
+      "uk": {
+        "text": "Ніч укриває сни, мов м’який плащ.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "The night covers dreams like a soft cloak.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Die Nacht bedeckt Träume wie ein weicher Mantel.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_43c3fea78e2e8f6a3b830d7fab15c4df65d8221bbf89c947668fefb36c34e798": {
+    "text": "Cada paso deja huellas que otros seguirán.",
+    "translations": {
+      "uk": {
+        "text": "Кожен крок залишає слід, яким підуть інші.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Every step leaves traces that others will follow.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Jeder Schritt hinterlässt Spuren, denen andere folgen werden.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_85389cf65a2c57e79ae7c24e84228b67c63e728c787933bf220335bdca98d13f": {
+    "text": "En los días grises también florece el alma.",
+    "translations": {
+      "uk": {
+        "text": "Навіть у сірі дні душа розквітає.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "The soul blooms even on grey days.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Auch an grauen Tagen blüht die Seele.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_90f0555dbb923bdac9700aa3ba80dd80c3a159f3821be79a7a22572ea649c44e": {
+    "text": "Todo final guarda un inicio dormido.",
+    "translations": {
+      "uk": {
+        "text": "Кожен кінець приховує сплячий початок.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Every ending holds a sleeping beginning.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Jedes Ende birgt einen schlafenden Anfang.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_b69676374d08b289b8d9f5032195004802b65d29e1913c95137372966d92dc68": {
+    "text": "La esperanza siempre encuentra un resquicio.",
+    "translations": {
+      "uk": {
+        "text": "Надія завжди знаходить щілину.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Hope always finds an opening.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Die Hoffnung findet immer einen Spalt.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_6ee90b955132a7d80c4854732c8efc64c6bf232a0418968527b9b0a9d8aaf765": {
+    "text": "El amor abraza incluso lo que duele.",
+    "translations": {
+      "uk": {
+        "text": "Любов обіймає навіть те, що болить.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Love embraces even what hurts.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Liebe umarmt selbst das, was schmerzt.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_085edb221218eba45b2994ba222a670a1e179939a4b7a050f9abef1d9646a635": {
+    "text": "Cada mirada enciende un universo secreto.",
+    "translations": {
+      "uk": {
+        "text": "Кожен погляд запалює таємний всесвіт.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Every glance lights up a secret universe.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Jeder Blick entzündet ein geheimes Universum.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_7a76288d720d62c6610c4f4b19f73a9563a0755aa017d2838c4d2618f75d88b2": {
+    "text": "El último suspiro guarda una historia entera.",
+    "translations": {
+      "uk": {
+        "text": "Останній подих зберігає цілу історію.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "The last breath holds an entire story.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Der letzte Atemzug birgt eine ganze Geschichte.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_c8bd433c04597c34520c2760098dc30b53087f5c578e6912bade5fc93ac6fcfa": {
+    "text": "El sol regresa incluso después de la tormenta.",
+    "translations": {
+      "uk": {
+        "text": "Сонце повертається навіть після бурі.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "The sun returns even after the storm.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Die Sonne kehrt selbst nach dem Sturm zurück.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_ee6bc1ab7d62f1b55a5667f2452edd56257c094ade05b6d5e4f3e3c3c8512a08": {
+    "text": "La luz nace en los lugares que menos imaginamos.",
+    "translations": {
+      "uk": {
+        "text": "Світло народжується там, де ми найменше очікуємо.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Light is born in places we least imagine.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Licht entsteht an Orten, die wir am wenigsten erwarten.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_647a1aa0a6623fd0e23af2a6fbb6e7b0300a58db959d50d5eebb3822ed2b2d9b": {
+    "text": "Todo corazón cansado sólo necesita un abrazo.",
+    "translations": {
+      "uk": {
+        "text": "Втомленому серцю потрібні лише обійми.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Every weary heart needs only a hug.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Jedes müde Herz braucht nur eine Umarmung.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_0d913abe5aef3aca24cf5fb1cbbc211bf2e3eca10fd15bf26db079918cdaf1f2": {
+    "text": "En el cielo gris, un rayo de sol aún encuentra su camino.",
+    "translations": {
+      "uk": {
+        "text": "У сірому небі промінь сонця все одно знаходить шлях.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "In the grey sky, a ray of sunlight still finds its way.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Am grauen Himmel findet ein Sonnenstrahl noch immer seinen Weg.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_5d7d109cf9ed634b23f70a8fc026b200a51bca02c765cf384c767366e9aba2a2": {
+    "text": "El mar guarda historias que solo escucha el viento.",
+    "translations": {
+      "uk": {
+        "text": "Море зберігає історії, які чує лише вітер.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "The sea holds stories that only the wind hears.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Das Meer bewahrt Geschichten, die nur der Wind hört.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_6a98bd216604d52e13c926f49db3892734220f31834d00ff8ec0a095ab398880": {
+    "text": "A veces el silencio habla más que cualquier palabra.",
+    "translations": {
+      "uk": {
+        "text": "Іноді тиша говорить більше, ніж будь-яке слово.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Sometimes silence says more than any word.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Manchmal sagt die Stille mehr als jedes Wort.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_6b57ea831e240d47fbc2b1cd95b87de9f90ad82412d4798fb0e9ca664183b5af": {
+    "text": "La lluvia limpia la calle, como el tiempo cura el alma.",
+    "translations": {
+      "uk": {
+        "text": "Дощ змиває вулицю, так само час лікує душу.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Rain cleans the street, just as time heals the soul.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Der Regen reinigt die Straße, so wie die Zeit die Seele heilt.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_5cf3183d7267a133c14744c8e0d9a63b6b9be640cf9bab1385f54046fbf181f9": {
+    "text": "Un abrazo sincero puede cambiar todo un día.",
+    "translations": {
+      "uk": {
+        "text": "Щирі обійми здатні змінити цілий день.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "A sincere hug can change an entire day.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Eine aufrichtige Umarmung kann einen ganzen Tag verändern.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_c11330a599d25393def3454a1ed8905a0332b3a69a8a68d77ac19b0e14be981d": {
+    "text": "En el brillo de tus ojos encuentro calma y valor.",
+    "translations": {
+      "uk": {
+        "text": "У блиску твоїх очей я знаходжу спокій і відвагу.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "In the sparkle of your eyes, I find calm and courage.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Im Leuchten deiner Augen finde ich Ruhe und Mut.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_bd106e7c8a8f4a51517951b0f73952bafb76174c053fe8a7626ceaad5e5b9fda": {
+    "text": "El amanecer nos recuerda que siempre hay un nuevo comienzo.",
+    "translations": {
+      "uk": {
+        "text": "Світанок нагадує нам, що завжди є новий початок.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Dawn reminds us that there is always a new beginning.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Die Morgendämmerung erinnert uns daran, dass es immer einen Neuanfang gibt.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_90fad5571fe0cccb52d7f929f84bf36c2905cdad9fde597b2518f5d8ebbe0f63": {
+    "text": "No temas perderte, a veces allí se encuentra uno mismo.",
+    "translations": {
+      "uk": {
+        "text": "Не бійся загубитися, іноді саме там знаходиш себе.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Do not be afraid of getting lost; sometimes that is where you find yourself.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Fürchte dich nicht davor, dich zu verirren; manchmal findet man gerade dort zu sich selbst.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_097d26126ef8f290c616037ad1c3c020a29808cbb612198ec4ac6dededb4aa86": {
+    "text": "La esperanza es pequeña, pero nunca se rinde.",
+    "translations": {
+      "uk": {
+        "text": "Надія маленька, але ніколи не здається.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Hope is small, but it never gives up.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Die Hoffnung ist klein, doch sie gibt niemals auf.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_f92c2eea7d96afedd3d4cd15ee03ab977fe9a4a625ce4c177e3ef18ea3bead22": {
+    "text": "El viento lleva lejos los miedos que ya no necesitamos.",
+    "translations": {
+      "uk": {
+        "text": "Вітер забирає страхи, які нам більше не потрібні.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "The wind carries away fears we no longer need.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Der Wind trägt Ängste fort, die wir nicht mehr brauchen.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_28d7d91c9ced4f75994254e0af21161eb0a8a21cb215d248c3863908c4465964": {
+    "text": "Cada paso que das te acerca a quien quieres ser.",
+    "translations": {
+      "uk": {
+        "text": "Кожен крок наближає тебе до того, ким хочеш стати.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Every step you take brings you closer to who you want to be.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Jeder deiner Schritte bringt dich dem Menschen näher, der du sein möchtest.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_541f33328f41002feb71845edb3137889628fe26c0843efecc76f07865c034bd": {
+    "text": "En el recuerdo, los momentos felices viven para siempre.",
+    "translations": {
+      "uk": {
+        "text": "У спогадах щасливі миті живуть завжди.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "In memory, happy moments live forever.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "In der Erinnerung leben glückliche Augenblicke für immer.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_e51c641f8a9204d13b821afb31b0264a7e0ea53efa2fd17b7168c6439484c1da": {
+    "text": "Los caminos difíciles suelen llevarnos a paisajes mejores.",
+    "translations": {
+      "uk": {
+        "text": "Важкі шляхи часто ведуть до кращих краєвидів.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Difficult paths often lead us to better views.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Schwierige Wege führen uns oft zu schöneren Landschaften.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_1d29aa213865f5e15455f260a04320699178e2376d511835e90ebb051dbb293f": {
+    "text": "Cuando entiendes tu valor, el mundo también lo entiende.",
+    "translations": {
+      "uk": {
+        "text": "Коли розумієш свою цінність, світ теж це відчуває.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "When you understand your worth, the world understands it too.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Wenn du deinen Wert erkennst, erkennt ihn auch die Welt.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_b7113ac4990e1d341af7f76c6613946ad227a55729a5c933ff4c303180c6178c": {
+    "text": "Hay noches que enseñan más que mil libros.",
+    "translations": {
+      "uk": {
+        "text": "Є ночі, що навчають більше, ніж тисяча книг.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Some nights teach more than a thousand books.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Es gibt Nächte, die mehr lehren als tausend Bücher.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_1ba7119abb6a0d39e1e61ea280cfa4aeeeeb4250fc8db262789f420b035c5a1f": {
+    "text": "Un pequeño gesto puede iluminar la tristeza profunda.",
+    "translations": {
+      "uk": {
+        "text": "Маленький жест здатний осяяти глибокий смуток.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "A small gesture can bring light to deep sadness.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Eine kleine Geste kann tiefe Traurigkeit erhellen.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_028a7e249a0c93d75f1b732d35215d212a4d9df30f05a7c7aaac3c09b5fb0153": {
+    "text": "Si escuchas con calma, incluso el silencio responde.",
+    "translations": {
+      "uk": {
+        "text": "Якщо слухати спокійно, навіть тиша відповідає.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "If you listen calmly, even silence answers.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Wenn du ruhig zuhörst, antwortet selbst die Stille.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_591d961866a885dd33eaab7185a565652b40e149d6cb7c6caaf86b14aab40bac": {
+    "text": "La vida cambia, pero lo aprendido permanece.",
+    "translations": {
+      "uk": {
+        "text": "Життя змінюється, але вивчене залишається.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Life changes, but what you have learnt remains.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Das Leben verändert sich, doch das Gelernte bleibt.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_30c2a35b4f3860e82886ffe854382297af450aab6c8f026518d38d157e2ec2d4": {
+    "text": "Cada sueño necesita paciencia como el sol necesita la mañana.",
+    "translations": {
+      "uk": {
+        "text": "Кожна мрія потребує терпіння, як сонце потребує ранку.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Every dream needs patience as the sun needs the morning.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Jeder Traum braucht Geduld, so wie die Sonne den Morgen braucht.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_bbfddb55378074e5b163df7962f5e3db2e9c4f39f916974c776561942a1df282": {
+    "text": "Lo que parece perdido, a veces solo está empezando.",
+    "translations": {
+      "uk": {
+        "text": "Те, що здається втраченим, іноді лише починається.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "What seems lost is sometimes only beginning.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Was verloren scheint, beginnt manchmal gerade erst.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_76e3a9a38cdf0440c0eaa07a2e8324c82dca358a844b1e02316204ca70cae812": {
+    "text": "Donde hay amor, incluso el miedo se vuelve pequeño.",
+    "translations": {
+      "uk": {
+        "text": "Де є любов, навіть страх стає маленьким.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Where there is love, even fear becomes small.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Wo Liebe ist, wird selbst die Angst klein.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_76b76a5d8f7eaf07362fbea792c9f144ad67d2ea8ba4f2913250bddc289c39d6": {
+    "text": "Un alma fuerte no teme a la tormenta, aprende de ella.",
+    "translations": {
+      "uk": {
+        "text": "Сильна душа не боїться бурі, а навчається від неї.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "A strong soul does not fear the storm; it learns from it.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Eine starke Seele fürchtet den Sturm nicht; sie lernt von ihm.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_eefbb4b2ba0d0ac265d6b783903e8653c70d8c882333bf4d7a65818457076a82": {
+    "text": "Hay miradas que curan sin decir una palabra.",
+    "translations": {
+      "uk": {
+        "text": "Є погляди, що лікують без жодного слова.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Some glances heal without a single word.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Es gibt Blicke, die ohne ein einziges Wort heilen.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_3f2cb3c2232c8ee1d4b888915eb31287c8babb5f6786a9b384fd94d481ceae97": {
+    "text": "Cuando respiras profundo, también respira tu corazón.",
+    "translations": {
+      "uk": {
+        "text": "Коли робиш глибокий вдих, також дихає серце.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "When you breathe deeply, your heart breathes too.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Wenn du tief atmest, atmet auch dein Herz.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_fb216c39cbcfbf01b791ba8f2b83632c2b98bfc939cef1e89882cf01e21d7131": {
+    "text": "El tiempo no borra, pero enseña a vivir con luz.",
+    "translations": {
+      "uk": {
+        "text": "Час не стирає, але навчає жити зі світлом.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Time does not erase, but it teaches us to live with light.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Die Zeit löscht nicht aus, doch sie lehrt, mit Licht zu leben.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_a4c577d48c48338f8a798dfc6f0f705ce0e0295a3f640d1be54157ac3473f79b": {
+    "text": "A veces un minuto cambia todo un destino.",
+    "translations": {
+      "uk": {
+        "text": "Іноді одна хвилина змінює всю долю.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Sometimes one minute changes an entire destiny.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Manchmal verändert eine Minute ein ganzes Schicksal.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_4813c24e32bde2575aa74bf9f1953418a58827d95746aa69cf92d4e01d44141f": {
+    "text": "Bajo la luna, cada pensamiento se vuelve más sincero.",
+    "translations": {
+      "uk": {
+        "text": "Під місяцем кожна думка стає щирішою.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Under the moon, every thought becomes more sincere.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Unter dem Mond wird jeder Gedanke aufrichtiger.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_66e05224ae030b0d4fb072e52813fb09571708b80899a9b7c2fb7f7c661e056f": {
+    "text": "En cada despedida nace también un nuevo saludo.",
+    "translations": {
+      "uk": {
+        "text": "В кожному прощанні народжується нове привітання.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Every farewell also gives birth to a new greeting.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "In jedem Abschied wird auch ein neuer Gruß geboren.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_92ecf9afa66a241b8312aabcf11d8615abca4a24b2eb8b6e48c532440f8a372f": {
+    "text": "Quien sigue soñando siempre encuentra un camino.",
+    "translations": {
+      "uk": {
+        "text": "Хто продовжує мріяти — завжди знаходить шлях.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Those who keep dreaming always find a way.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Wer weiterträumt, findet immer einen Weg.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_219b5c68676be1d984edd84a4a3c542a99bf267794cc28806607e94f5ec53493": {
+    "text": "Detrás de cada herida crece un aprendizaje profundo.",
+    "translations": {
+      "uk": {
+        "text": "За кожною раною зростає глибоке пізнання.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Behind every wound, deep learning grows.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Hinter jeder Wunde wächst eine tiefe Erkenntnis.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_d94bb886a9178c158f901bf39233d3279612b3d49959d4cbd851c2b07642fb70": {
+    "text": "El invierno enseña a valorar el calor humano.",
+    "translations": {
+      "uk": {
+        "text": "Зима вчить цінувати людське тепло.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Winter teaches us to value human warmth.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Der Winter lehrt, menschliche Wärme zu schätzen.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_0adc45abe242c479c5ce1fe505d0ef329287902e8e259845f7dec9de2074e95c": {
+    "text": "Lo sencillo a veces es lo que realmente necesitamos.",
+    "translations": {
+      "uk": {
+        "text": "Прості речі інколи саме те, що нам потрібно.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Simple things are sometimes what we truly need.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Das Einfache ist manchmal genau das, was wir wirklich brauchen.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_428ce2cd6c4a2390e51f3c8b89b83733e7d144488ab5a53972cf2762b61e1d62": {
+    "text": "Una palabra amable puede salvar gran parte del día.",
+    "translations": {
+      "uk": {
+        "text": "Добре слово може врятувати більшу частину дня.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "One kind word can save much of the day.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Ein freundliches Wort kann einen großen Teil des Tages retten.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_5712c568899a24e2b3c3b93e6398238ef0e81f5bd49a2dce4f5b199e46b8a26a": {
+    "text": "Cuando cae la noche, los sueños comienzan a trabajar.",
+    "translations": {
+      "uk": {
+        "text": "Коли настає ніч, мрії починають працювати.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "When night falls, dreams begin to work.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Wenn die Nacht hereinbricht, beginnen die Träume zu arbeiten.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_2f020677adc2e00b33a7fbe0acb37a7c678009940d5c7615d88bb65e03c43d81": {
+    "text": "El corazón valiente siempre vuelve a levantarse.",
+    "translations": {
+      "uk": {
+        "text": "Відважне серце завжди піднімається знову.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "A brave heart always rises again.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Ein mutiges Herz steht immer wieder auf.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_464acb05b3a4759b9066d1380cfbab0981cacc3cad1fcf202940e3e9a9a6bd86": {
+    "text": "La vida es un viaje, no una meta final.",
+    "translations": {
+      "uk": {
+        "text": "Життя — це подорож, а не кінцева мета.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Life is a journey, not a final destination.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Das Leben ist eine Reise, kein endgültiges Ziel.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_0f2817ada9211d1c1806c4c83b3e1ee41667c5e31e450d34cba09819f9942ea5": {
+    "text": "Los recuerdos bonitos siempre vuelven cuando más hacen falta.",
+    "translations": {
+      "uk": {
+        "text": "Гарні спогади повертаються тоді, коли найбільше потрібні.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Beautiful memories return when they are needed most.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Schöne Erinnerungen kehren zurück, wenn man sie am meisten braucht.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_5f07d69acd83a9233830d6723bef115e022cef66b15dc4d2ab5e6662dc94f04d": {
+    "text": "Todo cambio comienza con un pequeño paso.",
+    "translations": {
+      "uk": {
+        "text": "Кожна зміна починається з маленького кроку.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Every change begins with a small step.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Jede Veränderung beginnt mit einem kleinen Schritt.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_10574078440804e9b0e04ec5c77009534203371e560f5ef2db7a9c73e7fdfabe": {
+    "text": "Quien busca la verdad encuentra también la paz.",
+    "translations": {
+      "uk": {
+        "text": "Хто шукає правду, знаходить і спокій.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Those who seek truth also find peace.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Wer die Wahrheit sucht, findet auch Frieden.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_b2199c78bbe306777759d78c9409bd85fd6a9f7507c3c994353fed677585789e": {
+    "text": "Hay luces que solo se ven cuando todo está oscuro.",
+    "translations": {
+      "uk": {
+        "text": "Є вогні, які видно лише тоді, коли все довкола темне.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Some lights can only be seen when everything is dark.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Es gibt Lichter, die man erst sieht, wenn alles dunkel ist.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_331f9fef1281f36cf4fc5ad70c92fa9a7b30970ef11867ec40ead88160281dba": {
+    "text": "Lo más importante se siente, no se explica.",
+    "translations": {
+      "uk": {
+        "text": "Найважливіше відчувається, а не пояснюється.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "What matters most is felt, not explained.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Das Wichtigste fühlt man, man erklärt es nicht.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_fa34f498220b1fe7bd45749fdcbebb88e027dfe3e1410367e61b5cafe6cd938d": {
+    "text": "Una pausa profunda puede salvar tu fuerza.",
+    "translations": {
+      "uk": {
+        "text": "Глибока пауза може зберегти твої сили.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "A deep pause can preserve your strength.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Eine tiefe Atempause kann deine Kraft bewahren.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_bd7ccc7d0c9936afbb84af8c37c0f8c06f6b5b75b9586bb08aaf392783eb83ea": {
+    "text": "Las palabras sinceras pesan más que los gritos.",
+    "translations": {
+      "uk": {
+        "text": "Щирі слова важливіші за крики.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Sincere words carry more weight than shouts.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Aufrichtige Worte wiegen mehr als Schreie.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_3ca17b34ef125eacc0ebedf1dec10d780ff7a5982bdbcada0a5ff41f1194520b": {
+    "text": "El alma descansa cuando la mente calla.",
+    "translations": {
+      "uk": {
+        "text": "Душа відпочиває, коли замовкає розум.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "The soul rests when the mind falls silent.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Die Seele ruht, wenn der Verstand schweigt.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_8737c02f45b32a328f2bae9aba143b377a6ea29b3b094165ddf97c99045a9a91": {
+    "text": "Los días grises también preparan nuevos colores.",
+    "translations": {
+      "uk": {
+        "text": "Сірі дні теж готують нові барви.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Grey days also prepare new colours.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Auch graue Tage bereiten neue Farben vor.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_8d9710e287c9545246031243f00cc04cf401de6792f6b032509f180fcf95ba9d": {
+    "text": "La noche no es final, solo un capítulo tranquilo.",
+    "translations": {
+      "uk": {
+        "text": "Ніч — це не кінець, а спокійний розділ.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Night is not the end, only a quiet chapter.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Die Nacht ist nicht das Ende, nur ein ruhiges Kapitel.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_c30dc65d8671aa31b7929c92f31d5ea4943340b782ae0f2e7b1e557d4a197553": {
+    "text": "Sigue creando, incluso cuando nadie te entiende.",
+    "translations": {
+      "uk": {
+        "text": "Продовжуй творити, навіть якщо тебе ніхто не розуміє.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Keep creating, even when no one understands you.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Erschaffe weiter, selbst wenn dich niemand versteht.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_babddde4a68432fe9f0c919ee0c7970c72bdec2c6fa0479fc4c11a943d5d5c83": {
+    "text": "Cuando el corazón recuerda, los días vuelven a latir.",
+    "translations": {
+      "uk": {
+        "text": "Коли серце згадує, дні знову починають битися.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "When the heart remembers, the days begin to beat again.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Wenn sich das Herz erinnert, beginnen die Tage wieder zu schlagen.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "poem_c9d0b0e898c64a5c94a6f0145977d17f3b0bf1e7062cffd46757dad75f1b5cff": {
+    "text": "La esperanza viaja ligera, por eso llega tan lejos.",
+    "translations": {
+      "uk": {
+        "text": "Надія вирушає легко, тому доходить так далеко.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Hope travels lightly, which is why it goes so far.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Die Hoffnung reist mit leichtem Gepäck, deshalb kommt sie so weit.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "caption_2ad5e588ee312ca9050c4157033e4d349c565c3e0fb7acf07a540fd691ec8d0d": {
+    "text": "España recibe cada año millones de viajeros.",
+    "translations": {
+      "uk": {
+        "text": "Іспанія щороку приймає мільйони мандрівників.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Spain welcomes millions of travellers every year.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Spanien empfängt jedes Jahr Millionen von Reisenden.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "caption_40e45f2c657d2057cf832d47fb4200dca1a7f000575b7b8c224b403162565765": {
+    "text": "España tiene decenas de millones de habitantes.",
+    "translations": {
+      "uk": {
+        "text": "Населення Іспанії становить десятки мільйонів людей.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Spain has tens of millions of inhabitants.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Spanien hat mehrere zehn Millionen Einwohner.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "caption_c4c7e7691adab3b292f0acc7c3d8840dbab2f3d0c4a8134ec2ec12bb163d415b": {
+    "text": "Además del castellano, en algunas comunidades autónomas son oficiales otras lenguas, como el catalán, el gallego, el euskera y el aranés.",
+    "translations": {
+      "uk": {
+        "text": "Крім іспанської, у деяких автономних спільнотах офіційний статус мають інші мови, зокрема каталонська, галісійська, баскська й аранська.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Alongside Spanish, other languages are official in some autonomous communities, including Catalan, Galician, Basque and Aranese.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Neben dem Spanischen sind in einigen autonomen Gemeinschaften weitere Sprachen amtlich, etwa Katalanisch, Galicisch, Baskisch und Aranesisch.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "caption_a3915a23ee9215b90174813ae58e2be99a7396ae6bbeb908643b4690f8c5a606": {
+    "text": "La construcción de la Sagrada Familia de Barcelona comenzó en 1882.",
+    "translations": {
+      "uk": {
+        "text": "Будівництво Саграда Фамілія в Барселоні почалося 1882 року.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Construction of the Sagrada Família in Barcelona began in 1882.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Der Bau der Sagrada Família in Barcelona begann 1882.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "caption_85be6267e72e12f7b34b725faeea0e7af57ac59612d17078ab14808550f85b11": {
+    "text": "España tiene 17 comunidades autónomas, cada una con gobierno regional.",
+    "translations": {
+      "uk": {
+        "text": "В Іспанії 17 автономних спільнот, кожна з власним урядом.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Spain has 17 autonomous communities, each with its own regional government.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Spanien hat 17 autonome Gemeinschaften, jede mit einer eigenen Regionalregierung.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "caption_a5532535bc9cf54ac66a5cd843b17b1dfad9bae37e09ffd90b4ae693757e841b": {
+    "text": "El Camino de Santiago es una de las rutas de peregrinación más famosas del mundo.",
+    "translations": {
+      "uk": {
+        "text": "Шлях Святого Якова — один з найвідоміших паломницьких маршрутів у світі.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "The Camino de Santiago is one of the world's most famous pilgrimage routes.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Der Jakobsweg ist eine der bekanntesten Pilgerrouten der Welt.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "caption_06bfd0a2e94461377daaae4a3b1d4461937749dc960c905d22f26749489d3918": {
+    "text": "España es uno de los principales productores de aceite de oliva del planeta.",
+    "translations": {
+      "uk": {
+        "text": "Іспанія — один із найбільших виробників оливкової олії у світі.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Spain is one of the world's leading producers of olive oil.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Spanien ist einer der weltweit führenden Produzenten von Olivenöl.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "caption_affee2f18d47d8f6b93bc87694ea7da65d533ebc5e83cadd5a6a8dcb0fde332f": {
+    "text": "El flamenco nació en Andalucía.",
+    "translations": {
+      "uk": {
+        "text": "Фламенко зародилося в Андалусії.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Flamenco originated in Andalusia.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Der Flamenco entstand in Andalusien.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "caption_04e84db89322313e479daa68788e903da5952249fe48f3ad54c96919d5af4b81": {
+    "text": "España tiene una gran diversidad de climas.",
+    "translations": {
+      "uk": {
+        "text": "Клімат Іспанії дуже різноманітний.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Spain has a wide variety of climates.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Spanien hat eine große klimatische Vielfalt.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "caption_0a6364a541e0c72f1db27cac7cdb89ee6a6e52c9fcc181233dab3a6baa2d87eb": {
+    "text": "El español es la lengua materna de cientos de millones de personas.",
+    "translations": {
+      "uk": {
+        "text": "Іспанська є рідною мовою для сотень мільйонів людей.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Spanish is the native language of hundreds of millions of people.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Spanisch ist für Hunderte Millionen Menschen die Muttersprache.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "caption_97f82a8a5d82615e7fae18a1a844baecb37a1ccf3026f3829f20324a8f838df8": {
+    "text": "España posee 50 provincias.",
+    "translations": {
+      "uk": {
+        "text": "В Іспанії налічується 50 провінцій.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Spain has 50 provinces.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Spanien hat 50 Provinzen.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "caption_a019f1e99cc6992c020b28ce0f4b31ec901768f24d2030dce9efb61582a041de": {
+    "text": "El parque nacional de Doñana es un importante espacio protegido de Europa.",
+    "translations": {
+      "uk": {
+        "text": "Національний парк Доньяна є важливою природоохоронною територією Європи.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Doñana National Park is an important European protected area.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Der Nationalpark Doñana ist ein bedeutendes europäisches Schutzgebiet.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "caption_0e2b61a3de35d65d89998de6ac384e76d2c74f24017bf1959b808a340ff9acdf": {
+    "text": "La paella es un conocido plato tradicional de Valencia.",
+    "translations": {
+      "uk": {
+        "text": "Паелья — відома традиційна страва Валенсії.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Paella is a well-known traditional dish from Valencia.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Die Paella ist ein bekanntes traditionelles Gericht aus Valencia.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "caption_463c74dfa4c760fd0339c6ee763d802f9e9eae059617435aaf365d95831d135d": {
+    "text": "Valencia fue la primera ciudad europea con puente peatonal futurista.",
+    "translations": {
+      "uk": {
+        "text": "Валенсія стала першим містом Європи з футуристичним пішохідним мостом.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Valencia was the first European city with a futuristic pedestrian bridge.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Valencia war die erste europäische Stadt mit einer futuristischen Fußgängerbrücke.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "excluded",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": [
+      "unsupported_first_in_Europe_claim_archived"
+    ]
+  },
+  "caption_537d01db7f59023c83681749c19b0d17c0d72ecf04a49e0e5a1fde9c67b77362": {
+    "text": "España tiene más de 40 sitios declarados Patrimonio de la Humanidad.",
+    "translations": {
+      "uk": {
+        "text": "В Іспанії понад 40 об’єктів, внесених до списку Світової спадщини.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Spain has more than 40 UNESCO World Heritage sites.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Spanien hat mehr als 40 UNESCO-Welterbestätten.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "caption_b223b0de9ff2a8110706a344afa9ddadb914602b7d0ed6dddb784dfb82ef4fb7": {
+    "text": "Tenerife es conocido por sus posibilidades de observación astronómica.",
+    "translations": {
+      "uk": {
+        "text": "Тенеріфе відомий можливостями для астрономічних спостережень.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Tenerife is known for its opportunities for astronomical observation.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Teneriffa ist für seine astronomischen Beobachtungsmöglichkeiten bekannt.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "caption_92dbb6ce713f119218b4ba8d2b5bd21413a465b3a96854414d4ef32a0b1bcc15": {
+    "text": "España exporta vino a muchos países.",
+    "translations": {
+      "uk": {
+        "text": "Іспанія експортує вино до багатьох країн.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "Spain exports wine to many countries.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Spanien exportiert Wein in viele Länder.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "caption_c729753225f31b2e5af1effa0851aa0cfe6bcd57b393f5d3a9828d76e642661e": {
+    "text": "La fiesta de La Tomatina se celebra en Buñol.",
+    "translations": {
+      "uk": {
+        "text": "Свято Ла Томатіна проходить у місті Буньйоль.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "La Tomatina is celebrated in Buñol.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Die Tomatina findet in Buñol statt.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "caption_f66ce1ab031d102f7788a1a9e5f4c1970ec4d07aeea53a3eccbc70bf3adec1d8": {
+    "text": "El Museo del Prado de Madrid alberga una importante colección de arte.",
+    "translations": {
+      "uk": {
+        "text": "Музей Прадо в Мадриді зберігає значну мистецьку колекцію.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "The Prado Museum in Madrid houses a significant art collection.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Das Prado-Museum in Madrid beherbergt eine bedeutende Kunstsammlung.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  },
+  "caption_a280e1a77076108234f3bc83567a76b5ca54de8d7183b41e1bf3a4847c2cd6af": {
+    "text": "La primera línea de alta velocidad AVE, entre Madrid y Sevilla, se inauguró en 1992.",
+    "translations": {
+      "uk": {
+        "text": "Першу високошвидкісну лінію AVE між Мадридом і Севільєю відкрили 1992 року.",
+        "review_status": "reviewed"
+      },
+      "en": {
+        "text": "The first AVE high-speed line, between Madrid and Seville, opened in 1992.",
+        "review_status": "reviewed"
+      },
+      "de": {
+        "text": "Die erste AVE-Hochgeschwindigkeitsstrecke zwischen Madrid und Sevilla wurde 1992 eröffnet.",
+        "review_status": "reviewed"
+      }
+    },
+    "review_status": "reviewed",
+    "review_evidence": {
+      "method": "manual editorial review; original ES with UK/EN/DE rendering",
+      "reviewer": "assistant",
+      "independent_human_review": false
+    },
+    "issues": []
+  }
+}

@@ -9,12 +9,11 @@
     "B1": 0
   },
   "statuses": {
-    "reviewed": 2357,
-    "excluded": 68,
-    "needs_review": 825
+    "reviewed": 3181,
+    "excluded": 69
   },
   "german_draft_glosses": 0,
-  "reviewed_source_units": 2357,
+  "reviewed_source_units": 2963,
   "missing_original_examples": 15,
   "differing_views": 0,
   "review_queue": [
@@ -14368,9 +14367,225 @@
       ]
     },
     {
+      "id": "b1_a5b616d4c169",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
       "id": "b1_02e200ee3f54",
       "issues": [
         "archived_not_in_active_groups"
+      ]
+    },
+    {
+      "id": "b1_e7eb6fc82060",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_05be0be41c98",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_eec4b33ae902",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_4efba1614872",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_d761fbc48d0a",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_f4298f29e082",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_ef9cec4c4adb",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_f463e2435ab0",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_228e7592eb14",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_1dac3dd62701",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_066eee1c6861",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_f0f589958def",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_6499d03e87f6",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_5077e378f65e",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_6159cfcc66e6",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_604b761a3de7",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_371699006a5c",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_c1e2d7d0fa1c",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_e76ea72a9d4f",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_76b52298733a",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_2c84b5bd9a45",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_993550db25f6",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_b81aa6501be9",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_1609363e3e8c",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_f2b80772938f",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_3b6d9178aa32",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_9e2c71c62f47",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_4811475781a0",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_b394e91a7b4b",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_129addae0042",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_1dffade7f6a0",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_784b1f3a17b3",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_5c5d46eff7bf",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_a7bb7bfc5f72",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_d736ad67c765",
+      "issues": [
+        "legacy_views_preserved_separately"
       ]
     },
     {
@@ -14380,9 +14595,465 @@
       ]
     },
     {
+      "id": "b1_5ebfb7731419",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_abccc9e40f4a",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
       "id": "b1_744d2d5fe59e",
       "issues": [
         "archived_not_in_active_groups"
+      ]
+    },
+    {
+      "id": "b1_62072b91c4d6",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_247a09425a11",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_1bf0d2a917e4",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_829f1cb8e757",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_8403a1c6580c",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_74352aaffa88",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_fc9aaf2f6822",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_26e46faa8ddb",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_0228b9d9e92f",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_871ff4284f9c",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_1be71a0233a6",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_64b82b416c8b",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_07d96f1bf2ea",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_b419252990f4",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_6a49327a4493",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_5f0f3bb629f7",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_abcd87a018c2",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_7091c2eb4860",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_c460a73f3a00",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_1e0a71abfe68",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_569349eb6e9c",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_7ea8014e0e8d",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_16bb90ce7058",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_fab0e61778cf",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_fe144d115391",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_c3af736057a5",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_3843aa7dada4",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_7fbf54e47fbe",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_ced4b21f3260",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_e611c03991ed",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_358031318e9f",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_f27de818b055",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_060090d9e82d",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_09714f065507",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_82dc4cecf014",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_724b3c9fd5ec",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_18c00c1946cc",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_516b8f77ab66",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_d2393c8604e5",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_b474a015a807",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_2295a444dfdd",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_78ae1186d50c",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_17c2e3e93976",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_eb67f14b62f1",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_5ffbfb39001e",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_06ae61038908",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_365e32d81d0f",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_f094fc6c338f",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_910cc6ae1d34",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_0606b04f569d",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_4864225f2f36",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_1844affd7a81",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_3c8e8b2d1bfe",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_6f82836d3a14",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_4e416eba71c4",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_01882358400e",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_0d1d85c18675",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_f58342589b40",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_45d76019a500",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_c115b1708f65",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_14c8fe928f76",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_a0e8837e838a",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_f2af961d6876",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_957b9ed92c83",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_6c62adecb5cd",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_02f3c731c69e",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_93cd6034b6e2",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_0182ea7030cb",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_9d1ae540452a",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_cb2f99aa994c",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_639272bfd196",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_7ea4097f1040",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_e79922f45e10",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_c898016b17ae",
+      "issues": [
+        "legacy_views_preserved_separately"
       ]
     },
     {
@@ -14392,15 +15063,621 @@
       ]
     },
     {
+      "id": "b1_a3dce0ba08b9",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_fd6be4996aed",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
       "id": "b1_baa6a7d24b5e",
       "issues": [
         "archived_not_in_active_groups"
       ]
     },
     {
+      "id": "b1_165fa4f90129",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
       "id": "b1_58bc71ae563f",
       "issues": [
         "archived_not_in_active_groups"
+      ]
+    },
+    {
+      "id": "b1_fceead7e14bb",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_0cbe71e1880f",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_2321f5b8a826",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_9a868db31b45",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_66ab2f2ca7ac",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_4d8b07690ad1",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_48272d1e9300",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_2ba08ce05379",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_a04fd9823489",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_a2575a858e24",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_196bca1b91f0",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_5a48d099cb3a",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_480f3eaf92af",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_1d710fb0ec1f",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_0ead5cb6be7c",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_3589d2f4a764",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_eaf31e351978",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_c1845610c1c2",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_1f86146970d0",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_6ea0a2d6ec3d",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_4e9435e5c354",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_31327f799b99",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_782784d5622e",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_129fbb12d84d",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_2ca2edba844d",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_5c2d448e9fa9",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_37a3b464959e",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_f245cd5f469b",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_1ea0af76fd2c",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_8e1d184f75c8",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_791f1cc4f092",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_ed673d0e6023",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_6b8522eb703b",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_9ef428d69932",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_7a45f34fff70",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_28db5bc289a7",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_25960ec63159",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_02ed922ffcf9",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_dc4c906741ae",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_73177e501454",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_693ac05b0296",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_809a135a4969",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_49eddd1f1150",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_aa999e6c48c6",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_6c2679308a17",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_4d9aec031287",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_4094fa02f73b",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_f1ed361ad5e6",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_e005d52fa33c",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_ae62b9944a53",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_fda7035dbfcf",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_78dc25968b6c",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_984c3df3259d",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_cc89370fd2f0",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_eb486d62afe6",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_0b1e4b576766",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_3d92f90ac62d",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_0dce3ed1578f",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_a06f6b776c4c",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_e96ed47157a3",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_2b164fae7720",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_b5595f3cc199",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_f6accff2e679",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_7ad7b0de4ac2",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_1a8a5d9bc7c9",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_f9b3b344e15e",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_630ff65cf5fb",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_25312747892a",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_b5acf81cc5f0",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_ed823738caa3",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_b8396b170598",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_cdf5c7e886bd",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_5ec87634519e",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_5c92c18c6984",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_6e997248b2d7",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_b904cdde9754",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_5f0ccb064267",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_7f3b4d772beb",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_d31b009d72df",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_39afb37b477e",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_4cc261c1c529",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_974dd99640fa",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_35cbb100648b",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_97d24e091ed6",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_5762fa5a519c",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_16daa4d4e9aa",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_2ce2b0118e75",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_619dcc38ddcd",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_dd7a33835d72",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_9f17c80eaa75",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_689eb80b2f6e",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_ff5718c4bc46",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_2468015349bb",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_324b76ebfe99",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_4340131057ec",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_c48272666dbb",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_cb1cfe6054d6",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_858ff7791716",
+      "issues": [
+        "legacy_views_preserved_separately"
       ]
     },
     {
@@ -14416,9 +15693,243 @@
       ]
     },
     {
+      "id": "b1_80f76fbc949d",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_e7cc8e1a6db1",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_cc776b1b6ede",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_f8bfa3ad5f32",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_a05efcd6c1dd",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_0df3c47f236b",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_55c1493bacc7",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_332085a2d24b",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_eb98d287802a",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_dd536060c805",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_ca74ff558fcc",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_293dde916ed5",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_e0f7a50cd65d",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_b1fe80b5f790",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_c053658f3858",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_be74c416b973",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_4ea27fd2f4d7",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_1343f617c5f3",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_e9703ebe9837",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_575e5f141c45",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_84ffcc19af70",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_6d6f2c66fd97",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_d5a2b9b10671",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_8f272f50d98a",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_22c25b76d8ec",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_5121c2bc4821",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_44901f4571cf",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_52a7420eee98",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_ddda4b4d9deb",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_b88f444b464b",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_1158fb4356b6",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_8e5e1911d507",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_2f74480f7260",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_f7fd7bad82df",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_957684a06ed1",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_68ecdb3a7b05",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_40dadddf3793",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_a49d641d6221",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
       "id": "b1_2282e6033ca0",
       "issues": [
         "archived_not_in_active_groups"
+      ]
+    },
+    {
+      "id": "b1_0710bf58d032",
+      "issues": [
+        "legacy_views_preserved_separately"
       ]
     },
     {
@@ -14428,9 +15939,381 @@
       ]
     },
     {
+      "id": "b1_2cbf05bc117d",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_b49df77c9beb",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_f23beab258a1",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_5870833dfb49",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_f9ad811b01a8",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_bffe85f816ae",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_023bf8268ea8",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_30c2e1be03e9",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_d91d62b7e4d4",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_7f9cac7ce390",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_378c886bb692",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_b8cd66f4e1a0",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_90584b41e875",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_2a2e97e62173",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_b22841571a85",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_14d5a03f429f",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_3887c3afdff9",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_902a7b6dcfe4",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_361be3d8f472",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_2df9ec70818b",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_95de9fbc56e7",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_0b87777832a2",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_4be15eb03a62",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_3b8daba195c8",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_127a24c7c1fd",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_fc5fe54d5fef",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_7b31c0166247",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_0c9888665bf4",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_2f8ff766bbba",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_b76e383e4852",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_34e3e759707b",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_385f63243c15",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_a66bb9eb4495",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_523c6065a3fc",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_ac0138c3d76b",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_991b51b833df",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_938834193c03",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_3985e6c8bede",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_43667ea7c4e0",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_19e986461f9a",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_195655a59d4c",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_25e9c3ff485d",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_c5bdb0951b49",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_d5659273401d",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_cacc02d9208d",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_e1d7f5fc2de0",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_677021c89eb1",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_0625e9a51451",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_540eedee9ab2",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
       "id": "b1_2aa23af3eecc",
       "issues": [
         "archived_not_in_active_groups"
+      ]
+    },
+    {
+      "id": "b1_49d846478496",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_1c6448039fa5",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_7744cc02215b",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_6944e6fdb37a",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_9a7ae2390e4e",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_76d6fdf01f96",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_c66bc63b2f15",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_6afa08f522c5",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_cc4ecaedc743",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_83a157cfb263",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_cb7a2f0d1114",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_a048f986435c",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_f25ce530f403",
+      "issues": [
+        "legacy_views_preserved_separately"
       ]
     },
     {
@@ -14440,9 +16323,57 @@
       ]
     },
     {
+      "id": "b1_ce13b41ee8bc",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_1fc889a19d63",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_ad857bda2a3f",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_3f34fb16f652",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_2bf84578d17e",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
       "id": "b1_fe32d65c2fce",
       "issues": [
         "archived_not_in_active_groups"
+      ]
+    },
+    {
+      "id": "b1_273f2712f677",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_eb72309e7902",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_ea11b45a05ba",
+      "issues": [
+        "legacy_views_preserved_separately"
       ]
     },
     {
@@ -14452,15 +16383,513 @@
       ]
     },
     {
+      "id": "b1_d489eefc7ed4",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_989090097f6e",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_cae984493606",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_ab8633599dd4",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_a3073bc9c5f3",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_70de4b05e054",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_053713b76336",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_673ec8da725a",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_17f6bbf5e344",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_d6557e75c6ce",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_b0d6be75982a",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_6d730b35cfeb",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_ac7fa23f9f03",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_263c81a3a46e",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_610b07961895",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_1b8e0aa45990",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_23402b3bab53",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
       "id": "b1_065d545de86b",
       "issues": [
         "archived_not_in_active_groups"
       ]
     },
     {
+      "id": "b1_9af00bff441d",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_5175cb461287",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_97494f2b2467",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_dc680a72261e",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_2130378bd072",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_e22a547ae672",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_3e3acdcc9f6f",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
       "id": "b1_7e76d76cf118",
       "issues": [
         "archived_not_in_active_groups"
+      ]
+    },
+    {
+      "id": "b1_d8909d1aa6f6",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_753ca42e6d0c",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_16a3b10136bf",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_2a67821a9fd4",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_3b8e712d0c85",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_26ce58ff80a8",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_6a10d7f563e4",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_d0f744d73cef",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_63112f8db8fd",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_d9166b80bbe9",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_0c69482ed3ff",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_409ee5db5775",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_886c5128c74a",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_93c7cb03d4b5",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_94a4ce268de9",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_e7d26f33a02e",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_2fa3585be654",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_9146c101a2fa",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_1ec7acaabd52",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_acf4ce090a91",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_863d9a3f0046",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_58eb2a74b0d4",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_56a764c66e1f",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_63543c66500a",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_7afaaea60404",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_701cabfbec0c",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_f4a0126f047e",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_24446553719c",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_0dd95f214533",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_c94dd14250df",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_acf1ae18404a",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_d649a039c92e",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_ad433bd24ab5",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_df8791772436",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_a6b3982dc1aa",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_861af85ca894",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_19c9b7aea655",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_99819fc80495",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_2d442c4c71f7",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_b8659a638b8d",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_4f360ccb02e9",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_44a851e7c055",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_fb4c6c5749fa",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_740bcc1863f5",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_b994f04da105",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_345a5c250c16",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_a582c9dfabae",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_933e445bce3e",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_667055e5fb3b",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_b468776bee39",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_b01c135e772e",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_a61a60eeee7a",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_125002082588",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_4c80f52ed6a6",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_a2194c8dde88",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_8d80b4193226",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_95436bc2eb51",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_6b82ad768ddd",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_265cfc4ffb34",
+      "issues": [
+        "legacy_views_preserved_separately"
       ]
     },
     {
@@ -14482,9 +16911,165 @@
       ]
     },
     {
+      "id": "b1_c92535caa110",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_624064880616",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_cebc5aa2b335",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_bc66f43c2ec2",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_ee4da093127e",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
       "id": "b1_f26843e5f95f",
       "issues": [
         "archived_not_in_active_groups"
+      ]
+    },
+    {
+      "id": "b1_75312025c9d3",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_01613d7bce25",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_26c60eb4ee46",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_d4fcc8ad48cf",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_75bb929a867b",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_e8f059cab4b0",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_2f8193da1c54",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_c6d4d4857732",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_e2817f5836eb",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_a745b5c2e641",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_30d4766c9ad7",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_b92d5b89dbc2",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_b30e87e2d45d",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_4115fb266adc",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_cc56e74f333d",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_f87609197ec1",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_da3a6926c08e",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_b84b78a0588d",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_a93d8c956a71",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_cd0519bc9c8a",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_bce63d445f4b",
+      "issues": [
+        "legacy_views_preserved_separately"
       ]
     },
     {
@@ -14494,9 +17079,171 @@
       ]
     },
     {
+      "id": "b1_4d0dc5608adb",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_7293cf49854b",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_e26a34a46c76",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_8587f43c6d97",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_3e8c54394e55",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_e2a698acad18",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_15aa9221d576",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_3f407e3dcf6a",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_1106fc14f6ff",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_68d3254d2718",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_8cc7e0238518",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_9fdeebeae103",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_dbb674d53438",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_643b929e5318",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_90036dbe011b",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_2b2394ac3bac",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_f129c52e86d9",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_d6f0ed1806d9",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_71c5a591e216",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_f4d238316155",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_9bd157668e40",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_e9dce73ed5d6",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_bb1b095f5ac7",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
       "id": "b1_f9baf0756951",
       "issues": [
         "archived_not_in_active_groups"
+      ]
+    },
+    {
+      "id": "b1_75ed59c99898",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_f9be4debd48c",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_cfdd064cc7f0",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_a700ac70b46a",
+      "issues": [
+        "legacy_views_preserved_separately"
       ]
     },
     {
@@ -14506,9 +17253,141 @@
       ]
     },
     {
+      "id": "b1_b75701a353bc",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_ebe5045510a6",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
       "id": "b1_976dcceecdf7",
       "issues": [
         "archived_not_in_active_groups"
+      ]
+    },
+    {
+      "id": "b1_b5a970656d77",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_35b289c37ba9",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_7b6189341343",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_c31344743629",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_f847549de278",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_5fc918e454ba",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_8745f2ddee03",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_552bb74b6a1e",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_ebd45786a68d",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_700bcd25dc31",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_2663e2c74622",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_63de384b8f84",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_29146fd9b431",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_0296f75e1ed3",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_996a9c66d73a",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_254ca03aa2bf",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_72657f455c1b",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_19008159910e",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_1adb52e63dc2",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_c03d36c77872",
+      "issues": [
+        "legacy_views_preserved_separately"
       ]
     },
     {
@@ -14518,9 +17397,87 @@
       ]
     },
     {
+      "id": "b1_1f55b033a39c",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_ca3dfa18f703",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_6a2620cf438c",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_90a8d6104b01",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_633e87d66e2e",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_060572a73182",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_5b642842fe60",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_12bdf30e5693",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_b571e9bc327f",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_5ec5dd9368e2",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_88e10f719f04",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_145f7cda3d8d",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
       "id": "b1_793fb19b02aa",
       "issues": [
         "archived_not_in_active_groups"
+      ]
+    },
+    {
+      "id": "b1_3c871a1b4b6b",
+      "issues": [
+        "legacy_views_preserved_separately"
       ]
     },
     {
@@ -14530,9 +17487,273 @@
       ]
     },
     {
+      "id": "b1_61cf7dd5fe15",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_16525b75cfa5",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_188656d6757b",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_3b447c8f9011",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_b641c9caa18c",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_afbd89ecb437",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_427d16e475fa",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_2b8228f8c897",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_13935258f3ca",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_62f688fe526b",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_d5333e8ce03b",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_46d6bc8f0499",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_d998450a9c43",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_c725b945fe8e",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_352843f500d5",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_f247fd5ecec2",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_163f86fb3e9c",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_a01a9b29eb9c",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_596c3cf4ae9c",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_c9d7ad895af1",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_12c018ac7bfd",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_6fe40ef70fc8",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_dd99dd29b36e",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
       "id": "b1_b81ce0fe8201",
       "issues": [
         "archived_not_in_active_groups"
+      ]
+    },
+    {
+      "id": "b1_f1c6115836a2",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_2d3e21881966",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_a1f427974d20",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_782ba19d3bcb",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_4fcb66d2ce8b",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_0f099623a2a6",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_6c17197df7f6",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_5fa36261eba1",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_f35e2e5af03c",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_9acb848a6b94",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_d20d76821a35",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_0e4664d9dc60",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_a42730ed1545",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_cd48e343452f",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_4bd92ea692fe",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_e2053b061426",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_5f443c70b15c",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_ab8c81e8524a",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_a1c96cf3882e",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_7aac905963e9",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_e596f4792e41",
+      "issues": [
+        "legacy_views_preserved_separately"
       ]
     },
     {
@@ -14542,9 +17763,69 @@
       ]
     },
     {
+      "id": "b1_6db90540919a",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_1939c76d6f5a",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_4bc7694670a7",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_c7fbd0798997",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_4fdac2dcd691",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_315df8f88e90",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
       "id": "b1_a95c41be0fb2",
       "issues": [
         "archived_not_in_active_groups"
+      ]
+    },
+    {
+      "id": "b1_e9235c2549b2",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_402a65bc9bac",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_11cb2648aa60",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_567f2addd545",
+      "issues": [
+        "legacy_views_preserved_separately"
       ]
     },
     {
@@ -14560,15 +17841,117 @@
       ]
     },
     {
+      "id": "b1_e581272650df",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_0f9e4de2175a",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
       "id": "b1_ca8e0aeec487",
       "issues": [
         "archived_not_in_active_groups"
       ]
     },
     {
+      "id": "b1_d341fd208379",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_1443c1ae8c16",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_ab4094993bd1",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_0db411fbd683",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_013bb2b683a3",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_77b4244834ea",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_88c026b58d01",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_e97ddbd34122",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
       "id": "b1_1f8cc73b2a87",
       "issues": [
         "archived_not_in_active_groups"
+      ]
+    },
+    {
+      "id": "b1_2bd45f0b2302",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_d8f8c804a596",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_25e242596683",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_ed444b2faaa0",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_c10bf7bbf71b",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_2c978983f787",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_bada7753a7b2",
+      "issues": [
+        "legacy_views_preserved_separately"
       ]
     },
     {
@@ -14581,6 +17964,258 @@
       "id": "b1_62522dab3f63",
       "issues": [
         "archived_not_in_active_groups"
+      ]
+    },
+    {
+      "id": "b1_8a5107f2f0a2",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_e7e8ed5df4dd",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_51593a5ee6d8",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_ca89c0460b27",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_32b626939107",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_c895ca908061",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_ddabda78b4f3",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_5776ae09592a",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_8a01babd6599",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_38a3475ce053",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_a23342c97db2",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_94cebba1fd9e",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_6de75d54ed0b",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_72ebde2ba81e",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_a2c5eb203cb1",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_e0a4e8d9f77f",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_498524bc9e53",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_2584a0170bea",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_c5482f55ba0c",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_e98bc86c88e0",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_45d6eb230ff3",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_a8f8b1879489",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_3f48f875407e",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_2b26fc86ef56",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_9f3d158556b0",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_bfd84905fb61",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_83fcab84ca23",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_a9c1ec98ad35",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_f5391a180030",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_3e823c17c665",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_3a4ea5eedf8f",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_77a0a08e59be",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_fc207af8b456",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_6ef5e8f30a49",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_9b20192f1af3",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_545690e7058e",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_aab529dee8bb",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_308a6ed643f1",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_eabb7271c4f2",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_f22d9e5a659a",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_cb70b81eca80",
+      "issues": [
+        "legacy_views_preserved_separately"
+      ]
+    },
+    {
+      "id": "b1_ef8db8910e58",
+      "issues": [
+        "legacy_views_preserved_separately"
       ]
     }
   ]

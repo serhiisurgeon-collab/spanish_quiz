@@ -1,0 +1,850 @@
+[
+  {
+    "id": "en-a2-foundation-001",
+    "canonical_id": "en-a2-foundation-001",
+    "source_language": "en",
+    "text": "a refund",
+    "en": "a refund",
+    "uk": "повернення сплачених грошей",
+    "es": "un reembolso",
+    "de": "die Rückerstattung",
+    "example": {
+      "en": "I would like a refund for this broken radio.",
+      "uk": "Я хочу повернення грошей за це зламане радіо.",
+      "es": "Quisiera un reembolso por esta radio averiada.",
+      "de": "Ich hätte gern eine Rückerstattung für dieses kaputte Radio."
+    },
+    "level": "A2",
+    "sense": "a refund",
+    "grammar": {
+      "part_of_speech": "noun"
+    },
+    "topic": "shopping",
+    "options": {
+      "uk": [
+        "орендодавець",
+        "відправлення транспорту",
+        "повернення сплачених грошей",
+        "заздалегідь призначений прийом"
+      ],
+      "es": [
+        "una cita concertada",
+        "un reembolso",
+        "un casero",
+        "una salida (de un transporte)"
+      ],
+      "de": [
+        "der vereinbarte Termin",
+        "die Rückerstattung",
+        "der Vermieter",
+        "die Abfahrt"
+      ]
+    }
+  },
+  {
+    "id": "en-a2-foundation-002",
+    "canonical_id": "en-a2-foundation-002",
+    "source_language": "en",
+    "text": "a landlord",
+    "en": "a landlord",
+    "uk": "орендодавець",
+    "es": "un casero",
+    "de": "der Vermieter",
+    "example": {
+      "en": "Our landlord will repair the window tomorrow.",
+      "uk": "Наш орендодавець полагодить вікно завтра.",
+      "es": "Nuestro casero arreglará la ventana mañana.",
+      "de": "Unser Vermieter repariert morgen das Fenster."
+    },
+    "level": "A2",
+    "sense": "a landlord",
+    "grammar": {
+      "part_of_speech": "noun"
+    },
+    "topic": "housing",
+    "options": {
+      "uk": [
+        "повернення сплачених грошей",
+        "відправлення транспорту",
+        "орендодавець",
+        "заздалегідь призначений прийом"
+      ],
+      "es": [
+        "una salida (de un transporte)",
+        "un casero",
+        "una cita concertada",
+        "un reembolso"
+      ],
+      "de": [
+        "der vereinbarte Termin",
+        "die Rückerstattung",
+        "der Vermieter",
+        "die Abfahrt"
+      ]
+    }
+  },
+  {
+    "id": "en-a2-foundation-003",
+    "canonical_id": "en-a2-foundation-003",
+    "source_language": "en",
+    "text": "an appointment",
+    "en": "an appointment",
+    "uk": "заздалегідь призначений прийом",
+    "es": "una cita concertada",
+    "de": "der vereinbarte Termin",
+    "example": {
+      "en": "I have an appointment with the dentist on Monday.",
+      "uk": "У мене в понеділок прийом у стоматолога.",
+      "es": "El lunes tengo una cita con el dentista.",
+      "de": "Am Montag habe ich einen Termin beim Zahnarzt."
+    },
+    "level": "A2",
+    "sense": "an appointment",
+    "grammar": {
+      "part_of_speech": "noun"
+    },
+    "topic": "health",
+    "options": {
+      "uk": [
+        "відправлення транспорту",
+        "орендодавець",
+        "заздалегідь призначений прийом",
+        "повернення сплачених грошей"
+      ],
+      "es": [
+        "un reembolso",
+        "una cita concertada",
+        "una salida (de un transporte)",
+        "un casero"
+      ],
+      "de": [
+        "die Abfahrt",
+        "der vereinbarte Termin",
+        "die Rückerstattung",
+        "der Vermieter"
+      ]
+    }
+  },
+  {
+    "id": "en-a2-foundation-004",
+    "canonical_id": "en-a2-foundation-004",
+    "source_language": "en",
+    "text": "a departure",
+    "en": "a departure",
+    "uk": "відправлення транспорту",
+    "es": "una salida (de un transporte)",
+    "de": "die Abfahrt",
+    "example": {
+      "en": "The departure of our train is at six.",
+      "uk": "Наш потяг відправляється о шостій.",
+      "es": "La salida de nuestro tren es a las seis.",
+      "de": "Die Abfahrt unseres Zuges ist um sechs."
+    },
+    "level": "A2",
+    "sense": "a departure",
+    "grammar": {
+      "part_of_speech": "noun"
+    },
+    "topic": "travel",
+    "options": {
+      "uk": [
+        "відправлення транспорту",
+        "орендодавець",
+        "заздалегідь призначений прийом",
+        "повернення сплачених грошей"
+      ],
+      "es": [
+        "una cita concertada",
+        "un reembolso",
+        "una salida (de un transporte)",
+        "un casero"
+      ],
+      "de": [
+        "die Rückerstattung",
+        "der Vermieter",
+        "der vereinbarte Termin",
+        "die Abfahrt"
+      ]
+    }
+  },
+  {
+    "id": "en-a2-foundation-005",
+    "canonical_id": "en-a2-foundation-005",
+    "source_language": "en",
+    "text": "a job advert",
+    "en": "a job advert",
+    "uk": "оголошення про вакансію",
+    "es": "un anuncio de empleo",
+    "de": "die Stellenanzeige",
+    "example": {
+      "en": "I found a job advert on the company website.",
+      "uk": "Я знайшов оголошення про вакансію на сайті компанії.",
+      "es": "He encontrado un anuncio de empleo en la página web de la empresa.",
+      "de": "Ich habe auf der Webseite der Firma eine Stellenanzeige gefunden."
+    },
+    "level": "A2",
+    "sense": "a job advert",
+    "grammar": {
+      "part_of_speech": "noun"
+    },
+    "topic": "work",
+    "options": {
+      "uk": [
+        "головний біль",
+        "оголошення про вакансію",
+        "затримка",
+        "інгредієнт"
+      ],
+      "es": [
+        "un dolor de cabeza",
+        "un ingrediente",
+        "un retraso",
+        "un anuncio de empleo"
+      ],
+      "de": [
+        "die Kopfschmerzen",
+        "die Verspätung",
+        "die Stellenanzeige",
+        "die Zutat"
+      ]
+    }
+  },
+  {
+    "id": "en-a2-foundation-006",
+    "canonical_id": "en-a2-foundation-006",
+    "source_language": "en",
+    "text": "a delay",
+    "en": "a delay",
+    "uk": "затримка",
+    "es": "un retraso",
+    "de": "die Verspätung",
+    "example": {
+      "en": "There is a delay of twenty minutes.",
+      "uk": "Є затримка на двадцять хвилин.",
+      "es": "Hay un retraso de veinte minutos.",
+      "de": "Es gibt eine Verspätung von zwanzig Minuten."
+    },
+    "level": "A2",
+    "sense": "a delay",
+    "grammar": {
+      "part_of_speech": "noun"
+    },
+    "topic": "travel",
+    "options": {
+      "uk": [
+        "оголошення про вакансію",
+        "затримка",
+        "інгредієнт",
+        "головний біль"
+      ],
+      "es": [
+        "un anuncio de empleo",
+        "un ingrediente",
+        "un dolor de cabeza",
+        "un retraso"
+      ],
+      "de": [
+        "die Verspätung",
+        "die Stellenanzeige",
+        "die Zutat",
+        "die Kopfschmerzen"
+      ]
+    }
+  },
+  {
+    "id": "en-a2-foundation-007",
+    "canonical_id": "en-a2-foundation-007",
+    "source_language": "en",
+    "text": "an ingredient",
+    "en": "an ingredient",
+    "uk": "інгредієнт",
+    "es": "un ingrediente",
+    "de": "die Zutat",
+    "example": {
+      "en": "Which ingredients do we need for the soup?",
+      "uk": "Які інгредієнти нам потрібні для супу?",
+      "es": "¿Qué ingredientes necesitamos para la sopa?",
+      "de": "Welche Zutaten brauchen wir für die Suppe?"
+    },
+    "level": "A2",
+    "sense": "an ingredient",
+    "grammar": {
+      "part_of_speech": "noun"
+    },
+    "topic": "food",
+    "options": {
+      "uk": [
+        "затримка",
+        "головний біль",
+        "інгредієнт",
+        "оголошення про вакансію"
+      ],
+      "es": [
+        "un anuncio de empleo",
+        "un ingrediente",
+        "un dolor de cabeza",
+        "un retraso"
+      ],
+      "de": [
+        "die Verspätung",
+        "die Stellenanzeige",
+        "die Kopfschmerzen",
+        "die Zutat"
+      ]
+    }
+  },
+  {
+    "id": "en-a2-foundation-008",
+    "canonical_id": "en-a2-foundation-008",
+    "source_language": "en",
+    "text": "a headache",
+    "en": "a headache",
+    "uk": "головний біль",
+    "es": "un dolor de cabeza",
+    "de": "die Kopfschmerzen",
+    "example": {
+      "en": "I have a headache and need to rest.",
+      "uk": "У мене болить голова, і мені потрібно відпочити.",
+      "es": "Me duele la cabeza y necesito descansar.",
+      "de": "Ich habe Kopfschmerzen und muss mich ausruhen."
+    },
+    "level": "A2",
+    "sense": "a headache",
+    "grammar": {
+      "part_of_speech": "noun"
+    },
+    "topic": "health",
+    "options": {
+      "uk": [
+        "затримка",
+        "головний біль",
+        "інгредієнт",
+        "оголошення про вакансію"
+      ],
+      "es": [
+        "un ingrediente",
+        "un dolor de cabeza",
+        "un retraso",
+        "un anuncio de empleo"
+      ],
+      "de": [
+        "die Zutat",
+        "die Kopfschmerzen",
+        "die Stellenanzeige",
+        "die Verspätung"
+      ]
+    }
+  },
+  {
+    "id": "en-a2-foundation-009",
+    "canonical_id": "en-a2-foundation-009",
+    "source_language": "en",
+    "text": "to apply for a job",
+    "en": "to apply for a job",
+    "uk": "подавати заяву на роботу",
+    "es": "solicitar un empleo",
+    "de": "sich um eine Stelle bewerben",
+    "example": {
+      "en": "I applied for a job at the library.",
+      "uk": "Я подав заяву на роботу в бібліотеку.",
+      "es": "He solicitado un empleo en la biblioteca.",
+      "de": "Ich habe mich um eine Stelle in der Bibliothek beworben."
+    },
+    "level": "A2",
+    "sense": "to apply for a job",
+    "grammar": {
+      "part_of_speech": "verb",
+      "usage": "apply for + job; apply to + organisation"
+    },
+    "topic": "work",
+    "options": {
+      "uk": [
+        "подавати заяву на роботу",
+        "відхиляти запрошення",
+        "піклуватися про",
+        "не встигнути на потяг"
+      ],
+      "es": [
+        "perder un tren",
+        "solicitar un empleo",
+        "cuidar de",
+        "rechazar una invitación"
+      ],
+      "de": [
+        "einen Zug verpassen",
+        "sich um eine Stelle bewerben",
+        "sich kümmern um",
+        "eine Einladung ablehnen"
+      ]
+    }
+  },
+  {
+    "id": "en-a2-foundation-010",
+    "canonical_id": "en-a2-foundation-010",
+    "source_language": "en",
+    "text": "to look after",
+    "en": "to look after",
+    "uk": "піклуватися про",
+    "es": "cuidar de",
+    "de": "sich kümmern um",
+    "example": {
+      "en": "Can you look after my cat this weekend?",
+      "uk": "Можеш подбати про мого кота цими вихідними?",
+      "es": "¿Puedes cuidar de mi gato este fin de semana?",
+      "de": "Kannst du dich am Wochenende um meine Katze kümmern?"
+    },
+    "level": "A2",
+    "sense": "to look after",
+    "grammar": {
+      "part_of_speech": "verb",
+      "usage": "look after + person/animal"
+    },
+    "topic": "relationships",
+    "options": {
+      "uk": [
+        "не встигнути на потяг",
+        "піклуватися про",
+        "відхиляти запрошення",
+        "подавати заяву на роботу"
+      ],
+      "es": [
+        "perder un tren",
+        "solicitar un empleo",
+        "cuidar de",
+        "rechazar una invitación"
+      ],
+      "de": [
+        "sich kümmern um",
+        "eine Einladung ablehnen",
+        "sich um eine Stelle bewerben",
+        "einen Zug verpassen"
+      ]
+    }
+  },
+  {
+    "id": "en-a2-foundation-011",
+    "canonical_id": "en-a2-foundation-011",
+    "source_language": "en",
+    "text": "to miss a train",
+    "en": "to miss a train",
+    "uk": "не встигнути на потяг",
+    "es": "perder un tren",
+    "de": "einen Zug verpassen",
+    "example": {
+      "en": "We missed the train because we left late.",
+      "uk": "Ми не встигли на потяг, бо пізно вийшли.",
+      "es": "Hemos perdido el tren porque hemos salido tarde.",
+      "de": "Wir haben den Zug verpasst, weil wir spät losgegangen sind."
+    },
+    "level": "A2",
+    "sense": "to miss a train",
+    "grammar": {
+      "part_of_speech": "verb",
+      "usage": "miss + train (fail to catch it)"
+    },
+    "topic": "travel",
+    "options": {
+      "uk": [
+        "піклуватися про",
+        "подавати заяву на роботу",
+        "відхиляти запрошення",
+        "не встигнути на потяг"
+      ],
+      "es": [
+        "perder un tren",
+        "rechazar una invitación",
+        "solicitar un empleo",
+        "cuidar de"
+      ],
+      "de": [
+        "eine Einladung ablehnen",
+        "sich kümmern um",
+        "sich um eine Stelle bewerben",
+        "einen Zug verpassen"
+      ]
+    }
+  },
+  {
+    "id": "en-a2-foundation-012",
+    "canonical_id": "en-a2-foundation-012",
+    "source_language": "en",
+    "text": "to turn down an invitation",
+    "en": "to turn down an invitation",
+    "uk": "відхиляти запрошення",
+    "es": "rechazar una invitación",
+    "de": "eine Einladung ablehnen",
+    "example": {
+      "en": "I had to turn down the invitation because I was ill.",
+      "uk": "Мені довелося відхилити запрошення, бо я хворів.",
+      "es": "Tuve que rechazar la invitación porque estaba enfermo.",
+      "de": "Ich musste die Einladung ablehnen, weil ich krank war."
+    },
+    "level": "A2",
+    "sense": "to turn down an invitation",
+    "grammar": {
+      "part_of_speech": "verb",
+      "usage": "turn down + invitation (decline it)"
+    },
+    "topic": "relationships",
+    "options": {
+      "uk": [
+        "відхиляти запрошення",
+        "піклуватися про",
+        "подавати заяву на роботу",
+        "не встигнути на потяг"
+      ],
+      "es": [
+        "rechazar una invitación",
+        "solicitar un empleo",
+        "cuidar de",
+        "perder un tren"
+      ],
+      "de": [
+        "einen Zug verpassen",
+        "sich kümmern um",
+        "eine Einladung ablehnen",
+        "sich um eine Stelle bewerben"
+      ]
+    }
+  },
+  {
+    "id": "en-a2-foundation-013",
+    "canonical_id": "en-a2-foundation-013",
+    "source_language": "en",
+    "text": "to save money",
+    "en": "to save money",
+    "uk": "заощаджувати гроші",
+    "es": "ahorrar dinero",
+    "de": "Geld sparen",
+    "example": {
+      "en": "We are saving money for a holiday.",
+      "uk": "Ми заощаджуємо гроші на відпустку.",
+      "es": "Estamos ahorrando dinero para las vacaciones.",
+      "de": "Wir sparen Geld für einen Urlaub."
+    },
+    "level": "A2",
+    "sense": "to save money",
+    "grammar": {
+      "part_of_speech": "verb",
+      "usage": "save money for + purpose"
+    },
+    "topic": "money",
+    "options": {
+      "uk": [
+        "заощаджувати гроші",
+        "звикати до",
+        "лагодити",
+        "сідати в автобус"
+      ],
+      "es": [
+        "subir a un autobús",
+        "acostumbrarse a",
+        "ahorrar dinero",
+        "reparar"
+      ],
+      "de": [
+        "Geld sparen",
+        "reparieren",
+        "in einen Bus einsteigen",
+        "sich gewöhnen an"
+      ]
+    }
+  },
+  {
+    "id": "en-a2-foundation-014",
+    "canonical_id": "en-a2-foundation-014",
+    "source_language": "en",
+    "text": "to repair",
+    "en": "to repair",
+    "uk": "лагодити",
+    "es": "reparar",
+    "de": "reparieren",
+    "example": {
+      "en": "Someone repaired the washing machine yesterday.",
+      "uk": "Учора хтось полагодив пральну машину.",
+      "es": "Ayer alguien reparó la lavadora.",
+      "de": "Gestern hat jemand die Waschmaschine repariert."
+    },
+    "level": "A2",
+    "sense": "to repair",
+    "grammar": {
+      "part_of_speech": "verb",
+      "usage": "repair + object"
+    },
+    "topic": "housing",
+    "options": {
+      "uk": [
+        "сідати в автобус",
+        "звикати до",
+        "заощаджувати гроші",
+        "лагодити"
+      ],
+      "es": [
+        "ahorrar dinero",
+        "subir a un autobús",
+        "reparar",
+        "acostumbrarse a"
+      ],
+      "de": [
+        "sich gewöhnen an",
+        "Geld sparen",
+        "reparieren",
+        "in einen Bus einsteigen"
+      ]
+    }
+  },
+  {
+    "id": "en-a2-foundation-015",
+    "canonical_id": "en-a2-foundation-015",
+    "source_language": "en",
+    "text": "to get on a bus",
+    "en": "to get on a bus",
+    "uk": "сідати в автобус",
+    "es": "subir a un autobús",
+    "de": "in einen Bus einsteigen",
+    "example": {
+      "en": "We got on the bus near the station.",
+      "uk": "Ми сіли в автобус біля вокзалу.",
+      "es": "Subimos al autobús cerca de la estación.",
+      "de": "Wir sind in der Nähe des Bahnhofs in den Bus eingestiegen."
+    },
+    "level": "A2",
+    "sense": "to get on a bus",
+    "grammar": {
+      "part_of_speech": "verb",
+      "usage": "get on + bus/train"
+    },
+    "topic": "travel",
+    "options": {
+      "uk": [
+        "заощаджувати гроші",
+        "звикати до",
+        "лагодити",
+        "сідати в автобус"
+      ],
+      "es": [
+        "ahorrar dinero",
+        "reparar",
+        "acostumbrarse a",
+        "subir a un autobús"
+      ],
+      "de": [
+        "reparieren",
+        "sich gewöhnen an",
+        "in einen Bus einsteigen",
+        "Geld sparen"
+      ]
+    }
+  },
+  {
+    "id": "en-a2-foundation-016",
+    "canonical_id": "en-a2-foundation-016",
+    "source_language": "en",
+    "text": "to get used to",
+    "en": "to get used to",
+    "uk": "звикати до",
+    "es": "acostumbrarse a",
+    "de": "sich gewöhnen an",
+    "example": {
+      "en": "I am getting used to my new job.",
+      "uk": "Я звикаю до нової роботи.",
+      "es": "Me estoy acostumbrando a mi nuevo trabajo.",
+      "de": "Ich gewöhne mich an meine neue Arbeit."
+    },
+    "level": "A2",
+    "sense": "to get used to",
+    "grammar": {
+      "part_of_speech": "verb",
+      "usage": "get used to + noun/-ing"
+    },
+    "topic": "plans",
+    "options": {
+      "uk": [
+        "сідати в автобус",
+        "звикати до",
+        "заощаджувати гроші",
+        "лагодити"
+      ],
+      "es": [
+        "ahorrar dinero",
+        "reparar",
+        "subir a un autobús",
+        "acostumbrarse a"
+      ],
+      "de": [
+        "Geld sparen",
+        "reparieren",
+        "sich gewöhnen an",
+        "in einen Bus einsteigen"
+      ]
+    }
+  },
+  {
+    "id": "en-a2-foundation-017",
+    "canonical_id": "en-a2-foundation-017",
+    "source_language": "en",
+    "text": "Could I try this on?",
+    "en": "Could I try this on?",
+    "uk": "Можна це приміряти?",
+    "es": "¿Puedo probármelo?",
+    "de": "Kann ich das anprobieren?",
+    "example": {
+      "en": "I like this jacket. Could I try this on?",
+      "uk": "Мені подобається ця куртка. Можна її приміряти?",
+      "es": "Me gusta esta chaqueta. ¿Puedo probármela?",
+      "de": "Mir gefällt diese Jacke. Kann ich sie anprobieren?"
+    },
+    "level": "A2",
+    "sense": "Could I try this on?",
+    "grammar": {
+      "part_of_speech": "phrase"
+    },
+    "topic": "shopping",
+    "options": {
+      "uk": [
+        "Можна це приміряти?",
+        "Що б ви порадили?",
+        "На жаль, я не зможу прийти.",
+        "У мене проблема з підключенням до інтернету."
+      ],
+      "es": [
+        "¿Qué me recomienda?",
+        "¿Puedo probármelo?",
+        "Lo siento, no puedo ir.",
+        "Tengo un problema con la conexión a internet."
+      ],
+      "de": [
+        "Ich habe ein Problem mit der Internetverbindung.",
+        "Was würden Sie empfehlen?",
+        "Kann ich das anprobieren?",
+        "Leider kann ich nicht kommen."
+      ]
+    }
+  },
+  {
+    "id": "en-a2-foundation-018",
+    "canonical_id": "en-a2-foundation-018",
+    "source_language": "en",
+    "text": "I have a problem with the internet connection.",
+    "en": "I have a problem with the internet connection.",
+    "uk": "У мене проблема з підключенням до інтернету.",
+    "es": "Tengo un problema con la conexión a internet.",
+    "de": "Ich habe ein Problem mit der Internetverbindung.",
+    "example": {
+      "en": "I have a problem with the internet connection in my room.",
+      "uk": "У мене проблема з підключенням до інтернету в моїй кімнаті.",
+      "es": "Tengo un problema con la conexión a internet en mi habitación.",
+      "de": "Ich habe in meinem Zimmer ein Problem mit der Internetverbindung."
+    },
+    "level": "A2",
+    "sense": "I have a problem with the internet connection.",
+    "grammar": {
+      "part_of_speech": "phrase"
+    },
+    "topic": "technology",
+    "options": {
+      "uk": [
+        "На жаль, я не зможу прийти.",
+        "Що б ви порадили?",
+        "Можна це приміряти?",
+        "У мене проблема з підключенням до інтернету."
+      ],
+      "es": [
+        "¿Qué me recomienda?",
+        "Lo siento, no puedo ir.",
+        "¿Puedo probármelo?",
+        "Tengo un problema con la conexión a internet."
+      ],
+      "de": [
+        "Ich habe ein Problem mit der Internetverbindung.",
+        "Was würden Sie empfehlen?",
+        "Kann ich das anprobieren?",
+        "Leider kann ich nicht kommen."
+      ]
+    }
+  },
+  {
+    "id": "en-a2-foundation-019",
+    "canonical_id": "en-a2-foundation-019",
+    "source_language": "en",
+    "text": "What would you recommend?",
+    "en": "What would you recommend?",
+    "uk": "Що б ви порадили?",
+    "es": "¿Qué me recomienda?",
+    "de": "Was würden Sie empfehlen?",
+    "example": {
+      "en": "I do not know this menu. What would you recommend?",
+      "uk": "Я не знаю цього меню. Що б ви порадили?",
+      "es": "No conozco esta carta. ¿Qué me recomienda?",
+      "de": "Ich kenne diese Speisekarte nicht. Was würden Sie empfehlen?"
+    },
+    "level": "A2",
+    "sense": "What would you recommend?",
+    "grammar": {
+      "part_of_speech": "phrase"
+    },
+    "topic": "food",
+    "options": {
+      "uk": [
+        "На жаль, я не зможу прийти.",
+        "Що б ви порадили?",
+        "У мене проблема з підключенням до інтернету.",
+        "Можна це приміряти?"
+      ],
+      "es": [
+        "¿Qué me recomienda?",
+        "Tengo un problema con la conexión a internet.",
+        "¿Puedo probármelo?",
+        "Lo siento, no puedo ir."
+      ],
+      "de": [
+        "Ich habe ein Problem mit der Internetverbindung.",
+        "Leider kann ich nicht kommen.",
+        "Was würden Sie empfehlen?",
+        "Kann ich das anprobieren?"
+      ]
+    }
+  },
+  {
+    "id": "en-a2-foundation-020",
+    "canonical_id": "en-a2-foundation-020",
+    "source_language": "en",
+    "text": "I am afraid I cannot come.",
+    "en": "I am afraid I cannot come.",
+    "uk": "На жаль, я не зможу прийти.",
+    "es": "Lo siento, no puedo ir.",
+    "de": "Leider kann ich nicht kommen.",
+    "example": {
+      "en": "Thank you, but I am afraid I cannot come tomorrow.",
+      "uk": "Дякую, але, на жаль, завтра я не зможу прийти.",
+      "es": "Gracias, pero lo siento, mañana no puedo ir.",
+      "de": "Danke, aber leider kann ich morgen nicht kommen."
+    },
+    "level": "A2",
+    "sense": "I am afraid I cannot come.",
+    "grammar": {
+      "part_of_speech": "phrase"
+    },
+    "topic": "relationships",
+    "options": {
+      "uk": [
+        "Можна це приміряти?",
+        "На жаль, я не зможу прийти.",
+        "У мене проблема з підключенням до інтернету.",
+        "Що б ви порадили?"
+      ],
+      "es": [
+        "¿Qué me recomienda?",
+        "¿Puedo probármelo?",
+        "Lo siento, no puedo ir.",
+        "Tengo un problema con la conexión a internet."
+      ],
+      "de": [
+        "Was würden Sie empfehlen?",
+        "Kann ich das anprobieren?",
+        "Leider kann ich nicht kommen.",
+        "Ich habe ein Problem mit der Internetverbindung."
+      ]
+    }
+  }
+]

@@ -1,0 +1,1019 @@
+{
+  "schema_version": 1,
+  "records": [
+    {
+      "id": "uk-poem-a1-001",
+      "canonical_id": "uk-poem-a1-001",
+      "source_language": "uk",
+      "original_language": "uk",
+      "level": "A1",
+      "curriculum_levels": {
+        "uk": [
+          "A1"
+        ]
+      },
+      "kind": "poem",
+      "sense": "project original poem uk A1 1",
+      "text": "Ранок світлий.\nЧай на столі.\nЯ відчиняю вікно.\nДень починається.",
+      "translations": {
+        "en": {
+          "text": "The morning is bright.\nTea is on the table.\nI open the window.\nThe day begins.",
+          "review_status": "reviewed"
+        },
+        "es": {
+          "text": "La mañana es luminosa.\nHay té en la mesa.\nAbro la ventana.\nEmpieza el día.",
+          "review_status": "reviewed"
+        },
+        "de": {
+          "text": "Der Morgen ist hell.\nTee steht auf dem Tisch.\nIch öffne das Fenster.\nDer Tag beginnt.",
+          "review_status": "reviewed"
+        }
+      },
+      "example": {},
+      "review_status": "reviewed",
+      "grammar": {},
+      "author": "AI-generated for Spanish by Serhii",
+      "rights_status": "project_original",
+      "rights_evidence": {
+        "origin": "generated_in_session",
+        "external_source_used": false,
+        "authorship_notice": "New AI-generated project text; not attributed to Serhii or a third-party poet"
+      },
+      "review_evidence": {
+        "method": "Assistant editorial review of original and three translations; level assessed for original only",
+        "independent_human_review": false
+      }
+    },
+    {
+      "id": "uk-poem-a1-002",
+      "canonical_id": "uk-poem-a1-002",
+      "source_language": "uk",
+      "original_language": "uk",
+      "level": "A1",
+      "curriculum_levels": {
+        "uk": [
+          "A1"
+        ]
+      },
+      "kind": "poem",
+      "sense": "project original poem uk A1 2",
+      "text": "Мій дім невеликий.\nНа столі лежить книжка.\nМи з другом п’ємо чай.\nМені добре тут.",
+      "translations": {
+        "en": {
+          "text": "My home is small.\nThere is a book on the table.\nA friend and I drink tea.\nI feel good here.",
+          "review_status": "reviewed"
+        },
+        "es": {
+          "text": "Mi casa es pequeña.\nHay un libro en la mesa.\nUn amigo y yo tomamos té.\nMe siento bien aquí.",
+          "review_status": "reviewed"
+        },
+        "de": {
+          "text": "Mein Zuhause ist klein.\nAuf dem Tisch liegt ein Buch.\nEin Freund und ich trinken Tee.\nHier fühle ich mich wohl.",
+          "review_status": "reviewed"
+        }
+      },
+      "example": {},
+      "review_status": "reviewed",
+      "grammar": {},
+      "author": "AI-generated for Spanish by Serhii",
+      "rights_status": "project_original",
+      "rights_evidence": {
+        "origin": "generated_in_session",
+        "external_source_used": false,
+        "authorship_notice": "New AI-generated project text; not attributed to Serhii or a third-party poet"
+      },
+      "review_evidence": {
+        "method": "Assistant editorial review of original and three translations; level assessed for original only",
+        "independent_human_review": false
+      }
+    },
+    {
+      "id": "uk-poem-a2-001",
+      "canonical_id": "uk-poem-a2-001",
+      "source_language": "uk",
+      "original_language": "uk",
+      "level": "A2",
+      "curriculum_levels": {
+        "uk": [
+          "A2"
+        ]
+      },
+      "kind": "poem",
+      "sense": "project original poem uk A2 1",
+      "text": "Учора дощ ішов до ночі,\nі ми лишилися удома.\nСьогодні сонце кличе в парк —\nвізьмімо чай і підемо разом.",
+      "translations": {
+        "en": {
+          "text": "Yesterday it rained until nightfall,\nand we stayed at home.\nToday the sun is calling us to the park —\nlet us take some tea and go together.",
+          "review_status": "reviewed"
+        },
+        "es": {
+          "text": "Ayer llovió hasta la noche\ny nos quedamos en casa.\nHoy el sol nos llama al parque:\nllevemos té y vayamos juntos.",
+          "review_status": "reviewed"
+        },
+        "de": {
+          "text": "Gestern hat es bis in die Nacht geregnet,\nund wir sind zu Hause geblieben.\nHeute ruft uns die Sonne in den Park —\nnehmen wir Tee mit und gehen wir zusammen.",
+          "review_status": "reviewed"
+        }
+      },
+      "example": {},
+      "review_status": "reviewed",
+      "grammar": {},
+      "author": "AI-generated for Spanish by Serhii",
+      "rights_status": "project_original",
+      "rights_evidence": {
+        "origin": "generated_in_session",
+        "external_source_used": false,
+        "authorship_notice": "New AI-generated project text; not attributed to Serhii or a third-party poet"
+      },
+      "review_evidence": {
+        "method": "Assistant editorial review of original and three translations; level assessed for original only",
+        "independent_human_review": false
+      }
+    },
+    {
+      "id": "uk-poem-a2-002",
+      "canonical_id": "uk-poem-a2-002",
+      "source_language": "uk",
+      "original_language": "uk",
+      "level": "A2",
+      "curriculum_levels": {
+        "uk": [
+          "A2"
+        ]
+      },
+      "kind": "poem",
+      "sense": "project original poem uk A2 2",
+      "text": "Я довго їхав у нове місто,\nшукав будинок і свою зупинку.\nТепер вітаю сусіда щоранку\nі знаю шлях до тихого скверу.",
+      "translations": {
+        "en": {
+          "text": "I travelled a long way to a new city,\nlooked for the building and my stop.\nNow I greet my neighbour every morning\nand know the way to a quiet little park.",
+          "review_status": "reviewed"
+        },
+        "es": {
+          "text": "Viajé mucho para llegar a una ciudad nueva,\nbusqué el edificio y mi parada.\nAhora saludo a mi vecino cada mañana\ny conozco el camino a un parque tranquilo.",
+          "review_status": "reviewed"
+        },
+        "de": {
+          "text": "Ich bin lange in eine neue Stadt gefahren,\nhabe das Haus und meine Haltestelle gesucht.\nJetzt grüße ich jeden Morgen meinen Nachbarn\nund kenne den Weg zu einem ruhigen kleinen Park.",
+          "review_status": "reviewed"
+        }
+      },
+      "example": {},
+      "review_status": "reviewed",
+      "grammar": {},
+      "author": "AI-generated for Spanish by Serhii",
+      "rights_status": "project_original",
+      "rights_evidence": {
+        "origin": "generated_in_session",
+        "external_source_used": false,
+        "authorship_notice": "New AI-generated project text; not attributed to Serhii or a third-party poet"
+      },
+      "review_evidence": {
+        "method": "Assistant editorial review of original and three translations; level assessed for original only",
+        "independent_human_review": false
+      }
+    },
+    {
+      "id": "uk-poem-b1-001",
+      "canonical_id": "uk-poem-b1-001",
+      "source_language": "uk",
+      "original_language": "uk",
+      "level": "B1",
+      "curriculum_levels": {
+        "uk": [
+          "B1"
+        ]
+      },
+      "kind": "poem",
+      "sense": "project original poem uk B1 1",
+      "text": "Не кожен шлях одразу зрозумілий.\nБуває, крок назад дає нам час.\nЯ вчуся не ховатися від сумнівів,\nа ставити питання ще хоч раз.",
+      "translations": {
+        "en": {
+          "text": "Not every path is clear at once.\nSometimes a step back gives us time.\nI am learning not to hide from doubts,\nbut to ask questions once again.",
+          "review_status": "reviewed"
+        },
+        "es": {
+          "text": "No todos los caminos se entienden al principio.\nA veces un paso atrás nos da tiempo.\nAprendo a no esconderme de las dudas,\nsino a volver a hacer preguntas.",
+          "review_status": "reviewed"
+        },
+        "de": {
+          "text": "Nicht jeder Weg ist sofort klar.\nManchmal gibt uns ein Schritt zurück Zeit.\nIch lerne, mich nicht vor Zweifeln zu verstecken,\nsondern noch einmal Fragen zu stellen.",
+          "review_status": "reviewed"
+        }
+      },
+      "example": {},
+      "review_status": "reviewed",
+      "grammar": {},
+      "author": "AI-generated for Spanish by Serhii",
+      "rights_status": "project_original",
+      "rights_evidence": {
+        "origin": "generated_in_session",
+        "external_source_used": false,
+        "authorship_notice": "New AI-generated project text; not attributed to Serhii or a third-party poet"
+      },
+      "review_evidence": {
+        "method": "Assistant editorial review of original and three translations; level assessed for original only",
+        "independent_human_review": false
+      }
+    },
+    {
+      "id": "uk-poem-b1-002",
+      "canonical_id": "uk-poem-b1-002",
+      "source_language": "uk",
+      "original_language": "uk",
+      "level": "B1",
+      "curriculum_levels": {
+        "uk": [
+          "B1"
+        ]
+      },
+      "kind": "poem",
+      "sense": "project original poem uk B1 2",
+      "text": "Коли розмова стала надто гострою,\nми зупинились, щоб почути тишу.\nНе все змінилося за мить, та вперше\nя знайшов для чужої історії місце у своїй.",
+      "translations": {
+        "en": {
+          "text": "When the conversation became too heated,\nwe stopped to listen to the silence.\nNot everything changed in a moment, but for the first time\nI made room for another person’s story in my own.",
+          "review_status": "reviewed"
+        },
+        "es": {
+          "text": "Cuando la conversación se volvió demasiado tensa,\nnos detuvimos para escuchar el silencio.\nNo todo cambió en un instante, pero por primera vez\nhice sitio a la historia de otra persona en la mía.",
+          "review_status": "reviewed"
+        },
+        "de": {
+          "text": "Als das Gespräch zu hitzig wurde,\nhielten wir inne, um die Stille zu hören.\nNicht alles änderte sich in einem Augenblick, doch zum ersten Mal\ngab ich der Geschichte eines anderen Menschen Raum in meiner eigenen.",
+          "review_status": "reviewed"
+        }
+      },
+      "example": {},
+      "review_status": "reviewed",
+      "grammar": {},
+      "author": "AI-generated for Spanish by Serhii",
+      "rights_status": "project_original",
+      "rights_evidence": {
+        "origin": "generated_in_session",
+        "external_source_used": false,
+        "authorship_notice": "New AI-generated project text; not attributed to Serhii or a third-party poet"
+      },
+      "review_evidence": {
+        "method": "Assistant editorial review of original and three translations; level assessed for original only",
+        "independent_human_review": false
+      }
+    },
+    {
+      "id": "en-poem-a1-001",
+      "canonical_id": "en-poem-a1-001",
+      "source_language": "en",
+      "original_language": "en",
+      "level": "A1",
+      "curriculum_levels": {
+        "en": [
+          "A1"
+        ]
+      },
+      "kind": "poem",
+      "sense": "project original poem en A1 1",
+      "text": "A blue cup,\nan open door.\nWe say hello\nand sit on the floor.",
+      "translations": {
+        "uk": {
+          "text": "Синя чашка,\nвідчинені двері.\nМи говоримо «привіт»\nі сідаємо на підлогу.",
+          "review_status": "reviewed"
+        },
+        "es": {
+          "text": "Una taza azul,\nuna puerta abierta.\nNos saludamos\ny nos sentamos en el suelo.",
+          "review_status": "reviewed"
+        },
+        "de": {
+          "text": "Eine blaue Tasse,\neine offene Tür.\nWir sagen Hallo\nund setzen uns auf den Boden.",
+          "review_status": "reviewed"
+        }
+      },
+      "example": {},
+      "review_status": "reviewed",
+      "grammar": {},
+      "author": "AI-generated for Spanish by Serhii",
+      "rights_status": "project_original",
+      "rights_evidence": {
+        "origin": "generated_in_session",
+        "external_source_used": false,
+        "authorship_notice": "New AI-generated project text; not attributed to Serhii or a third-party poet"
+      },
+      "review_evidence": {
+        "method": "Assistant editorial review of original and three translations; level assessed for original only",
+        "independent_human_review": false
+      }
+    },
+    {
+      "id": "en-poem-a1-002",
+      "canonical_id": "en-poem-a1-002",
+      "source_language": "en",
+      "original_language": "en",
+      "level": "A1",
+      "curriculum_levels": {
+        "en": [
+          "A1"
+        ]
+      },
+      "kind": "poem",
+      "sense": "project original poem en A1 2",
+      "text": "There is a tree in the park.\nI have a book.\nYou sit next to me.\nWe look at the sky.",
+      "translations": {
+        "uk": {
+          "text": "У парку є дерево.\nУ мене є книжка.\nТи сидиш поруч зі мною.\nМи дивимося на небо.",
+          "review_status": "reviewed"
+        },
+        "es": {
+          "text": "Hay un árbol en el parque.\nTengo un libro.\nTe sientas a mi lado.\nMiramos el cielo.",
+          "review_status": "reviewed"
+        },
+        "de": {
+          "text": "Im Park steht ein Baum.\nIch habe ein Buch.\nDu sitzt neben mir.\nWir schauen in den Himmel.",
+          "review_status": "reviewed"
+        }
+      },
+      "example": {},
+      "review_status": "reviewed",
+      "grammar": {},
+      "author": "AI-generated for Spanish by Serhii",
+      "rights_status": "project_original",
+      "rights_evidence": {
+        "origin": "generated_in_session",
+        "external_source_used": false,
+        "authorship_notice": "New AI-generated project text; not attributed to Serhii or a third-party poet"
+      },
+      "review_evidence": {
+        "method": "Assistant editorial review of original and three translations; level assessed for original only",
+        "independent_human_review": false
+      }
+    },
+    {
+      "id": "en-poem-a2-001",
+      "canonical_id": "en-poem-a2-001",
+      "source_language": "en",
+      "original_language": "en",
+      "level": "A2",
+      "curriculum_levels": {
+        "en": [
+          "A2"
+        ]
+      },
+      "kind": "poem",
+      "sense": "project original poem en A2 1",
+      "text": "Last week I missed my train\nand thought my day was spoiled.\nA friend shared her lunch with me\nwhile we waited in the sun.",
+      "translations": {
+        "uk": {
+          "text": "Минулого тижня я не встиг на потяг\nі подумав, що мій день зіпсовано.\nПодруга поділилася зі мною обідом,\nпоки ми чекали під сонцем.",
+          "review_status": "reviewed"
+        },
+        "es": {
+          "text": "La semana pasada perdí el tren\ny pensé que el día se había estropeado.\nUna amiga compartió su comida conmigo\nmientras esperábamos al sol.",
+          "review_status": "reviewed"
+        },
+        "de": {
+          "text": "Letzte Woche habe ich meinen Zug verpasst\nund dachte, mein Tag sei verdorben.\nEine Freundin teilte ihr Mittagessen mit mir,\nwährend wir in der Sonne warteten.",
+          "review_status": "reviewed"
+        }
+      },
+      "example": {},
+      "review_status": "reviewed",
+      "grammar": {},
+      "author": "AI-generated for Spanish by Serhii",
+      "rights_status": "project_original",
+      "rights_evidence": {
+        "origin": "generated_in_session",
+        "external_source_used": false,
+        "authorship_notice": "New AI-generated project text; not attributed to Serhii or a third-party poet"
+      },
+      "review_evidence": {
+        "method": "Assistant editorial review of original and three translations; level assessed for original only",
+        "independent_human_review": false
+      }
+    },
+    {
+      "id": "en-poem-a2-002",
+      "canonical_id": "en-poem-a2-002",
+      "source_language": "en",
+      "original_language": "en",
+      "level": "A2",
+      "curriculum_levels": {
+        "en": [
+          "A2"
+        ]
+      },
+      "kind": "poem",
+      "sense": "project original poem en A2 2",
+      "text": "On Saturday we will make some soup\nand invite our new neighbours.\nI will set the table by the window\nand ask what they like to cook.",
+      "translations": {
+        "uk": {
+          "text": "У суботу ми приготуємо суп\nі запросимо нових сусідів.\nЯ накрию на стіл біля вікна\nта спитаю, що вони люблять готувати.",
+          "review_status": "reviewed"
+        },
+        "es": {
+          "text": "El sábado prepararemos sopa\ne invitaremos a nuestros nuevos vecinos.\nPondré la mesa junto a la ventana\ny les preguntaré qué les gusta cocinar.",
+          "review_status": "reviewed"
+        },
+        "de": {
+          "text": "Am Samstag kochen wir Suppe\nund laden unsere neuen Nachbarn ein.\nIch decke den Tisch am Fenster\nund frage, was sie gern kochen.",
+          "review_status": "reviewed"
+        }
+      },
+      "example": {},
+      "review_status": "reviewed",
+      "grammar": {},
+      "author": "AI-generated for Spanish by Serhii",
+      "rights_status": "project_original",
+      "rights_evidence": {
+        "origin": "generated_in_session",
+        "external_source_used": false,
+        "authorship_notice": "New AI-generated project text; not attributed to Serhii or a third-party poet"
+      },
+      "review_evidence": {
+        "method": "Assistant editorial review of original and three translations; level assessed for original only",
+        "independent_human_review": false
+      }
+    },
+    {
+      "id": "en-poem-b1-001",
+      "canonical_id": "en-poem-b1-001",
+      "source_language": "en",
+      "original_language": "en",
+      "level": "B1",
+      "curriculum_levels": {
+        "en": [
+          "B1"
+        ]
+      },
+      "kind": "poem",
+      "sense": "project original poem en B1 1",
+      "text": "I used to measure progress by speed,\ncounting each step and wanting more.\nNow I notice questions\nwhere I once saw only a wall.",
+      "translations": {
+        "uk": {
+          "text": "Колись я міряв поступ швидкістю,\nрахував кожен крок і прагнув більшого.\nТепер я помічаю запитання\nтам, де раніше бачив лише стіну.",
+          "review_status": "reviewed"
+        },
+        "es": {
+          "text": "Antes medía el progreso por la velocidad,\ncontaba cada paso y quería más.\nAhora descubro preguntas\ndonde antes solo veía un muro.",
+          "review_status": "reviewed"
+        },
+        "de": {
+          "text": "Früher habe ich Fortschritt an der Geschwindigkeit gemessen,\njeden Schritt gezählt und mehr gewollt.\nJetzt entdecke ich Fragen,\nwo ich früher nur eine Wand sah.",
+          "review_status": "reviewed"
+        }
+      },
+      "example": {},
+      "review_status": "reviewed",
+      "grammar": {},
+      "author": "AI-generated for Spanish by Serhii",
+      "rights_status": "project_original",
+      "rights_evidence": {
+        "origin": "generated_in_session",
+        "external_source_used": false,
+        "authorship_notice": "New AI-generated project text; not attributed to Serhii or a third-party poet"
+      },
+      "review_evidence": {
+        "method": "Assistant editorial review of original and three translations; level assessed for original only",
+        "independent_human_review": false
+      }
+    },
+    {
+      "id": "en-poem-b1-002",
+      "canonical_id": "en-poem-b1-002",
+      "source_language": "en",
+      "original_language": "en",
+      "level": "B1",
+      "curriculum_levels": {
+        "en": [
+          "B1"
+        ]
+      },
+      "kind": "poem",
+      "sense": "project original poem en B1 2",
+      "text": "We disagreed about how the town should change.\nI wanted trees; you needed space.\nWe walked the same street once again\nand found a plan that neither of us had expected.",
+      "translations": {
+        "uk": {
+          "text": "Ми не погоджувалися, як має змінитися місто.\nЯ хотів дерев; тобі потрібен був простір.\nМи знову пройшли тією самою вулицею\nі знайшли план, на який жоден із нас не сподівався.",
+          "review_status": "reviewed"
+        },
+        "es": {
+          "text": "No estábamos de acuerdo sobre cómo debía cambiar la ciudad.\nYo quería árboles; tú necesitabas espacio.\nRecorrimos la misma calle una vez más\ny encontramos un plan que ninguno de los dos esperaba.",
+          "review_status": "reviewed"
+        },
+        "de": {
+          "text": "Wir waren uns nicht einig, wie sich die Stadt verändern sollte.\nIch wollte Bäume; du brauchtest Platz.\nWir gingen dieselbe Straße noch einmal entlang\nund fanden einen Plan, den keiner von uns erwartet hatte.",
+          "review_status": "reviewed"
+        }
+      },
+      "example": {},
+      "review_status": "reviewed",
+      "grammar": {},
+      "author": "AI-generated for Spanish by Serhii",
+      "rights_status": "project_original",
+      "rights_evidence": {
+        "origin": "generated_in_session",
+        "external_source_used": false,
+        "authorship_notice": "New AI-generated project text; not attributed to Serhii or a third-party poet"
+      },
+      "review_evidence": {
+        "method": "Assistant editorial review of original and three translations; level assessed for original only",
+        "independent_human_review": false
+      }
+    },
+    {
+      "id": "de-poem-a1-001",
+      "canonical_id": "de-poem-a1-001",
+      "source_language": "de",
+      "original_language": "de",
+      "level": "A1",
+      "curriculum_levels": {
+        "de": [
+          "A1"
+        ]
+      },
+      "kind": "poem",
+      "sense": "project original poem de A1 1",
+      "text": "Ich bin hier.\nDu bist auch hier.\nWir teilen das Brot.\nDer Himmel ist blau.",
+      "translations": {
+        "uk": {
+          "text": "Я тут.\nТи теж тут.\nМи ділимося хлібом.\nНебо синє.",
+          "review_status": "reviewed"
+        },
+        "en": {
+          "text": "I am here.\nYou are here too.\nWe share the bread.\nThe sky is blue.",
+          "review_status": "reviewed"
+        },
+        "es": {
+          "text": "Estoy aquí.\nTú también estás aquí.\nCompartimos el pan.\nEl cielo es azul.",
+          "review_status": "reviewed"
+        }
+      },
+      "example": {},
+      "review_status": "reviewed",
+      "grammar": {},
+      "author": "AI-generated for Spanish by Serhii",
+      "rights_status": "project_original",
+      "rights_evidence": {
+        "origin": "generated_in_session",
+        "external_source_used": false,
+        "authorship_notice": "New AI-generated project text; not attributed to Serhii or a third-party poet"
+      },
+      "review_evidence": {
+        "method": "Assistant editorial review of original and three translations; level assessed for original only",
+        "independent_human_review": false
+      }
+    },
+    {
+      "id": "de-poem-a1-002",
+      "canonical_id": "de-poem-a1-002",
+      "source_language": "de",
+      "original_language": "de",
+      "level": "A1",
+      "curriculum_levels": {
+        "de": [
+          "A1"
+        ]
+      },
+      "kind": "poem",
+      "sense": "project original poem de A1 2",
+      "text": "Der Hund schläft.\nDie Uhr läuft.\nIch nehme meine Jacke.\nKomm, wir gehen hinaus.",
+      "translations": {
+        "uk": {
+          "text": "Собака спить.\nГодинник іде.\nЯ беру свою куртку.\nХодімо надвір.",
+          "review_status": "reviewed"
+        },
+        "en": {
+          "text": "The dog is asleep.\nThe clock is ticking.\nI take my jacket.\nLet us go outside.",
+          "review_status": "reviewed"
+        },
+        "es": {
+          "text": "El perro duerme.\nEl reloj sigue en marcha.\nCojo mi chaqueta.\nSalgamos fuera.",
+          "review_status": "reviewed"
+        }
+      },
+      "example": {},
+      "review_status": "reviewed",
+      "grammar": {},
+      "author": "AI-generated for Spanish by Serhii",
+      "rights_status": "project_original",
+      "rights_evidence": {
+        "origin": "generated_in_session",
+        "external_source_used": false,
+        "authorship_notice": "New AI-generated project text; not attributed to Serhii or a third-party poet"
+      },
+      "review_evidence": {
+        "method": "Assistant editorial review of original and three translations; level assessed for original only",
+        "independent_human_review": false
+      }
+    },
+    {
+      "id": "de-poem-a2-001",
+      "canonical_id": "de-poem-a2-001",
+      "source_language": "de",
+      "original_language": "de",
+      "level": "A2",
+      "curriculum_levels": {
+        "de": [
+          "A2"
+        ]
+      },
+      "kind": "poem",
+      "sense": "project original poem de A2 1",
+      "text": "Gestern habe ich meinen Schlüssel vergessen\nund vor der Tür gewartet.\nEine Nachbarin hat mir Tee gebracht\nund mit mir gesprochen.",
+      "translations": {
+        "uk": {
+          "text": "Учора я забув свій ключ\nі чекав перед дверима.\nСусідка принесла мені чай\nй поговорила зі мною.",
+          "review_status": "reviewed"
+        },
+        "en": {
+          "text": "Yesterday I forgot my key\nand waited outside the door.\nA neighbour brought me tea\nand talked to me.",
+          "review_status": "reviewed"
+        },
+        "es": {
+          "text": "Ayer olvidé mi llave\ny esperé delante de la puerta.\nUna vecina me trajo té\ny habló conmigo.",
+          "review_status": "reviewed"
+        }
+      },
+      "example": {},
+      "review_status": "reviewed",
+      "grammar": {},
+      "author": "AI-generated for Spanish by Serhii",
+      "rights_status": "project_original",
+      "rights_evidence": {
+        "origin": "generated_in_session",
+        "external_source_used": false,
+        "authorship_notice": "New AI-generated project text; not attributed to Serhii or a third-party poet"
+      },
+      "review_evidence": {
+        "method": "Assistant editorial review of original and three translations; level assessed for original only",
+        "independent_human_review": false
+      }
+    },
+    {
+      "id": "de-poem-a2-002",
+      "canonical_id": "de-poem-a2-002",
+      "source_language": "de",
+      "original_language": "de",
+      "level": "A2",
+      "curriculum_levels": {
+        "de": [
+          "A2"
+        ]
+      },
+      "kind": "poem",
+      "sense": "project original poem de A2 2",
+      "text": "Heute Abend rufe ich dich an.\nWir planen unseren Tag am See.\nDu bringst Äpfel, ich nehme Brot mit.\nDann gehen wir zu Fuß los.",
+      "translations": {
+        "uk": {
+          "text": "Цього вечора я подзвоню тобі.\nМи сплануємо наш день біля озера.\nТи принесеш яблука, я візьму хліб.\nПотім підемо пішки.",
+          "review_status": "reviewed"
+        },
+        "en": {
+          "text": "I will call you this evening.\nWe will plan our day at the lake.\nYou will bring apples; I will take bread.\nThen we will set off on foot.",
+          "review_status": "reviewed"
+        },
+        "es": {
+          "text": "Esta tarde te llamaré.\nPlanearemos nuestro día en el lago.\nTú traerás manzanas; yo llevaré pan.\nDespués saldremos a pie.",
+          "review_status": "reviewed"
+        }
+      },
+      "example": {},
+      "review_status": "reviewed",
+      "grammar": {},
+      "author": "AI-generated for Spanish by Serhii",
+      "rights_status": "project_original",
+      "rights_evidence": {
+        "origin": "generated_in_session",
+        "external_source_used": false,
+        "authorship_notice": "New AI-generated project text; not attributed to Serhii or a third-party poet"
+      },
+      "review_evidence": {
+        "method": "Assistant editorial review of original and three translations; level assessed for original only",
+        "independent_human_review": false
+      }
+    },
+    {
+      "id": "de-poem-b1-001",
+      "canonical_id": "de-poem-b1-001",
+      "source_language": "de",
+      "original_language": "de",
+      "level": "B1",
+      "curriculum_levels": {
+        "de": [
+          "B1"
+        ]
+      },
+      "kind": "poem",
+      "sense": "project original poem de B1 1",
+      "text": "Ich wollte alles richtig machen\nund habe deshalb lange geschwiegen.\nHeute stelle ich eine Frage.\nSo beginnt das Gespräch von Neuem.",
+      "translations": {
+        "uk": {
+          "text": "Я хотів зробити все правильно\nй тому довго мовчав.\nСьогодні я ставлю запитання.\nТак розмова починається знову.",
+          "review_status": "reviewed"
+        },
+        "en": {
+          "text": "I wanted to get everything right\nand so I kept quiet for a long time.\nToday I ask a question.\nThat is how the conversation starts again.",
+          "review_status": "reviewed"
+        },
+        "es": {
+          "text": "Quería hacerlo todo bien\ny por eso guardé silencio durante mucho tiempo.\nHoy hago una pregunta.\nAsí vuelve a empezar la conversación.",
+          "review_status": "reviewed"
+        }
+      },
+      "example": {},
+      "review_status": "reviewed",
+      "grammar": {},
+      "author": "AI-generated for Spanish by Serhii",
+      "rights_status": "project_original",
+      "rights_evidence": {
+        "origin": "generated_in_session",
+        "external_source_used": false,
+        "authorship_notice": "New AI-generated project text; not attributed to Serhii or a third-party poet"
+      },
+      "review_evidence": {
+        "method": "Assistant editorial review of original and three translations; level assessed for original only",
+        "independent_human_review": false
+      }
+    },
+    {
+      "id": "de-poem-b1-002",
+      "canonical_id": "de-poem-b1-002",
+      "source_language": "de",
+      "original_language": "de",
+      "level": "B1",
+      "curriculum_levels": {
+        "de": [
+          "B1"
+        ]
+      },
+      "kind": "poem",
+      "sense": "project original poem de B1 2",
+      "text": "Seit wir öfter zu Fuß gehen,\nkenne ich die kleinen Läden in unserer Straße.\nDer Weg ist nicht kürzer geworden,\ndoch unterwegs sehe ich jetzt mehr.",
+      "translations": {
+        "uk": {
+          "text": "Відтоді як ми стали частіше ходити пішки,\nя знаю крамнички на нашій вулиці.\nШлях не став коротшим,\nале тепер я більше помічаю дорогою.",
+          "review_status": "reviewed"
+        },
+        "en": {
+          "text": "Since we started walking more often,\nI have come to know the little shops on our street.\nThe route has not become shorter,\nbut now I notice more along the way.",
+          "review_status": "reviewed"
+        },
+        "es": {
+          "text": "Desde que caminamos más a menudo,\nconozco las pequeñas tiendas de nuestra calle.\nEl camino no se ha hecho más corto,\npero ahora veo más cosas a mi paso.",
+          "review_status": "reviewed"
+        }
+      },
+      "example": {},
+      "review_status": "reviewed",
+      "grammar": {},
+      "author": "AI-generated for Spanish by Serhii",
+      "rights_status": "project_original",
+      "rights_evidence": {
+        "origin": "generated_in_session",
+        "external_source_used": false,
+        "authorship_notice": "New AI-generated project text; not attributed to Serhii or a third-party poet"
+      },
+      "review_evidence": {
+        "method": "Assistant editorial review of original and three translations; level assessed for original only",
+        "independent_human_review": false
+      }
+    },
+    {
+      "id": "uk-caption-original-001",
+      "canonical_id": "uk-caption-original-001",
+      "source_language": "uk",
+      "level": null,
+      "curriculum_levels": {
+        "uk": []
+      },
+      "kind": "caption",
+      "sense": "project original caption uk 1",
+      "text": "Навіть коротка зупинка допомагає побачити більше.",
+      "translations": {
+        "en": {
+          "text": "Even a short pause helps us notice more.",
+          "review_status": "reviewed"
+        },
+        "es": {
+          "text": "Incluso una pausa breve nos ayuda a ver más.",
+          "review_status": "reviewed"
+        },
+        "de": {
+          "text": "Schon eine kurze Pause hilft uns, mehr zu sehen.",
+          "review_status": "reviewed"
+        }
+      },
+      "example": {},
+      "review_status": "reviewed",
+      "grammar": {},
+      "author": "AI-generated for Spanish by Serhii",
+      "rights_status": "project_original",
+      "rights_evidence": {
+        "origin": "generated_in_session",
+        "external_source_used": false,
+        "authorship_notice": "New AI-generated project text"
+      },
+      "review_evidence": {
+        "method": "Assistant editorial review; generic reflective caption, no landmark/factual claim",
+        "independent_human_review": false
+      }
+    },
+    {
+      "id": "uk-caption-original-002",
+      "canonical_id": "uk-caption-original-002",
+      "source_language": "uk",
+      "level": null,
+      "curriculum_levels": {
+        "uk": []
+      },
+      "kind": "caption",
+      "sense": "project original caption uk 2",
+      "text": "Новий погляд починається з уважності.",
+      "translations": {
+        "en": {
+          "text": "A fresh perspective begins with paying attention.",
+          "review_status": "reviewed"
+        },
+        "es": {
+          "text": "Una nueva perspectiva empieza por prestar atención.",
+          "review_status": "reviewed"
+        },
+        "de": {
+          "text": "Ein neuer Blick beginnt mit Aufmerksamkeit.",
+          "review_status": "reviewed"
+        }
+      },
+      "example": {},
+      "review_status": "reviewed",
+      "grammar": {},
+      "author": "AI-generated for Spanish by Serhii",
+      "rights_status": "project_original",
+      "rights_evidence": {
+        "origin": "generated_in_session",
+        "external_source_used": false,
+        "authorship_notice": "New AI-generated project text"
+      },
+      "review_evidence": {
+        "method": "Assistant editorial review; generic reflective caption, no landmark/factual claim",
+        "independent_human_review": false
+      }
+    },
+    {
+      "id": "en-caption-original-001",
+      "canonical_id": "en-caption-original-001",
+      "source_language": "en",
+      "level": null,
+      "curriculum_levels": {
+        "en": []
+      },
+      "kind": "caption",
+      "sense": "project original caption en 1",
+      "text": "Leave room for curiosity today.",
+      "translations": {
+        "uk": {
+          "text": "Залиш сьогодні місце для цікавості.",
+          "review_status": "reviewed"
+        },
+        "es": {
+          "text": "Deja espacio para la curiosidad hoy.",
+          "review_status": "reviewed"
+        },
+        "de": {
+          "text": "Lass heute Raum für Neugier.",
+          "review_status": "reviewed"
+        }
+      },
+      "example": {},
+      "review_status": "reviewed",
+      "grammar": {},
+      "author": "AI-generated for Spanish by Serhii",
+      "rights_status": "project_original",
+      "rights_evidence": {
+        "origin": "generated_in_session",
+        "external_source_used": false,
+        "authorship_notice": "New AI-generated project text"
+      },
+      "review_evidence": {
+        "method": "Assistant editorial review; generic reflective caption, no landmark/factual claim",
+        "independent_human_review": false
+      }
+    },
+    {
+      "id": "en-caption-original-002",
+      "canonical_id": "en-caption-original-002",
+      "source_language": "en",
+      "level": null,
+      "curriculum_levels": {
+        "en": []
+      },
+      "kind": "caption",
+      "sense": "project original caption en 2",
+      "text": "Take your time to notice the small details.",
+      "translations": {
+        "uk": {
+          "text": "Знайди час, щоб помітити дрібні деталі.",
+          "review_status": "reviewed"
+        },
+        "es": {
+          "text": "Tómate tu tiempo para fijarte en los pequeños detalles.",
+          "review_status": "reviewed"
+        },
+        "de": {
+          "text": "Nimm dir Zeit, die kleinen Details zu bemerken.",
+          "review_status": "reviewed"
+        }
+      },
+      "example": {},
+      "review_status": "reviewed",
+      "grammar": {},
+      "author": "AI-generated for Spanish by Serhii",
+      "rights_status": "project_original",
+      "rights_evidence": {
+        "origin": "generated_in_session",
+        "external_source_used": false,
+        "authorship_notice": "New AI-generated project text"
+      },
+      "review_evidence": {
+        "method": "Assistant editorial review; generic reflective caption, no landmark/factual claim",
+        "independent_human_review": false
+      }
+    },
+    {
+      "id": "de-caption-original-001",
+      "canonical_id": "de-caption-original-001",
+      "source_language": "de",
+      "level": null,
+      "curriculum_levels": {
+        "de": []
+      },
+      "kind": "caption",
+      "sense": "project original caption de 1",
+      "text": "Manchmal reicht ein stiller Moment.",
+      "translations": {
+        "uk": {
+          "text": "Іноді достатньо однієї миті тиші.",
+          "review_status": "reviewed"
+        },
+        "en": {
+          "text": "Sometimes a quiet moment is enough.",
+          "review_status": "reviewed"
+        },
+        "es": {
+          "text": "A veces basta un momento de calma.",
+          "review_status": "reviewed"
+        }
+      },
+      "example": {},
+      "review_status": "reviewed",
+      "grammar": {},
+      "author": "AI-generated for Spanish by Serhii",
+      "rights_status": "project_original",
+      "rights_evidence": {
+        "origin": "generated_in_session",
+        "external_source_used": false,
+        "authorship_notice": "New AI-generated project text"
+      },
+      "review_evidence": {
+        "method": "Assistant editorial review; generic reflective caption, no landmark/factual claim",
+        "independent_human_review": false
+      }
+    },
+    {
+      "id": "de-caption-original-002",
+      "canonical_id": "de-caption-original-002",
+      "source_language": "de",
+      "level": null,
+      "curriculum_levels": {
+        "de": []
+      },
+      "kind": "caption",
+      "sense": "project original caption de 2",
+      "text": "Mit jedem Schritt entdecken wir etwas Neues.",
+      "translations": {
+        "uk": {
+          "text": "З кожним кроком ми відкриваємо щось нове.",
+          "review_status": "reviewed"
+        },
+        "en": {
+          "text": "With every step we discover something new.",
+          "review_status": "reviewed"
+        },
+        "es": {
+          "text": "Con cada paso descubrimos algo nuevo.",
+          "review_status": "reviewed"
+        }
+      },
+      "example": {},
+      "review_status": "reviewed",
+      "grammar": {},
+      "author": "AI-generated for Spanish by Serhii",
+      "rights_status": "project_original",
+      "rights_evidence": {
+        "origin": "generated_in_session",
+        "external_source_used": false,
+        "authorship_notice": "New AI-generated project text"
+      },
+      "review_evidence": {
+        "method": "Assistant editorial review; generic reflective caption, no landmark/factual claim",
+        "independent_human_review": false
+      }
+    }
+  ]
+}

@@ -1,4 +1,4 @@
-"""Future content contract; levels/review belong to the original learning language.
+"""Shared content contract; levels/review belong to the original learning language.
 Stage three imports existing material with evidence instead of blindly reversing translations.
 """
 LANGUAGES={'uk','en','es','de'}
@@ -21,7 +21,11 @@ def validate_material(record):
         if not grammar.get('article') or not (grammar.get('plural') or grammar.get('uncountable')):raise ValueError('German noun grammar required')
     if record['kind']=='poem':
         if record.get('original_language')!=record['source_language']:raise ValueError('Poem origin must not be relabelled')
-        if record.get('rights_status') not in {'unknown','licensed','public_domain','author_permission'}:raise ValueError('Rights status required')
+        if record.get('rights_status') not in {'unknown','licensed','public_domain','author_permission','project_original'}:raise ValueError('Rights status required')
+    if record.get('rights_status')=='project_original':
+        evidence=record.get('rights_evidence',{})
+        if evidence.get('origin')!='generated_in_session' or evidence.get('external_source_used') is not False or record.get('author')!='AI-generated for Spanish by Serhii':
+            raise ValueError('Project original authorship evidence required')
     return record
 
 def active_for(record,translation_language):

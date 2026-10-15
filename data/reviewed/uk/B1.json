@@ -1,0 +1,858 @@
+[
+  {
+    "id": "uk-b1-foundation-001",
+    "canonical_id": "uk-b1-foundation-001",
+    "source_language": "uk",
+    "text": "відповідальність",
+    "uk": "відповідальність",
+    "en": "responsibility",
+    "es": "la responsabilidad",
+    "de": "die Verantwortung",
+    "example": {
+      "uk": "На новій посаді в мене більше відповідальності.",
+      "en": "I have more responsibility in my new position.",
+      "es": "En mi nuevo puesto tengo más responsabilidad.",
+      "de": "In meiner neuen Position habe ich mehr Verantwortung."
+    },
+    "level": "B1",
+    "sense": "responsibility",
+    "grammar": {
+      "part_of_speech": "noun"
+    },
+    "topic": "work",
+    "options": {
+      "en": [
+        "responsibility",
+        "a misunderstanding",
+        "work experience",
+        "an expectation"
+      ],
+      "es": [
+        "la experiencia laboral",
+        "un malentendido",
+        "la responsabilidad",
+        "una expectativa"
+      ],
+      "de": [
+        "die Erwartung",
+        "die Berufserfahrung",
+        "die Verantwortung",
+        "das Missverständnis"
+      ]
+    }
+  },
+  {
+    "id": "uk-b1-foundation-002",
+    "canonical_id": "uk-b1-foundation-002",
+    "source_language": "uk",
+    "text": "досвід роботи",
+    "uk": "досвід роботи",
+    "en": "work experience",
+    "es": "la experiencia laboral",
+    "de": "die Berufserfahrung",
+    "example": {
+      "uk": "Для цієї посади потрібен досвід роботи з клієнтами.",
+      "en": "This position requires experience of working with customers.",
+      "es": "Para este puesto se necesita experiencia en atención al cliente.",
+      "de": "Für diese Stelle braucht man Erfahrung im Umgang mit Kunden."
+    },
+    "level": "B1",
+    "sense": "work experience",
+    "grammar": {
+      "part_of_speech": "noun"
+    },
+    "topic": "work",
+    "options": {
+      "en": [
+        "responsibility",
+        "work experience",
+        "a misunderstanding",
+        "an expectation"
+      ],
+      "es": [
+        "una expectativa",
+        "un malentendido",
+        "la responsabilidad",
+        "la experiencia laboral"
+      ],
+      "de": [
+        "die Berufserfahrung",
+        "das Missverständnis",
+        "die Verantwortung",
+        "die Erwartung"
+      ]
+    }
+  },
+  {
+    "id": "uk-b1-foundation-003",
+    "canonical_id": "uk-b1-foundation-003",
+    "source_language": "uk",
+    "text": "непорозуміння",
+    "uk": "непорозуміння",
+    "en": "a misunderstanding",
+    "es": "un malentendido",
+    "de": "das Missverständnis",
+    "example": {
+      "uk": "Ми спокійно поговорили й з’ясували причину непорозуміння.",
+      "en": "We talked calmly and found out what had caused the misunderstanding.",
+      "es": "Hablamos con calma y aclaramos la causa del malentendido.",
+      "de": "Wir haben ruhig gesprochen und die Ursache des Missverständnisses geklärt."
+    },
+    "level": "B1",
+    "sense": "a misunderstanding",
+    "grammar": {
+      "part_of_speech": "noun"
+    },
+    "topic": "relationships",
+    "options": {
+      "en": [
+        "responsibility",
+        "work experience",
+        "an expectation",
+        "a misunderstanding"
+      ],
+      "es": [
+        "un malentendido",
+        "una expectativa",
+        "la responsabilidad",
+        "la experiencia laboral"
+      ],
+      "de": [
+        "die Verantwortung",
+        "das Missverständnis",
+        "die Berufserfahrung",
+        "die Erwartung"
+      ]
+    }
+  },
+  {
+    "id": "uk-b1-foundation-004",
+    "canonical_id": "uk-b1-foundation-004",
+    "source_language": "uk",
+    "text": "очікування",
+    "uk": "очікування",
+    "en": "an expectation",
+    "es": "una expectativa",
+    "de": "die Erwartung",
+    "example": {
+      "uk": "Мої очікування від цього курсу були реалістичними.",
+      "en": "My expectations of this course were realistic.",
+      "es": "Mis expectativas sobre este curso eran realistas.",
+      "de": "Meine Erwartungen an diesen Kurs waren realistisch."
+    },
+    "level": "B1",
+    "sense": "an expectation",
+    "grammar": {
+      "part_of_speech": "noun"
+    },
+    "topic": "education",
+    "options": {
+      "en": [
+        "work experience",
+        "an expectation",
+        "a misunderstanding",
+        "responsibility"
+      ],
+      "es": [
+        "la experiencia laboral",
+        "la responsabilidad",
+        "un malentendido",
+        "una expectativa"
+      ],
+      "de": [
+        "die Verantwortung",
+        "die Berufserfahrung",
+        "die Erwartung",
+        "das Missverständnis"
+      ]
+    }
+  },
+  {
+    "id": "uk-b1-foundation-005",
+    "canonical_id": "uk-b1-foundation-005",
+    "source_language": "uk",
+    "text": "довкілля",
+    "uk": "довкілля",
+    "en": "the environment",
+    "es": "el medio ambiente",
+    "de": "die Umwelt",
+    "example": {
+      "uk": "Ми користуємося громадським транспортом, щоб менше шкодити довкіллю.",
+      "en": "We use public transport to cause less harm to the environment.",
+      "es": "Utilizamos el transporte público para dañar menos el medio ambiente.",
+      "de": "Wir nutzen öffentliche Verkehrsmittel, um der Umwelt weniger zu schaden."
+    },
+    "level": "B1",
+    "sense": "the environment",
+    "grammar": {
+      "part_of_speech": "noun"
+    },
+    "topic": "environment",
+    "options": {
+      "en": [
+        "a compromise",
+        "an advantage",
+        "the environment",
+        "compensation"
+      ],
+      "es": [
+        "el medio ambiente",
+        "una indemnización",
+        "una ventaja",
+        "una solución de compromiso"
+      ],
+      "de": [
+        "die Entschädigung",
+        "der Kompromiss",
+        "die Umwelt",
+        "der Vorteil"
+      ]
+    }
+  },
+  {
+    "id": "uk-b1-foundation-006",
+    "canonical_id": "uk-b1-foundation-006",
+    "source_language": "uk",
+    "text": "компроміс",
+    "uk": "компроміс",
+    "en": "a compromise",
+    "es": "una solución de compromiso",
+    "de": "der Kompromiss",
+    "example": {
+      "uk": "Після довгої розмови ми знайшли компроміс.",
+      "en": "After a long discussion, we reached a compromise.",
+      "es": "Después de una larga conversación llegamos a una solución intermedia.",
+      "de": "Nach einem langen Gespräch haben wir einen Kompromiss gefunden."
+    },
+    "level": "B1",
+    "sense": "a compromise",
+    "grammar": {
+      "part_of_speech": "noun"
+    },
+    "topic": "relationships",
+    "options": {
+      "en": [
+        "a compromise",
+        "compensation",
+        "an advantage",
+        "the environment"
+      ],
+      "es": [
+        "una indemnización",
+        "el medio ambiente",
+        "una ventaja",
+        "una solución de compromiso"
+      ],
+      "de": [
+        "die Umwelt",
+        "der Kompromiss",
+        "die Entschädigung",
+        "der Vorteil"
+      ]
+    }
+  },
+  {
+    "id": "uk-b1-foundation-007",
+    "canonical_id": "uk-b1-foundation-007",
+    "source_language": "uk",
+    "text": "перевага",
+    "uk": "перевага",
+    "en": "an advantage",
+    "es": "una ventaja",
+    "de": "der Vorteil",
+    "example": {
+      "uk": "Головна перевага цієї квартири — її розташування.",
+      "en": "The main advantage of this flat is its location.",
+      "es": "La principal ventaja de este piso es su ubicación.",
+      "de": "Der größte Vorteil dieser Wohnung ist ihre Lage."
+    },
+    "level": "B1",
+    "sense": "an advantage",
+    "grammar": {
+      "part_of_speech": "noun"
+    },
+    "topic": "housing",
+    "options": {
+      "en": [
+        "compensation",
+        "an advantage",
+        "the environment",
+        "a compromise"
+      ],
+      "es": [
+        "una indemnización",
+        "una ventaja",
+        "una solución de compromiso",
+        "el medio ambiente"
+      ],
+      "de": [
+        "der Kompromiss",
+        "die Umwelt",
+        "der Vorteil",
+        "die Entschädigung"
+      ]
+    }
+  },
+  {
+    "id": "uk-b1-foundation-008",
+    "canonical_id": "uk-b1-foundation-008",
+    "source_language": "uk",
+    "text": "відшкодування",
+    "uk": "відшкодування",
+    "en": "compensation",
+    "es": "una indemnización",
+    "de": "die Entschädigung",
+    "example": {
+      "uk": "Через скасування рейсу пасажири попросили відшкодування.",
+      "en": "The passengers requested compensation because their flight was cancelled.",
+      "es": "Los pasajeros solicitaron una indemnización por la cancelación del vuelo.",
+      "de": "Wegen der Flugannullierung haben die Fluggäste eine Entschädigung beantragt."
+    },
+    "level": "B1",
+    "sense": "compensation",
+    "grammar": {
+      "part_of_speech": "noun"
+    },
+    "topic": "travel",
+    "options": {
+      "en": [
+        "a compromise",
+        "an advantage",
+        "the environment",
+        "compensation"
+      ],
+      "es": [
+        "el medio ambiente",
+        "una ventaja",
+        "una solución de compromiso",
+        "una indemnización"
+      ],
+      "de": [
+        "der Kompromiss",
+        "die Entschädigung",
+        "der Vorteil",
+        "die Umwelt"
+      ]
+    }
+  },
+  {
+    "id": "uk-b1-foundation-009",
+    "canonical_id": "uk-b1-foundation-009",
+    "source_language": "uk",
+    "text": "брати до уваги",
+    "uk": "брати до уваги",
+    "en": "to take into account",
+    "es": "tener en cuenta",
+    "de": "berücksichtigen",
+    "example": {
+      "uk": "Під час планування ми беремо до уваги потреби дітей.",
+      "en": "When making plans, we take the children's needs into account.",
+      "es": "Al hacer planes tenemos en cuenta las necesidades de los niños.",
+      "de": "Bei der Planung berücksichtigen wir die Bedürfnisse der Kinder."
+    },
+    "level": "B1",
+    "sense": "to take into account",
+    "grammar": {
+      "part_of_speech": "verb_phrase",
+      "usage": "брати до уваги кого/що",
+      "aspect": "imperfective"
+    },
+    "topic": "plans",
+    "options": {
+      "en": [
+        "to reach a conclusion",
+        "to defend one's opinion",
+        "to take into account",
+        "to adapt to"
+      ],
+      "es": [
+        "adaptarse a",
+        "defender la propia opinión",
+        "tener en cuenta",
+        "llegar a una conclusión"
+      ],
+      "de": [
+        "berücksichtigen",
+        "zu einem Schluss kommen",
+        "die eigene Meinung vertreten",
+        "sich anpassen an"
+      ]
+    }
+  },
+  {
+    "id": "uk-b1-foundation-010",
+    "canonical_id": "uk-b1-foundation-010",
+    "source_language": "uk",
+    "text": "дійти висновку",
+    "uk": "дійти висновку",
+    "en": "to reach a conclusion",
+    "es": "llegar a una conclusión",
+    "de": "zu einem Schluss kommen",
+    "example": {
+      "uk": "Після обговорення ми дійшли висновку, що план треба змінити.",
+      "en": "After the discussion, we reached the conclusion that the plan needed changing.",
+      "es": "Tras la conversación llegamos a la conclusión de que había que cambiar el plan.",
+      "de": "Nach der Diskussion sind wir zu dem Schluss gekommen, dass der Plan geändert werden muss."
+    },
+    "level": "B1",
+    "sense": "to reach a conclusion",
+    "grammar": {
+      "part_of_speech": "verb_phrase",
+      "usage": "дійти якого висновку; доконаний вид",
+      "aspect": "perfective"
+    },
+    "topic": "decisions",
+    "options": {
+      "en": [
+        "to take into account",
+        "to defend one's opinion",
+        "to adapt to",
+        "to reach a conclusion"
+      ],
+      "es": [
+        "adaptarse a",
+        "llegar a una conclusión",
+        "defender la propia opinión",
+        "tener en cuenta"
+      ],
+      "de": [
+        "zu einem Schluss kommen",
+        "berücksichtigen",
+        "die eigene Meinung vertreten",
+        "sich anpassen an"
+      ]
+    }
+  },
+  {
+    "id": "uk-b1-foundation-011",
+    "canonical_id": "uk-b1-foundation-011",
+    "source_language": "uk",
+    "text": "пристосовуватися до",
+    "uk": "пристосовуватися до",
+    "en": "to adapt to",
+    "es": "adaptarse a",
+    "de": "sich anpassen an",
+    "example": {
+      "uk": "Після переїзду я поступово пристосовуюся до нового ритму життя.",
+      "en": "After moving, I am gradually adapting to a new pace of life.",
+      "es": "Después de la mudanza me voy adaptando a un nuevo ritmo de vida.",
+      "de": "Nach dem Umzug passe ich mich allmählich an einen neuen Lebensrhythmus an."
+    },
+    "level": "B1",
+    "sense": "to adapt to",
+    "grammar": {
+      "part_of_speech": "verb_phrase",
+      "usage": "пристосовуватися до кого/чого",
+      "aspect": "imperfective"
+    },
+    "topic": "life",
+    "options": {
+      "en": [
+        "to adapt to",
+        "to defend one's opinion",
+        "to reach a conclusion",
+        "to take into account"
+      ],
+      "es": [
+        "defender la propia opinión",
+        "adaptarse a",
+        "llegar a una conclusión",
+        "tener en cuenta"
+      ],
+      "de": [
+        "sich anpassen an",
+        "die eigene Meinung vertreten",
+        "zu einem Schluss kommen",
+        "berücksichtigen"
+      ]
+    }
+  },
+  {
+    "id": "uk-b1-foundation-012",
+    "canonical_id": "uk-b1-foundation-012",
+    "source_language": "uk",
+    "text": "відстоювати свою думку",
+    "uk": "відстоювати свою думку",
+    "en": "to defend one's opinion",
+    "es": "defender la propia opinión",
+    "de": "die eigene Meinung vertreten",
+    "example": {
+      "uk": "Вона відстоює свою думку, але також слухає інших.",
+      "en": "She defends her opinion but also listens to others.",
+      "es": "Ella defiende su opinión, pero también escucha a los demás.",
+      "de": "Sie vertritt ihre eigene Meinung, hört aber auch anderen zu."
+    },
+    "level": "B1",
+    "sense": "to defend one's opinion",
+    "grammar": {
+      "part_of_speech": "verb_phrase",
+      "usage": "відстоювати що",
+      "aspect": "imperfective"
+    },
+    "topic": "communication",
+    "options": {
+      "en": [
+        "to defend one's opinion",
+        "to reach a conclusion",
+        "to take into account",
+        "to adapt to"
+      ],
+      "es": [
+        "llegar a una conclusión",
+        "defender la propia opinión",
+        "tener en cuenta",
+        "adaptarse a"
+      ],
+      "de": [
+        "zu einem Schluss kommen",
+        "berücksichtigen",
+        "sich anpassen an",
+        "die eigene Meinung vertreten"
+      ]
+    }
+  },
+  {
+    "id": "uk-b1-foundation-013",
+    "canonical_id": "uk-b1-foundation-013",
+    "source_language": "uk",
+    "text": "впоратися з",
+    "uk": "впоратися з",
+    "en": "to cope with",
+    "es": "hacer frente a",
+    "de": "zurechtkommen mit",
+    "example": {
+      "uk": "З підтримкою колег я впорався зі складним завданням.",
+      "en": "With my colleagues' support, I coped with the difficult task.",
+      "es": "Con el apoyo de mis compañeros hice frente a la tarea difícil.",
+      "de": "Mit der Unterstützung meiner Kollegen bin ich mit der schwierigen Aufgabe zurechtgekommen."
+    },
+    "level": "B1",
+    "sense": "to cope with",
+    "grammar": {
+      "part_of_speech": "verb_phrase",
+      "usage": "впоратися з ким/чим; доконаний вид",
+      "aspect": "perfective"
+    },
+    "topic": "work",
+    "options": {
+      "en": [
+        "to keep in touch",
+        "to prevent",
+        "to cope with",
+        "to resolve a conflict"
+      ],
+      "es": [
+        "prevenir",
+        "hacer frente a",
+        "mantener el contacto",
+        "resolver un conflicto"
+      ],
+      "de": [
+        "in Kontakt bleiben",
+        "einen Konflikt lösen",
+        "zurechtkommen mit",
+        "vorbeugen"
+      ]
+    }
+  },
+  {
+    "id": "uk-b1-foundation-014",
+    "canonical_id": "uk-b1-foundation-014",
+    "source_language": "uk",
+    "text": "підтримувати зв’язок",
+    "uk": "підтримувати зв’язок",
+    "en": "to keep in touch",
+    "es": "mantener el contacto",
+    "de": "in Kontakt bleiben",
+    "example": {
+      "uk": "Після закінчення курсу ми продовжили підтримувати зв’язок.",
+      "en": "We kept in touch after the course ended.",
+      "es": "Después de terminar el curso seguimos manteniendo el contacto.",
+      "de": "Nach dem Ende des Kurses sind wir in Kontakt geblieben."
+    },
+    "level": "B1",
+    "sense": "to keep in touch",
+    "grammar": {
+      "part_of_speech": "verb_phrase",
+      "usage": "підтримувати що",
+      "aspect": "imperfective"
+    },
+    "topic": "relationships",
+    "options": {
+      "en": [
+        "to keep in touch",
+        "to cope with",
+        "to prevent",
+        "to resolve a conflict"
+      ],
+      "es": [
+        "mantener el contacto",
+        "resolver un conflicto",
+        "prevenir",
+        "hacer frente a"
+      ],
+      "de": [
+        "in Kontakt bleiben",
+        "zurechtkommen mit",
+        "vorbeugen",
+        "einen Konflikt lösen"
+      ]
+    }
+  },
+  {
+    "id": "uk-b1-foundation-015",
+    "canonical_id": "uk-b1-foundation-015",
+    "source_language": "uk",
+    "text": "розв’язувати конфлікт",
+    "uk": "розв’язувати конфлікт",
+    "en": "to resolve a conflict",
+    "es": "resolver un conflicto",
+    "de": "einen Konflikt lösen",
+    "example": {
+      "uk": "Щоб розв’язати конфлікт, потрібно вислухати обидві сторони.",
+      "en": "To resolve a conflict, you need to listen to both sides.",
+      "es": "Para resolver un conflicto hay que escuchar a ambas partes.",
+      "de": "Um einen Konflikt zu lösen, muss man beiden Seiten zuhören."
+    },
+    "level": "B1",
+    "sense": "to resolve a conflict",
+    "grammar": {
+      "part_of_speech": "verb_phrase",
+      "usage": "розв’язувати що",
+      "aspect": "imperfective"
+    },
+    "topic": "relationships",
+    "options": {
+      "en": [
+        "to resolve a conflict",
+        "to prevent",
+        "to cope with",
+        "to keep in touch"
+      ],
+      "es": [
+        "resolver un conflicto",
+        "prevenir",
+        "hacer frente a",
+        "mantener el contacto"
+      ],
+      "de": [
+        "in Kontakt bleiben",
+        "zurechtkommen mit",
+        "einen Konflikt lösen",
+        "vorbeugen"
+      ]
+    }
+  },
+  {
+    "id": "uk-b1-foundation-016",
+    "canonical_id": "uk-b1-foundation-016",
+    "source_language": "uk",
+    "text": "запобігати",
+    "uk": "запобігати",
+    "en": "to prevent",
+    "es": "prevenir",
+    "de": "vorbeugen",
+    "example": {
+      "uk": "Регулярні перерви допомагають запобігати перевтомі.",
+      "en": "Regular breaks help prevent exhaustion.",
+      "es": "Las pausas regulares ayudan a prevenir el agotamiento.",
+      "de": "Regelmäßige Pausen helfen, Erschöpfung vorzubeugen."
+    },
+    "level": "B1",
+    "sense": "to prevent",
+    "grammar": {
+      "part_of_speech": "verb_phrase",
+      "usage": "запобігати чому",
+      "aspect": "imperfective"
+    },
+    "topic": "health",
+    "options": {
+      "en": [
+        "to resolve a conflict",
+        "to keep in touch",
+        "to cope with",
+        "to prevent"
+      ],
+      "es": [
+        "prevenir",
+        "hacer frente a",
+        "resolver un conflicto",
+        "mantener el contacto"
+      ],
+      "de": [
+        "einen Konflikt lösen",
+        "in Kontakt bleiben",
+        "zurechtkommen mit",
+        "vorbeugen"
+      ]
+    }
+  },
+  {
+    "id": "uk-b1-foundation-017",
+    "canonical_id": "uk-b1-foundation-017",
+    "source_language": "uk",
+    "text": "На мою думку, …",
+    "uk": "На мою думку, …",
+    "en": "In my opinion, …",
+    "es": "En mi opinión, …",
+    "de": "Meiner Meinung nach …",
+    "example": {
+      "uk": "На мою думку, варто спробувати ще раз.",
+      "en": "In my opinion, it is worth trying again.",
+      "es": "En mi opinión, merece la pena intentarlo otra vez.",
+      "de": "Meiner Meinung nach lohnt es sich, es noch einmal zu versuchen."
+    },
+    "level": "B1",
+    "sense": "In my opinion, …",
+    "grammar": {
+      "part_of_speech": "discourse_expression"
+    },
+    "topic": "opinion",
+    "options": {
+      "en": [
+        "If I were you, …",
+        "I understand your position, but …",
+        "It all depends on the circumstances.",
+        "In my opinion, …"
+      ],
+      "es": [
+        "Todo depende de las circunstancias.",
+        "En mi opinión, …",
+        "Entiendo tu postura, pero …",
+        "Si estuviera en tu lugar, …"
+      ],
+      "de": [
+        "Wenn ich an deiner Stelle wäre, …",
+        "Das hängt ganz von den Umständen ab.",
+        "Ich verstehe deinen Standpunkt, aber …",
+        "Meiner Meinung nach …"
+      ]
+    }
+  },
+  {
+    "id": "uk-b1-foundation-018",
+    "canonical_id": "uk-b1-foundation-018",
+    "source_language": "uk",
+    "text": "Я розумію твою позицію, але …",
+    "uk": "Я розумію твою позицію, але …",
+    "en": "I understand your position, but …",
+    "es": "Entiendo tu postura, pero …",
+    "de": "Ich verstehe deinen Standpunkt, aber …",
+    "example": {
+      "uk": "Я розумію твою позицію, але маю іншу пропозицію.",
+      "en": "I understand your position, but I have another suggestion.",
+      "es": "Entiendo tu postura, pero tengo otra propuesta.",
+      "de": "Ich verstehe deinen Standpunkt, aber ich habe einen anderen Vorschlag."
+    },
+    "level": "B1",
+    "sense": "I understand your position, but …",
+    "grammar": {
+      "part_of_speech": "discourse_expression"
+    },
+    "topic": "discussion",
+    "options": {
+      "en": [
+        "If I were you, …",
+        "I understand your position, but …",
+        "In my opinion, …",
+        "It all depends on the circumstances."
+      ],
+      "es": [
+        "Si estuviera en tu lugar, …",
+        "Todo depende de las circunstancias.",
+        "En mi opinión, …",
+        "Entiendo tu postura, pero …"
+      ],
+      "de": [
+        "Das hängt ganz von den Umständen ab.",
+        "Ich verstehe deinen Standpunkt, aber …",
+        "Meiner Meinung nach …",
+        "Wenn ich an deiner Stelle wäre, …"
+      ]
+    }
+  },
+  {
+    "id": "uk-b1-foundation-019",
+    "canonical_id": "uk-b1-foundation-019",
+    "source_language": "uk",
+    "text": "Усе залежить від обставин.",
+    "uk": "Усе залежить від обставин.",
+    "en": "It all depends on the circumstances.",
+    "es": "Todo depende de las circunstancias.",
+    "de": "Das hängt ganz von den Umständen ab.",
+    "example": {
+      "uk": "Не можу відповісти відразу: усе залежить від обставин.",
+      "en": "I cannot answer straight away: it all depends on the circumstances.",
+      "es": "No puedo responder enseguida: todo depende de las circunstancias.",
+      "de": "Ich kann nicht sofort antworten: Das hängt ganz von den Umständen ab."
+    },
+    "level": "B1",
+    "sense": "It all depends on the circumstances.",
+    "grammar": {
+      "part_of_speech": "discourse_expression"
+    },
+    "topic": "decisions",
+    "options": {
+      "en": [
+        "In my opinion, …",
+        "If I were you, …",
+        "I understand your position, but …",
+        "It all depends on the circumstances."
+      ],
+      "es": [
+        "Si estuviera en tu lugar, …",
+        "Entiendo tu postura, pero …",
+        "En mi opinión, …",
+        "Todo depende de las circunstancias."
+      ],
+      "de": [
+        "Wenn ich an deiner Stelle wäre, …",
+        "Das hängt ganz von den Umständen ab.",
+        "Meiner Meinung nach …",
+        "Ich verstehe deinen Standpunkt, aber …"
+      ]
+    }
+  },
+  {
+    "id": "uk-b1-foundation-020",
+    "canonical_id": "uk-b1-foundation-020",
+    "source_language": "uk",
+    "text": "Якби я був на твоєму місці, …",
+    "uk": "Якби я був на твоєму місці, …",
+    "en": "If I were you, …",
+    "es": "Si estuviera en tu lugar, …",
+    "de": "Wenn ich an deiner Stelle wäre, …",
+    "example": {
+      "uk": "Якби я був на твоєму місці, я б спочатку поговорив із керівником.",
+      "en": "If I were you, I would speak to the manager first.",
+      "es": "Si estuviera en tu lugar, hablaría primero con el responsable.",
+      "de": "Wenn ich an deiner Stelle wäre, würde ich zuerst mit dem Vorgesetzten sprechen."
+    },
+    "level": "B1",
+    "sense": "If I were you, …",
+    "grammar": {
+      "part_of_speech": "discourse_expression"
+    },
+    "topic": "advice",
+    "options": {
+      "en": [
+        "If I were you, …",
+        "I understand your position, but …",
+        "It all depends on the circumstances.",
+        "In my opinion, …"
+      ],
+      "es": [
+        "Si estuviera en tu lugar, …",
+        "Todo depende de las circunstancias.",
+        "En mi opinión, …",
+        "Entiendo tu postura, pero …"
+      ],
+      "de": [
+        "Das hängt ganz von den Umständen ab.",
+        "Meiner Meinung nach …",
+        "Wenn ich an deiner Stelle wäre, …",
+        "Ich verstehe deinen Standpunkt, aber …"
+      ]
+    }
+  }
+]

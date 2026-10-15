@@ -1,0 +1,1266 @@
+{
+  "aliases": {
+    "w_0da8932f35dd": "w_0da8932f35dd",
+    "w_4b20a9dc2c3a": "w_0da8932f35dd",
+    "w_40f9661ebf47": "w_0da8932f35dd",
+    "w_f44246db928e": "w_f44246db928e",
+    "w_e1a1d615f01b": "w_f44246db928e",
+    "w_6fb6c6b4e039": "w_6fb6c6b4e039",
+    "w_d6b66483fed8": "w_d6b66483fed8",
+    "w_a2e26d2952ba": "w_a2e26d2952ba",
+    "w_63bdb2b109a3": "w_a2e26d2952ba",
+    "w_c675c0ccf442": "w_c675c0ccf442",
+    "w_90ec33986e10": "w_90ec33986e10",
+    "w_43fe768ad75f": "w_43fe768ad75f",
+    "w_766cc208aeaf": "w_43fe768ad75f",
+    "w_931fc0d84757": "w_931fc0d84757",
+    "w_aeb704977e13": "w_931fc0d84757",
+    "w_c1cb7a2e3c27": "w_c1cb7a2e3c27",
+    "w_a4ed72faa916": "w_c1cb7a2e3c27",
+    "w_68b4d5e7bda0": "w_68b4d5e7bda0",
+    "w_408ca0a5610d": "w_68b4d5e7bda0",
+    "w_305d8ee126ba": "w_305d8ee126ba",
+    "w_e98e23482cf2": "w_305d8ee126ba",
+    "w_7b467dd3e972": "w_7b467dd3e972",
+    "w_8f10f65875e0": "w_7b467dd3e972",
+    "w_308916a36df6": "w_308916a36df6",
+    "w_8b891ef3c684": "w_308916a36df6",
+    "w_36d613304490": "w_36d613304490",
+    "w_70dac6d16d25": "w_36d613304490",
+    "w_49673412551a": "w_49673412551a",
+    "w_214ef6197372": "w_49673412551a",
+    "w_4b16fb43db68": "w_4b16fb43db68",
+    "w_79a91333343e": "w_79a91333343e",
+    "w_343818bd5600": "w_4b16fb43db68",
+    "w_cd353bc74e87": "w_cd353bc74e87",
+    "w_82a0f248cd90": "w_cd353bc74e87",
+    "w_11d00e86b537": "w_11d00e86b537",
+    "w_de25983c4d5d": "w_11d00e86b537",
+    "w_78557b2a26bc": "w_78557b2a26bc",
+    "w_52fb68763018": "w_78557b2a26bc",
+    "w_97e16b828552": "w_97e16b828552",
+    "w_3729740dc367": "w_97e16b828552",
+    "w_90f24833ea14": "w_90f24833ea14",
+    "w_87a2c1d33b26": "w_90f24833ea14",
+    "w_e880fe05e573": "w_e880fe05e573",
+    "w_12caa3ba59a7": "w_e880fe05e573",
+    "w_bf427a46590f": "w_bf427a46590f",
+    "w_04081da10ccc": "w_bf427a46590f",
+    "w_74e54e2f6bb6": "w_74e54e2f6bb6",
+    "w_05524fd4bfdc": "w_74e54e2f6bb6",
+    "w_f3333ce7274d": "w_f3333ce7274d",
+    "w_aad9df6b4dd0": "w_f3333ce7274d",
+    "w_5ffc94315683": "w_5ffc94315683",
+    "w_15468882688a": "w_5ffc94315683",
+    "w_bc750fbb07ec": "w_bc750fbb07ec",
+    "w_8f00f4e86992": "w_bc750fbb07ec",
+    "w_cca5b33c0d07": "w_cca5b33c0d07",
+    "w_7b800165b5a5": "w_cca5b33c0d07",
+    "w_14681afc0f0a": "w_14681afc0f0a",
+    "w_3f839c80b5cc": "w_3f839c80b5cc",
+    "w_b8cde3cc6ab1": "w_b8cde3cc6ab1",
+    "w_354e691a04f6": "w_b8cde3cc6ab1",
+    "w_0ebaa987ffe6": "w_0ebaa987ffe6",
+    "w_41991a85f5e7": "w_0ebaa987ffe6",
+    "w_9aa645895f44": "w_9aa645895f44",
+    "w_cef3de3f8e3a": "w_9aa645895f44",
+    "w_07762508414f": "w_07762508414f",
+    "w_6339f9b44697": "w_07762508414f",
+    "w_ee243f9a0514": "w_ee243f9a0514",
+    "w_faecefa3a4a2": "w_faecefa3a4a2",
+    "w_18134b6b0b7a": "w_18134b6b0b7a",
+    "w_b54e162aeed6": "w_18134b6b0b7a",
+    "w_cf6c09d0e8b2": "w_cf6c09d0e8b2",
+    "w_3a018a9f6f97": "w_cf6c09d0e8b2",
+    "w_f1c2b4aebfc2": "w_f1c2b4aebfc2",
+    "a2_6303514c21cb": "a2_6303514c21cb",
+    "w_bd431eb013b0": "w_bd431eb013b0",
+    "w_10edde9896e5": "w_bd431eb013b0",
+    "w_ce7872a3285e": "w_ce7872a3285e",
+    "w_f839cfa62edf": "w_ce7872a3285e",
+    "w_af7a4a820a23": "w_af7a4a820a23",
+    "w_29773e758229": "w_af7a4a820a23",
+    "w_dd7b12435e71": "w_dd7b12435e71",
+    "w_727f9350d65b": "w_dd7b12435e71",
+    "w_509ca64b7f39": "w_509ca64b7f39",
+    "w_5c55ee8e3e69": "w_509ca64b7f39",
+    "w_5728ce5a380e": "w_5728ce5a380e",
+    "a1_bbca7cb490cd": "a1_bbca7cb490cd",
+    "w_7c241f4df1e7": "w_7c241f4df1e7",
+    "a2_cf2e1ab525a1": "a2_cf2e1ab525a1",
+    "w_a6c6553cc9bd": "w_a6c6553cc9bd",
+    "w_c2947d151b78": "w_c2947d151b78",
+    "w_4857326065fe": "w_4857326065fe",
+    "a2_2112c3d892fb": "a2_2112c3d892fb",
+    "w_32b45bfb9789": "w_32b45bfb9789",
+    "w_e1d68b8053f5": "w_32b45bfb9789",
+    "w_29d22850da65": "w_29d22850da65",
+    "w_5abb3a50fa3a": "w_29d22850da65",
+    "w_56915043f866": "w_56915043f866",
+    "a1_f2df514513c5": "a1_f2df514513c5",
+    "w_5b5d6f10529f": "w_5b5d6f10529f",
+    "a2_08036226a08f": "a2_08036226a08f",
+    "w_5e0bd6f47c0b": "w_5e0bd6f47c0b",
+    "w_2d3725b325eb": "w_5e0bd6f47c0b",
+    "w_0ef1364d5651": "w_0ef1364d5651",
+    "w_3fdd2ef95ff5": "w_0ef1364d5651",
+    "w_3cbba235eb9f": "w_3cbba235eb9f",
+    "w_89fdeab38483": "w_89fdeab38483",
+    "w_c9f8edb6b885": "w_c9f8edb6b885",
+    "w_aeffcf275e11": "w_c9f8edb6b885",
+    "w_49ffe2ede340": "w_49ffe2ede340",
+    "w_fd2773fe272e": "w_fd2773fe272e",
+    "w_adc2af698b4a": "w_adc2af698b4a",
+    "a1_e2f6c0d894d1": "a1_e2f6c0d894d1",
+    "w_c7c47981bff6": "w_c7c47981bff6",
+    "a2_3ca325ca9ed8": "w_c7c47981bff6",
+    "w_254767ea606b": "w_254767ea606b",
+    "a2_f3fbc12fc833": "w_254767ea606b",
+    "w_663af1c15051": "w_663af1c15051",
+    "a2_705ac929228b": "a2_705ac929228b",
+    "w_d470ba9cccfc": "w_d470ba9cccfc",
+    "a2_4336925e5272": "w_d470ba9cccfc",
+    "w_de1f18c98184": "w_de1f18c98184",
+    "a2_eedcc321751a": "a2_eedcc321751a",
+    "w_ccd48391a08d": "w_ccd48391a08d",
+    "a2_f212cf26b346": "w_ccd48391a08d",
+    "w_cdf1c11ddcc1": "w_cdf1c11ddcc1",
+    "a2_f3501f99f812": "w_cdf1c11ddcc1",
+    "w_eb8fb2535f19": "w_eb8fb2535f19",
+    "w_c96ccec0af96": "w_c96ccec0af96",
+    "w_f07367005ad1": "w_f07367005ad1",
+    "a2_4fa145945af5": "a2_4fa145945af5",
+    "w_d3d4b04989b3": "w_500301c0c2da",
+    "w_778cd69bbfe7": "w_49bf733b79e0",
+    "poem_eeb1f595824298b371e7d4e6471f2f6744ac3f1405dd56e95293e23b65154906": "poem_f384b744f00da3af471b52ed7ac9ff7d799eb4ba1ff6f1eb8ee39bf23488b93a"
+  },
+  "decisions": [
+    {
+      "original_key": "adiós",
+      "ids": [
+        "w_0da8932f35dd",
+        "w_4b20a9dc2c3a",
+        "w_40f9661ebf47"
+      ],
+      "decision": "same_sense_aliases",
+      "canonical_id": "w_0da8932f35dd",
+      "evidence": {
+        "reviewer": "assistant",
+        "independent_human_review": false,
+        "meanings": [
+          "bye",
+          "goodbye",
+          "goodbye"
+        ]
+      }
+    },
+    {
+      "original_key": "lo siento",
+      "ids": [
+        "w_f44246db928e",
+        "w_e1a1d615f01b"
+      ],
+      "decision": "same_sense_aliases",
+      "canonical_id": "w_f44246db928e",
+      "evidence": {
+        "reviewer": "assistant",
+        "independent_human_review": false,
+        "meanings": [
+          "I'm sorry",
+          "I'm sorry"
+        ]
+      }
+    },
+    {
+      "original_key": "mañana",
+      "ids": [
+        "w_6fb6c6b4e039",
+        "w_d6b66483fed8"
+      ],
+      "decision": "distinct_contextual_senses",
+      "canonical_id": null,
+      "evidence": {
+        "reviewer": "assistant",
+        "independent_human_review": false,
+        "meanings": [
+          "tomorrow",
+          "morning"
+        ]
+      }
+    },
+    {
+      "original_key": "estar",
+      "ids": [
+        "w_a2e26d2952ba",
+        "w_63bdb2b109a3"
+      ],
+      "decision": "same_sense_aliases",
+      "canonical_id": "w_a2e26d2952ba",
+      "evidence": {
+        "reviewer": "assistant",
+        "independent_human_review": false,
+        "meanings": [
+          "to be located",
+          "to be located"
+        ]
+      }
+    },
+    {
+      "original_key": "poder",
+      "ids": [
+        "w_c675c0ccf442",
+        "w_90ec33986e10"
+      ],
+      "decision": "distinct_contextual_senses",
+      "canonical_id": null,
+      "evidence": {
+        "reviewer": "assistant",
+        "independent_human_review": false,
+        "meanings": [
+          "to be able to",
+          "authority"
+        ]
+      }
+    },
+    {
+      "original_key": "volver",
+      "ids": [
+        "w_43fe768ad75f",
+        "w_766cc208aeaf"
+      ],
+      "decision": "same_sense_aliases",
+      "canonical_id": "w_43fe768ad75f",
+      "evidence": {
+        "reviewer": "assistant",
+        "independent_human_review": false,
+        "meanings": [
+          "to return",
+          "to return"
+        ]
+      }
+    },
+    {
+      "original_key": "hogar",
+      "ids": [
+        "w_931fc0d84757",
+        "w_aeb704977e13"
+      ],
+      "decision": "same_sense_aliases",
+      "canonical_id": "w_931fc0d84757",
+      "evidence": {
+        "reviewer": "assistant",
+        "independent_human_review": false,
+        "meanings": [
+          "home",
+          "home"
+        ]
+      }
+    },
+    {
+      "original_key": "pueblo",
+      "ids": [
+        "w_c1cb7a2e3c27",
+        "w_a4ed72faa916"
+      ],
+      "decision": "same_sense_aliases",
+      "canonical_id": "w_c1cb7a2e3c27",
+      "evidence": {
+        "reviewer": "assistant",
+        "independent_human_review": false,
+        "meanings": [
+          "small town",
+          "village"
+        ]
+      }
+    },
+    {
+      "original_key": "familia",
+      "ids": [
+        "w_68b4d5e7bda0",
+        "w_408ca0a5610d"
+      ],
+      "decision": "same_sense_aliases",
+      "canonical_id": "w_68b4d5e7bda0",
+      "evidence": {
+        "reviewer": "assistant",
+        "independent_human_review": false,
+        "meanings": [
+          "family",
+          "family"
+        ]
+      }
+    },
+    {
+      "original_key": "padre",
+      "ids": [
+        "w_305d8ee126ba",
+        "w_e98e23482cf2"
+      ],
+      "decision": "same_sense_aliases",
+      "canonical_id": "w_305d8ee126ba",
+      "evidence": {
+        "reviewer": "assistant",
+        "independent_human_review": false,
+        "meanings": [
+          "father",
+          "dad"
+        ]
+      }
+    },
+    {
+      "original_key": "carne",
+      "ids": [
+        "w_7b467dd3e972",
+        "w_8f10f65875e0"
+      ],
+      "decision": "same_sense_aliases",
+      "canonical_id": "w_7b467dd3e972",
+      "evidence": {
+        "reviewer": "assistant",
+        "independent_human_review": false,
+        "meanings": [
+          "meat",
+          "meat"
+        ]
+      }
+    },
+    {
+      "original_key": "verdura",
+      "ids": [
+        "w_308916a36df6",
+        "w_8b891ef3c684"
+      ],
+      "decision": "same_sense_aliases",
+      "canonical_id": "w_308916a36df6",
+      "evidence": {
+        "reviewer": "assistant",
+        "independent_human_review": false,
+        "meanings": [
+          "vegetables (food)",
+          "vegetables"
+        ]
+      }
+    },
+    {
+      "original_key": "fruta",
+      "ids": [
+        "w_36d613304490",
+        "w_70dac6d16d25"
+      ],
+      "decision": "same_sense_aliases",
+      "canonical_id": "w_36d613304490",
+      "evidence": {
+        "reviewer": "assistant",
+        "independent_human_review": false,
+        "meanings": [
+          "fruit (food)",
+          "fruit"
+        ]
+      }
+    },
+    {
+      "original_key": "calor",
+      "ids": [
+        "w_49673412551a",
+        "w_214ef6197372"
+      ],
+      "decision": "same_sense_aliases",
+      "canonical_id": "w_49673412551a",
+      "evidence": {
+        "reviewer": "assistant",
+        "independent_human_review": false,
+        "meanings": [
+          "heat",
+          "heat"
+        ]
+      }
+    },
+    {
+      "original_key": "frío",
+      "ids": [
+        "w_4b16fb43db68",
+        "w_79a91333343e",
+        "w_343818bd5600"
+      ],
+      "decision": "noun_aliases_with_distinct_adjective",
+      "canonical_id": null,
+      "evidence": {
+        "reviewer": "assistant",
+        "independent_human_review": false,
+        "meanings": [
+          "cold (low temperature)",
+          "cold",
+          "cold"
+        ]
+      },
+      "detail": "w_343818bd5600 and w_4b16fb43db68 denote noun cold/Kälte; w_79a91333343e is adjective kalt."
+    },
+    {
+      "original_key": "preguntar",
+      "ids": [
+        "w_cd353bc74e87",
+        "w_82a0f248cd90"
+      ],
+      "decision": "same_sense_aliases",
+      "canonical_id": "w_cd353bc74e87",
+      "evidence": {
+        "reviewer": "assistant",
+        "independent_human_review": false,
+        "meanings": [
+          "to ask",
+          "to ask"
+        ]
+      }
+    },
+    {
+      "original_key": "llegar",
+      "ids": [
+        "w_11d00e86b537",
+        "w_de25983c4d5d"
+      ],
+      "decision": "same_sense_aliases",
+      "canonical_id": "w_11d00e86b537",
+      "evidence": {
+        "reviewer": "assistant",
+        "independent_human_review": false,
+        "meanings": [
+          "to arrive",
+          "to arrive"
+        ]
+      }
+    },
+    {
+      "original_key": "pequeño",
+      "ids": [
+        "w_78557b2a26bc",
+        "w_52fb68763018"
+      ],
+      "decision": "same_sense_aliases",
+      "canonical_id": "w_78557b2a26bc",
+      "evidence": {
+        "reviewer": "assistant",
+        "independent_human_review": false,
+        "meanings": [
+          "small",
+          "small"
+        ]
+      }
+    },
+    {
+      "original_key": "feo",
+      "ids": [
+        "w_97e16b828552",
+        "w_3729740dc367"
+      ],
+      "decision": "same_sense_aliases",
+      "canonical_id": "w_97e16b828552",
+      "evidence": {
+        "reviewer": "assistant",
+        "independent_human_review": false,
+        "meanings": [
+          "ugly",
+          "ugly"
+        ]
+      }
+    },
+    {
+      "original_key": "rápido",
+      "ids": [
+        "w_90f24833ea14",
+        "w_87a2c1d33b26"
+      ],
+      "decision": "same_sense_aliases",
+      "canonical_id": "w_90f24833ea14",
+      "evidence": {
+        "reviewer": "assistant",
+        "independent_human_review": false,
+        "meanings": [
+          "fast",
+          "fast"
+        ]
+      }
+    },
+    {
+      "original_key": "lento",
+      "ids": [
+        "w_e880fe05e573",
+        "w_12caa3ba59a7"
+      ],
+      "decision": "same_sense_aliases",
+      "canonical_id": "w_e880fe05e573",
+      "evidence": {
+        "reviewer": "assistant",
+        "independent_human_review": false,
+        "meanings": [
+          "slow",
+          "slow"
+        ]
+      }
+    },
+    {
+      "original_key": "seguro",
+      "ids": [
+        "w_bf427a46590f",
+        "w_04081da10ccc"
+      ],
+      "decision": "same_sense_aliases",
+      "canonical_id": "w_bf427a46590f",
+      "evidence": {
+        "reviewer": "assistant",
+        "independent_human_review": false,
+        "meanings": [
+          "safe",
+          "safe"
+        ]
+      }
+    },
+    {
+      "original_key": "a veces",
+      "ids": [
+        "w_74e54e2f6bb6",
+        "w_05524fd4bfdc"
+      ],
+      "decision": "same_sense_aliases",
+      "canonical_id": "w_74e54e2f6bb6",
+      "evidence": {
+        "reviewer": "assistant",
+        "independent_human_review": false,
+        "meanings": [
+          "sometimes",
+          "sometimes"
+        ]
+      }
+    },
+    {
+      "original_key": "caro",
+      "ids": [
+        "w_f3333ce7274d",
+        "w_aad9df6b4dd0"
+      ],
+      "decision": "same_sense_aliases",
+      "canonical_id": "w_f3333ce7274d",
+      "evidence": {
+        "reviewer": "assistant",
+        "independent_human_review": false,
+        "meanings": [
+          "expensive",
+          "expensive"
+        ]
+      }
+    },
+    {
+      "original_key": "barato",
+      "ids": [
+        "w_5ffc94315683",
+        "w_15468882688a"
+      ],
+      "decision": "same_sense_aliases",
+      "canonical_id": "w_5ffc94315683",
+      "evidence": {
+        "reviewer": "assistant",
+        "independent_human_review": false,
+        "meanings": [
+          "inexpensive",
+          "cheap"
+        ]
+      }
+    },
+    {
+      "original_key": "computadora",
+      "ids": [
+        "w_bc750fbb07ec",
+        "w_8f00f4e86992"
+      ],
+      "decision": "same_sense_aliases",
+      "canonical_id": "w_bc750fbb07ec",
+      "evidence": {
+        "reviewer": "assistant",
+        "independent_human_review": false,
+        "meanings": [
+          "computer",
+          "computer"
+        ]
+      }
+    },
+    {
+      "original_key": "de nada",
+      "ids": [
+        "w_cca5b33c0d07",
+        "w_7b800165b5a5"
+      ],
+      "decision": "same_sense_aliases",
+      "canonical_id": "w_cca5b33c0d07",
+      "evidence": {
+        "reviewer": "assistant",
+        "independent_human_review": false,
+        "meanings": [
+          "you're welcome",
+          "you're welcome"
+        ]
+      }
+    },
+    {
+      "original_key": "más o menos",
+      "ids": [
+        "w_14681afc0f0a",
+        "w_3f839c80b5cc"
+      ],
+      "decision": "distinct_contextual_senses",
+      "canonical_id": null,
+      "evidence": {
+        "reviewer": "assistant",
+        "independent_human_review": false,
+        "meanings": [
+          "so-so",
+          "approximately"
+        ]
+      }
+    },
+    {
+      "original_key": "amable",
+      "ids": [
+        "w_b8cde3cc6ab1",
+        "w_354e691a04f6"
+      ],
+      "decision": "same_sense_aliases",
+      "canonical_id": "w_b8cde3cc6ab1",
+      "evidence": {
+        "reviewer": "assistant",
+        "independent_human_review": false,
+        "meanings": [
+          "kind",
+          "kind / courteous"
+        ]
+      }
+    },
+    {
+      "original_key": "pollo",
+      "ids": [
+        "w_0ebaa987ffe6",
+        "w_41991a85f5e7"
+      ],
+      "decision": "same_sense_aliases",
+      "canonical_id": "w_0ebaa987ffe6",
+      "evidence": {
+        "reviewer": "assistant",
+        "independent_human_review": false,
+        "meanings": [
+          "chicken (meat)",
+          "chicken meat"
+        ]
+      }
+    },
+    {
+      "original_key": "comida",
+      "ids": [
+        "w_9aa645895f44",
+        "w_cef3de3f8e3a"
+      ],
+      "decision": "same_sense_aliases",
+      "canonical_id": "w_9aa645895f44",
+      "evidence": {
+        "reviewer": "assistant",
+        "independent_human_review": false,
+        "meanings": [
+          "food",
+          "food"
+        ]
+      }
+    },
+    {
+      "original_key": "bebida",
+      "ids": [
+        "w_07762508414f",
+        "w_6339f9b44697"
+      ],
+      "decision": "same_sense_aliases",
+      "canonical_id": "w_07762508414f",
+      "evidence": {
+        "reviewer": "assistant",
+        "independent_human_review": false,
+        "meanings": [
+          "drink",
+          "drink"
+        ]
+      }
+    },
+    {
+      "original_key": "profesor",
+      "ids": [
+        "w_ee243f9a0514",
+        "w_faecefa3a4a2"
+      ],
+      "decision": "distinct_contextual_senses",
+      "canonical_id": null,
+      "evidence": {
+        "reviewer": "assistant",
+        "independent_human_review": false,
+        "meanings": [
+          "teacher",
+          "lecturer"
+        ]
+      }
+    },
+    {
+      "original_key": "camino",
+      "ids": [
+        "w_18134b6b0b7a",
+        "w_b54e162aeed6"
+      ],
+      "decision": "same_sense_aliases",
+      "canonical_id": "w_18134b6b0b7a",
+      "evidence": {
+        "reviewer": "assistant",
+        "independent_human_review": false,
+        "meanings": [
+          "path",
+          "path"
+        ]
+      }
+    },
+    {
+      "original_key": "estudiar",
+      "ids": [
+        "w_cf6c09d0e8b2",
+        "w_3a018a9f6f97"
+      ],
+      "decision": "same_sense_aliases",
+      "canonical_id": "w_cf6c09d0e8b2",
+      "evidence": {
+        "reviewer": "assistant",
+        "independent_human_review": false,
+        "meanings": [
+          "to study",
+          "to study"
+        ]
+      }
+    },
+    {
+      "original_key": "sobre",
+      "ids": [
+        "w_f1c2b4aebfc2",
+        "a2_6303514c21cb"
+      ],
+      "decision": "distinct_contextual_senses",
+      "canonical_id": null,
+      "evidence": {
+        "reviewer": "assistant",
+        "independent_human_review": false,
+        "meanings": [
+          "about",
+          "envelope"
+        ]
+      }
+    },
+    {
+      "original_key": "permitir",
+      "ids": [
+        "w_bd431eb013b0",
+        "w_10edde9896e5"
+      ],
+      "decision": "same_sense_aliases",
+      "canonical_id": "w_bd431eb013b0",
+      "evidence": {
+        "reviewer": "assistant",
+        "independent_human_review": false,
+        "meanings": [
+          "to allow",
+          "to allow"
+        ]
+      }
+    },
+    {
+      "original_key": "discutir",
+      "ids": [
+        "w_ce7872a3285e",
+        "w_f839cfa62edf"
+      ],
+      "decision": "same_sense_aliases",
+      "canonical_id": "w_ce7872a3285e",
+      "evidence": {
+        "reviewer": "assistant",
+        "independent_human_review": false,
+        "meanings": [
+          "to discuss",
+          "to debate"
+        ]
+      }
+    },
+    {
+      "original_key": "organizar",
+      "ids": [
+        "w_af7a4a820a23",
+        "w_29773e758229"
+      ],
+      "decision": "same_sense_aliases",
+      "canonical_id": "w_af7a4a820a23",
+      "evidence": {
+        "reviewer": "assistant",
+        "independent_human_review": false,
+        "meanings": [
+          "to organise",
+          "to organise"
+        ]
+      }
+    },
+    {
+      "original_key": "clima",
+      "ids": [
+        "w_dd7b12435e71",
+        "w_727f9350d65b"
+      ],
+      "decision": "same_sense_aliases",
+      "canonical_id": "w_dd7b12435e71",
+      "evidence": {
+        "reviewer": "assistant",
+        "independent_human_review": false,
+        "meanings": [
+          "climate",
+          "climate"
+        ]
+      }
+    },
+    {
+      "original_key": "necesario",
+      "ids": [
+        "w_509ca64b7f39",
+        "w_5c55ee8e3e69"
+      ],
+      "decision": "same_sense_aliases",
+      "canonical_id": "w_509ca64b7f39",
+      "evidence": {
+        "reviewer": "assistant",
+        "independent_human_review": false,
+        "meanings": [
+          "necessary",
+          "necessary"
+        ]
+      }
+    },
+    {
+      "original_key": "aburrido",
+      "ids": [
+        "w_5728ce5a380e",
+        "a1_bbca7cb490cd"
+      ],
+      "decision": "distinct_contextual_senses",
+      "canonical_id": null,
+      "evidence": {
+        "reviewer": "assistant",
+        "independent_human_review": false,
+        "meanings": [
+          "boring",
+          "bored"
+        ]
+      }
+    },
+    {
+      "original_key": "cuenta",
+      "ids": [
+        "w_7c241f4df1e7",
+        "a2_cf2e1ab525a1"
+      ],
+      "decision": "distinct_contextual_senses",
+      "canonical_id": null,
+      "evidence": {
+        "reviewer": "assistant",
+        "independent_human_review": false,
+        "meanings": [
+          "bill",
+          "bank account"
+        ]
+      }
+    },
+    {
+      "original_key": "copa",
+      "ids": [
+        "w_a6c6553cc9bd",
+        "w_c2947d151b78"
+      ],
+      "decision": "distinct_contextual_senses",
+      "canonical_id": null,
+      "evidence": {
+        "reviewer": "assistant",
+        "independent_human_review": false,
+        "meanings": [
+          "wine glass",
+          "trophy"
+        ]
+      }
+    },
+    {
+      "original_key": "picar",
+      "ids": [
+        "w_4857326065fe",
+        "a2_2112c3d892fb"
+      ],
+      "decision": "distinct_contextual_senses",
+      "canonical_id": null,
+      "evidence": {
+        "reviewer": "assistant",
+        "independent_human_review": false,
+        "meanings": [
+          "to have a snack",
+          "to chop finely"
+        ]
+      }
+    },
+    {
+      "original_key": "asignatura",
+      "ids": [
+        "w_32b45bfb9789",
+        "w_e1d68b8053f5"
+      ],
+      "decision": "same_sense_aliases",
+      "canonical_id": "w_32b45bfb9789",
+      "evidence": {
+        "reviewer": "assistant",
+        "independent_human_review": false,
+        "meanings": [
+          "school subject",
+          "school subject"
+        ]
+      }
+    },
+    {
+      "original_key": "descargar",
+      "ids": [
+        "w_29d22850da65",
+        "w_5abb3a50fa3a"
+      ],
+      "decision": "same_sense_aliases",
+      "canonical_id": "w_29d22850da65",
+      "evidence": {
+        "reviewer": "assistant",
+        "independent_human_review": false,
+        "meanings": [
+          "to download",
+          "to download"
+        ]
+      }
+    },
+    {
+      "original_key": "subir",
+      "ids": [
+        "w_56915043f866",
+        "a1_f2df514513c5"
+      ],
+      "decision": "distinct_contextual_senses",
+      "canonical_id": null,
+      "evidence": {
+        "reviewer": "assistant",
+        "independent_human_review": false,
+        "meanings": [
+          "to upload",
+          "to go up"
+        ]
+      }
+    },
+    {
+      "original_key": "receta",
+      "ids": [
+        "w_5b5d6f10529f",
+        "a2_08036226a08f"
+      ],
+      "decision": "distinct_contextual_senses",
+      "canonical_id": null,
+      "evidence": {
+        "reviewer": "assistant",
+        "independent_human_review": false,
+        "meanings": [
+          "medical prescription",
+          "recipe"
+        ]
+      }
+    },
+    {
+      "original_key": "cansancio",
+      "ids": [
+        "w_5e0bd6f47c0b",
+        "w_2d3725b325eb"
+      ],
+      "decision": "same_sense_aliases",
+      "canonical_id": "w_5e0bd6f47c0b",
+      "evidence": {
+        "reviewer": "assistant",
+        "independent_human_review": false,
+        "meanings": [
+          "tiredness",
+          "tiredness"
+        ]
+      }
+    },
+    {
+      "original_key": "empresa",
+      "ids": [
+        "w_0ef1364d5651",
+        "w_3fdd2ef95ff5"
+      ],
+      "decision": "same_sense_aliases",
+      "canonical_id": "w_0ef1364d5651",
+      "evidence": {
+        "reviewer": "assistant",
+        "independent_human_review": false,
+        "meanings": [
+          "company",
+          "enterprise"
+        ]
+      }
+    },
+    {
+      "original_key": "empleo",
+      "ids": [
+        "w_3cbba235eb9f",
+        "w_89fdeab38483"
+      ],
+      "decision": "distinct_contextual_senses",
+      "canonical_id": null,
+      "evidence": {
+        "reviewer": "assistant",
+        "independent_human_review": false,
+        "meanings": [
+          "employment",
+          "job / employment"
+        ]
+      },
+      "detail": "Employment as a state/Beschäftigung versus an individual job/Stelle; contextual examples retained."
+    },
+    {
+      "original_key": "servicio",
+      "ids": [
+        "w_c9f8edb6b885",
+        "w_aeffcf275e11"
+      ],
+      "decision": "same_sense_aliases",
+      "canonical_id": "w_c9f8edb6b885",
+      "evidence": {
+        "reviewer": "assistant",
+        "independent_human_review": false,
+        "meanings": [
+          "service",
+          "service"
+        ]
+      }
+    },
+    {
+      "original_key": "guía",
+      "ids": [
+        "w_49ffe2ede340",
+        "w_fd2773fe272e"
+      ],
+      "decision": "distinct_contextual_senses",
+      "canonical_id": null,
+      "evidence": {
+        "reviewer": "assistant",
+        "independent_human_review": false,
+        "meanings": [
+          "tour guide",
+          "guidebook"
+        ]
+      }
+    },
+    {
+      "original_key": "dirección",
+      "ids": [
+        "w_adc2af698b4a",
+        "a1_e2f6c0d894d1"
+      ],
+      "decision": "distinct_contextual_senses",
+      "canonical_id": null,
+      "evidence": {
+        "reviewer": "assistant",
+        "independent_human_review": false,
+        "meanings": [
+          "direction",
+          "address"
+        ]
+      }
+    },
+    {
+      "original_key": "acostumbrarse a",
+      "ids": [
+        "w_c7c47981bff6",
+        "a2_3ca325ca9ed8"
+      ],
+      "decision": "same_sense_aliases",
+      "canonical_id": "w_c7c47981bff6",
+      "evidence": {
+        "reviewer": "assistant",
+        "independent_human_review": false,
+        "meanings": [
+          "to get used to",
+          "to get used to"
+        ]
+      }
+    },
+    {
+      "original_key": "alegrarse de",
+      "ids": [
+        "w_254767ea606b",
+        "a2_f3fbc12fc833"
+      ],
+      "decision": "same_sense_aliases",
+      "canonical_id": "w_254767ea606b",
+      "evidence": {
+        "reviewer": "assistant",
+        "independent_human_review": false,
+        "meanings": [
+          "to be glad about",
+          "to be pleased about"
+        ]
+      }
+    },
+    {
+      "original_key": "compañía",
+      "ids": [
+        "w_663af1c15051",
+        "a2_705ac929228b"
+      ],
+      "decision": "distinct_contextual_senses",
+      "canonical_id": null,
+      "evidence": {
+        "reviewer": "assistant",
+        "independent_human_review": false,
+        "meanings": [
+          "company",
+          "companionship"
+        ]
+      }
+    },
+    {
+      "original_key": "confiar en",
+      "ids": [
+        "w_d470ba9cccfc",
+        "a2_4336925e5272"
+      ],
+      "decision": "same_sense_aliases",
+      "canonical_id": "w_d470ba9cccfc",
+      "evidence": {
+        "reviewer": "assistant",
+        "independent_human_review": false,
+        "meanings": [
+          "to trust",
+          "to trust"
+        ]
+      }
+    },
+    {
+      "original_key": "efectivo",
+      "ids": [
+        "w_de1f18c98184",
+        "a2_eedcc321751a"
+      ],
+      "decision": "distinct_contextual_senses",
+      "canonical_id": null,
+      "evidence": {
+        "reviewer": "assistant",
+        "independent_human_review": false,
+        "meanings": [
+          "effective",
+          "cash"
+        ]
+      }
+    },
+    {
+      "original_key": "preocuparse por",
+      "ids": [
+        "w_ccd48391a08d",
+        "a2_f212cf26b346"
+      ],
+      "decision": "same_sense_aliases",
+      "canonical_id": "w_ccd48391a08d",
+      "evidence": {
+        "reviewer": "assistant",
+        "independent_human_review": false,
+        "meanings": [
+          "to worry about",
+          "to worry about"
+        ]
+      }
+    },
+    {
+      "original_key": "aprobar un examen",
+      "ids": [
+        "w_cdf1c11ddcc1",
+        "a2_f3501f99f812"
+      ],
+      "decision": "same_sense_aliases",
+      "canonical_id": "w_cdf1c11ddcc1",
+      "evidence": {
+        "reviewer": "assistant",
+        "independent_human_review": false,
+        "meanings": [
+          "to pass an exam",
+          "to pass an exam"
+        ]
+      }
+    },
+    {
+      "original_key": "cifra",
+      "ids": [
+        "w_eb8fb2535f19",
+        "w_c96ccec0af96"
+      ],
+      "decision": "distinct_contextual_senses",
+      "canonical_id": null,
+      "evidence": {
+        "reviewer": "assistant",
+        "independent_human_review": false,
+        "meanings": [
+          "digit",
+          "figure or number"
+        ]
+      }
+    },
+    {
+      "original_key": "cita",
+      "ids": [
+        "w_f07367005ad1",
+        "a2_4fa145945af5"
+      ],
+      "decision": "distinct_contextual_senses",
+      "canonical_id": null,
+      "evidence": {
+        "reviewer": "assistant",
+        "independent_human_review": false,
+        "meanings": [
+          "appointment",
+          "date"
+        ]
+      }
+    },
+    {
+      "ids": [
+        "w_d3d4b04989b3",
+        "w_500301c0c2da"
+      ],
+      "decision": "inflection_alias",
+      "canonical_id": "w_500301c0c2da"
+    },
+    {
+      "ids": [
+        "w_778cd69bbfe7",
+        "w_49bf733b79e0"
+      ],
+      "decision": "inflection_alias",
+      "canonical_id": "w_49bf733b79e0"
+    },
+    {
+      "ids": [
+        "poem_eeb1f595824298b371e7d4e6471f2f6744ac3f1405dd56e95293e23b65154906",
+        "poem_f384b744f00da3af471b52ed7ac9ff7d799eb4ba1ff6f1eb8ee39bf23488b93a"
+      ],
+      "decision": "same_poem_after_removing_corrupt_prefix",
+      "canonical_id": "poem_f384b744f00da3af471b52ed7ac9ff7d799eb4ba1ff6f1eb8ee39bf23488b93a"
+    },
+    {
+      "ids": [
+        "w_e4a2069037e7",
+        "w_26d961df13a2"
+      ],
+      "decision": "distinct_lexemes_with_overlapping_translations",
+      "canonical_id": null
+    }
+  ],
+  "policy": "Retain every ID and historical event; canonical_id only controls unique counts and same-session selection."
+}

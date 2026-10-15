@@ -1,0 +1,858 @@
+[
+  {
+    "id": "uk-a2-foundation-001",
+    "canonical_id": "uk-a2-foundation-001",
+    "source_language": "uk",
+    "text": "гарантія",
+    "uk": "гарантія",
+    "en": "a warranty",
+    "es": "una garantía",
+    "de": "die Garantie",
+    "example": {
+      "uk": "На цей чайник є гарантія на два роки.",
+      "en": "This kettle has a two-year warranty.",
+      "es": "Este hervidor tiene una garantía de dos años.",
+      "de": "Für diesen Wasserkocher gilt eine Garantie von zwei Jahren."
+    },
+    "level": "A2",
+    "sense": "a warranty",
+    "grammar": {
+      "part_of_speech": "noun"
+    },
+    "topic": "shopping",
+    "options": {
+      "en": [
+        "an official certificate",
+        "a job interview",
+        "a warranty",
+        "a house move"
+      ],
+      "es": [
+        "una entrevista de trabajo",
+        "un certificado oficial",
+        "una mudanza",
+        "una garantía"
+      ],
+      "de": [
+        "der Umzug",
+        "die Garantie",
+        "das Vorstellungsgespräch",
+        "die Bescheinigung"
+      ]
+    }
+  },
+  {
+    "id": "uk-a2-foundation-002",
+    "canonical_id": "uk-a2-foundation-002",
+    "source_language": "uk",
+    "text": "співбесіда",
+    "uk": "співбесіда",
+    "en": "a job interview",
+    "es": "una entrevista de trabajo",
+    "de": "das Vorstellungsgespräch",
+    "example": {
+      "uk": "Завтра в мене співбесіда на нову роботу.",
+      "en": "I have a job interview tomorrow.",
+      "es": "Mañana tengo una entrevista de trabajo.",
+      "de": "Morgen habe ich ein Vorstellungsgespräch."
+    },
+    "level": "A2",
+    "sense": "a job interview",
+    "grammar": {
+      "part_of_speech": "noun"
+    },
+    "topic": "work",
+    "options": {
+      "en": [
+        "an official certificate",
+        "a job interview",
+        "a warranty",
+        "a house move"
+      ],
+      "es": [
+        "una mudanza",
+        "una garantía",
+        "una entrevista de trabajo",
+        "un certificado oficial"
+      ],
+      "de": [
+        "die Garantie",
+        "der Umzug",
+        "die Bescheinigung",
+        "das Vorstellungsgespräch"
+      ]
+    }
+  },
+  {
+    "id": "uk-a2-foundation-003",
+    "canonical_id": "uk-a2-foundation-003",
+    "source_language": "uk",
+    "text": "переїзд",
+    "uk": "переїзд",
+    "en": "a house move",
+    "es": "una mudanza",
+    "de": "der Umzug",
+    "example": {
+      "uk": "Після переїзду ми живемо ближче до роботи.",
+      "en": "After moving house, we live closer to work.",
+      "es": "Después de la mudanza vivimos más cerca del trabajo.",
+      "de": "Nach dem Umzug wohnen wir näher an der Arbeit."
+    },
+    "level": "A2",
+    "sense": "a house move",
+    "grammar": {
+      "part_of_speech": "noun"
+    },
+    "topic": "housing",
+    "options": {
+      "en": [
+        "a warranty",
+        "a job interview",
+        "a house move",
+        "an official certificate"
+      ],
+      "es": [
+        "una garantía",
+        "un certificado oficial",
+        "una entrevista de trabajo",
+        "una mudanza"
+      ],
+      "de": [
+        "der Umzug",
+        "das Vorstellungsgespräch",
+        "die Garantie",
+        "die Bescheinigung"
+      ]
+    }
+  },
+  {
+    "id": "uk-a2-foundation-004",
+    "canonical_id": "uk-a2-foundation-004",
+    "source_language": "uk",
+    "text": "довідка",
+    "uk": "довідка",
+    "en": "an official certificate",
+    "es": "un certificado oficial",
+    "de": "die Bescheinigung",
+    "example": {
+      "uk": "Для роботи мені потрібна медична довідка.",
+      "en": "I need a medical certificate for work.",
+      "es": "Necesito un certificado médico para el trabajo.",
+      "de": "Ich brauche eine ärztliche Bescheinigung für die Arbeit."
+    },
+    "level": "A2",
+    "sense": "an official certificate",
+    "grammar": {
+      "part_of_speech": "noun"
+    },
+    "topic": "services",
+    "options": {
+      "en": [
+        "an official certificate",
+        "a job interview",
+        "a warranty",
+        "a house move"
+      ],
+      "es": [
+        "una entrevista de trabajo",
+        "una mudanza",
+        "una garantía",
+        "un certificado oficial"
+      ],
+      "de": [
+        "der Umzug",
+        "die Garantie",
+        "das Vorstellungsgespräch",
+        "die Bescheinigung"
+      ]
+    }
+  },
+  {
+    "id": "uk-a2-foundation-005",
+    "canonical_id": "uk-a2-foundation-005",
+    "source_language": "uk",
+    "text": "розклад",
+    "uk": "розклад",
+    "en": "a timetable",
+    "es": "un horario",
+    "de": "der Fahrplan",
+    "example": {
+      "uk": "Я перевірив розклад автобусів на завтра.",
+      "en": "I checked the bus timetable for tomorrow.",
+      "es": "He consultado el horario de autobuses para mañana.",
+      "de": "Ich habe den Busfahrplan für morgen geprüft."
+    },
+    "level": "A2",
+    "sense": "a timetable",
+    "grammar": {
+      "part_of_speech": "noun"
+    },
+    "topic": "travel",
+    "options": {
+      "en": [
+        "a doctor's prescription",
+        "a discount",
+        "a timetable",
+        "rent"
+      ],
+      "es": [
+        "el alquiler (importe)",
+        "una receta médica",
+        "un descuento",
+        "un horario"
+      ],
+      "de": [
+        "der Fahrplan",
+        "das ärztliche Rezept",
+        "der Rabatt",
+        "die Miete"
+      ]
+    }
+  },
+  {
+    "id": "uk-a2-foundation-006",
+    "canonical_id": "uk-a2-foundation-006",
+    "source_language": "uk",
+    "text": "орендна плата",
+    "uk": "орендна плата",
+    "en": "rent",
+    "es": "el alquiler (importe)",
+    "de": "die Miete",
+    "example": {
+      "uk": "Орендна плата не включає електроенергію.",
+      "en": "The rent does not include electricity.",
+      "es": "El alquiler no incluye la electricidad.",
+      "de": "Die Miete enthält die Stromkosten nicht."
+    },
+    "level": "A2",
+    "sense": "rent",
+    "grammar": {
+      "part_of_speech": "noun"
+    },
+    "topic": "housing",
+    "options": {
+      "en": [
+        "a discount",
+        "a doctor's prescription",
+        "a timetable",
+        "rent"
+      ],
+      "es": [
+        "el alquiler (importe)",
+        "una receta médica",
+        "un horario",
+        "un descuento"
+      ],
+      "de": [
+        "das ärztliche Rezept",
+        "der Rabatt",
+        "die Miete",
+        "der Fahrplan"
+      ]
+    }
+  },
+  {
+    "id": "uk-a2-foundation-007",
+    "canonical_id": "uk-a2-foundation-007",
+    "source_language": "uk",
+    "text": "знижка",
+    "uk": "знижка",
+    "en": "a discount",
+    "es": "un descuento",
+    "de": "der Rabatt",
+    "example": {
+      "uk": "За цією карткою я отримую знижку.",
+      "en": "I get a discount with this card.",
+      "es": "Con esta tarjeta obtengo un descuento.",
+      "de": "Mit dieser Karte bekomme ich einen Rabatt."
+    },
+    "level": "A2",
+    "sense": "a discount",
+    "grammar": {
+      "part_of_speech": "noun"
+    },
+    "topic": "shopping",
+    "options": {
+      "en": [
+        "a timetable",
+        "rent",
+        "a doctor's prescription",
+        "a discount"
+      ],
+      "es": [
+        "el alquiler (importe)",
+        "un descuento",
+        "un horario",
+        "una receta médica"
+      ],
+      "de": [
+        "der Fahrplan",
+        "das ärztliche Rezept",
+        "die Miete",
+        "der Rabatt"
+      ]
+    }
+  },
+  {
+    "id": "uk-a2-foundation-008",
+    "canonical_id": "uk-a2-foundation-008",
+    "source_language": "uk",
+    "text": "рецепт лікаря",
+    "uk": "рецепт лікаря",
+    "en": "a doctor's prescription",
+    "es": "una receta médica",
+    "de": "das ärztliche Rezept",
+    "example": {
+      "uk": "Для цих ліків потрібен рецепт лікаря.",
+      "en": "You need a doctor's prescription for this medicine.",
+      "es": "Para este medicamento hace falta una receta médica.",
+      "de": "Für dieses Medikament braucht man ein ärztliches Rezept."
+    },
+    "level": "A2",
+    "sense": "a doctor's prescription",
+    "grammar": {
+      "part_of_speech": "noun"
+    },
+    "topic": "health",
+    "options": {
+      "en": [
+        "rent",
+        "a timetable",
+        "a discount",
+        "a doctor's prescription"
+      ],
+      "es": [
+        "un descuento",
+        "un horario",
+        "el alquiler (importe)",
+        "una receta médica"
+      ],
+      "de": [
+        "der Fahrplan",
+        "das ärztliche Rezept",
+        "der Rabatt",
+        "die Miete"
+      ]
+    }
+  },
+  {
+    "id": "uk-a2-foundation-009",
+    "canonical_id": "uk-a2-foundation-009",
+    "source_language": "uk",
+    "text": "відкладати",
+    "uk": "відкладати",
+    "en": "to postpone",
+    "es": "aplazar",
+    "de": "verschieben",
+    "example": {
+      "uk": "Ми не хочемо відкладати поїздку.",
+      "en": "We do not want to postpone the trip.",
+      "es": "No queremos aplazar el viaje.",
+      "de": "Wir wollen die Reise nicht verschieben."
+    },
+    "level": "A2",
+    "sense": "to postpone",
+    "grammar": {
+      "part_of_speech": "verb",
+      "aspect": "imperfective",
+      "usage": "відкладати що"
+    },
+    "topic": "plans",
+    "options": {
+      "en": [
+        "to arrange a meeting",
+        "to book",
+        "to return an item",
+        "to postpone"
+      ],
+      "es": [
+        "concertar una reunión",
+        "reservar",
+        "devolver un artículo",
+        "aplazar"
+      ],
+      "de": [
+        "einen Artikel zurückgeben",
+        "buchen",
+        "verschieben",
+        "ein Treffen vereinbaren"
+      ]
+    }
+  },
+  {
+    "id": "uk-a2-foundation-010",
+    "canonical_id": "uk-a2-foundation-010",
+    "source_language": "uk",
+    "text": "повертати товар",
+    "uk": "повертати товар",
+    "en": "to return an item",
+    "es": "devolver un artículo",
+    "de": "einen Artikel zurückgeben",
+    "example": {
+      "uk": "Мені потрібно повернути товар, бо він зламаний.",
+      "en": "I need to return the item because it is broken.",
+      "es": "Necesito devolver el artículo porque está roto.",
+      "de": "Ich muss den Artikel zurückgeben, weil er kaputt ist."
+    },
+    "level": "A2",
+    "sense": "to return an item",
+    "grammar": {
+      "part_of_speech": "verb",
+      "aspect": "imperfective",
+      "usage": "повертати що"
+    },
+    "topic": "shopping",
+    "options": {
+      "en": [
+        "to book",
+        "to postpone",
+        "to arrange a meeting",
+        "to return an item"
+      ],
+      "es": [
+        "reservar",
+        "aplazar",
+        "concertar una reunión",
+        "devolver un artículo"
+      ],
+      "de": [
+        "buchen",
+        "verschieben",
+        "einen Artikel zurückgeben",
+        "ein Treffen vereinbaren"
+      ]
+    }
+  },
+  {
+    "id": "uk-a2-foundation-011",
+    "canonical_id": "uk-a2-foundation-011",
+    "source_language": "uk",
+    "text": "домовлятися про зустріч",
+    "uk": "домовлятися про зустріч",
+    "en": "to arrange a meeting",
+    "es": "concertar una reunión",
+    "de": "ein Treffen vereinbaren",
+    "example": {
+      "uk": "Ми домовляємося про зустріч на п’ятницю.",
+      "en": "We are arranging a meeting for Friday.",
+      "es": "Estamos concertando una reunión para el viernes.",
+      "de": "Wir vereinbaren ein Treffen für Freitag."
+    },
+    "level": "A2",
+    "sense": "to arrange a meeting",
+    "grammar": {
+      "part_of_speech": "verb",
+      "aspect": "imperfective",
+      "usage": "домовлятися з ким про що"
+    },
+    "topic": "relationships",
+    "options": {
+      "en": [
+        "to postpone",
+        "to book",
+        "to arrange a meeting",
+        "to return an item"
+      ],
+      "es": [
+        "reservar",
+        "concertar una reunión",
+        "devolver un artículo",
+        "aplazar"
+      ],
+      "de": [
+        "ein Treffen vereinbaren",
+        "einen Artikel zurückgeben",
+        "verschieben",
+        "buchen"
+      ]
+    }
+  },
+  {
+    "id": "uk-a2-foundation-012",
+    "canonical_id": "uk-a2-foundation-012",
+    "source_language": "uk",
+    "text": "бронювати",
+    "uk": "бронювати",
+    "en": "to book",
+    "es": "reservar",
+    "de": "buchen",
+    "example": {
+      "uk": "Я хочу забронювати номер на дві ночі.",
+      "en": "I want to book a room for two nights.",
+      "es": "Quiero reservar una habitación para dos noches.",
+      "de": "Ich möchte ein Zimmer für zwei Nächte buchen."
+    },
+    "level": "A2",
+    "sense": "to book",
+    "grammar": {
+      "part_of_speech": "verb",
+      "aspect": "imperfective",
+      "usage": "бронювати що"
+    },
+    "topic": "travel",
+    "options": {
+      "en": [
+        "to arrange a meeting",
+        "to return an item",
+        "to postpone",
+        "to book"
+      ],
+      "es": [
+        "devolver un artículo",
+        "reservar",
+        "concertar una reunión",
+        "aplazar"
+      ],
+      "de": [
+        "verschieben",
+        "buchen",
+        "einen Artikel zurückgeben",
+        "ein Treffen vereinbaren"
+      ]
+    }
+  },
+  {
+    "id": "uk-a2-foundation-013",
+    "canonical_id": "uk-a2-foundation-013",
+    "source_language": "uk",
+    "text": "одужувати",
+    "uk": "одужувати",
+    "en": "to recover from an illness",
+    "es": "recuperarse de una enfermedad",
+    "de": "gesund werden",
+    "example": {
+      "uk": "Після грипу я поступово одужую.",
+      "en": "I am gradually recovering from the flu.",
+      "es": "Me estoy recuperando poco a poco de la gripe.",
+      "de": "Nach der Grippe werde ich langsam wieder gesund."
+    },
+    "level": "A2",
+    "sense": "to recover from an illness",
+    "grammar": {
+      "part_of_speech": "verb",
+      "aspect": "imperfective",
+      "usage": "одужувати після чого"
+    },
+    "topic": "health",
+    "options": {
+      "en": [
+        "to join",
+        "to check",
+        "to compare",
+        "to recover from an illness"
+      ],
+      "es": [
+        "recuperarse de una enfermedad",
+        "unirse a",
+        "comprobar",
+        "comparar"
+      ],
+      "de": [
+        "gesund werden",
+        "überprüfen",
+        "vergleichen",
+        "sich anschließen (jemandem oder einer Gruppe)"
+      ]
+    }
+  },
+  {
+    "id": "uk-a2-foundation-014",
+    "canonical_id": "uk-a2-foundation-014",
+    "source_language": "uk",
+    "text": "порівнювати",
+    "uk": "порівнювати",
+    "en": "to compare",
+    "es": "comparar",
+    "de": "vergleichen",
+    "example": {
+      "uk": "Перед покупкою я порівнюю ціни.",
+      "en": "I compare prices before buying.",
+      "es": "Antes de comprar comparo los precios.",
+      "de": "Vor dem Kauf vergleiche ich die Preise."
+    },
+    "level": "A2",
+    "sense": "to compare",
+    "grammar": {
+      "part_of_speech": "verb",
+      "aspect": "imperfective",
+      "usage": "порівнювати що з чим"
+    },
+    "topic": "shopping",
+    "options": {
+      "en": [
+        "to compare",
+        "to recover from an illness",
+        "to join",
+        "to check"
+      ],
+      "es": [
+        "comprobar",
+        "recuperarse de una enfermedad",
+        "unirse a",
+        "comparar"
+      ],
+      "de": [
+        "vergleichen",
+        "gesund werden",
+        "sich anschließen (jemandem oder einer Gruppe)",
+        "überprüfen"
+      ]
+    }
+  },
+  {
+    "id": "uk-a2-foundation-015",
+    "canonical_id": "uk-a2-foundation-015",
+    "source_language": "uk",
+    "text": "приєднуватися до",
+    "uk": "приєднуватися до",
+    "en": "to join",
+    "es": "unirse a",
+    "de": "sich anschließen (jemandem oder einer Gruppe)",
+    "example": {
+      "uk": "Я хочу приєднатися до вашої групи.",
+      "en": "I want to join your group.",
+      "es": "Quiero unirme a vuestro grupo.",
+      "de": "Ich möchte mich eurer Gruppe anschließen."
+    },
+    "level": "A2",
+    "sense": "to join",
+    "grammar": {
+      "part_of_speech": "verb",
+      "aspect": "imperfective",
+      "usage": "приєднуватися до кого/чого"
+    },
+    "topic": "relationships",
+    "options": {
+      "en": [
+        "to recover from an illness",
+        "to check",
+        "to join",
+        "to compare"
+      ],
+      "es": [
+        "comparar",
+        "recuperarse de una enfermedad",
+        "comprobar",
+        "unirse a"
+      ],
+      "de": [
+        "überprüfen",
+        "gesund werden",
+        "sich anschließen (jemandem oder einer Gruppe)",
+        "vergleichen"
+      ]
+    }
+  },
+  {
+    "id": "uk-a2-foundation-016",
+    "canonical_id": "uk-a2-foundation-016",
+    "source_language": "uk",
+    "text": "перевіряти",
+    "uk": "перевіряти",
+    "en": "to check",
+    "es": "comprobar",
+    "de": "überprüfen",
+    "example": {
+      "uk": "Перед виходом я перевіряю, чи замкнені двері.",
+      "en": "Before leaving, I check whether the door is locked.",
+      "es": "Antes de salir compruebo si la puerta está cerrada con llave.",
+      "de": "Bevor ich gehe, überprüfe ich, ob die Tür abgeschlossen ist."
+    },
+    "level": "A2",
+    "sense": "to check",
+    "grammar": {
+      "part_of_speech": "verb",
+      "aspect": "imperfective",
+      "usage": "перевіряти що"
+    },
+    "topic": "housing",
+    "options": {
+      "en": [
+        "to recover from an illness",
+        "to compare",
+        "to join",
+        "to check"
+      ],
+      "es": [
+        "comparar",
+        "recuperarse de una enfermedad",
+        "unirse a",
+        "comprobar"
+      ],
+      "de": [
+        "gesund werden",
+        "vergleichen",
+        "überprüfen",
+        "sich anschließen (jemandem oder einer Gruppe)"
+      ]
+    }
+  },
+  {
+    "id": "uk-a2-foundation-017",
+    "canonical_id": "uk-a2-foundation-017",
+    "source_language": "uk",
+    "text": "Чи можна перенести зустріч?",
+    "uk": "Чи можна перенести зустріч?",
+    "en": "Could we reschedule the meeting?",
+    "es": "¿Podemos cambiar la fecha de la reunión?",
+    "de": "Können wir das Treffen verschieben?",
+    "example": {
+      "uk": "Я завтра працюю. Чи можна перенести зустріч?",
+      "en": "I am working tomorrow. Could we reschedule the meeting?",
+      "es": "Mañana trabajo. ¿Podemos cambiar la fecha de la reunión?",
+      "de": "Ich arbeite morgen. Können wir das Treffen verschieben?"
+    },
+    "level": "A2",
+    "sense": "Could we reschedule the meeting?",
+    "grammar": {
+      "part_of_speech": "phrase"
+    },
+    "topic": "relationships",
+    "options": {
+      "en": [
+        "Could we reschedule the meeting?",
+        "Thank you for the invitation!",
+        "This size does not fit me.",
+        "I am looking for a flat to rent."
+      ],
+      "es": [
+        "¿Podemos cambiar la fecha de la reunión?",
+        "¡Gracias por la invitación!",
+        "Busco un piso de alquiler.",
+        "Esta talla no me queda bien."
+      ],
+      "de": [
+        "Ich suche eine Wohnung zur Miete.",
+        "Diese Größe passt mir nicht.",
+        "Können wir das Treffen verschieben?",
+        "Danke für die Einladung!"
+      ]
+    }
+  },
+  {
+    "id": "uk-a2-foundation-018",
+    "canonical_id": "uk-a2-foundation-018",
+    "source_language": "uk",
+    "text": "Я шукаю квартиру в оренду.",
+    "uk": "Я шукаю квартиру в оренду.",
+    "en": "I am looking for a flat to rent.",
+    "es": "Busco un piso de alquiler.",
+    "de": "Ich suche eine Wohnung zur Miete.",
+    "example": {
+      "uk": "Я шукаю квартиру в оренду неподалік від центру.",
+      "en": "I am looking for a flat to rent near the centre.",
+      "es": "Busco un piso de alquiler cerca del centro.",
+      "de": "Ich suche eine Wohnung zur Miete in der Nähe des Zentrums."
+    },
+    "level": "A2",
+    "sense": "I am looking for a flat to rent.",
+    "grammar": {
+      "part_of_speech": "phrase"
+    },
+    "topic": "housing",
+    "options": {
+      "en": [
+        "Thank you for the invitation!",
+        "This size does not fit me.",
+        "I am looking for a flat to rent.",
+        "Could we reschedule the meeting?"
+      ],
+      "es": [
+        "¡Gracias por la invitación!",
+        "Busco un piso de alquiler.",
+        "¿Podemos cambiar la fecha de la reunión?",
+        "Esta talla no me queda bien."
+      ],
+      "de": [
+        "Diese Größe passt mir nicht.",
+        "Danke für die Einladung!",
+        "Können wir das Treffen verschieben?",
+        "Ich suche eine Wohnung zur Miete."
+      ]
+    }
+  },
+  {
+    "id": "uk-a2-foundation-019",
+    "canonical_id": "uk-a2-foundation-019",
+    "source_language": "uk",
+    "text": "Мені не підходить цей розмір.",
+    "uk": "Мені не підходить цей розмір.",
+    "en": "This size does not fit me.",
+    "es": "Esta talla no me queda bien.",
+    "de": "Diese Größe passt mir nicht.",
+    "example": {
+      "uk": "Мені не підходить цей розмір. Є більший?",
+      "en": "This size does not fit me. Is there a larger one?",
+      "es": "Esta talla no me queda bien. ¿Hay una más grande?",
+      "de": "Diese Größe passt mir nicht. Gibt es eine größere?"
+    },
+    "level": "A2",
+    "sense": "This size does not fit me.",
+    "grammar": {
+      "part_of_speech": "phrase"
+    },
+    "topic": "shopping",
+    "options": {
+      "en": [
+        "I am looking for a flat to rent.",
+        "Thank you for the invitation!",
+        "Could we reschedule the meeting?",
+        "This size does not fit me."
+      ],
+      "es": [
+        "Esta talla no me queda bien.",
+        "¡Gracias por la invitación!",
+        "Busco un piso de alquiler.",
+        "¿Podemos cambiar la fecha de la reunión?"
+      ],
+      "de": [
+        "Ich suche eine Wohnung zur Miete.",
+        "Können wir das Treffen verschieben?",
+        "Diese Größe passt mir nicht.",
+        "Danke für die Einladung!"
+      ]
+    }
+  },
+  {
+    "id": "uk-a2-foundation-020",
+    "canonical_id": "uk-a2-foundation-020",
+    "source_language": "uk",
+    "text": "Дякую за запрошення!",
+    "uk": "Дякую за запрошення!",
+    "en": "Thank you for the invitation!",
+    "es": "¡Gracias por la invitación!",
+    "de": "Danke für die Einladung!",
+    "example": {
+      "uk": "Дякую за запрошення! Я прийду в суботу.",
+      "en": "Thank you for the invitation! I will come on Saturday.",
+      "es": "¡Gracias por la invitación! Iré el sábado.",
+      "de": "Danke für die Einladung! Ich komme am Samstag."
+    },
+    "level": "A2",
+    "sense": "Thank you for the invitation!",
+    "grammar": {
+      "part_of_speech": "phrase"
+    },
+    "topic": "relationships",
+    "options": {
+      "en": [
+        "Thank you for the invitation!",
+        "I am looking for a flat to rent.",
+        "This size does not fit me.",
+        "Could we reschedule the meeting?"
+      ],
+      "es": [
+        "Busco un piso de alquiler.",
+        "¿Podemos cambiar la fecha de la reunión?",
+        "Esta talla no me queda bien.",
+        "¡Gracias por la invitación!"
+      ],
+      "de": [
+        "Können wir das Treffen verschieben?",
+        "Ich suche eine Wohnung zur Miete.",
+        "Danke für die Einladung!",
+        "Diese Größe passt mir nicht."
+      ]
+    }
+  }
+]

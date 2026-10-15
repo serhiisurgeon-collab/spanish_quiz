@@ -1,0 +1,858 @@
+[
+  {
+    "id": "de-a1-foundation-001",
+    "canonical_id": "de-a1-foundation-001",
+    "source_language": "de",
+    "text": "der Bahnhof",
+    "de": "der Bahnhof",
+    "uk": "залізничний вокзал",
+    "en": "the railway station",
+    "es": "la estación de tren",
+    "example": {
+      "de": "Der Bahnhof ist neben dem Hotel.",
+      "uk": "Залізничний вокзал поруч із готелем.",
+      "en": "The railway station is next to the hotel.",
+      "es": "La estación de tren está al lado del hotel."
+    },
+    "level": "A1",
+    "sense": "the railway station",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "der",
+      "plural": "die Bahnhöfe"
+    },
+    "topic": "daily_objects",
+    "options": {
+      "uk": [
+        "залізничний вокзал",
+        "вікно",
+        "рахунок до сплати",
+        "ключ"
+      ],
+      "en": [
+        "the railway station",
+        "a key",
+        "the bill",
+        "a window"
+      ],
+      "es": [
+        "la cuenta",
+        "una ventana",
+        "una llave",
+        "la estación de tren"
+      ]
+    }
+  },
+  {
+    "id": "de-a1-foundation-002",
+    "canonical_id": "de-a1-foundation-002",
+    "source_language": "de",
+    "text": "die Rechnung",
+    "de": "die Rechnung",
+    "uk": "рахунок до сплати",
+    "en": "the bill",
+    "es": "la cuenta",
+    "example": {
+      "de": "Die Rechnung, bitte!",
+      "uk": "Рахунок, будь ласка!",
+      "en": "The bill, please!",
+      "es": "¡La cuenta, por favor!"
+    },
+    "level": "A1",
+    "sense": "the bill",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "die",
+      "plural": "die Rechnungen"
+    },
+    "topic": "daily_objects",
+    "options": {
+      "uk": [
+        "рахунок до сплати",
+        "ключ",
+        "вікно",
+        "залізничний вокзал"
+      ],
+      "en": [
+        "the bill",
+        "a key",
+        "a window",
+        "the railway station"
+      ],
+      "es": [
+        "una llave",
+        "la cuenta",
+        "una ventana",
+        "la estación de tren"
+      ]
+    }
+  },
+  {
+    "id": "de-a1-foundation-003",
+    "canonical_id": "de-a1-foundation-003",
+    "source_language": "de",
+    "text": "das Fenster",
+    "de": "das Fenster",
+    "uk": "вікно",
+    "en": "a window",
+    "es": "una ventana",
+    "example": {
+      "de": "Das Fenster ist offen.",
+      "uk": "Вікно відчинене.",
+      "en": "The window is open.",
+      "es": "La ventana está abierta."
+    },
+    "level": "A1",
+    "sense": "a window",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "das",
+      "plural": "die Fenster"
+    },
+    "topic": "daily_objects",
+    "options": {
+      "uk": [
+        "рахунок до сплати",
+        "ключ",
+        "залізничний вокзал",
+        "вікно"
+      ],
+      "en": [
+        "a window",
+        "the bill",
+        "a key",
+        "the railway station"
+      ],
+      "es": [
+        "la cuenta",
+        "una llave",
+        "una ventana",
+        "la estación de tren"
+      ]
+    }
+  },
+  {
+    "id": "de-a1-foundation-004",
+    "canonical_id": "de-a1-foundation-004",
+    "source_language": "de",
+    "text": "der Schlüssel",
+    "de": "der Schlüssel",
+    "uk": "ключ",
+    "en": "a key",
+    "es": "una llave",
+    "example": {
+      "de": "Mein Schlüssel liegt auf dem Tisch.",
+      "uk": "Мій ключ лежить на столі.",
+      "en": "My key is on the table.",
+      "es": "Mi llave está en la mesa."
+    },
+    "level": "A1",
+    "sense": "a key",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "der",
+      "plural": "die Schlüssel"
+    },
+    "topic": "daily_objects",
+    "options": {
+      "uk": [
+        "ключ",
+        "залізничний вокзал",
+        "вікно",
+        "рахунок до сплати"
+      ],
+      "en": [
+        "the railway station",
+        "the bill",
+        "a key",
+        "a window"
+      ],
+      "es": [
+        "una llave",
+        "la cuenta",
+        "la estación de tren",
+        "una ventana"
+      ]
+    }
+  },
+  {
+    "id": "de-a1-foundation-005",
+    "canonical_id": "de-a1-foundation-005",
+    "source_language": "de",
+    "text": "die Apotheke",
+    "de": "die Apotheke",
+    "uk": "аптека",
+    "en": "a pharmacy",
+    "es": "una farmacia",
+    "example": {
+      "de": "Die Apotheke öffnet um neun.",
+      "uk": "Аптека відчиняється о дев’ятій.",
+      "en": "The pharmacy opens at nine.",
+      "es": "La farmacia abre a las nueve."
+    },
+    "level": "A1",
+    "sense": "a pharmacy",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "die",
+      "plural": "die Apotheken"
+    },
+    "topic": "daily_objects",
+    "options": {
+      "uk": [
+        "овочі",
+        "куртка",
+        "аптека",
+        "запланована зустріч або прийом"
+      ],
+      "en": [
+        "vegetables",
+        "a jacket",
+        "an appointment",
+        "a pharmacy"
+      ],
+      "es": [
+        "una farmacia",
+        "las verduras",
+        "una cita",
+        "una chaqueta"
+      ]
+    }
+  },
+  {
+    "id": "de-a1-foundation-006",
+    "canonical_id": "de-a1-foundation-006",
+    "source_language": "de",
+    "text": "das Gemüse",
+    "de": "das Gemüse",
+    "uk": "овочі",
+    "en": "vegetables",
+    "es": "las verduras",
+    "example": {
+      "de": "Das Gemüse ist frisch.",
+      "uk": "Овочі свіжі.",
+      "en": "The vegetables are fresh.",
+      "es": "Las verduras están frescas."
+    },
+    "level": "A1",
+    "sense": "vegetables",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "das",
+      "uncountable": true
+    },
+    "topic": "daily_objects",
+    "options": {
+      "uk": [
+        "запланована зустріч або прийом",
+        "аптека",
+        "овочі",
+        "куртка"
+      ],
+      "en": [
+        "vegetables",
+        "a pharmacy",
+        "an appointment",
+        "a jacket"
+      ],
+      "es": [
+        "las verduras",
+        "una farmacia",
+        "una cita",
+        "una chaqueta"
+      ]
+    }
+  },
+  {
+    "id": "de-a1-foundation-007",
+    "canonical_id": "de-a1-foundation-007",
+    "source_language": "de",
+    "text": "der Termin",
+    "de": "der Termin",
+    "uk": "запланована зустріч або прийом",
+    "en": "an appointment",
+    "es": "una cita",
+    "example": {
+      "de": "Ich habe morgen einen Termin beim Arzt.",
+      "uk": "У мене завтра прийом у лікаря.",
+      "en": "I have a doctor's appointment tomorrow.",
+      "es": "Tengo una cita con el médico mañana."
+    },
+    "level": "A1",
+    "sense": "an appointment",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "der",
+      "plural": "die Termine"
+    },
+    "topic": "daily_objects",
+    "options": {
+      "uk": [
+        "запланована зустріч або прийом",
+        "куртка",
+        "овочі",
+        "аптека"
+      ],
+      "en": [
+        "vegetables",
+        "an appointment",
+        "a pharmacy",
+        "a jacket"
+      ],
+      "es": [
+        "una cita",
+        "las verduras",
+        "una farmacia",
+        "una chaqueta"
+      ]
+    }
+  },
+  {
+    "id": "de-a1-foundation-008",
+    "canonical_id": "de-a1-foundation-008",
+    "source_language": "de",
+    "text": "die Jacke",
+    "de": "die Jacke",
+    "uk": "куртка",
+    "en": "a jacket",
+    "es": "una chaqueta",
+    "example": {
+      "de": "Meine Jacke hängt an der Tür.",
+      "uk": "Моя куртка висить на дверях.",
+      "en": "My jacket is hanging on the door.",
+      "es": "Mi chaqueta está colgada en la puerta."
+    },
+    "level": "A1",
+    "sense": "a jacket",
+    "grammar": {
+      "part_of_speech": "noun",
+      "article": "die",
+      "plural": "die Jacken"
+    },
+    "topic": "daily_objects",
+    "options": {
+      "uk": [
+        "запланована зустріч або прийом",
+        "овочі",
+        "аптека",
+        "куртка"
+      ],
+      "en": [
+        "a pharmacy",
+        "vegetables",
+        "a jacket",
+        "an appointment"
+      ],
+      "es": [
+        "una farmacia",
+        "las verduras",
+        "una cita",
+        "una chaqueta"
+      ]
+    }
+  },
+  {
+    "id": "de-a1-foundation-009",
+    "canonical_id": "de-a1-foundation-009",
+    "source_language": "de",
+    "text": "einkaufen",
+    "de": "einkaufen",
+    "uk": "купувати продукти й інші повсякденні товари",
+    "en": "to do the shopping",
+    "es": "hacer la compra",
+    "example": {
+      "de": "Wir kaufen am Samstag ein.",
+      "uk": "Ми робимо покупки в суботу.",
+      "en": "We do the shopping on Saturday.",
+      "es": "Hacemos la compra el sábado."
+    },
+    "level": "A1",
+    "sense": "to do the shopping",
+    "grammar": {
+      "part_of_speech": "verb"
+    },
+    "topic": "daily_actions",
+    "options": {
+      "uk": [
+        "їхати транспортом",
+        "прибирати, наводити лад",
+        "купувати продукти й інші повсякденні товари",
+        "снідати"
+      ],
+      "en": [
+        "to travel by vehicle",
+        "to have breakfast",
+        "to tidy up",
+        "to do the shopping"
+      ],
+      "es": [
+        "ir en un vehículo",
+        "hacer la compra",
+        "desayunar",
+        "ordenar"
+      ]
+    }
+  },
+  {
+    "id": "de-a1-foundation-010",
+    "canonical_id": "de-a1-foundation-010",
+    "source_language": "de",
+    "text": "aufräumen",
+    "de": "aufräumen",
+    "uk": "прибирати, наводити лад",
+    "en": "to tidy up",
+    "es": "ordenar",
+    "example": {
+      "de": "Ich räume mein Zimmer auf.",
+      "uk": "Я прибираю свою кімнату.",
+      "en": "I tidy up my room.",
+      "es": "Ordeno mi habitación."
+    },
+    "level": "A1",
+    "sense": "to tidy up",
+    "grammar": {
+      "part_of_speech": "verb"
+    },
+    "topic": "daily_actions",
+    "options": {
+      "uk": [
+        "прибирати, наводити лад",
+        "снідати",
+        "купувати продукти й інші повсякденні товари",
+        "їхати транспортом"
+      ],
+      "en": [
+        "to tidy up",
+        "to travel by vehicle",
+        "to do the shopping",
+        "to have breakfast"
+      ],
+      "es": [
+        "ordenar",
+        "desayunar",
+        "ir en un vehículo",
+        "hacer la compra"
+      ]
+    }
+  },
+  {
+    "id": "de-a1-foundation-011",
+    "canonical_id": "de-a1-foundation-011",
+    "source_language": "de",
+    "text": "frühstücken",
+    "de": "frühstücken",
+    "uk": "снідати",
+    "en": "to have breakfast",
+    "es": "desayunar",
+    "example": {
+      "de": "Wir frühstücken um acht.",
+      "uk": "Ми снідаємо о восьмій.",
+      "en": "We have breakfast at eight.",
+      "es": "Desayunamos a las ocho."
+    },
+    "level": "A1",
+    "sense": "to have breakfast",
+    "grammar": {
+      "part_of_speech": "verb"
+    },
+    "topic": "daily_actions",
+    "options": {
+      "uk": [
+        "прибирати, наводити лад",
+        "купувати продукти й інші повсякденні товари",
+        "їхати транспортом",
+        "снідати"
+      ],
+      "en": [
+        "to have breakfast",
+        "to travel by vehicle",
+        "to tidy up",
+        "to do the shopping"
+      ],
+      "es": [
+        "hacer la compra",
+        "ordenar",
+        "desayunar",
+        "ir en un vehículo"
+      ]
+    }
+  },
+  {
+    "id": "de-a1-foundation-012",
+    "canonical_id": "de-a1-foundation-012",
+    "source_language": "de",
+    "text": "fahren",
+    "de": "fahren",
+    "uk": "їхати транспортом",
+    "en": "to travel by vehicle",
+    "es": "ir en un vehículo",
+    "example": {
+      "de": "Ich fahre mit dem Bus zur Arbeit.",
+      "uk": "Я їду автобусом на роботу.",
+      "en": "I take the bus to work.",
+      "es": "Voy al trabajo en autobús."
+    },
+    "level": "A1",
+    "sense": "to travel by vehicle",
+    "grammar": {
+      "part_of_speech": "verb"
+    },
+    "topic": "daily_actions",
+    "options": {
+      "uk": [
+        "снідати",
+        "купувати продукти й інші повсякденні товари",
+        "їхати транспортом",
+        "прибирати, наводити лад"
+      ],
+      "en": [
+        "to tidy up",
+        "to travel by vehicle",
+        "to have breakfast",
+        "to do the shopping"
+      ],
+      "es": [
+        "ir en un vehículo",
+        "ordenar",
+        "desayunar",
+        "hacer la compra"
+      ]
+    }
+  },
+  {
+    "id": "de-a1-foundation-013",
+    "canonical_id": "de-a1-foundation-013",
+    "source_language": "de",
+    "text": "helfen",
+    "de": "helfen",
+    "uk": "допомагати",
+    "en": "to help",
+    "es": "ayudar",
+    "example": {
+      "de": "Kannst du mir helfen?",
+      "uk": "Можеш мені допомогти?",
+      "en": "Can you help me?",
+      "es": "¿Puedes ayudarme?"
+    },
+    "level": "A1",
+    "sense": "to help",
+    "grammar": {
+      "part_of_speech": "verb"
+    },
+    "topic": "daily_actions",
+    "options": {
+      "uk": [
+        "допомагати",
+        "знаходити",
+        "вчитися, вивчати",
+        "зустрічатися"
+      ],
+      "en": [
+        "to find",
+        "to help",
+        "to learn",
+        "to meet up"
+      ],
+      "es": [
+        "quedar",
+        "ayudar",
+        "encontrar",
+        "aprender"
+      ]
+    }
+  },
+  {
+    "id": "de-a1-foundation-014",
+    "canonical_id": "de-a1-foundation-014",
+    "source_language": "de",
+    "text": "finden",
+    "de": "finden",
+    "uk": "знаходити",
+    "en": "to find",
+    "es": "encontrar",
+    "example": {
+      "de": "Ich finde meinen Schlüssel nicht.",
+      "uk": "Я не можу знайти свій ключ.",
+      "en": "I cannot find my key.",
+      "es": "No encuentro mi llave."
+    },
+    "level": "A1",
+    "sense": "to find",
+    "grammar": {
+      "part_of_speech": "verb"
+    },
+    "topic": "daily_actions",
+    "options": {
+      "uk": [
+        "вчитися, вивчати",
+        "зустрічатися",
+        "знаходити",
+        "допомагати"
+      ],
+      "en": [
+        "to learn",
+        "to meet up",
+        "to help",
+        "to find"
+      ],
+      "es": [
+        "ayudar",
+        "encontrar",
+        "aprender",
+        "quedar"
+      ]
+    }
+  },
+  {
+    "id": "de-a1-foundation-015",
+    "canonical_id": "de-a1-foundation-015",
+    "source_language": "de",
+    "text": "lernen",
+    "de": "lernen",
+    "uk": "вчитися, вивчати",
+    "en": "to learn",
+    "es": "aprender",
+    "example": {
+      "de": "Ich lerne jeden Tag Deutsch.",
+      "uk": "Я щодня вивчаю німецьку.",
+      "en": "I learn German every day.",
+      "es": "Aprendo alemán todos los días."
+    },
+    "level": "A1",
+    "sense": "to learn",
+    "grammar": {
+      "part_of_speech": "verb"
+    },
+    "topic": "daily_actions",
+    "options": {
+      "uk": [
+        "зустрічатися",
+        "знаходити",
+        "вчитися, вивчати",
+        "допомагати"
+      ],
+      "en": [
+        "to help",
+        "to find",
+        "to meet up",
+        "to learn"
+      ],
+      "es": [
+        "ayudar",
+        "encontrar",
+        "aprender",
+        "quedar"
+      ]
+    }
+  },
+  {
+    "id": "de-a1-foundation-016",
+    "canonical_id": "de-a1-foundation-016",
+    "source_language": "de",
+    "text": "sich treffen",
+    "de": "sich treffen",
+    "uk": "зустрічатися",
+    "en": "to meet up",
+    "es": "quedar",
+    "example": {
+      "de": "Wir treffen uns am Sonntag.",
+      "uk": "Ми зустрічаємося в неділю.",
+      "en": "We are meeting up on Sunday.",
+      "es": "Quedamos el domingo."
+    },
+    "level": "A1",
+    "sense": "to meet up",
+    "grammar": {
+      "part_of_speech": "verb"
+    },
+    "topic": "daily_actions",
+    "options": {
+      "uk": [
+        "знаходити",
+        "допомагати",
+        "зустрічатися",
+        "вчитися, вивчати"
+      ],
+      "en": [
+        "to help",
+        "to meet up",
+        "to find",
+        "to learn"
+      ],
+      "es": [
+        "quedar",
+        "aprender",
+        "ayudar",
+        "encontrar"
+      ]
+    }
+  },
+  {
+    "id": "de-a1-foundation-017",
+    "canonical_id": "de-a1-foundation-017",
+    "source_language": "de",
+    "text": "Wie spät ist es?",
+    "de": "Wie spät ist es?",
+    "uk": "Котра година?",
+    "en": "What time is it?",
+    "es": "¿Qué hora es?",
+    "example": {
+      "de": "Entschuldigung, wie spät ist es?",
+      "uk": "Вибачте, котра година?",
+      "en": "Excuse me, what time is it?",
+      "es": "Perdone, ¿qué hora es?"
+    },
+    "level": "A1",
+    "sense": "What time is it?",
+    "grammar": {
+      "part_of_speech": "phrase"
+    },
+    "topic": "communication",
+    "options": {
+      "uk": [
+        "Ви розмовляєте англійською?",
+        "Одужуй!",
+        "Котра година?",
+        "Я хочу води."
+      ],
+      "en": [
+        "Do you speak English?",
+        "What time is it?",
+        "I would like some water.",
+        "Get well soon!"
+      ],
+      "es": [
+        "Quisiera agua.",
+        "¿Qué hora es?",
+        "¡Que te mejores!",
+        "¿Habla inglés?"
+      ]
+    }
+  },
+  {
+    "id": "de-a1-foundation-018",
+    "canonical_id": "de-a1-foundation-018",
+    "source_language": "de",
+    "text": "Ich hätte gern ein Wasser.",
+    "de": "Ich hätte gern ein Wasser.",
+    "uk": "Я хочу води.",
+    "en": "I would like some water.",
+    "es": "Quisiera agua.",
+    "example": {
+      "de": "Ich hätte gern ein Wasser, bitte.",
+      "uk": "Я хочу води, будь ласка.",
+      "en": "I would like some water, please.",
+      "es": "Quisiera agua, por favor."
+    },
+    "level": "A1",
+    "sense": "I would like some water.",
+    "grammar": {
+      "part_of_speech": "phrase"
+    },
+    "topic": "communication",
+    "options": {
+      "uk": [
+        "Ви розмовляєте англійською?",
+        "Я хочу води.",
+        "Одужуй!",
+        "Котра година?"
+      ],
+      "en": [
+        "Do you speak English?",
+        "Get well soon!",
+        "I would like some water.",
+        "What time is it?"
+      ],
+      "es": [
+        "¡Que te mejores!",
+        "¿Qué hora es?",
+        "¿Habla inglés?",
+        "Quisiera agua."
+      ]
+    }
+  },
+  {
+    "id": "de-a1-foundation-019",
+    "canonical_id": "de-a1-foundation-019",
+    "source_language": "de",
+    "text": "Sprechen Sie Englisch?",
+    "de": "Sprechen Sie Englisch?",
+    "uk": "Ви розмовляєте англійською?",
+    "en": "Do you speak English?",
+    "es": "¿Habla inglés?",
+    "example": {
+      "de": "Entschuldigung, sprechen Sie Englisch?",
+      "uk": "Вибачте, ви розмовляєте англійською?",
+      "en": "Excuse me, do you speak English?",
+      "es": "Perdone, ¿habla inglés?"
+    },
+    "level": "A1",
+    "sense": "Do you speak English?",
+    "grammar": {
+      "part_of_speech": "phrase"
+    },
+    "topic": "communication",
+    "options": {
+      "uk": [
+        "Одужуй!",
+        "Ви розмовляєте англійською?",
+        "Я хочу води.",
+        "Котра година?"
+      ],
+      "en": [
+        "Get well soon!",
+        "What time is it?",
+        "Do you speak English?",
+        "I would like some water."
+      ],
+      "es": [
+        "¡Que te mejores!",
+        "¿Qué hora es?",
+        "Quisiera agua.",
+        "¿Habla inglés?"
+      ]
+    }
+  },
+  {
+    "id": "de-a1-foundation-020",
+    "canonical_id": "de-a1-foundation-020",
+    "source_language": "de",
+    "text": "Gute Besserung!",
+    "de": "Gute Besserung!",
+    "uk": "Одужуй!",
+    "en": "Get well soon!",
+    "es": "¡Que te mejores!",
+    "example": {
+      "de": "Du bist krank? Gute Besserung!",
+      "uk": "Ти хворієш? Одужуй!",
+      "en": "Are you ill? Get well soon!",
+      "es": "¿Estás enfermo? ¡Que te mejores!"
+    },
+    "level": "A1",
+    "sense": "Get well soon!",
+    "grammar": {
+      "part_of_speech": "phrase"
+    },
+    "topic": "communication",
+    "options": {
+      "uk": [
+        "Котра година?",
+        "Я хочу води.",
+        "Ви розмовляєте англійською?",
+        "Одужуй!"
+      ],
+      "en": [
+        "Do you speak English?",
+        "I would like some water.",
+        "Get well soon!",
+        "What time is it?"
+      ],
+      "es": [
+        "¿Habla inglés?",
+        "¿Qué hora es?",
+        "¡Que te mejores!",
+        "Quisiera agua."
+      ]
+    }
+  }
+]

@@ -63,6 +63,7 @@
       margin: 12px 0 20px;
       font-weight: 700;
       color: #d5c68a;
+      overflow-wrap: anywhere;
     }
 
     .options {
@@ -178,6 +179,7 @@
 
   const requestedLanguage = params.get("lang");
   const lang = ["uk", "en", "es", "de"].includes(requestedLanguage) ? requestedLanguage : "uk";
+  const target = ['uk','en','de'].includes(params.get('translation_language')||lang)?(params.get('translation_language')||lang):null;
   const dictionary = window.QuizLocales[lang];
   function t(key, values = {}) {
     if (typeof dictionary[key] !== "string") throw new Error("Missing localization: " + key);
@@ -206,16 +208,17 @@
   let answered = false;
   let submitting = false;
   const answers = [];
+  const seenWords = new Set();
   finishBtn.disabled = true;
   nextBtn.disabled = true;
 
   function sessionPayload(items = answers) {
-    return JSON.stringify({level, lang, answers: items});
+    return JSON.stringify({level, lang:target, answers: items});
   }
 
   async function loadWords() {
     try {
-      const response = await fetch("data/" + level + ".json");
+      const response = await fetch("data/reviewed/" + level + ".json");
       if (!response.ok) {
         throw new Error("HTTP " + response.status);
       }
@@ -223,15 +226,15 @@
 
       if (!Array.isArray(words) || words.length === 0) throw new Error("Empty vocabulary");
       for (const word of words) {
-        const options = word.options?.[lang];
+        const options = word.options?.[target];
         const normalize = value => value.normalize("NFKC").trim().toLowerCase();
         if (typeof word.id !== "string" || !word.id || typeof word.es !== "string" || !word.es.trim()
-            || typeof word[lang] !== "string" || !word[lang].trim()
+            || typeof word[target] !== "string" || !word[target].trim()
             || !Array.isArray(options) || options.length !== 4
             || options.some(o => typeof o !== "string" || !o.trim())
             || (word.example && ["es", "uk", "en"].some(k => typeof word.example[k] !== "string" || !word.example[k].trim()))
             || new Set(options.map(normalize)).size !== options.length
-            || options.filter(o => normalize(o) === normalize(word[lang])).length !== 1) {
+            || options.filter(o => normalize(o) === normalize(word[target])).length !== 1) {
           throw new Error("Invalid question options");
         }
       }
@@ -246,8 +249,10 @@
   }
 
   function pickRandomWord() {
-    const index = Math.floor(Math.random() * words.length);
-    currentWord = words[index];
+    const available = words.filter(w => !seenWords.has(w.canonical_id || w.id));
+    const index = Math.floor(Math.random() * available.length);
+    currentWord = available[index];
+    seenWords.add(currentWord.canonical_id || currentWord.id);
   }
 
   function shuffle(array) {
@@ -268,8 +273,6 @@
     const example = currentWord.example;
     document.getElementById("exampleText").textContent = example
       ? t("context", {example: example.es}) + (currentWord.region === "ES" ? " · " + t("region_ES") : "")
-        + (currentWord.regional_note?.[lang] ? " · " + currentWord.regional_note[lang] : "")
-        + (currentWord.usage_note?.[lang] ? " · " + currentWord.usage_note[lang] : "")
       : "";
     resultEl.textContent = "";
     errorEl.textContent = "";
@@ -278,7 +281,7 @@
     optionsContainer.innerHTML = "";
 
     const optionsShuffled = shuffle(
-      currentWord.options[lang]
+      currentWord.options[target]
     );
 
     optionsShuffled.forEach(optionText => {
@@ -299,9 +302,9 @@
         answered = true;
         answers.push(answer);
         finishBtn.disabled = false;
-        nextBtn.disabled = answers.length >= 20;
+        nextBtn.disabled = answers.length >= 20 || seenWords.size >= new Set(words.map(w => w.canonical_id || w.id)).size;
         hintEl.textContent = t("count", {count: answers.length});
-        const correctAnswer = currentWord[lang];
+        const correctAnswer = currentWord[target];
         const allButtons = optionsContainer.querySelectorAll(".option");
         allButtons.forEach(b => {
           b.classList.remove("correct", "wrong");
@@ -318,8 +321,10 @@
         }
 
         if (currentWord.example) {
-          resultEl.textContent += " " + t("exampleTranslation", {example: currentWord.example[lang]});
+          resultEl.textContent += " " + t("exampleTranslation", {example: currentWord.example[target]});
         }
+        if (currentWord.regional_note?.[target]) resultEl.textContent += " " + currentWord.regional_note[target];
+        if (currentWord.usage_note?.[target]) resultEl.textContent += " " + currentWord.usage_note[target];
         allButtons.forEach(b => { b.disabled = true; });
       });
 
@@ -352,7 +357,7 @@
   });
 
   if (params.has("api")) window.startSecureQuiz(tg, params);
-  else if (["uk", "en"].includes(lang)) loadWords();
+  else if (target && (params.get('learning_language')||'es')==='es') loadWords();
   else errorEl.textContent = t("directionPending");
 </script>
 </body>

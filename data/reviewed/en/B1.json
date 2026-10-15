@@ -1,0 +1,851 @@
+[
+  {
+    "id": "en-b1-foundation-001",
+    "canonical_id": "en-b1-foundation-001",
+    "source_language": "en",
+    "text": "a deadline",
+    "en": "a deadline",
+    "uk": "кінцевий термін виконання",
+    "es": "una fecha límite",
+    "de": "die Frist",
+    "example": {
+      "en": "We asked for more time because we could not meet the deadline.",
+      "uk": "Ми попросили більше часу, бо не встигали виконати роботу до встановленого терміну.",
+      "es": "Pedimos más tiempo porque no podíamos cumplir el plazo.",
+      "de": "Wir haben um mehr Zeit gebeten, weil wir die Frist nicht einhalten konnten."
+    },
+    "level": "B1",
+    "sense": "a deadline",
+    "grammar": {
+      "part_of_speech": "noun"
+    },
+    "topic": "work",
+    "options": {
+      "uk": [
+        "домовленість",
+        "кінцевий термін виконання",
+        "досягнення",
+        "скарга"
+      ],
+      "es": [
+        "un acuerdo",
+        "una queja",
+        "un logro",
+        "una fecha límite"
+      ],
+      "de": [
+        "die Vereinbarung",
+        "die Frist",
+        "die Leistung (Erfolg)",
+        "die Beschwerde"
+      ]
+    }
+  },
+  {
+    "id": "en-b1-foundation-002",
+    "canonical_id": "en-b1-foundation-002",
+    "source_language": "en",
+    "text": "an achievement",
+    "en": "an achievement",
+    "uk": "досягнення",
+    "es": "un logro",
+    "de": "die Leistung (Erfolg)",
+    "example": {
+      "en": "Completing the course while working was an important achievement for her.",
+      "uk": "Завершення курсу під час роботи стало для неї важливим досягненням.",
+      "es": "Terminar el curso mientras trabajaba fue un logro importante para ella.",
+      "de": "Den Kurs neben der Arbeit abzuschließen war für sie eine wichtige Leistung."
+    },
+    "level": "B1",
+    "sense": "an achievement",
+    "grammar": {
+      "part_of_speech": "noun"
+    },
+    "topic": "education",
+    "options": {
+      "uk": [
+        "скарга",
+        "кінцевий термін виконання",
+        "домовленість",
+        "досягнення"
+      ],
+      "es": [
+        "un logro",
+        "un acuerdo",
+        "una queja",
+        "una fecha límite"
+      ],
+      "de": [
+        "die Leistung (Erfolg)",
+        "die Beschwerde",
+        "die Vereinbarung",
+        "die Frist"
+      ]
+    }
+  },
+  {
+    "id": "en-b1-foundation-003",
+    "canonical_id": "en-b1-foundation-003",
+    "source_language": "en",
+    "text": "a complaint",
+    "en": "a complaint",
+    "uk": "скарга",
+    "es": "una queja",
+    "de": "die Beschwerde",
+    "example": {
+      "en": "I wrote a complaint about the noise in the hotel.",
+      "uk": "Я написав скаргу на шум у готелі.",
+      "es": "Escribí una queja por el ruido en el hotel.",
+      "de": "Ich habe eine Beschwerde über den Lärm im Hotel geschrieben."
+    },
+    "level": "B1",
+    "sense": "a complaint",
+    "grammar": {
+      "part_of_speech": "noun"
+    },
+    "topic": "travel",
+    "options": {
+      "uk": [
+        "кінцевий термін виконання",
+        "досягнення",
+        "скарга",
+        "домовленість"
+      ],
+      "es": [
+        "un acuerdo",
+        "un logro",
+        "una queja",
+        "una fecha límite"
+      ],
+      "de": [
+        "die Frist",
+        "die Beschwerde",
+        "die Vereinbarung",
+        "die Leistung (Erfolg)"
+      ]
+    }
+  },
+  {
+    "id": "en-b1-foundation-004",
+    "canonical_id": "en-b1-foundation-004",
+    "source_language": "en",
+    "text": "an agreement",
+    "en": "an agreement",
+    "uk": "домовленість",
+    "es": "un acuerdo",
+    "de": "die Vereinbarung",
+    "example": {
+      "en": "We reached an agreement about how to share the costs.",
+      "uk": "Ми домовилися, як розподілити витрати.",
+      "es": "Llegamos a un acuerdo sobre cómo repartir los gastos.",
+      "de": "Wir haben eine Vereinbarung darüber getroffen, wie wir die Kosten aufteilen."
+    },
+    "level": "B1",
+    "sense": "an agreement",
+    "grammar": {
+      "part_of_speech": "noun"
+    },
+    "topic": "relationships",
+    "options": {
+      "uk": [
+        "скарга",
+        "досягнення",
+        "домовленість",
+        "кінцевий термін виконання"
+      ],
+      "es": [
+        "una fecha límite",
+        "un logro",
+        "un acuerdo",
+        "una queja"
+      ],
+      "de": [
+        "die Leistung (Erfolg)",
+        "die Vereinbarung",
+        "die Beschwerde",
+        "die Frist"
+      ]
+    }
+  },
+  {
+    "id": "en-b1-foundation-005",
+    "canonical_id": "en-b1-foundation-005",
+    "source_language": "en",
+    "text": "a consequence",
+    "en": "a consequence",
+    "uk": "наслідок",
+    "es": "una consecuencia",
+    "de": "die Folge",
+    "example": {
+      "en": "We discussed the possible consequences before making a decision.",
+      "uk": "Ми обговорили можливі наслідки, перш ніж ухвалити рішення.",
+      "es": "Hablamos de las posibles consecuencias antes de tomar una decisión.",
+      "de": "Wir haben über die möglichen Folgen gesprochen, bevor wir eine Entscheidung getroffen haben."
+    },
+    "level": "B1",
+    "sense": "a consequence",
+    "grammar": {
+      "part_of_speech": "noun"
+    },
+    "topic": "decisions",
+    "options": {
+      "uk": [
+        "упевненість у собі",
+        "недолік",
+        "наслідок",
+        "можливість, сприятлива нагода"
+      ],
+      "es": [
+        "una desventaja",
+        "la confianza en uno mismo",
+        "una consecuencia",
+        "una oportunidad"
+      ],
+      "de": [
+        "der Nachteil",
+        "die Gelegenheit",
+        "das Selbstvertrauen",
+        "die Folge"
+      ]
+    }
+  },
+  {
+    "id": "en-b1-foundation-006",
+    "canonical_id": "en-b1-foundation-006",
+    "source_language": "en",
+    "text": "an opportunity",
+    "en": "an opportunity",
+    "uk": "можливість, сприятлива нагода",
+    "es": "una oportunidad",
+    "de": "die Gelegenheit",
+    "example": {
+      "en": "This project gave me an opportunity to learn from experienced colleagues.",
+      "uk": "Цей проєкт дав мені можливість вчитися в досвідчених колег.",
+      "es": "Este proyecto me dio la oportunidad de aprender de compañeros con experiencia.",
+      "de": "Dieses Projekt hat mir die Gelegenheit gegeben, von erfahrenen Kollegen zu lernen."
+    },
+    "level": "B1",
+    "sense": "an opportunity",
+    "grammar": {
+      "part_of_speech": "noun"
+    },
+    "topic": "education",
+    "options": {
+      "uk": [
+        "недолік",
+        "наслідок",
+        "можливість, сприятлива нагода",
+        "упевненість у собі"
+      ],
+      "es": [
+        "la confianza en uno mismo",
+        "una desventaja",
+        "una oportunidad",
+        "una consecuencia"
+      ],
+      "de": [
+        "die Gelegenheit",
+        "die Folge",
+        "das Selbstvertrauen",
+        "der Nachteil"
+      ]
+    }
+  },
+  {
+    "id": "en-b1-foundation-007",
+    "canonical_id": "en-b1-foundation-007",
+    "source_language": "en",
+    "text": "a disadvantage",
+    "en": "a disadvantage",
+    "uk": "недолік",
+    "es": "una desventaja",
+    "de": "der Nachteil",
+    "example": {
+      "en": "One disadvantage of living here is the long journey to work.",
+      "uk": "Один із недоліків життя тут — довга дорога на роботу.",
+      "es": "Una desventaja de vivir aquí es el largo trayecto al trabajo.",
+      "de": "Ein Nachteil des Lebens hier ist der lange Arbeitsweg."
+    },
+    "level": "B1",
+    "sense": "a disadvantage",
+    "grammar": {
+      "part_of_speech": "noun"
+    },
+    "topic": "housing",
+    "options": {
+      "uk": [
+        "можливість, сприятлива нагода",
+        "упевненість у собі",
+        "наслідок",
+        "недолік"
+      ],
+      "es": [
+        "una desventaja",
+        "una oportunidad",
+        "una consecuencia",
+        "la confianza en uno mismo"
+      ],
+      "de": [
+        "die Gelegenheit",
+        "das Selbstvertrauen",
+        "die Folge",
+        "der Nachteil"
+      ]
+    }
+  },
+  {
+    "id": "en-b1-foundation-008",
+    "canonical_id": "en-b1-foundation-008",
+    "source_language": "en",
+    "text": "confidence",
+    "en": "confidence",
+    "uk": "упевненість у собі",
+    "es": "la confianza en uno mismo",
+    "de": "das Selbstvertrauen",
+    "example": {
+      "en": "Speaking to new people helped me gain confidence.",
+      "uk": "Спілкування з новими людьми допомогло мені стати впевненішим у собі.",
+      "es": "Hablar con gente nueva me ayudó a ganar confianza en mí mismo.",
+      "de": "Gespräche mit neuen Menschen haben mir geholfen, Selbstvertrauen zu gewinnen."
+    },
+    "level": "B1",
+    "sense": "confidence",
+    "grammar": {
+      "part_of_speech": "noun",
+      "uncountable": true
+    },
+    "topic": "development",
+    "options": {
+      "uk": [
+        "наслідок",
+        "можливість, сприятлива нагода",
+        "упевненість у собі",
+        "недолік"
+      ],
+      "es": [
+        "una desventaja",
+        "una consecuencia",
+        "una oportunidad",
+        "la confianza en uno mismo"
+      ],
+      "de": [
+        "der Nachteil",
+        "die Folge",
+        "die Gelegenheit",
+        "das Selbstvertrauen"
+      ]
+    }
+  },
+  {
+    "id": "en-b1-foundation-009",
+    "canonical_id": "en-b1-foundation-009",
+    "source_language": "en",
+    "text": "to put off doing something",
+    "en": "to put off doing something",
+    "uk": "відкладати виконання чогось",
+    "es": "posponer hacer algo",
+    "de": "etwas aufschieben",
+    "example": {
+      "en": "I kept putting off writing the report until Friday.",
+      "uk": "Я відкладав написання звіту аж до п’ятниці.",
+      "es": "Fui posponiendo la redacción del informe hasta el viernes.",
+      "de": "Ich habe das Schreiben des Berichts bis Freitag immer wieder aufgeschoben."
+    },
+    "level": "B1",
+    "sense": "to put off doing something",
+    "grammar": {
+      "part_of_speech": "verb_phrase",
+      "usage": "put off + -ing"
+    },
+    "topic": "work",
+    "options": {
+      "uk": [
+        "знаходити розв’язання",
+        "брати участь у",
+        "ладнати з",
+        "відкладати виконання чогось"
+      ],
+      "es": [
+        "dar con una solución",
+        "posponer hacer algo",
+        "participar en",
+        "llevarse bien con"
+      ],
+      "de": [
+        "teilnehmen an",
+        "sich gut verstehen mit",
+        "etwas aufschieben",
+        "auf eine Lösung kommen"
+      ]
+    }
+  },
+  {
+    "id": "en-b1-foundation-010",
+    "canonical_id": "en-b1-foundation-010",
+    "source_language": "en",
+    "text": "to come up with a solution",
+    "en": "to come up with a solution",
+    "uk": "знаходити розв’язання",
+    "es": "dar con una solución",
+    "de": "auf eine Lösung kommen",
+    "example": {
+      "en": "She came up with a solution that saved us time.",
+      "uk": "Вона знайшла розв’язання, завдяки якому ми заощадили час.",
+      "es": "Dio con una solución que nos ahorró tiempo.",
+      "de": "Sie ist auf eine Lösung gekommen, die uns Zeit gespart hat."
+    },
+    "level": "B1",
+    "sense": "to come up with a solution",
+    "grammar": {
+      "part_of_speech": "verb_phrase",
+      "usage": "come up with + solution"
+    },
+    "topic": "decisions",
+    "options": {
+      "uk": [
+        "брати участь у",
+        "знаходити розв’язання",
+        "відкладати виконання чогось",
+        "ладнати з"
+      ],
+      "es": [
+        "participar en",
+        "llevarse bien con",
+        "dar con una solución",
+        "posponer hacer algo"
+      ],
+      "de": [
+        "teilnehmen an",
+        "etwas aufschieben",
+        "sich gut verstehen mit",
+        "auf eine Lösung kommen"
+      ]
+    }
+  },
+  {
+    "id": "en-b1-foundation-011",
+    "canonical_id": "en-b1-foundation-011",
+    "source_language": "en",
+    "text": "to get along with",
+    "en": "to get along with",
+    "uk": "ладнати з",
+    "es": "llevarse bien con",
+    "de": "sich gut verstehen mit",
+    "example": {
+      "en": "I get along with my neighbours, although we have different routines.",
+      "uk": "Я ладнаю зі своїми сусідами, хоча в нас різний розпорядок дня.",
+      "es": "Me llevo bien con mis vecinos, aunque tenemos horarios distintos.",
+      "de": "Ich verstehe mich gut mit meinen Nachbarn, obwohl wir unterschiedliche Tagesabläufe haben."
+    },
+    "level": "B1",
+    "sense": "to get along with",
+    "grammar": {
+      "part_of_speech": "verb_phrase",
+      "usage": "get along with + person"
+    },
+    "topic": "relationships",
+    "options": {
+      "uk": [
+        "знаходити розв’язання",
+        "брати участь у",
+        "відкладати виконання чогось",
+        "ладнати з"
+      ],
+      "es": [
+        "participar en",
+        "posponer hacer algo",
+        "llevarse bien con",
+        "dar con una solución"
+      ],
+      "de": [
+        "teilnehmen an",
+        "auf eine Lösung kommen",
+        "etwas aufschieben",
+        "sich gut verstehen mit"
+      ]
+    }
+  },
+  {
+    "id": "en-b1-foundation-012",
+    "canonical_id": "en-b1-foundation-012",
+    "source_language": "en",
+    "text": "to take part in",
+    "en": "to take part in",
+    "uk": "брати участь у",
+    "es": "participar en",
+    "de": "teilnehmen an",
+    "example": {
+      "en": "Taking part in the discussion helped me understand the problem.",
+      "uk": "Участь в обговоренні допомогла мені зрозуміти проблему.",
+      "es": "Participar en la conversación me ayudó a entender el problema.",
+      "de": "Die Teilnahme an der Diskussion hat mir geholfen, das Problem zu verstehen."
+    },
+    "level": "B1",
+    "sense": "to take part in",
+    "grammar": {
+      "part_of_speech": "verb_phrase",
+      "usage": "take part in + activity"
+    },
+    "topic": "society",
+    "options": {
+      "uk": [
+        "знаходити розв’язання",
+        "ладнати з",
+        "відкладати виконання чогось",
+        "брати участь у"
+      ],
+      "es": [
+        "dar con una solución",
+        "posponer hacer algo",
+        "participar en",
+        "llevarse bien con"
+      ],
+      "de": [
+        "etwas aufschieben",
+        "teilnehmen an",
+        "auf eine Lösung kommen",
+        "sich gut verstehen mit"
+      ]
+    }
+  },
+  {
+    "id": "en-b1-foundation-013",
+    "canonical_id": "en-b1-foundation-013",
+    "source_language": "en",
+    "text": "to deal with a problem",
+    "en": "to deal with a problem",
+    "uk": "розбиратися з проблемою",
+    "es": "ocuparse de un problema",
+    "de": "sich mit einem Problem befassen",
+    "example": {
+      "en": "We need to deal with this problem before it gets worse.",
+      "uk": "Нам потрібно розібратися з цією проблемою, поки вона не погіршилася.",
+      "es": "Tenemos que ocuparnos de este problema antes de que empeore.",
+      "de": "Wir müssen uns mit diesem Problem befassen, bevor es schlimmer wird."
+    },
+    "level": "B1",
+    "sense": "to deal with a problem",
+    "grammar": {
+      "part_of_speech": "verb_phrase",
+      "usage": "deal with + problem"
+    },
+    "topic": "work",
+    "options": {
+      "uk": [
+        "розбиратися з проблемою",
+        "залишатися без чогось (коли запас закінчився)",
+        "досягати поступу",
+        "дотримуватися обіцянки"
+      ],
+      "es": [
+        "quedarse sin",
+        "cumplir una promesa",
+        "ocuparse de un problema",
+        "progresar"
+      ],
+      "de": [
+        "nichts mehr von etwas übrig haben",
+        "sich mit einem Problem befassen",
+        "Fortschritte machen",
+        "ein Versprechen halten"
+      ]
+    }
+  },
+  {
+    "id": "en-b1-foundation-014",
+    "canonical_id": "en-b1-foundation-014",
+    "source_language": "en",
+    "text": "to make progress",
+    "en": "to make progress",
+    "uk": "досягати поступу",
+    "es": "progresar",
+    "de": "Fortschritte machen",
+    "example": {
+      "en": "I have made progress since I started practising every day.",
+      "uk": "Я досяг поступу, відколи почав практикуватися щодня.",
+      "es": "He progresado desde que empecé a practicar todos los días.",
+      "de": "Ich habe Fortschritte gemacht, seit ich jeden Tag übe."
+    },
+    "level": "B1",
+    "sense": "to make progress",
+    "grammar": {
+      "part_of_speech": "verb_phrase",
+      "usage": "make progress in + activity"
+    },
+    "topic": "education",
+    "options": {
+      "uk": [
+        "розбиратися з проблемою",
+        "залишатися без чогось (коли запас закінчився)",
+        "дотримуватися обіцянки",
+        "досягати поступу"
+      ],
+      "es": [
+        "progresar",
+        "quedarse sin",
+        "ocuparse de un problema",
+        "cumplir una promesa"
+      ],
+      "de": [
+        "ein Versprechen halten",
+        "Fortschritte machen",
+        "sich mit einem Problem befassen",
+        "nichts mehr von etwas übrig haben"
+      ]
+    }
+  },
+  {
+    "id": "en-b1-foundation-015",
+    "canonical_id": "en-b1-foundation-015",
+    "source_language": "en",
+    "text": "to keep a promise",
+    "en": "to keep a promise",
+    "uk": "дотримуватися обіцянки",
+    "es": "cumplir una promesa",
+    "de": "ein Versprechen halten",
+    "example": {
+      "en": "He kept his promise and helped us move house.",
+      "uk": "Він дотримався обіцянки й допоміг нам переїхати.",
+      "es": "Cumplió su promesa y nos ayudó con la mudanza.",
+      "de": "Er hat sein Versprechen gehalten und uns beim Umzug geholfen."
+    },
+    "level": "B1",
+    "sense": "to keep a promise",
+    "grammar": {
+      "part_of_speech": "verb_phrase",
+      "usage": "keep + promise"
+    },
+    "topic": "relationships",
+    "options": {
+      "uk": [
+        "розбиратися з проблемою",
+        "дотримуватися обіцянки",
+        "досягати поступу",
+        "залишатися без чогось (коли запас закінчився)"
+      ],
+      "es": [
+        "progresar",
+        "cumplir una promesa",
+        "ocuparse de un problema",
+        "quedarse sin"
+      ],
+      "de": [
+        "sich mit einem Problem befassen",
+        "nichts mehr von etwas übrig haben",
+        "Fortschritte machen",
+        "ein Versprechen halten"
+      ]
+    }
+  },
+  {
+    "id": "en-b1-foundation-016",
+    "canonical_id": "en-b1-foundation-016",
+    "source_language": "en",
+    "text": "to run out of",
+    "en": "to run out of",
+    "uk": "залишатися без чогось (коли запас закінчився)",
+    "es": "quedarse sin",
+    "de": "nichts mehr von etwas übrig haben",
+    "example": {
+      "en": "We ran out of petrol and had to stop.",
+      "uk": "У нас закінчився бензин, і довелося зупинитися.",
+      "es": "Nos quedamos sin gasolina y tuvimos que parar.",
+      "de": "Uns ist das Benzin ausgegangen, und wir mussten anhalten."
+    },
+    "level": "B1",
+    "sense": "to run out of",
+    "grammar": {
+      "part_of_speech": "verb_phrase",
+      "usage": "run out of + supply"
+    },
+    "topic": "travel",
+    "options": {
+      "uk": [
+        "дотримуватися обіцянки",
+        "залишатися без чогось (коли запас закінчився)",
+        "досягати поступу",
+        "розбиратися з проблемою"
+      ],
+      "es": [
+        "quedarse sin",
+        "cumplir una promesa",
+        "ocuparse de un problema",
+        "progresar"
+      ],
+      "de": [
+        "ein Versprechen halten",
+        "Fortschritte machen",
+        "sich mit einem Problem befassen",
+        "nichts mehr von etwas übrig haben"
+      ]
+    }
+  },
+  {
+    "id": "en-b1-foundation-017",
+    "canonical_id": "en-b1-foundation-017",
+    "source_language": "en",
+    "text": "As far as I know, …",
+    "en": "As far as I know, …",
+    "uk": "Наскільки мені відомо, …",
+    "es": "Por lo que sé, …",
+    "de": "Soweit ich weiß, …",
+    "example": {
+      "en": "As far as I know, the meeting has been moved to Thursday.",
+      "uk": "Наскільки мені відомо, зустріч перенесли на четвер.",
+      "es": "Por lo que sé, la reunión se ha cambiado al jueves.",
+      "de": "Soweit ich weiß, wurde das Treffen auf Donnerstag verschoben."
+    },
+    "level": "B1",
+    "sense": "As far as I know, …",
+    "grammar": {
+      "part_of_speech": "discourse_expression"
+    },
+    "topic": "opinion",
+    "options": {
+      "uk": [
+        "Наскільки мені відомо, …",
+        "З одного боку, …; з іншого боку, …",
+        "Я розумію твою думку, але …",
+        "Головна причина в тому, що …"
+      ],
+      "es": [
+        "La razón principal es que …",
+        "Por una parte, …; por otra parte, …",
+        "Entiendo lo que quieres decir, pero …",
+        "Por lo que sé, …"
+      ],
+      "de": [
+        "Der Hauptgrund ist, dass …",
+        "Soweit ich weiß, …",
+        "Ich verstehe deinen Standpunkt, aber …",
+        "Einerseits …; andererseits …"
+      ]
+    }
+  },
+  {
+    "id": "en-b1-foundation-018",
+    "canonical_id": "en-b1-foundation-018",
+    "source_language": "en",
+    "text": "I see your point, but …",
+    "en": "I see your point, but …",
+    "uk": "Я розумію твою думку, але …",
+    "es": "Entiendo lo que quieres decir, pero …",
+    "de": "Ich verstehe deinen Standpunkt, aber …",
+    "example": {
+      "en": "I see your point, but we should also consider the cost.",
+      "uk": "Я розумію твою думку, але нам також варто врахувати вартість.",
+      "es": "Entiendo lo que quieres decir, pero también deberíamos tener en cuenta el coste.",
+      "de": "Ich verstehe deinen Standpunkt, aber wir sollten auch die Kosten berücksichtigen."
+    },
+    "level": "B1",
+    "sense": "I see your point, but …",
+    "grammar": {
+      "part_of_speech": "discourse_expression"
+    },
+    "topic": "discussion",
+    "options": {
+      "uk": [
+        "Я розумію твою думку, але …",
+        "Наскільки мені відомо, …",
+        "Головна причина в тому, що …",
+        "З одного боку, …; з іншого боку, …"
+      ],
+      "es": [
+        "Por lo que sé, …",
+        "La razón principal es que …",
+        "Por una parte, …; por otra parte, …",
+        "Entiendo lo que quieres decir, pero …"
+      ],
+      "de": [
+        "Der Hauptgrund ist, dass …",
+        "Ich verstehe deinen Standpunkt, aber …",
+        "Soweit ich weiß, …",
+        "Einerseits …; andererseits …"
+      ]
+    }
+  },
+  {
+    "id": "en-b1-foundation-019",
+    "canonical_id": "en-b1-foundation-019",
+    "source_language": "en",
+    "text": "The main reason is that …",
+    "en": "The main reason is that …",
+    "uk": "Головна причина в тому, що …",
+    "es": "La razón principal es que …",
+    "de": "Der Hauptgrund ist, dass …",
+    "example": {
+      "en": "The main reason is that the new flat is closer to work.",
+      "uk": "Головна причина в тому, що нова квартира ближче до роботи.",
+      "es": "La razón principal es que el piso nuevo está más cerca del trabajo.",
+      "de": "Der Hauptgrund ist, dass die neue Wohnung näher an der Arbeit liegt."
+    },
+    "level": "B1",
+    "sense": "The main reason is that …",
+    "grammar": {
+      "part_of_speech": "discourse_expression"
+    },
+    "topic": "reasons",
+    "options": {
+      "uk": [
+        "Наскільки мені відомо, …",
+        "Головна причина в тому, що …",
+        "З одного боку, …; з іншого боку, …",
+        "Я розумію твою думку, але …"
+      ],
+      "es": [
+        "Por una parte, …; por otra parte, …",
+        "Entiendo lo que quieres decir, pero …",
+        "La razón principal es que …",
+        "Por lo que sé, …"
+      ],
+      "de": [
+        "Ich verstehe deinen Standpunkt, aber …",
+        "Soweit ich weiß, …",
+        "Einerseits …; andererseits …",
+        "Der Hauptgrund ist, dass …"
+      ]
+    }
+  },
+  {
+    "id": "en-b1-foundation-020",
+    "canonical_id": "en-b1-foundation-020",
+    "source_language": "en",
+    "text": "On the one hand, …; on the other hand, …",
+    "en": "On the one hand, …; on the other hand, …",
+    "uk": "З одного боку, …; з іншого боку, …",
+    "es": "Por una parte, …; por otra parte, …",
+    "de": "Einerseits …; andererseits …",
+    "example": {
+      "en": "On the one hand, the job is interesting; on the other hand, the hours are long.",
+      "uk": "З одного боку, робота цікава; з іншого боку, робочий день довгий.",
+      "es": "Por una parte, el trabajo es interesante; por otra parte, la jornada es larga.",
+      "de": "Einerseits ist die Arbeit interessant; andererseits sind die Arbeitszeiten lang."
+    },
+    "level": "B1",
+    "sense": "On the one hand, …; on the other hand, …",
+    "grammar": {
+      "part_of_speech": "discourse_expression"
+    },
+    "topic": "comparison",
+    "options": {
+      "uk": [
+        "Наскільки мені відомо, …",
+        "З одного боку, …; з іншого боку, …",
+        "Головна причина в тому, що …",
+        "Я розумію твою думку, але …"
+      ],
+      "es": [
+        "Por lo que sé, …",
+        "Por una parte, …; por otra parte, …",
+        "Entiendo lo que quieres decir, pero …",
+        "La razón principal es que …"
+      ],
+      "de": [
+        "Der Hauptgrund ist, dass …",
+        "Soweit ich weiß, …",
+        "Ich verstehe deinen Standpunkt, aber …",
+        "Einerseits …; andererseits …"
+      ]
+    }
+  }
+]

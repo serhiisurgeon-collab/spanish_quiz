@@ -12,9 +12,11 @@ ROOT=Path(__file__).resolve().parents[1]
 
 def digest(value):return hashlib.sha256(json.dumps(value,ensure_ascii=False,sort_keys=True,separators=(',',':')).encode()).hexdigest()
 
-def migrate(source,content,patches,reviews=None,rights=None):
+def migrate(source,content,patches,reviews=None,rights=None,content_reviews=None,identity=None):
     reviews=reviews or {}
     rights=rights or {}
+    content_reviews=content_reviews or {}
+    identity=identity or {}
     views=defaultdict(dict)
     for group in source['groups']:
         for row in group_records(source,group):views[row['id']][group]=row
@@ -59,7 +61,20 @@ def migrate(source,content,patches,reviews=None,rights=None):
             entry=by_id[rid];entry['memberships'].append(group)
             if group.startswith('POEMS_') and group!='POEMS_BASE':entry['curriculum_levels']['es'].append(group[-2:])
             groups[group].append(rid);validate_material(entry)
-    result=dict(schema_version=2,source_digests={'vocabulary':digest(source),'content':digest(content)},records=records+poetry,groups=source['groups'],content_groups=groups,legacy_source=source,legacy_content=content,import_policy='needs_review unless independently verified; original-language levels only')
+    for entry in poetry:
+        if entry['id'] in content_reviews:
+            entry.update(content_reviews[entry['id']])
+        validate_material(entry)
+    aliases=identity.get('aliases',{})
+    all_ids={r['id'] for r in records+poetry}
+    for entry in records+poetry:
+        cid=aliases.get(entry['id'],entry['id'])
+        if cid not in all_ids:raise ValueError('Unknown canonical material ID')
+        if aliases.get(cid,cid)!=cid:raise ValueError('Chained or cyclic canonical identity')
+        entry['canonical_id']=cid
+        if entry.get('review_evidence',{}).get('possible_legacy_equivalent_id'):
+            entry['review_evidence']['identity_resolution']='Reviewed; canonical identity assigned; different lexemes/senses retained'
+    result=dict(schema_version=2,source_digests={'vocabulary':digest(source),'content':digest(content)},records=records+poetry,groups=source['groups'],content_groups=groups,legacy_source=source,legacy_content=content,import_policy='Reviewed only with explicit editorial evidence; independent human review recorded separately; original-language levels only')
     report=dict(vocabulary_records=len(records),poem_records=sum(r['kind']=='poem' for r in poetry),caption_records=sum(r['kind']=='caption' for r in poetry),duplicate_memberships={g:len(ids)-len(set(ids)) for g,ids in source['groups'].items()},statuses=dict(Counter(r['review_status'] for r in result['records'])),german_draft_glosses=len(patches)-sum(rid in reviews for rid in patches),reviewed_source_units=len(reviews),missing_original_examples=sum('missing_original_example' in r['issues'] for r in records),differing_views=sum('different_legacy_views_require_semantic_review' in r['issues'] for r in records),review_queue=issues)
     return result,report
 
@@ -67,7 +82,7 @@ def main():
     p=argparse.ArgumentParser();p.add_argument('--bot-root',type=Path,default=ROOT.parent/'telegram_bot');p.add_argument('--check',action='store_true');args=p.parse_args()
     source=json.loads((ROOT/'data/learning.json').read_text());content=json.loads((args.bot_root/'locales/content.json').read_text());patches=json.loads((ROOT/'data/german_gloss_drafts.json').read_text())
     reviews=json.loads((ROOT/'data/content_review_overrides.json').read_text())
-    data,report=migrate(source,content,patches,reviews,json.loads((ROOT/'data/content_rights.json').read_text()))
+    data,report=migrate(source,content,patches,reviews,json.loads((ROOT/'data/content_rights.json').read_text()),json.loads((ROOT/'data/content_text_reviews.json').read_text()),json.loads((ROOT/'data/material_identity_review.json').read_text()))
     outputs={ROOT/'data/materials_v2.json':data,args.bot_root/'data/materials_v2.json':data,ROOT/'data/content_migration_audit.json':report}
     for path,value in outputs.items():
         text=json.dumps(value,ensure_ascii=False,indent=2)+'\n'
